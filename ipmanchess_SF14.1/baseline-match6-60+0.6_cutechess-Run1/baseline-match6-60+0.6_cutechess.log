@@ -1,0 +1,1803 @@
+Indexing opening suite...
+Started game 1 of 160 (SkillLevel4 vs SkillLevel3)
+Finished game 1 (SkillLevel4 vs SkillLevel3): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                   inf     nan       1  100.0%    0.0% 
+   1 SkillLevel3                  -inf     nan       1    0.0%    0.0% 
+   2 Elo1885                       nan     nan       0    nan%    nan% 
+   3 Elo1785                       nan     nan       0    nan%    nan% 
+   4 Elo1685                       nan     nan       0    nan%    nan% 
+   5 SkillLevel5                   nan     nan       0    nan%    nan% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 2 of 160 (SkillLevel3 vs SkillLevel4)
+Finished game 2 (SkillLevel3 vs SkillLevel4): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                     0     nan       2   50.0%    0.0% 
+   1 SkillLevel3                     0     nan       2   50.0%    0.0% 
+   2 Elo1885                       nan     nan       0    nan%    nan% 
+   3 Elo1785                       nan     nan       0    nan%    nan% 
+   4 Elo1685                       nan     nan       0    nan%    nan% 
+   5 SkillLevel5                   nan     nan       0    nan%    nan% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 3 of 160 (SkillLevel4 vs SkillLevel5)
+Finished game 3 (SkillLevel4 vs SkillLevel5): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                  -120     nan       3   33.3%    0.0% 
+   1 SkillLevel5                   inf     nan       1  100.0%    0.0% 
+   2 SkillLevel3                     0     nan       2   50.0%    0.0% 
+   3 Elo1885                       nan     nan       0    nan%    nan% 
+   4 Elo1785                       nan     nan       0    nan%    nan% 
+   5 Elo1685                       nan     nan       0    nan%    nan% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 4 of 160 (SkillLevel5 vs SkillLevel4)
+Finished game 4 (SkillLevel5 vs SkillLevel4): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                     0     786       4   50.0%    0.0% 
+   1 SkillLevel5                     0     nan       2   50.0%    0.0% 
+   2 SkillLevel3                     0     nan       2   50.0%    0.0% 
+   3 Elo1885                       nan     nan       0    nan%    nan% 
+   4 Elo1785                       nan     nan       0    nan%    nan% 
+   5 Elo1685                       nan     nan       0    nan%    nan% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 5 of 160 (SkillLevel4 vs Elo1685)
+Finished game 5 (SkillLevel4 vs Elo1685): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    70     nan       5   60.0%    0.0% 
+   1 SkillLevel5                     0     nan       2   50.0%    0.0% 
+   2 SkillLevel3                     0     nan       2   50.0%    0.0% 
+   3 Elo1685                      -inf     nan       1    0.0%    0.0% 
+   4 Elo1885                       nan     nan       0    nan%    nan% 
+   5 Elo1785                       nan     nan       0    nan%    nan% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 6 of 160 (Elo1685 vs SkillLevel4)
+Finished game 6 (Elo1685 vs SkillLevel4): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                     0     381       6   50.0%    0.0% 
+   1 Elo1685                         0     nan       2   50.0%    0.0% 
+   2 SkillLevel5                     0     nan       2   50.0%    0.0% 
+   3 SkillLevel3                     0     nan       2   50.0%    0.0% 
+   4 Elo1885                       nan     nan       0    nan%    nan% 
+   5 Elo1785                       nan     nan       0    nan%    nan% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 7 of 160 (SkillLevel4 vs Elo1785)
+Finished game 7 (SkillLevel4 vs Elo1785): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    50     353       7   57.1%    0.0% 
+   1 Elo1685                         0     nan       2   50.0%    0.0% 
+   2 SkillLevel5                     0     nan       2   50.0%    0.0% 
+   3 SkillLevel3                     0     nan       2   50.0%    0.0% 
+   4 Elo1785                      -inf     nan       1    0.0%    0.0% 
+   5 Elo1885                       nan     nan       0    nan%    nan% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 8 of 160 (Elo1785 vs SkillLevel4)
+Finished game 8 (Elo1785 vs SkillLevel4): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    89     354       8   62.5%    0.0% 
+   1 Elo1685                         0     nan       2   50.0%    0.0% 
+   2 SkillLevel5                     0     nan       2   50.0%    0.0% 
+   3 SkillLevel3                     0     nan       2   50.0%    0.0% 
+   4 Elo1785                      -inf     nan       2    0.0%    0.0% 
+   5 Elo1885                       nan     nan       0    nan%    nan% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 9 of 160 (SkillLevel4 vs Elo1885)
+Finished game 9 (SkillLevel4 vs Elo1885): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                   120     366       9   66.7%    0.0% 
+   1 Elo1685                         0     nan       2   50.0%    0.0% 
+   2 SkillLevel5                     0     nan       2   50.0%    0.0% 
+   3 SkillLevel3                     0     nan       2   50.0%    0.0% 
+   4 Elo1885                      -inf     nan       1    0.0%    0.0% 
+   5 Elo1785                      -inf     nan       2    0.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 10 of 160 (Elo1885 vs SkillLevel4)
+Finished game 10 (Elo1885 vs SkillLevel4): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    70     269      10   60.0%    0.0% 
+   1 Elo1885                         0     nan       2   50.0%    0.0% 
+   2 Elo1685                         0     nan       2   50.0%    0.0% 
+   3 SkillLevel5                     0     nan       2   50.0%    0.0% 
+   4 SkillLevel3                     0     nan       2   50.0%    0.0% 
+   5 Elo1785                      -inf     nan       2    0.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 11 of 160 (SkillLevel4 vs SkillLevel3)
+Finished game 11 (SkillLevel4 vs SkillLevel3): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    32     238      11   54.5%    0.0% 
+   1 SkillLevel3                   120     nan       3   66.7%    0.0% 
+   2 Elo1885                         0     nan       2   50.0%    0.0% 
+   3 Elo1685                         0     nan       2   50.0%    0.0% 
+   4 SkillLevel5                     0     nan       2   50.0%    0.0% 
+   5 Elo1785                      -inf     nan       2    0.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 12 of 160 (SkillLevel3 vs SkillLevel4)
+Finished game 12 (SkillLevel3 vs SkillLevel4): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    58     231      12   58.3%    0.0% 
+   1 Elo1885                         0     nan       2   50.0%    0.0% 
+   2 Elo1685                         0     nan       2   50.0%    0.0% 
+   3 SkillLevel5                     0     nan       2   50.0%    0.0% 
+   4 SkillLevel3                     0     786       4   50.0%    0.0% 
+   5 Elo1785                      -inf     nan       2    0.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 13 of 160 (SkillLevel4 vs SkillLevel5)
+Finished game 13 (SkillLevel4 vs SkillLevel5): 1/2-1/2 {Draw by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    54     206      13   57.7%    7.7% 
+   1 Elo1885                         0     nan       2   50.0%    0.0% 
+   2 Elo1685                         0     nan       2   50.0%    0.0% 
+   3 SkillLevel5                     0     558       3   50.0%   33.3% 
+   4 SkillLevel3                     0     786       4   50.0%    0.0% 
+   5 Elo1785                      -inf     nan       2    0.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 14 of 160 (SkillLevel5 vs SkillLevel4)
+Finished game 14 (SkillLevel5 vs SkillLevel4): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    76     202      14   60.7%    7.1% 
+   1 Elo1885                         0     nan       2   50.0%    0.0% 
+   2 Elo1685                         0     nan       2   50.0%    0.0% 
+   3 SkillLevel3                     0     786       4   50.0%    0.0% 
+   4 SkillLevel5                   -89     nan       4   37.5%   25.0% 
+   5 Elo1785                      -inf     nan       2    0.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 15 of 160 (SkillLevel4 vs Elo1685)
+Finished game 15 (SkillLevel4 vs Elo1685): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    95     199      15   63.3%    6.7% 
+   1 Elo1885                         0     nan       2   50.0%    0.0% 
+   2 SkillLevel3                     0     786       4   50.0%    0.0% 
+   3 SkillLevel5                   -89     nan       4   37.5%   25.0% 
+   4 Elo1685                      -120     nan       3   33.3%    0.0% 
+   5 Elo1785                      -inf     nan       2    0.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 16 of 160 (Elo1685 vs SkillLevel4)
+Finished game 16 (Elo1685 vs SkillLevel4): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    66     185      16   59.4%    6.3% 
+   1 Elo1885                         0     nan       2   50.0%    0.0% 
+   2 Elo1685                         0     786       4   50.0%    0.0% 
+   3 SkillLevel3                     0     786       4   50.0%    0.0% 
+   4 SkillLevel5                   -89     nan       4   37.5%   25.0% 
+   5 Elo1785                      -inf     nan       2    0.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 17 of 160 (SkillLevel4 vs Elo1785)
+Finished game 17 (SkillLevel4 vs Elo1785): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    41     175      17   55.9%    5.9% 
+   1 Elo1885                         0     nan       2   50.0%    0.0% 
+   2 Elo1685                         0     786       4   50.0%    0.0% 
+   3 SkillLevel3                     0     786       4   50.0%    0.0% 
+   4 SkillLevel5                   -89     nan       4   37.5%   25.0% 
+   5 Elo1785                      -120     nan       3   33.3%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 18 of 160 (Elo1785 vs SkillLevel4)
+Finished game 18 (Elo1785 vs SkillLevel4): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    58     172      18   58.3%    5.6% 
+   1 Elo1885                         0     nan       2   50.0%    0.0% 
+   2 Elo1685                         0     786       4   50.0%    0.0% 
+   3 SkillLevel3                     0     786       4   50.0%    0.0% 
+   4 SkillLevel5                   -89     nan       4   37.5%   25.0% 
+   5 Elo1785                      -191     nan       4   25.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 19 of 160 (SkillLevel4 vs Elo1885)
+Finished game 19 (SkillLevel4 vs Elo1885): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    37     164      19   55.3%    5.3% 
+   1 Elo1885                       120     nan       3   66.7%    0.0% 
+   2 Elo1685                         0     786       4   50.0%    0.0% 
+   3 SkillLevel3                     0     786       4   50.0%    0.0% 
+   4 SkillLevel5                   -89     nan       4   37.5%   25.0% 
+   5 Elo1785                      -191     nan       4   25.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 20 of 160 (Elo1885 vs SkillLevel4)
+Finished game 20 (Elo1885 vs SkillLevel4): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    17     159      20   52.5%    5.0% 
+   1 Elo1885                       191     nan       4   75.0%    0.0% 
+   2 Elo1685                         0     786       4   50.0%    0.0% 
+   3 SkillLevel3                     0     786       4   50.0%    0.0% 
+   4 SkillLevel5                   -89     nan       4   37.5%   25.0% 
+   5 Elo1785                      -191     nan       4   25.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 21 of 160 (SkillLevel4 vs SkillLevel3)
+Finished game 21 (SkillLevel4 vs SkillLevel3): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    33     155      21   54.8%    4.8% 
+   1 Elo1885                       191     nan       4   75.0%    0.0% 
+   2 Elo1685                         0     786       4   50.0%    0.0% 
+   3 SkillLevel3                   -70     nan       5   40.0%    0.0% 
+   4 SkillLevel5                   -89     nan       4   37.5%   25.0% 
+   5 Elo1785                      -191     nan       4   25.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 22 of 160 (SkillLevel3 vs SkillLevel4)
+Finished game 22 (SkillLevel3 vs SkillLevel4): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    16     151      22   52.3%    4.5% 
+   1 Elo1885                       191     nan       4   75.0%    0.0% 
+   2 Elo1685                         0     786       4   50.0%    0.0% 
+   3 SkillLevel3                     0     381       6   50.0%    0.0% 
+   4 SkillLevel5                   -89     nan       4   37.5%   25.0% 
+   5 Elo1785                      -191     nan       4   25.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 23 of 160 (SkillLevel4 vs SkillLevel5)
+Finished game 23 (SkillLevel4 vs SkillLevel5): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                     0     147      23   50.0%    4.3% 
+   1 Elo1885                       191     nan       4   75.0%    0.0% 
+   2 Elo1685                         0     786       4   50.0%    0.0% 
+   3 SkillLevel5                     0     366       5   50.0%   20.0% 
+   4 SkillLevel3                     0     381       6   50.0%    0.0% 
+   5 Elo1785                      -191     nan       4   25.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 24 of 160 (SkillLevel5 vs SkillLevel4)
+Finished game 24 (SkillLevel5 vs SkillLevel4): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    14     144      24   52.1%    4.2% 
+   1 Elo1885                       191     nan       4   75.0%    0.0% 
+   2 Elo1685                         0     786       4   50.0%    0.0% 
+   3 SkillLevel3                     0     381       6   50.0%    0.0% 
+   4 SkillLevel5                   -58     350       6   41.7%   16.7% 
+   5 Elo1785                      -191     nan       4   25.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 25 of 160 (SkillLevel4 vs Elo1685)
+Finished game 25 (SkillLevel4 vs Elo1685): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    28     141      25   54.0%    4.0% 
+   1 Elo1885                       191     nan       4   75.0%    0.0% 
+   2 SkillLevel3                     0     381       6   50.0%    0.0% 
+   3 SkillLevel5                   -58     350       6   41.7%   16.7% 
+   4 Elo1685                       -70     nan       5   40.0%    0.0% 
+   5 Elo1785                      -191     nan       4   25.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 26 of 160 (Elo1685 vs SkillLevel4)
+Finished game 26 (Elo1685 vs SkillLevel4): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    40     139      26   55.8%    3.8% 
+   1 Elo1885                       191     nan       4   75.0%    0.0% 
+   2 SkillLevel3                     0     381       6   50.0%    0.0% 
+   3 SkillLevel5                   -58     350       6   41.7%   16.7% 
+   4 Elo1685                      -120     nan       6   33.3%    0.0% 
+   5 Elo1785                      -191     nan       4   25.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 27 of 160 (SkillLevel4 vs Elo1785)
+Finished game 27 (SkillLevel4 vs Elo1785): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    52     137      27   57.4%    3.7% 
+   1 Elo1885                       191     nan       4   75.0%    0.0% 
+   2 SkillLevel3                     0     381       6   50.0%    0.0% 
+   3 SkillLevel5                   -58     350       6   41.7%   16.7% 
+   4 Elo1685                      -120     nan       6   33.3%    0.0% 
+   5 Elo1785                      -241     nan       5   20.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 28 of 160 (Elo1785 vs SkillLevel4)
+Finished game 28 (Elo1785 vs SkillLevel4): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    63     135      28   58.9%    3.6% 
+   1 Elo1885                       191     nan       4   75.0%    0.0% 
+   2 SkillLevel3                     0     381       6   50.0%    0.0% 
+   3 SkillLevel5                   -58     350       6   41.7%   16.7% 
+   4 Elo1685                      -120     nan       6   33.3%    0.0% 
+   5 Elo1785                      -280     nan       6   16.7%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 29 of 160 (SkillLevel4 vs Elo1885)
+Finished game 29 (SkillLevel4 vs Elo1885): 1/2-1/2 {Draw by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    61     130      29   58.6%    6.9% 
+   1 Elo1885                       147     nan       5   70.0%   20.0% 
+   2 SkillLevel3                     0     381       6   50.0%    0.0% 
+   3 SkillLevel5                   -58     350       6   41.7%   16.7% 
+   4 Elo1685                      -120     nan       6   33.3%    0.0% 
+   5 Elo1785                      -280     nan       6   16.7%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 30 of 160 (Elo1885 vs SkillLevel4)
+Finished game 30 (Elo1885 vs SkillLevel4): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    47     127      30   56.7%    6.7% 
+   1 Elo1885                       191     nan       6   75.0%   16.7% 
+   2 SkillLevel3                     0     381       6   50.0%    0.0% 
+   3 SkillLevel5                   -58     350       6   41.7%   16.7% 
+   4 Elo1685                      -120     nan       6   33.3%    0.0% 
+   5 Elo1785                      -280     nan       6   16.7%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 31 of 160 (SkillLevel4 vs SkillLevel3)
+Finished game 31 (SkillLevel4 vs SkillLevel3): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    57     125      31   58.1%    6.5% 
+   1 Elo1885                       191     nan       6   75.0%   16.7% 
+   2 SkillLevel3                   -50     353       7   42.9%    0.0% 
+   3 SkillLevel5                   -58     350       6   41.7%   16.7% 
+   4 Elo1685                      -120     nan       6   33.3%    0.0% 
+   5 Elo1785                      -280     nan       6   16.7%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 32 of 160 (SkillLevel3 vs SkillLevel4)
+Finished game 32 (SkillLevel3 vs SkillLevel4): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    66     124      32   59.4%    6.3% 
+   1 Elo1885                       191     nan       6   75.0%   16.7% 
+   2 SkillLevel5                   -58     350       6   41.7%   16.7% 
+   3 SkillLevel3                   -89     354       8   37.5%    0.0% 
+   4 Elo1685                      -120     nan       6   33.3%    0.0% 
+   5 Elo1785                      -280     nan       6   16.7%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 33 of 160 (SkillLevel4 vs SkillLevel5)
+Finished game 33 (SkillLevel4 vs SkillLevel5): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    75     123      33   60.6%    6.1% 
+   1 Elo1885                       191     nan       6   75.0%   16.7% 
+   2 SkillLevel3                   -89     354       8   37.5%    0.0% 
+   3 SkillLevel5                  -102     364       7   35.7%   14.3% 
+   4 Elo1685                      -120     nan       6   33.3%    0.0% 
+   5 Elo1785                      -280     nan       6   16.7%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 34 of 160 (SkillLevel5 vs SkillLevel4)
+Finished game 34 (SkillLevel5 vs SkillLevel4): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    62     120      34   58.8%    5.9% 
+   1 Elo1885                       191     nan       6   75.0%   16.7% 
+   2 SkillLevel5                   -44     275       8   43.8%   12.5% 
+   3 SkillLevel3                   -89     354       8   37.5%    0.0% 
+   4 Elo1685                      -120     nan       6   33.3%    0.0% 
+   5 Elo1785                      -280     nan       6   16.7%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 35 of 160 (SkillLevel4 vs Elo1685)
+Finished game 35 (SkillLevel4 vs Elo1685): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    70     119      35   60.0%    5.7% 
+   1 Elo1885                       191     nan       6   75.0%   16.7% 
+   2 SkillLevel5                   -44     275       8   43.8%   12.5% 
+   3 SkillLevel3                   -89     354       8   37.5%    0.0% 
+   4 Elo1685                      -159     nan       7   28.6%    0.0% 
+   5 Elo1785                      -280     nan       6   16.7%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 36 of 160 (Elo1685 vs SkillLevel4)
+Finished game 36 (Elo1685 vs SkillLevel4): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    79     118      36   61.1%    5.6% 
+   1 Elo1885                       191     nan       6   75.0%   16.7% 
+   2 SkillLevel5                   -44     275       8   43.8%   12.5% 
+   3 SkillLevel3                   -89     354       8   37.5%    0.0% 
+   4 Elo1685                      -191     nan       8   25.0%    0.0% 
+   5 Elo1785                      -280     nan       6   16.7%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 37 of 160 (SkillLevel4 vs Elo1785)
+Finished game 37 (SkillLevel4 vs Elo1785): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    67     115      37   59.5%    5.4% 
+   1 Elo1885                       191     nan       6   75.0%   16.7% 
+   2 SkillLevel5                   -44     275       8   43.8%   12.5% 
+   3 SkillLevel3                   -89     354       8   37.5%    0.0% 
+   4 Elo1785                      -159     nan       7   28.6%    0.0% 
+   5 Elo1685                      -191     nan       8   25.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 38 of 160 (Elo1785 vs SkillLevel4)
+Finished game 38 (Elo1785 vs SkillLevel4): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    55     113      38   57.9%    5.3% 
+   1 Elo1885                       191     nan       6   75.0%   16.7% 
+   2 SkillLevel5                   -44     275       8   43.8%   12.5% 
+   3 Elo1785                       -89     354       8   37.5%    0.0% 
+   4 SkillLevel3                   -89     354       8   37.5%    0.0% 
+   5 Elo1685                      -191     nan       8   25.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 39 of 160 (SkillLevel4 vs Elo1885)
+Finished game 39 (SkillLevel4 vs Elo1885): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    45     111      39   56.4%    5.1% 
+   1 Elo1885                       226     nan       7   78.6%   14.3% 
+   2 SkillLevel5                   -44     275       8   43.8%   12.5% 
+   3 Elo1785                       -89     354       8   37.5%    0.0% 
+   4 SkillLevel3                   -89     354       8   37.5%    0.0% 
+   5 Elo1685                      -191     nan       8   25.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 40 of 160 (Elo1885 vs SkillLevel4)
+Finished game 40 (Elo1885 vs SkillLevel4): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    53     110      40   57.5%    5.0% 
+   1 Elo1885                       137     396       8   68.8%   12.5% 
+   2 SkillLevel5                   -44     275       8   43.8%   12.5% 
+   3 Elo1785                       -89     354       8   37.5%    0.0% 
+   4 SkillLevel3                   -89     354       8   37.5%    0.0% 
+   5 Elo1685                      -191     nan       8   25.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 41 of 160 (SkillLevel4 vs SkillLevel3)
+Finished game 41 (SkillLevel4 vs SkillLevel3): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    43     108      41   56.1%    4.9% 
+   1 Elo1885                       137     396       8   68.8%   12.5% 
+   2 SkillLevel3                   -39     277       9   44.4%    0.0% 
+   3 SkillLevel5                   -44     275       8   43.8%   12.5% 
+   4 Elo1785                       -89     354       8   37.5%    0.0% 
+   5 Elo1685                      -191     nan       8   25.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 42 of 160 (SkillLevel3 vs SkillLevel4)
+Finished game 42 (SkillLevel3 vs SkillLevel4): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    50     107      42   57.1%    4.8% 
+   1 Elo1885                       137     396       8   68.8%   12.5% 
+   2 SkillLevel5                   -44     275       8   43.8%   12.5% 
+   3 SkillLevel3                   -70     269      10   40.0%    0.0% 
+   4 Elo1785                       -89     354       8   37.5%    0.0% 
+   5 Elo1685                      -191     nan       8   25.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 43 of 160 (SkillLevel4 vs SkillLevel5)
+Finished game 43 (SkillLevel4 vs SkillLevel5): 1/2-1/2 {Draw by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    49     104      43   57.0%    7.0% 
+   1 Elo1885                       137     396       8   68.8%   12.5% 
+   2 SkillLevel5                   -39     231       9   44.4%   22.2% 
+   3 SkillLevel3                   -70     269      10   40.0%    0.0% 
+   4 Elo1785                       -89     354       8   37.5%    0.0% 
+   5 Elo1685                      -191     nan       8   25.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 44 of 160 (SkillLevel5 vs SkillLevel4)
+Finished game 44 (SkillLevel5 vs SkillLevel4): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    40     103      44   55.7%    6.8% 
+   1 Elo1885                       137     396       8   68.8%   12.5% 
+   2 SkillLevel5                     0     217      10   50.0%   20.0% 
+   3 SkillLevel3                   -70     269      10   40.0%    0.0% 
+   4 Elo1785                       -89     354       8   37.5%    0.0% 
+   5 Elo1685                      -191     nan       8   25.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 45 of 160 (SkillLevel4 vs Elo1685)
+Finished game 45 (SkillLevel4 vs Elo1685): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    47     102      45   56.7%    6.7% 
+   1 Elo1885                       137     396       8   68.8%   12.5% 
+   2 SkillLevel5                     0     217      10   50.0%   20.0% 
+   3 SkillLevel3                   -70     269      10   40.0%    0.0% 
+   4 Elo1785                       -89     354       8   37.5%    0.0% 
+   5 Elo1685                      -218     nan       9   22.2%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 46 of 160 (Elo1685 vs SkillLevel4)
+Finished game 46 (Elo1685 vs SkillLevel4): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    38     100      46   55.4%    6.5% 
+   1 Elo1885                       137     396       8   68.8%   12.5% 
+   2 SkillLevel5                     0     217      10   50.0%   20.0% 
+   3 SkillLevel3                   -70     269      10   40.0%    0.0% 
+   4 Elo1785                       -89     354       8   37.5%    0.0% 
+   5 Elo1685                      -147     385      10   30.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 47 of 160 (SkillLevel4 vs Elo1785)
+Finished game 47 (SkillLevel4 vs Elo1785): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    45      99      47   56.4%    6.4% 
+   1 Elo1885                       137     396       8   68.8%   12.5% 
+   2 SkillLevel5                     0     217      10   50.0%   20.0% 
+   3 SkillLevel3                   -70     269      10   40.0%    0.0% 
+   4 Elo1785                      -120     366       9   33.3%    0.0% 
+   5 Elo1685                      -147     385      10   30.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 48 of 160 (Elo1785 vs SkillLevel4)
+Finished game 48 (Elo1785 vs SkillLevel4): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    51      99      48   57.3%    6.3% 
+   1 Elo1885                       137     396       8   68.8%   12.5% 
+   2 SkillLevel5                     0     217      10   50.0%   20.0% 
+   3 SkillLevel3                   -70     269      10   40.0%    0.0% 
+   4 Elo1785                      -147     385      10   30.0%    0.0% 
+   5 Elo1685                      -147     385      10   30.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 49 of 160 (SkillLevel4 vs Elo1885)
+Finished game 49 (SkillLevel4 vs Elo1885): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    57      98      49   58.2%    6.1% 
+   1 Elo1885                        79     270       9   61.1%   11.1% 
+   2 SkillLevel5                     0     217      10   50.0%   20.0% 
+   3 SkillLevel3                   -70     269      10   40.0%    0.0% 
+   4 Elo1785                      -147     385      10   30.0%    0.0% 
+   5 Elo1685                      -147     385      10   30.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 50 of 160 (Elo1885 vs SkillLevel4)
+Finished game 50 (Elo1885 vs SkillLevel4): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    63      97      50   59.0%    6.0% 
+   1 Elo1885                        35     237      10   55.0%   10.0% 
+   2 SkillLevel5                     0     217      10   50.0%   20.0% 
+   3 SkillLevel3                   -70     269      10   40.0%    0.0% 
+   4 Elo1785                      -147     385      10   30.0%    0.0% 
+   5 Elo1685                      -147     385      10   30.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 51 of 160 (SkillLevel4 vs SkillLevel3)
+Finished game 51 (SkillLevel4 vs SkillLevel3): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    69      97      51   59.8%    5.9% 
+   1 Elo1885                        35     237      10   55.0%   10.0% 
+   2 SkillLevel5                     0     217      10   50.0%   20.0% 
+   3 SkillLevel3                   -97     265      11   36.4%    0.0% 
+   4 Elo1785                      -147     385      10   30.0%    0.0% 
+   5 Elo1685                      -147     385      10   30.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 52 of 160 (SkillLevel3 vs SkillLevel4)
+Finished game 52 (SkillLevel3 vs SkillLevel4): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    75      96      52   60.6%    5.8% 
+   1 Elo1885                        35     237      10   55.0%   10.0% 
+   2 SkillLevel5                     0     217      10   50.0%   20.0% 
+   3 SkillLevel3                  -120     264      12   33.3%    0.0% 
+   4 Elo1785                      -147     385      10   30.0%    0.0% 
+   5 Elo1685                      -147     385      10   30.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 53 of 160 (SkillLevel4 vs SkillLevel5)
+Finished game 53 (SkillLevel4 vs SkillLevel5): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    80      96      53   61.3%    5.7% 
+   1 Elo1885                        35     237      10   55.0%   10.0% 
+   2 SkillLevel5                   -32     209      11   45.5%   18.2% 
+   3 SkillLevel3                  -120     264      12   33.3%    0.0% 
+   4 Elo1785                      -147     385      10   30.0%    0.0% 
+   5 Elo1685                      -147     385      10   30.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 54 of 160 (SkillLevel5 vs SkillLevel4)
+Finished game 54 (SkillLevel5 vs SkillLevel4): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    72      94      54   60.2%    5.6% 
+   1 Elo1885                        35     237      10   55.0%   10.0% 
+   2 SkillLevel5                     0     198      12   50.0%   16.7% 
+   3 SkillLevel3                  -120     264      12   33.3%    0.0% 
+   4 Elo1785                      -147     385      10   30.0%    0.0% 
+   5 Elo1685                      -147     385      10   30.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 55 of 160 (SkillLevel4 vs Elo1685)
+Finished game 55 (SkillLevel4 vs Elo1685): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    64      93      55   59.1%    5.5% 
+   1 Elo1885                        35     237      10   55.0%   10.0% 
+   2 SkillLevel5                     0     198      12   50.0%   16.7% 
+   3 Elo1685                       -97     265      11   36.4%    0.0% 
+   4 SkillLevel3                  -120     264      12   33.3%    0.0% 
+   5 Elo1785                      -147     385      10   30.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 56 of 160 (Elo1685 vs SkillLevel4)
+Finished game 56 (Elo1685 vs SkillLevel4): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    56      92      56   58.0%    5.4% 
+   1 Elo1885                        35     237      10   55.0%   10.0% 
+   2 SkillLevel5                     0     198      12   50.0%   16.7% 
+   3 Elo1685                       -58     231      12   41.7%    0.0% 
+   4 SkillLevel3                  -120     264      12   33.3%    0.0% 
+   5 Elo1785                      -147     385      10   30.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 57 of 160 (SkillLevel4 vs Elo1785)
+Finished game 57 (SkillLevel4 vs Elo1785): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    49      91      57   57.0%    5.3% 
+   1 Elo1885                        35     237      10   55.0%   10.0% 
+   2 SkillLevel5                     0     198      12   50.0%   16.7% 
+   3 Elo1685                       -58     231      12   41.7%    0.0% 
+   4 Elo1785                       -97     265      11   36.4%    0.0% 
+   5 SkillLevel3                  -120     264      12   33.3%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 58 of 160 (Elo1785 vs SkillLevel4)
+Finished game 58 (Elo1785 vs SkillLevel4): 1/2-1/2 {Draw by 3-fold repetition}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    48      89      58   56.9%    6.9% 
+   1 Elo1885                        35     237      10   55.0%   10.0% 
+   2 SkillLevel5                     0     198      12   50.0%   16.7% 
+   3 Elo1685                       -58     231      12   41.7%    0.0% 
+   4 Elo1785                       -89     227      12   37.5%    8.3% 
+   5 SkillLevel3                  -120     264      12   33.3%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 59 of 160 (SkillLevel4 vs Elo1885)
+Finished game 59 (SkillLevel4 vs Elo1885): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    41      88      59   55.9%    6.8% 
+   1 Elo1885                        64     230      11   59.1%    9.1% 
+   2 SkillLevel5                     0     198      12   50.0%   16.7% 
+   3 Elo1685                       -58     231      12   41.7%    0.0% 
+   4 Elo1785                       -89     227      12   37.5%    8.3% 
+   5 SkillLevel3                  -120     264      12   33.3%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 60 of 160 (Elo1885 vs SkillLevel4)
+Finished game 60 (Elo1885 vs SkillLevel4): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    35      87      60   55.0%    6.7% 
+   1 Elo1885                        89     227      12   62.5%    8.3% 
+   2 SkillLevel5                     0     198      12   50.0%   16.7% 
+   3 Elo1685                       -58     231      12   41.7%    0.0% 
+   4 Elo1785                       -89     227      12   37.5%    8.3% 
+   5 SkillLevel3                  -120     264      12   33.3%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 61 of 160 (SkillLevel4 vs SkillLevel3)
+Finished game 61 (SkillLevel4 vs SkillLevel3): 1/2-1/2 {Draw by insufficient mating material}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    34      86      61   54.9%    8.2% 
+   1 Elo1885                        89     227      12   62.5%    8.3% 
+   2 SkillLevel5                     0     198      12   50.0%   16.7% 
+   3 Elo1685                       -58     231      12   41.7%    0.0% 
+   4 Elo1785                       -89     227      12   37.5%    8.3% 
+   5 SkillLevel3                  -110     224      13   34.6%    7.7% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 62 of 160 (SkillLevel3 vs SkillLevel4)
+Finished game 62 (SkillLevel3 vs SkillLevel4): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    39      85      62   55.6%    8.1% 
+   1 Elo1885                        89     227      12   62.5%    8.3% 
+   2 SkillLevel5                     0     198      12   50.0%   16.7% 
+   3 Elo1685                       -58     231      12   41.7%    0.0% 
+   4 Elo1785                       -89     227      12   37.5%    8.3% 
+   5 SkillLevel3                  -130     223      14   32.1%    7.1% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 63 of 160 (SkillLevel4 vs SkillLevel5)
+Finished game 63 (SkillLevel4 vs SkillLevel5): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    44      85      63   56.3%    7.9% 
+   1 Elo1885                        89     227      12   62.5%    8.3% 
+   2 SkillLevel5                   -27     192      13   46.2%   15.4% 
+   3 Elo1685                       -58     231      12   41.7%    0.0% 
+   4 Elo1785                       -89     227      12   37.5%    8.3% 
+   5 SkillLevel3                  -130     223      14   32.1%    7.1% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 64 of 160 (SkillLevel5 vs SkillLevel4)
+Finished game 64 (SkillLevel5 vs SkillLevel4): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    38      84      64   55.5%    7.8% 
+   1 Elo1885                        89     227      12   62.5%    8.3% 
+   2 SkillLevel5                     0     184      14   50.0%   14.3% 
+   3 Elo1685                       -58     231      12   41.7%    0.0% 
+   4 Elo1785                       -89     227      12   37.5%    8.3% 
+   5 SkillLevel3                  -130     223      14   32.1%    7.1% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 65 of 160 (SkillLevel4 vs Elo1685)
+Finished game 65 (SkillLevel4 vs Elo1685): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    43      83      65   56.2%    7.7% 
+   1 Elo1885                        89     227      12   62.5%    8.3% 
+   2 SkillLevel5                     0     184      14   50.0%   14.3% 
+   3 Elo1685                       -82     226      13   38.5%    0.0% 
+   4 Elo1785                       -89     227      12   37.5%    8.3% 
+   5 SkillLevel3                  -130     223      14   32.1%    7.1% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 66 of 160 (Elo1685 vs SkillLevel4)
+Finished game 66 (Elo1685 vs SkillLevel4): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    37      82      66   55.3%    7.6% 
+   1 Elo1885                        89     227      12   62.5%    8.3% 
+   2 SkillLevel5                     0     184      14   50.0%   14.3% 
+   3 Elo1685                       -50     206      14   42.9%    0.0% 
+   4 Elo1785                       -89     227      12   37.5%    8.3% 
+   5 SkillLevel3                  -130     223      14   32.1%    7.1% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 67 of 160 (SkillLevel4 vs Elo1785)
+Finished game 67 (SkillLevel4 vs Elo1785): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    42      82      67   56.0%    7.5% 
+   1 Elo1885                        89     227      12   62.5%    8.3% 
+   2 SkillLevel5                     0     184      14   50.0%   14.3% 
+   3 Elo1685                       -50     206      14   42.9%    0.0% 
+   4 Elo1785                      -110     224      13   34.6%    7.7% 
+   5 SkillLevel3                  -130     223      14   32.1%    7.1% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 68 of 160 (Elo1785 vs SkillLevel4)
+Finished game 68 (Elo1785 vs SkillLevel4): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    36      81      68   55.1%    7.4% 
+   1 Elo1885                        89     227      12   62.5%    8.3% 
+   2 SkillLevel5                     0     184      14   50.0%   14.3% 
+   3 Elo1685                       -50     206      14   42.9%    0.0% 
+   4 Elo1785                       -76     202      14   39.3%    7.1% 
+   5 SkillLevel3                  -130     223      14   32.1%    7.1% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 69 of 160 (SkillLevel4 vs Elo1885)
+Finished game 69 (SkillLevel4 vs Elo1885): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    40      81      69   55.8%    7.2% 
+   1 Elo1885                        54     206      13   57.7%    7.7% 
+   2 SkillLevel5                     0     184      14   50.0%   14.3% 
+   3 Elo1685                       -50     206      14   42.9%    0.0% 
+   4 Elo1785                       -76     202      14   39.3%    7.1% 
+   5 SkillLevel3                  -130     223      14   32.1%    7.1% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 70 of 160 (Elo1885 vs SkillLevel4)
+Finished game 70 (Elo1885 vs SkillLevel4): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    35      80      70   55.0%    7.1% 
+   1 Elo1885                        76     202      14   60.7%    7.1% 
+   2 SkillLevel5                     0     184      14   50.0%   14.3% 
+   3 Elo1685                       -50     206      14   42.9%    0.0% 
+   4 Elo1785                       -76     202      14   39.3%    7.1% 
+   5 SkillLevel3                  -130     223      14   32.1%    7.1% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 71 of 160 (SkillLevel4 vs SkillLevel3)
+Finished game 71 (SkillLevel4 vs SkillLevel3): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    39      80      71   55.6%    7.0% 
+   1 Elo1885                        76     202      14   60.7%    7.1% 
+   2 SkillLevel5                     0     184      14   50.0%   14.3% 
+   3 Elo1685                       -50     206      14   42.9%    0.0% 
+   4 Elo1785                       -76     202      14   39.3%    7.1% 
+   5 SkillLevel3                  -147     222      15   30.0%    6.7% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 72 of 160 (SkillLevel3 vs SkillLevel4)
+Finished game 72 (SkillLevel3 vs SkillLevel4): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    44      79      72   56.3%    6.9% 
+   1 Elo1885                        76     202      14   60.7%    7.1% 
+   2 SkillLevel5                     0     184      14   50.0%   14.3% 
+   3 Elo1685                       -50     206      14   42.9%    0.0% 
+   4 Elo1785                       -76     202      14   39.3%    7.1% 
+   5 SkillLevel3                  -163     222      16   28.1%    6.3% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 73 of 160 (SkillLevel4 vs SkillLevel5)
+Finished game 73 (SkillLevel4 vs SkillLevel5): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    48      79      73   56.8%    6.8% 
+   1 Elo1885                        76     202      14   60.7%    7.1% 
+   2 SkillLevel5                   -23     178      15   46.7%   13.3% 
+   3 Elo1685                       -50     206      14   42.9%    0.0% 
+   4 Elo1785                       -76     202      14   39.3%    7.1% 
+   5 SkillLevel3                  -163     222      16   28.1%    6.3% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 74 of 160 (SkillLevel5 vs SkillLevel4)
+Finished game 74 (SkillLevel5 vs SkillLevel4): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    42      78      74   56.1%    6.8% 
+   1 Elo1885                        76     202      14   60.7%    7.1% 
+   2 SkillLevel5                     0     172      16   50.0%   12.5% 
+   3 Elo1685                       -50     206      14   42.9%    0.0% 
+   4 Elo1785                       -76     202      14   39.3%    7.1% 
+   5 SkillLevel3                  -163     222      16   28.1%    6.3% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 75 of 160 (SkillLevel4 vs Elo1685)
+Finished game 75 (SkillLevel4 vs Elo1685): 1/2-1/2 {Draw by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    42      77      75   56.0%    8.0% 
+   1 Elo1885                        76     202      14   60.7%    7.1% 
+   2 SkillLevel5                     0     172      16   50.0%   12.5% 
+   3 Elo1685                       -47     189      15   43.3%    6.7% 
+   4 Elo1785                       -76     202      14   39.3%    7.1% 
+   5 SkillLevel3                  -163     222      16   28.1%    6.3% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 76 of 160 (Elo1685 vs SkillLevel4)
+Finished game 76 (Elo1685 vs SkillLevel4): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    46      77      76   56.6%    7.9% 
+   1 Elo1885                        76     202      14   60.7%    7.1% 
+   2 SkillLevel5                     0     172      16   50.0%   12.5% 
+   3 Elo1685                       -66     185      16   40.6%    6.3% 
+   4 Elo1785                       -76     202      14   39.3%    7.1% 
+   5 SkillLevel3                  -163     222      16   28.1%    6.3% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 77 of 160 (SkillLevel4 vs Elo1785)
+Finished game 77 (SkillLevel4 vs Elo1785): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    50      76      77   57.1%    7.8% 
+   1 Elo1885                        76     202      14   60.7%    7.1% 
+   2 SkillLevel5                     0     172      16   50.0%   12.5% 
+   3 Elo1685                       -66     185      16   40.6%    6.3% 
+   4 Elo1785                       -95     199      15   36.7%    6.7% 
+   5 SkillLevel3                  -163     222      16   28.1%    6.3% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 78 of 160 (Elo1785 vs SkillLevel4)
+Finished game 78 (Elo1785 vs SkillLevel4): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    54      76      78   57.7%    7.7% 
+   1 Elo1885                        76     202      14   60.7%    7.1% 
+   2 SkillLevel5                     0     172      16   50.0%   12.5% 
+   3 Elo1685                       -66     185      16   40.6%    6.3% 
+   4 Elo1785                      -112     197      16   34.4%    6.3% 
+   5 SkillLevel3                  -163     222      16   28.1%    6.3% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 79 of 160 (SkillLevel4 vs Elo1885)
+Finished game 79 (SkillLevel4 vs Elo1885): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    58      76      79   58.2%    7.6% 
+   1 Elo1885                        47     189      15   56.7%    6.7% 
+   2 SkillLevel5                     0     172      16   50.0%   12.5% 
+   3 Elo1685                       -66     185      16   40.6%    6.3% 
+   4 Elo1785                      -112     197      16   34.4%    6.3% 
+   5 SkillLevel3                  -163     222      16   28.1%    6.3% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 80 of 160 (Elo1885 vs SkillLevel4)
+Finished game 80 (Elo1885 vs SkillLevel4): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    53      75      80   57.5%    7.5% 
+   1 Elo1885                        66     185      16   59.4%    6.3% 
+   2 SkillLevel5                     0     172      16   50.0%   12.5% 
+   3 Elo1685                       -66     185      16   40.6%    6.3% 
+   4 Elo1785                      -112     197      16   34.4%    6.3% 
+   5 SkillLevel3                  -163     222      16   28.1%    6.3% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 81 of 160 (SkillLevel4 vs SkillLevel3)
+Finished game 81 (SkillLevel4 vs SkillLevel3): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    56      75      81   58.0%    7.4% 
+   1 Elo1885                        66     185      16   59.4%    6.3% 
+   2 SkillLevel5                     0     172      16   50.0%   12.5% 
+   3 Elo1685                       -66     185      16   40.6%    6.3% 
+   4 Elo1785                      -112     197      16   34.4%    6.3% 
+   5 SkillLevel3                  -177     222      17   26.5%    5.9% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 82 of 160 (SkillLevel3 vs SkillLevel4)
+Finished game 82 (SkillLevel3 vs SkillLevel4): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    60      75      82   58.5%    7.3% 
+   1 Elo1885                        66     185      16   59.4%    6.3% 
+   2 SkillLevel5                     0     172      16   50.0%   12.5% 
+   3 Elo1685                       -66     185      16   40.6%    6.3% 
+   4 Elo1785                      -112     197      16   34.4%    6.3% 
+   5 SkillLevel3                  -191     222      18   25.0%    5.6% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 83 of 160 (SkillLevel4 vs SkillLevel5)
+Finished game 83 (SkillLevel4 vs SkillLevel5): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    63      74      83   59.0%    7.2% 
+   1 Elo1885                        66     185      16   59.4%    6.3% 
+   2 SkillLevel5                   -20     167      17   47.1%   11.8% 
+   3 Elo1685                       -66     185      16   40.6%    6.3% 
+   4 Elo1785                      -112     197      16   34.4%    6.3% 
+   5 SkillLevel3                  -191     222      18   25.0%    5.6% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 84 of 160 (SkillLevel5 vs SkillLevel4)
+Finished game 84 (SkillLevel5 vs SkillLevel4): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    67      74      84   59.5%    7.1% 
+   1 Elo1885                        66     185      16   59.4%    6.3% 
+   2 SkillLevel5                   -39     163      18   44.4%   11.1% 
+   3 Elo1685                       -66     185      16   40.6%    6.3% 
+   4 Elo1785                      -112     197      16   34.4%    6.3% 
+   5 SkillLevel3                  -191     222      18   25.0%    5.6% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 85 of 160 (SkillLevel4 vs Elo1685)
+Finished game 85 (SkillLevel4 vs Elo1685): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    70      74      85   60.0%    7.1% 
+   1 Elo1885                        66     185      16   59.4%    6.3% 
+   2 SkillLevel5                   -39     163      18   44.4%   11.1% 
+   3 Elo1685                       -83     182      17   38.2%    5.9% 
+   4 Elo1785                      -112     197      16   34.4%    6.3% 
+   5 SkillLevel3                  -191     222      18   25.0%    5.6% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 86 of 160 (Elo1685 vs SkillLevel4)
+Finished game 86 (Elo1685 vs SkillLevel4): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    74      73      86   60.5%    7.0% 
+   1 Elo1885                        66     185      16   59.4%    6.3% 
+   2 SkillLevel5                   -39     163      18   44.4%   11.1% 
+   3 Elo1685                       -99     180      18   36.1%    5.6% 
+   4 Elo1785                      -112     197      16   34.4%    6.3% 
+   5 SkillLevel3                  -191     222      18   25.0%    5.6% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 87 of 160 (SkillLevel4 vs Elo1785)
+Finished game 87 (SkillLevel4 vs Elo1785): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    77      73      87   60.9%    6.9% 
+   1 Elo1885                        66     185      16   59.4%    6.3% 
+   2 SkillLevel5                   -39     163      18   44.4%   11.1% 
+   3 Elo1685                       -99     180      18   36.1%    5.6% 
+   4 Elo1785                      -128     196      17   32.4%    5.9% 
+   5 SkillLevel3                  -191     222      18   25.0%    5.6% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 88 of 160 (Elo1785 vs SkillLevel4)
+Finished game 88 (Elo1785 vs SkillLevel4): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    72      73      88   60.2%    6.8% 
+   1 Elo1885                        66     185      16   59.4%    6.3% 
+   2 SkillLevel5                   -39     163      18   44.4%   11.1% 
+   3 Elo1785                       -99     180      18   36.1%    5.6% 
+   4 Elo1685                       -99     180      18   36.1%    5.6% 
+   5 SkillLevel3                  -191     222      18   25.0%    5.6% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 89 of 160 (SkillLevel4 vs Elo1885)
+Finished game 89 (SkillLevel4 vs Elo1885): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    67      72      89   59.6%    6.7% 
+   1 Elo1885                        83     182      17   61.8%    5.9% 
+   2 SkillLevel5                   -39     163      18   44.4%   11.1% 
+   3 Elo1785                       -99     180      18   36.1%    5.6% 
+   4 Elo1685                       -99     180      18   36.1%    5.6% 
+   5 SkillLevel3                  -191     222      18   25.0%    5.6% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 90 of 160 (Elo1885 vs SkillLevel4)
+Finished game 90 (Elo1885 vs SkillLevel4): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    70      72      90   60.0%    6.7% 
+   1 Elo1885                        58     172      18   58.3%    5.6% 
+   2 SkillLevel5                   -39     163      18   44.4%   11.1% 
+   3 Elo1785                       -99     180      18   36.1%    5.6% 
+   4 Elo1685                       -99     180      18   36.1%    5.6% 
+   5 SkillLevel3                  -191     222      18   25.0%    5.6% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 91 of 160 (SkillLevel4 vs SkillLevel3)
+Finished game 91 (SkillLevel4 vs SkillLevel3): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    66      71      91   59.3%    6.6% 
+   1 Elo1885                        58     172      18   58.3%    5.6% 
+   2 SkillLevel5                   -39     163      18   44.4%   11.1% 
+   3 Elo1785                       -99     180      18   36.1%    5.6% 
+   4 Elo1685                       -99     180      18   36.1%    5.6% 
+   5 SkillLevel3                  -156     194      19   28.9%    5.3% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 92 of 160 (SkillLevel3 vs SkillLevel4)
+Finished game 92 (SkillLevel3 vs SkillLevel4): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    61      71      92   58.7%    6.5% 
+   1 Elo1885                        58     172      18   58.3%    5.6% 
+   2 SkillLevel5                   -39     163      18   44.4%   11.1% 
+   3 Elo1785                       -99     180      18   36.1%    5.6% 
+   4 Elo1685                       -99     180      18   36.1%    5.6% 
+   5 SkillLevel3                  -127     177      20   32.5%    5.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 93 of 160 (SkillLevel4 vs SkillLevel5)
+Finished game 93 (SkillLevel4 vs SkillLevel5): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    64      70      93   59.1%    6.5% 
+   1 Elo1885                        58     172      18   58.3%    5.6% 
+   2 SkillLevel5                   -55     161      19   42.1%   10.5% 
+   3 Elo1785                       -99     180      18   36.1%    5.6% 
+   4 Elo1685                       -99     180      18   36.1%    5.6% 
+   5 SkillLevel3                  -127     177      20   32.5%    5.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 94 of 160 (SkillLevel5 vs SkillLevel4)
+Finished game 94 (SkillLevel5 vs SkillLevel4): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    60      70      94   58.5%    6.4% 
+   1 Elo1885                        58     172      18   58.3%    5.6% 
+   2 SkillLevel5                   -35     155      20   45.0%   10.0% 
+   3 Elo1785                       -99     180      18   36.1%    5.6% 
+   4 Elo1685                       -99     180      18   36.1%    5.6% 
+   5 SkillLevel3                  -127     177      20   32.5%    5.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 95 of 160 (SkillLevel4 vs Elo1685)
+Finished game 95 (SkillLevel4 vs Elo1685): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    55      69      95   57.9%    6.3% 
+   1 Elo1885                        58     172      18   58.3%    5.6% 
+   2 SkillLevel5                   -35     155      20   45.0%   10.0% 
+   3 Elo1685                       -74     169      19   39.5%    5.3% 
+   4 Elo1785                       -99     180      18   36.1%    5.6% 
+   5 SkillLevel3                  -127     177      20   32.5%    5.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 96 of 160 (Elo1685 vs SkillLevel4)
+Finished game 96 (Elo1685 vs SkillLevel4): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    51      69      96   57.3%    6.3% 
+   1 Elo1885                        58     172      18   58.3%    5.6% 
+   2 SkillLevel5                   -35     155      20   45.0%   10.0% 
+   3 Elo1685                       -53     161      20   42.5%    5.0% 
+   4 Elo1785                       -99     180      18   36.1%    5.6% 
+   5 SkillLevel3                  -127     177      20   32.5%    5.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 97 of 160 (SkillLevel4 vs Elo1785)
+Finished game 97 (SkillLevel4 vs Elo1785): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    47      68      97   56.7%    6.2% 
+   1 Elo1885                        58     172      18   58.3%    5.6% 
+   2 SkillLevel5                   -35     155      20   45.0%   10.0% 
+   3 Elo1685                       -53     161      20   42.5%    5.0% 
+   4 Elo1785                       -74     169      19   39.5%    5.3% 
+   5 SkillLevel3                  -127     177      20   32.5%    5.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 98 of 160 (Elo1785 vs SkillLevel4)
+Finished game 98 (Elo1785 vs SkillLevel4): 1/2-1/2 {Draw by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    46      68      98   56.6%    7.1% 
+   1 Elo1885                        58     172      18   58.3%    5.6% 
+   2 SkillLevel5                   -35     155      20   45.0%   10.0% 
+   3 Elo1685                       -53     161      20   42.5%    5.0% 
+   4 Elo1785                       -70     158      20   40.0%   10.0% 
+   5 SkillLevel3                  -127     177      20   32.5%    5.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 99 of 160 (SkillLevel4 vs Elo1885)
+Finished game 99 (SkillLevel4 vs Elo1885): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    49      67      99   57.1%    7.1% 
+   1 Elo1885                        37     164      19   55.3%    5.3% 
+   2 SkillLevel5                   -35     155      20   45.0%   10.0% 
+   3 Elo1685                       -53     161      20   42.5%    5.0% 
+   4 Elo1785                       -70     158      20   40.0%   10.0% 
+   5 SkillLevel3                  -127     177      20   32.5%    5.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 100 of 160 (Elo1885 vs SkillLevel4)
+Finished game 100 (Elo1885 vs SkillLevel4): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    45      67     100   56.5%    7.0% 
+   1 Elo1885                        53     161      20   57.5%    5.0% 
+   2 SkillLevel5                   -35     155      20   45.0%   10.0% 
+   3 Elo1685                       -53     161      20   42.5%    5.0% 
+   4 Elo1785                       -70     158      20   40.0%   10.0% 
+   5 SkillLevel3                  -127     177      20   32.5%    5.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 101 of 160 (SkillLevel4 vs SkillLevel3)
+Finished game 101 (SkillLevel4 vs SkillLevel3): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    48      67     101   56.9%    6.9% 
+   1 Elo1885                        53     161      20   57.5%    5.0% 
+   2 SkillLevel5                   -35     155      20   45.0%   10.0% 
+   3 Elo1685                       -53     161      20   42.5%    5.0% 
+   4 Elo1785                       -70     158      20   40.0%   10.0% 
+   5 SkillLevel3                  -139     175      21   31.0%    4.8% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 102 of 160 (SkillLevel3 vs SkillLevel4)
+Finished game 102 (SkillLevel3 vs SkillLevel4): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    45      66     102   56.4%    6.9% 
+   1 Elo1885                        53     161      20   57.5%    5.0% 
+   2 SkillLevel5                   -35     155      20   45.0%   10.0% 
+   3 Elo1685                       -53     161      20   42.5%    5.0% 
+   4 Elo1785                       -70     158      20   40.0%   10.0% 
+   5 SkillLevel3                  -115     164      22   34.1%    4.5% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 103 of 160 (SkillLevel4 vs SkillLevel5)
+Finished game 103 (SkillLevel4 vs SkillLevel5): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    41      66     103   55.8%    6.8% 
+   1 Elo1885                        53     161      20   57.5%    5.0% 
+   2 SkillLevel5                   -17     150      21   47.6%    9.5% 
+   3 Elo1685                       -53     161      20   42.5%    5.0% 
+   4 Elo1785                       -70     158      20   40.0%   10.0% 
+   5 SkillLevel3                  -115     164      22   34.1%    4.5% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 104 of 160 (SkillLevel5 vs SkillLevel4)
+Finished game 104 (SkillLevel5 vs SkillLevel4): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    37      66     104   55.3%    6.7% 
+   1 Elo1885                        53     161      20   57.5%    5.0% 
+   2 SkillLevel5                     0     146      22   50.0%    9.1% 
+   3 Elo1685                       -53     161      20   42.5%    5.0% 
+   4 Elo1785                       -70     158      20   40.0%   10.0% 
+   5 SkillLevel3                  -115     164      22   34.1%    4.5% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 105 of 160 (SkillLevel4 vs Elo1685)
+Finished game 105 (SkillLevel4 vs Elo1685): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    40      65     105   55.7%    6.7% 
+   1 Elo1885                        53     161      20   57.5%    5.0% 
+   2 SkillLevel5                     0     146      22   50.0%    9.1% 
+   3 Elo1685                       -67     159      21   40.5%    4.8% 
+   4 Elo1785                       -70     158      20   40.0%   10.0% 
+   5 SkillLevel3                  -115     164      22   34.1%    4.5% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 106 of 160 (Elo1685 vs SkillLevel4)
+Finished game 106 (Elo1685 vs SkillLevel4): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    43      65     106   56.1%    6.6% 
+   1 Elo1885                        53     161      20   57.5%    5.0% 
+   2 SkillLevel5                     0     146      22   50.0%    9.1% 
+   3 Elo1785                       -70     158      20   40.0%   10.0% 
+   4 Elo1685                       -80     157      22   38.6%    4.5% 
+   5 SkillLevel3                  -115     164      22   34.1%    4.5% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 107 of 160 (SkillLevel4 vs Elo1785)
+Finished game 107 (SkillLevel4 vs Elo1785): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    46      65     107   56.5%    6.5% 
+   1 Elo1885                        53     161      20   57.5%    5.0% 
+   2 SkillLevel5                     0     146      22   50.0%    9.1% 
+   3 Elo1685                       -80     157      22   38.6%    4.5% 
+   4 Elo1785                       -84     156      21   38.1%    9.5% 
+   5 SkillLevel3                  -115     164      22   34.1%    4.5% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 108 of 160 (Elo1785 vs SkillLevel4)
+Finished game 108 (Elo1785 vs SkillLevel4): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    42      64     108   56.0%    6.5% 
+   1 Elo1885                        53     161      20   57.5%    5.0% 
+   2 SkillLevel5                     0     146      22   50.0%    9.1% 
+   3 Elo1785                       -64     150      22   40.9%    9.1% 
+   4 Elo1685                       -80     157      22   38.6%    4.5% 
+   5 SkillLevel3                  -115     164      22   34.1%    4.5% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 109 of 160 (SkillLevel4 vs Elo1885)
+Finished game 109 (SkillLevel4 vs Elo1885): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    38      64     109   55.5%    6.4% 
+   1 Elo1885                        67     159      21   59.5%    4.8% 
+   2 SkillLevel5                     0     146      22   50.0%    9.1% 
+   3 Elo1785                       -64     150      22   40.9%    9.1% 
+   4 Elo1685                       -80     157      22   38.6%    4.5% 
+   5 SkillLevel3                  -115     164      22   34.1%    4.5% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 110 of 160 (Elo1885 vs SkillLevel4)
+Finished game 110 (Elo1885 vs SkillLevel4): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    35      64     110   55.0%    6.4% 
+   1 Elo1885                        80     157      22   61.4%    4.5% 
+   2 SkillLevel5                     0     146      22   50.0%    9.1% 
+   3 Elo1785                       -64     150      22   40.9%    9.1% 
+   4 Elo1685                       -80     157      22   38.6%    4.5% 
+   5 SkillLevel3                  -115     164      22   34.1%    4.5% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 111 of 160 (SkillLevel4 vs SkillLevel3)
+Finished game 111 (SkillLevel4 vs SkillLevel3): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    38      64     111   55.4%    6.3% 
+   1 Elo1885                        80     157      22   61.4%    4.5% 
+   2 SkillLevel5                     0     146      22   50.0%    9.1% 
+   3 Elo1785                       -64     150      22   40.9%    9.1% 
+   4 Elo1685                       -80     157      22   38.6%    4.5% 
+   5 SkillLevel3                  -126     162      23   32.6%    4.3% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 112 of 160 (SkillLevel3 vs SkillLevel4)
+Finished game 112 (SkillLevel3 vs SkillLevel4): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    41      63     112   55.8%    6.3% 
+   1 Elo1885                        80     157      22   61.4%    4.5% 
+   2 SkillLevel5                     0     146      22   50.0%    9.1% 
+   3 Elo1785                       -64     150      22   40.9%    9.1% 
+   4 Elo1685                       -80     157      22   38.6%    4.5% 
+   5 SkillLevel3                  -137     161      24   31.3%    4.2% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 113 of 160 (SkillLevel4 vs SkillLevel5)
+Finished game 113 (SkillLevel4 vs SkillLevel5): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    37      63     113   55.3%    6.2% 
+   1 Elo1885                        80     157      22   61.4%    4.5% 
+   2 SkillLevel5                    15     143      23   52.2%    8.7% 
+   3 Elo1785                       -64     150      22   40.9%    9.1% 
+   4 Elo1685                       -80     157      22   38.6%    4.5% 
+   5 SkillLevel3                  -137     161      24   31.3%    4.2% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 114 of 160 (SkillLevel5 vs SkillLevel4)
+Finished game 114 (SkillLevel5 vs SkillLevel4): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    34      63     114   54.8%    6.1% 
+   1 Elo1885                        80     157      22   61.4%    4.5% 
+   2 SkillLevel5                    29     141      24   54.2%    8.3% 
+   3 Elo1785                       -64     150      22   40.9%    9.1% 
+   4 Elo1685                       -80     157      22   38.6%    4.5% 
+   5 SkillLevel3                  -137     161      24   31.3%    4.2% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 115 of 160 (SkillLevel4 vs Elo1685)
+Finished game 115 (SkillLevel4 vs Elo1685): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    36      62     115   55.2%    6.1% 
+   1 Elo1885                        80     157      22   61.4%    4.5% 
+   2 SkillLevel5                    29     141      24   54.2%    8.3% 
+   3 Elo1785                       -64     150      22   40.9%    9.1% 
+   4 Elo1685                       -93     155      23   37.0%    4.3% 
+   5 SkillLevel3                  -137     161      24   31.3%    4.2% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 116 of 160 (Elo1685 vs SkillLevel4)
+Finished game 116 (Elo1685 vs SkillLevel4): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    39      62     116   55.6%    6.0% 
+   1 Elo1885                        80     157      22   61.4%    4.5% 
+   2 SkillLevel5                    29     141      24   54.2%    8.3% 
+   3 Elo1785                       -64     150      22   40.9%    9.1% 
+   4 Elo1685                      -104     153      24   35.4%    4.2% 
+   5 SkillLevel3                  -137     161      24   31.3%    4.2% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 117 of 160 (SkillLevel4 vs Elo1785)
+Finished game 117 (SkillLevel4 vs Elo1785): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    36      62     117   55.1%    6.0% 
+   1 Elo1885                        80     157      22   61.4%    4.5% 
+   2 SkillLevel5                    29     141      24   54.2%    8.3% 
+   3 Elo1785                       -46     145      23   43.5%    8.7% 
+   4 Elo1685                      -104     153      24   35.4%    4.2% 
+   5 SkillLevel3                  -137     161      24   31.3%    4.2% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 118 of 160 (Elo1785 vs SkillLevel4)
+Finished game 118 (Elo1785 vs SkillLevel4): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    38      62     118   55.5%    5.9% 
+   1 Elo1885                        80     157      22   61.4%    4.5% 
+   2 SkillLevel5                    29     141      24   54.2%    8.3% 
+   3 Elo1785                       -58     143      24   41.7%    8.3% 
+   4 Elo1685                      -104     153      24   35.4%    4.2% 
+   5 SkillLevel3                  -137     161      24   31.3%    4.2% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 119 of 160 (SkillLevel4 vs Elo1885)
+Finished game 119 (SkillLevel4 vs Elo1885): 1/2-1/2 {Draw by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    38      61     119   55.5%    6.7% 
+   1 Elo1885                        77     148      23   60.9%    8.7% 
+   2 SkillLevel5                    29     141      24   54.2%    8.3% 
+   3 Elo1785                       -58     143      24   41.7%    8.3% 
+   4 Elo1685                      -104     153      24   35.4%    4.2% 
+   5 SkillLevel3                  -137     161      24   31.3%    4.2% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 120 of 160 (Elo1885 vs SkillLevel4)
+Finished game 120 (Elo1885 vs SkillLevel4): 1/2-1/2 {Draw by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    38      61     120   55.4%    7.5% 
+   1 Elo1885                        73     140      24   60.4%   12.5% 
+   2 SkillLevel5                    29     141      24   54.2%    8.3% 
+   3 Elo1785                       -58     143      24   41.7%    8.3% 
+   4 Elo1685                      -104     153      24   35.4%    4.2% 
+   5 SkillLevel3                  -137     161      24   31.3%    4.2% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 121 of 160 (SkillLevel4 vs SkillLevel3)
+Finished game 121 (SkillLevel4 vs SkillLevel3): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    40      60     121   55.8%    7.4% 
+   1 Elo1885                        73     140      24   60.4%   12.5% 
+   2 SkillLevel5                    29     141      24   54.2%    8.3% 
+   3 Elo1785                       -58     143      24   41.7%    8.3% 
+   4 Elo1685                      -104     153      24   35.4%    4.2% 
+   5 SkillLevel3                  -147     160      25   30.0%    4.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 122 of 160 (SkillLevel3 vs SkillLevel4)
+Finished game 122 (SkillLevel3 vs SkillLevel4): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    43      60     122   56.1%    7.4% 
+   1 Elo1885                        73     140      24   60.4%   12.5% 
+   2 SkillLevel5                    29     141      24   54.2%    8.3% 
+   3 Elo1785                       -58     143      24   41.7%    8.3% 
+   4 Elo1685                      -104     153      24   35.4%    4.2% 
+   5 SkillLevel3                  -157     160      26   28.8%    3.8% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 123 of 160 (SkillLevel4 vs SkillLevel5)
+Finished game 123 (SkillLevel4 vs SkillLevel5): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    40      60     123   55.7%    7.3% 
+   1 Elo1885                        73     140      24   60.4%   12.5% 
+   2 SkillLevel5                    42     139      25   56.0%    8.0% 
+   3 Elo1785                       -58     143      24   41.7%    8.3% 
+   4 Elo1685                      -104     153      24   35.4%    4.2% 
+   5 SkillLevel3                  -157     160      26   28.8%    3.8% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 124 of 160 (SkillLevel5 vs SkillLevel4)
+Finished game 124 (SkillLevel5 vs SkillLevel4): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    37      60     124   55.2%    7.3% 
+   1 Elo1885                        73     140      24   60.4%   12.5% 
+   2 SkillLevel5                    54     137      26   57.7%    7.7% 
+   3 Elo1785                       -58     143      24   41.7%    8.3% 
+   4 Elo1685                      -104     153      24   35.4%    4.2% 
+   5 SkillLevel3                  -157     160      26   28.8%    3.8% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 125 of 160 (SkillLevel4 vs Elo1685)
+Finished game 125 (SkillLevel4 vs Elo1685): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    33      59     125   54.8%    7.2% 
+   1 Elo1885                        73     140      24   60.4%   12.5% 
+   2 SkillLevel5                    54     137      26   57.7%    7.7% 
+   3 Elo1785                       -58     143      24   41.7%    8.3% 
+   4 Elo1685                       -85     147      25   38.0%    4.0% 
+   5 SkillLevel3                  -157     160      26   28.8%    3.8% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 126 of 160 (Elo1685 vs SkillLevel4)
+Finished game 126 (Elo1685 vs SkillLevel4): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    36      59     126   55.2%    7.1% 
+   1 Elo1885                        73     140      24   60.4%   12.5% 
+   2 SkillLevel5                    54     137      26   57.7%    7.7% 
+   3 Elo1785                       -58     143      24   41.7%    8.3% 
+   4 Elo1685                       -96     145      26   36.5%    3.8% 
+   5 SkillLevel3                  -157     160      26   28.8%    3.8% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 127 of 160 (SkillLevel4 vs Elo1785)
+Finished game 127 (SkillLevel4 vs Elo1785): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    38      59     127   55.5%    7.1% 
+   1 Elo1885                        73     140      24   60.4%   12.5% 
+   2 SkillLevel5                    54     137      26   57.7%    7.7% 
+   3 Elo1785                       -70     141      25   40.0%    8.0% 
+   4 Elo1685                       -96     145      26   36.5%    3.8% 
+   5 SkillLevel3                  -157     160      26   28.8%    3.8% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 128 of 160 (Elo1785 vs SkillLevel4)
+Finished game 128 (Elo1785 vs SkillLevel4): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    35      59     128   55.1%    7.0% 
+   1 Elo1885                        73     140      24   60.4%   12.5% 
+   2 SkillLevel5                    54     137      26   57.7%    7.7% 
+   3 Elo1785                       -54     137      26   42.3%    7.7% 
+   4 Elo1685                       -96     145      26   36.5%    3.8% 
+   5 SkillLevel3                  -157     160      26   28.8%    3.8% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 129 of 160 (SkillLevel4 vs Elo1885)
+Finished game 129 (SkillLevel4 vs Elo1885): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    32      59     129   54.7%    7.0% 
+   1 Elo1885                        85     139      25   62.0%   12.0% 
+   2 SkillLevel5                    54     137      26   57.7%    7.7% 
+   3 Elo1785                       -54     137      26   42.3%    7.7% 
+   4 Elo1685                       -96     145      26   36.5%    3.8% 
+   5 SkillLevel3                  -157     160      26   28.8%    3.8% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 130 of 160 (Elo1885 vs SkillLevel4)
+Finished game 130 (Elo1885 vs SkillLevel4): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    29      58     130   54.2%    6.9% 
+   1 Elo1885                        96     138      26   63.5%   11.5% 
+   2 SkillLevel5                    54     137      26   57.7%    7.7% 
+   3 Elo1785                       -54     137      26   42.3%    7.7% 
+   4 Elo1685                       -96     145      26   36.5%    3.8% 
+   5 SkillLevel3                  -157     160      26   28.8%    3.8% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 131 of 160 (SkillLevel4 vs SkillLevel3)
+Finished game 131 (SkillLevel4 vs SkillLevel3): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    32      58     131   54.6%    6.9% 
+   1 Elo1885                        96     138      26   63.5%   11.5% 
+   2 SkillLevel5                    54     137      26   57.7%    7.7% 
+   3 Elo1785                       -54     137      26   42.3%    7.7% 
+   4 Elo1685                       -96     145      26   36.5%    3.8% 
+   5 SkillLevel3                  -166     159      27   27.8%    3.7% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 132 of 160 (SkillLevel3 vs SkillLevel4)
+Finished game 132 (SkillLevel3 vs SkillLevel4): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    34      58     132   54.9%    6.8% 
+   1 Elo1885                        96     138      26   63.5%   11.5% 
+   2 SkillLevel5                    54     137      26   57.7%    7.7% 
+   3 Elo1785                       -54     137      26   42.3%    7.7% 
+   4 Elo1685                       -96     145      26   36.5%    3.8% 
+   5 SkillLevel3                  -175     158      28   26.8%    3.6% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 133 of 160 (SkillLevel4 vs SkillLevel5)
+Finished game 133 (SkillLevel4 vs SkillLevel5): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    31      58     133   54.5%    6.8% 
+   1 Elo1885                        96     138      26   63.5%   11.5% 
+   2 SkillLevel5                    65     135      27   59.3%    7.4% 
+   3 Elo1785                       -54     137      26   42.3%    7.7% 
+   4 Elo1685                       -96     145      26   36.5%    3.8% 
+   5 SkillLevel3                  -175     158      28   26.8%    3.6% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 134 of 160 (SkillLevel5 vs SkillLevel4)
+Finished game 134 (SkillLevel5 vs SkillLevel4): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    29      57     134   54.1%    6.7% 
+   1 Elo1885                        96     138      26   63.5%   11.5% 
+   2 SkillLevel5                    76     134      28   60.7%    7.1% 
+   3 Elo1785                       -54     137      26   42.3%    7.7% 
+   4 Elo1685                       -96     145      26   36.5%    3.8% 
+   5 SkillLevel3                  -175     158      28   26.8%    3.6% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 135 of 160 (SkillLevel4 vs Elo1685)
+Finished game 135 (SkillLevel4 vs Elo1685): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    26      57     135   53.7%    6.7% 
+   1 Elo1885                        96     138      26   63.5%   11.5% 
+   2 SkillLevel5                    76     134      28   60.7%    7.1% 
+   3 Elo1785                       -54     137      26   42.3%    7.7% 
+   4 Elo1685                       -79     140      27   38.9%    3.7% 
+   5 SkillLevel3                  -175     158      28   26.8%    3.6% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 136 of 160 (Elo1685 vs SkillLevel4)
+Finished game 136 (Elo1685 vs SkillLevel4): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    23      57     136   53.3%    6.6% 
+   1 Elo1885                        96     138      26   63.5%   11.5% 
+   2 SkillLevel5                    76     134      28   60.7%    7.1% 
+   3 Elo1785                       -54     137      26   42.3%    7.7% 
+   4 Elo1685                       -63     135      28   41.1%    3.6% 
+   5 SkillLevel3                  -175     158      28   26.8%    3.6% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 137 of 160 (SkillLevel4 vs Elo1785)
+Finished game 137 (SkillLevel4 vs Elo1785): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    25      57     137   53.6%    6.6% 
+   1 Elo1885                        96     138      26   63.5%   11.5% 
+   2 SkillLevel5                    76     134      28   60.7%    7.1% 
+   3 Elo1685                       -63     135      28   41.1%    3.6% 
+   4 Elo1785                       -65     135      27   40.7%    7.4% 
+   5 SkillLevel3                  -175     158      28   26.8%    3.6% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 138 of 160 (Elo1785 vs SkillLevel4)
+Finished game 138 (Elo1785 vs SkillLevel4): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    28      57     138   54.0%    6.5% 
+   1 Elo1885                        96     138      26   63.5%   11.5% 
+   2 SkillLevel5                    76     134      28   60.7%    7.1% 
+   3 Elo1685                       -63     135      28   41.1%    3.6% 
+   4 Elo1785                       -76     134      28   39.3%    7.1% 
+   5 SkillLevel3                  -175     158      28   26.8%    3.6% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 139 of 160 (SkillLevel4 vs Elo1885)
+Finished game 139 (SkillLevel4 vs Elo1885): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    30      56     139   54.3%    6.5% 
+   1 Elo1885                        79     133      27   61.1%   11.1% 
+   2 SkillLevel5                    76     134      28   60.7%    7.1% 
+   3 Elo1685                       -63     135      28   41.1%    3.6% 
+   4 Elo1785                       -76     134      28   39.3%    7.1% 
+   5 SkillLevel3                  -175     158      28   26.8%    3.6% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 140 of 160 (Elo1885 vs SkillLevel4)
+Finished game 140 (Elo1885 vs SkillLevel4): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    27      56     140   53.9%    6.4% 
+   1 Elo1885                        89     132      28   62.5%   10.7% 
+   2 SkillLevel5                    76     134      28   60.7%    7.1% 
+   3 Elo1685                       -63     135      28   41.1%    3.6% 
+   4 Elo1785                       -76     134      28   39.3%    7.1% 
+   5 SkillLevel3                  -175     158      28   26.8%    3.6% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 141 of 160 (SkillLevel4 vs SkillLevel3)
+Finished game 141 (SkillLevel4 vs SkillLevel3): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    25      56     141   53.5%    6.4% 
+   1 Elo1885                        89     132      28   62.5%   10.7% 
+   2 SkillLevel5                    76     134      28   60.7%    7.1% 
+   3 Elo1685                       -63     135      28   41.1%    3.6% 
+   4 Elo1785                       -76     134      28   39.3%    7.1% 
+   5 SkillLevel3                  -153     149      29   29.3%    3.4% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 142 of 160 (SkillLevel3 vs SkillLevel4)
+Finished game 142 (SkillLevel3 vs SkillLevel4): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    27      56     142   53.9%    6.3% 
+   1 Elo1885                        89     132      28   62.5%   10.7% 
+   2 SkillLevel5                    76     134      28   60.7%    7.1% 
+   3 Elo1685                       -63     135      28   41.1%    3.6% 
+   4 Elo1785                       -76     134      28   39.3%    7.1% 
+   5 SkillLevel3                  -161     148      30   28.3%    3.3% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 143 of 160 (SkillLevel4 vs SkillLevel5)
+Finished game 143 (SkillLevel4 vs SkillLevel5): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    29      56     143   54.2%    6.3% 
+   1 Elo1885                        89     132      28   62.5%   10.7% 
+   2 SkillLevel5                    61     130      29   58.6%    6.9% 
+   3 Elo1685                       -63     135      28   41.1%    3.6% 
+   4 Elo1785                       -76     134      28   39.3%    7.1% 
+   5 SkillLevel3                  -161     148      30   28.3%    3.3% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 144 of 160 (SkillLevel5 vs SkillLevel4)
+Finished game 144 (SkillLevel5 vs SkillLevel4): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    27      55     144   53.8%    6.3% 
+   1 Elo1885                        89     132      28   62.5%   10.7% 
+   2 SkillLevel5                    70     128      30   60.0%    6.7% 
+   3 Elo1685                       -63     135      28   41.1%    3.6% 
+   4 Elo1785                       -76     134      28   39.3%    7.1% 
+   5 SkillLevel3                  -161     148      30   28.3%    3.3% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 145 of 160 (SkillLevel4 vs Elo1685)
+Finished game 145 (SkillLevel4 vs Elo1685): 1/2-1/2 {Draw by 3-fold repetition}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    26      55     145   53.8%    6.9% 
+   1 Elo1885                        89     132      28   62.5%   10.7% 
+   2 SkillLevel5                    70     128      30   60.0%    6.7% 
+   3 Elo1685                       -61     130      29   41.4%    6.9% 
+   4 Elo1785                       -76     134      28   39.3%    7.1% 
+   5 SkillLevel3                  -161     148      30   28.3%    3.3% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 146 of 160 (Elo1685 vs SkillLevel4)
+Finished game 146 (Elo1685 vs SkillLevel4): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    29      55     146   54.1%    6.8% 
+   1 Elo1885                        89     132      28   62.5%   10.7% 
+   2 SkillLevel5                    70     128      30   60.0%    6.7% 
+   3 Elo1685                       -70     128      30   40.0%    6.7% 
+   4 Elo1785                       -76     134      28   39.3%    7.1% 
+   5 SkillLevel3                  -161     148      30   28.3%    3.3% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 147 of 160 (SkillLevel4 vs Elo1785)
+Finished game 147 (SkillLevel4 vs Elo1785): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    31      55     147   54.4%    6.8% 
+   1 Elo1885                        89     132      28   62.5%   10.7% 
+   2 SkillLevel5                    70     128      30   60.0%    6.7% 
+   3 Elo1685                       -70     128      30   40.0%    6.7% 
+   4 Elo1785                       -86     132      29   37.9%    6.9% 
+   5 SkillLevel3                  -161     148      30   28.3%    3.3% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 148 of 160 (Elo1785 vs SkillLevel4)
+Finished game 148 (Elo1785 vs SkillLevel4): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    28      55     148   54.1%    6.8% 
+   1 Elo1885                        89     132      28   62.5%   10.7% 
+   2 SkillLevel5                    70     128      30   60.0%    6.7% 
+   3 Elo1785                       -70     128      30   40.0%    6.7% 
+   4 Elo1685                       -70     128      30   40.0%    6.7% 
+   5 SkillLevel3                  -161     148      30   28.3%    3.3% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 149 of 160 (SkillLevel4 vs Elo1885)
+Finished game 149 (SkillLevel4 vs Elo1885): 1/2-1/2 {Draw by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    28      54     149   54.0%    7.4% 
+   1 Elo1885                        86     126      29   62.1%   13.8% 
+   2 SkillLevel5                    70     128      30   60.0%    6.7% 
+   3 Elo1785                       -70     128      30   40.0%    6.7% 
+   4 Elo1685                       -70     128      30   40.0%    6.7% 
+   5 SkillLevel3                  -161     148      30   28.3%    3.3% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 150 of 160 (Elo1885 vs SkillLevel4)
+Finished game 150 (Elo1885 vs SkillLevel4): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    26      54     150   53.7%    7.3% 
+   1 Elo1885                        95     126      30   63.3%   13.3% 
+   2 SkillLevel5                    70     128      30   60.0%    6.7% 
+   3 Elo1785                       -70     128      30   40.0%    6.7% 
+   4 Elo1685                       -70     128      30   40.0%    6.7% 
+   5 SkillLevel3                  -161     148      30   28.3%    3.3% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 151 of 160 (SkillLevel4 vs SkillLevel3)
+Finished game 151 (SkillLevel4 vs SkillLevel3): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    28      54     151   54.0%    7.3% 
+   1 Elo1885                        95     126      30   63.3%   13.3% 
+   2 SkillLevel5                    70     128      30   60.0%    6.7% 
+   3 Elo1785                       -70     128      30   40.0%    6.7% 
+   4 Elo1685                       -70     128      30   40.0%    6.7% 
+   5 SkillLevel3                  -169     147      31   27.4%    3.2% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 152 of 160 (SkillLevel3 vs SkillLevel4)
+Finished game 152 (SkillLevel3 vs SkillLevel4): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    25      54     152   53.6%    7.2% 
+   1 Elo1885                        95     126      30   63.3%   13.3% 
+   2 SkillLevel5                    70     128      30   60.0%    6.7% 
+   3 Elo1785                       -70     128      30   40.0%    6.7% 
+   4 Elo1685                       -70     128      30   40.0%    6.7% 
+   5 SkillLevel3                  -150     140      32   29.7%    3.1% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 153 of 160 (SkillLevel4 vs SkillLevel5)
+Finished game 153 (SkillLevel4 vs SkillLevel5): 1/2-1/2 {Draw by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    25      53     153   53.6%    7.8% 
+   1 Elo1885                        95     126      30   63.3%   13.3% 
+   2 SkillLevel5                    68     124      31   59.7%    9.7% 
+   3 Elo1785                       -70     128      30   40.0%    6.7% 
+   4 Elo1685                       -70     128      30   40.0%    6.7% 
+   5 SkillLevel3                  -150     140      32   29.7%    3.1% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 154 of 160 (SkillLevel5 vs SkillLevel4)
+Finished game 154 (SkillLevel5 vs SkillLevel4): 1/2-1/2 {Draw by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    25      53     154   53.6%    8.4% 
+   1 Elo1885                        95     126      30   63.3%   13.3% 
+   2 SkillLevel5                    66     119      32   59.4%   12.5% 
+   3 Elo1785                       -70     128      30   40.0%    6.7% 
+   4 Elo1685                       -70     128      30   40.0%    6.7% 
+   5 SkillLevel3                  -150     140      32   29.7%    3.1% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 155 of 160 (SkillLevel4 vs Elo1685)
+Finished game 155 (SkillLevel4 vs Elo1685): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    27      53     155   53.9%    8.4% 
+   1 Elo1885                        95     126      30   63.3%   13.3% 
+   2 SkillLevel5                    66     119      32   59.4%   12.5% 
+   3 Elo1785                       -70     128      30   40.0%    6.7% 
+   4 Elo1685                       -80     127      31   38.7%    6.5% 
+   5 SkillLevel3                  -150     140      32   29.7%    3.1% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 156 of 160 (Elo1685 vs SkillLevel4)
+Finished game 156 (Elo1685 vs SkillLevel4): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    29      53     156   54.2%    8.3% 
+   1 Elo1885                        95     126      30   63.3%   13.3% 
+   2 SkillLevel5                    66     119      32   59.4%   12.5% 
+   3 Elo1785                       -70     128      30   40.0%    6.7% 
+   4 Elo1685                       -89     126      32   37.5%    6.3% 
+   5 SkillLevel3                  -150     140      32   29.7%    3.1% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 157 of 160 (SkillLevel4 vs Elo1785)
+Finished game 157 (SkillLevel4 vs Elo1785): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    31      53     157   54.5%    8.3% 
+   1 Elo1885                        95     126      30   63.3%   13.3% 
+   2 SkillLevel5                    66     119      32   59.4%   12.5% 
+   3 Elo1785                       -80     127      31   38.7%    6.5% 
+   4 Elo1685                       -89     126      32   37.5%    6.3% 
+   5 SkillLevel3                  -150     140      32   29.7%    3.1% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 158 of 160 (Elo1785 vs SkillLevel4)
+Finished game 158 (Elo1785 vs SkillLevel4): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    29      52     158   54.1%    8.2% 
+   1 Elo1885                        95     126      30   63.3%   13.3% 
+   2 SkillLevel5                    66     119      32   59.4%   12.5% 
+   3 Elo1785                       -66     124      32   40.6%    6.3% 
+   4 Elo1685                       -89     126      32   37.5%    6.3% 
+   5 SkillLevel3                  -150     140      32   29.7%    3.1% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 159 of 160 (SkillLevel4 vs Elo1885)
+Finished game 159 (SkillLevel4 vs Elo1885): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    26      52     159   53.8%    8.2% 
+   1 Elo1885                       104     125      31   64.5%   12.9% 
+   2 SkillLevel5                    66     119      32   59.4%   12.5% 
+   3 Elo1785                       -66     124      32   40.6%    6.3% 
+   4 Elo1685                       -89     126      32   37.5%    6.3% 
+   5 SkillLevel3                  -150     140      32   29.7%    3.1% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 160 of 160 (Elo1885 vs SkillLevel4)
+Finished game 160 (Elo1885 vs SkillLevel4): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   0 SkillLevel4                    24      52     160   53.4%    8.1% 
+   1 Elo1885                       112     124      32   65.6%   12.5% 
+   2 SkillLevel5                    66     119      32   59.4%   12.5% 
+   3 Elo1785                       -66     124      32   40.6%    6.3% 
+   4 Elo1685                       -89     126      32   37.5%    6.3% 
+   5 SkillLevel3                  -150     140      32   29.7%    3.1% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+
+Player: SkillLevel4
+   "Draw by 3-fold repetition": 2
+   "Draw by adjudication": 10
+   "Draw by insufficient mating material": 1
+   "Loss: Black wins by adjudication": 26
+   "Loss: White wins by adjudication": 42
+   "Win: Black wins by adjudication": 34
+   "Win: White wins by adjudication": 45
+Player: SkillLevel3
+   "Draw by insufficient mating material": 1
+   "Loss: Black wins by adjudication": 11
+   "Loss: White wins by adjudication": 11
+   "Win: Black wins by adjudication": 4
+   "Win: White wins by adjudication": 5
+Player: SkillLevel5
+   "Draw by adjudication": 4
+   "Loss: Black wins by adjudication": 4
+   "Loss: White wins by adjudication": 7
+   "Win: Black wins by adjudication": 6
+   "Win: White wins by adjudication": 11
+Player: Elo1685
+   "Draw by 3-fold repetition": 1
+   "Draw by adjudication": 1
+   "Loss: Black wins by adjudication": 9
+   "Loss: White wins by adjudication": 10
+   "Win: Black wins by adjudication": 4
+   "Win: White wins by adjudication": 7
+Player: Elo1785
+   "Draw by 3-fold repetition": 1
+   "Draw by adjudication": 1
+   "Loss: Black wins by adjudication": 7
+   "Loss: White wins by adjudication": 11
+   "Win: Black wins by adjudication": 5
+   "Win: White wins by adjudication": 7
+Player: Elo1885
+   "Draw by adjudication": 4
+   "Loss: Black wins by adjudication": 3
+   "Loss: White wins by adjudication": 6
+   "Win: Black wins by adjudication": 7
+   "Win: White wins by adjudication": 12
+Finished match

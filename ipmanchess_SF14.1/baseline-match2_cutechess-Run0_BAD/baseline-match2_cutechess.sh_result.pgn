@@ -1,0 +1,76 @@
+[Event "Stockfish Elo baseline testing"]
+[Site "ch3cksout@skiff.com: localhost"]
+[Date "2023.10.14"]
+[Round "1"]
+[White "Elo1785"]
+[Black "SkillLevel7"]
+[Result "1-0"]
+[FEN "r1bqk2r/ppp2ppp/2nb4/3N4/3pP1n1/6Q1/PPPB1PPP/R3KBNR w KQkq - 0 1"]
+[GameDuration "00:26:14"]
+[GameEndTime "2023-10-14T08:03:48.872 CEST"]
+[GameStartTime "2023-10-14T07:37:34.284 CEST"]
+[PlyCount "14"]
+[SetUp "1"]
+[Termination "adjudication"]
+[TimeControl "40/2400"]
+
+1. f4 {+0.69/31 107s} h5 {-0.82/34 202s} 2. h3 {+4.21/24 18s} h4 {-4.67/24 22s}
+3. hxg4 {+5.16/30 75s} hxg3 {-4.68/29 77s} 4. Rxh8+ {+5.24/31 151s}
+Bf8 {-5.03/32 75s} 5. Bb5 {+5.71/33 159s} Bd7 {-6.05/35 242s}
+6. Bxc6 {+7.01/37 279s} f6 {-6.74/29 50s} 7. Bb4 {+8.41/28 50s}
+Kf7 {-7.65/41 68s, White wins by adjudication} 1-0
+
+[Event "Stockfish Elo baseline testing"]
+[Site "ch3cksout@skiff.com: localhost"]
+[Date "2023.10.14"]
+[Round "1"]
+[White "SkillLevel7"]
+[Black "Elo1785"]
+[Result "1-0"]
+[FEN "r1bqk2r/ppp2ppp/2nb4/3N4/3pP1n1/6Q1/PPPB1PPP/R3KBNR w KQkq - 0 1"]
+[GameDuration "09:50:54"]
+[GameEndTime "2023-10-14T17:54:42.922 CEST"]
+[GameStartTime "2023-10-14T08:03:48.873 CEST"]
+[PlyCount "34"]
+[SetUp "1"]
+[Termination "adjudication"]
+[TimeControl "40/2400"]
+
+1. Bf4 {+1.00/28 51s} Bxf4 {0.00/37 181s} 2. Qxf4 {+0.12/31 84s}
+O-O {+0.41/30 53s} 3. Qxc7 {-0.65/30 79s} Qe8 {+0.79/37 68s}
+4. Bd3 {-0.49/26 58s} f5 {+0.82/30 69s} 5. Qd6 {-0.71/27 73s}
+fxe4 {+0.97/34 67s} 6. Bc4 {-1.13/26 105s} Kh8 {+0.59/31 80s}
+7. Nc7 {+1.26/31 76s} Qd8 {-1.49/35 252s} 8. Qxd8 {+1.53/26 86s}
+Nxd8 {-1.63/25 49s} 9. Nxa8 {+1.27/34 73s} b5 {-0.62/27 77s}
+10. Bxb5 {+5.43/25 26s} Nxf2 {-3.97/26 62s} 11. Ne2 {+4.24/34 201s}
+Nxh1 {-4.04/27 66s} 12. Nxd4 {+4.30/31 49s} e3 {-3.95/28 83s}
+13. O-O-O {+5.15/31 136s} a6 {-4.25/31 65s} 14. Bc4 {+5.35/28 34s}
+Bb7 {-5.19/32 119s} 15. Rxh1 {+6.04/29 57s} Bxg2 {-6.02/35 210s}
+16. Re1 {+6.28/31 76s} Bxa8 {-6.05/29 36s} 17. Bxa6 {+6.36/33 205s}
+Re8 {-6.20/31 95s, White wins by adjudication} 1-0
+
+[Event "Stockfish Elo baseline testing"]
+[Site "ch3cksout@skiff.com: localhost"]
+[Date "2023.10.14"]
+[Round "2"]
+[White "Elo1785"]
+[Black "SkillLevel7"]
+[Result "1-0"]
+[FEN "rnbqnrk1/pp3pbp/3p2p1/2pPp3/2P1P3/2NB1N2/PP3PPP/R1BQK2R w KQ - 0 1"]
+[GameDuration "00:28:07"]
+[GameEndTime "2023-10-14T18:22:51.251 CEST"]
+[GameStartTime "2023-10-14T17:54:44.126 CEST"]
+[PlyCount "20"]
+[SetUp "1"]
+[Termination "adjudication"]
+[TimeControl "40/2400"]
+
+1. a3 {+1.70/29 105s} f5 {-1.13/33 253s} 2. Bc2 {+1.09/29 85s}
+Qe7 {-0.82/29 73s} 3. exf5 {+1.17/30 85s} e4 {-0.94/30 84s}
+4. Ng5 {+1.19/28 50s} Bxc3+ {-0.77/31 134s} 5. bxc3 {+1.96/29 77s}
+h6 {-1.85/26 37s} 6. Ne6 {+3.12/31 73s} Rf6 {-3.33/27 48s}
+7. fxg6 {+6.36/24 31s} Ng7 {-5.32/28 67s} 8. O-O {+7.03/26 25s}
+Bxe6 {-7.47/29 73s} 9. dxe6 {+7.53/32 85s} Rxe6 {-7.46/29 73s}
+10. Bxh6 {+7.81/30 91s} Nf5 {-7.43/30 137s, White wins by adjudication} 1-0
+
+

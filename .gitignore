@@ -1,10 +1,9 @@
 # Ignore binaries in the path
-debian-packaged/stockfish
+debian-packaged/stockfish_15.1
 
-local_Stockfish-16/stockfish
+local_Stockfish_16-dev/stockfish_16-dev
 
-ipmanchess/nn-13406b1dcbe0.nnue
-ipmanchess/stockfish_21102807_x64_bmi2
-
+ipmanchess_SF14.1/nn-13406b1dcbe0.nnue
+ipmanchess_SF14.1/stockfish_21102807_x64_bmi2
 
 

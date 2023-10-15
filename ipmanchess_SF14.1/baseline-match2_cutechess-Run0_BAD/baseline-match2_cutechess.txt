@@ -1,0 +1,7 @@
+ BEWARE script had option."Skill Level=7" for SkillLevel4, by mistake!
+ Also, need to check why it ran sooo slooow...
+AND move 3. was illegal!?!!
+ ALSO TC was wrong, 40/2400 should have been /240!!
+  
+~/chess/baseline-match2_cutechess.sh
+

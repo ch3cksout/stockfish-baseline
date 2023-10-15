@@ -1,0 +1,272 @@
+Indexing opening suite...
+Started game 1 of 32 (Elo1785 vs SkillLevel4)
+Finished game 1 (Elo1785 vs SkillLevel4): 0-1 {Black wins by adjudication}
+Score of Elo1785 vs SkillLevel4: 0 - 1 - 0  [0.000] 1
+...      Elo1785 playing White: 0 - 1 - 0  [0.000] 1
+...      White vs Black: 0 - 1 - 0  [0.000] 1
+Elo difference: -inf +/- nan, LOS: 15.9 %, DrawRatio: 0.0 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 2 of 32 (SkillLevel4 vs Elo1785)
+Finished game 2 (SkillLevel4 vs Elo1785): 1-0 {White wins by adjudication}
+Score of Elo1785 vs SkillLevel4: 0 - 2 - 0  [0.000] 2
+...      Elo1785 playing White: 0 - 1 - 0  [0.000] 1
+...      Elo1785 playing Black: 0 - 1 - 0  [0.000] 1
+...      White vs Black: 1 - 1 - 0  [0.500] 2
+Elo difference: -inf +/- nan, LOS: 7.9 %, DrawRatio: 0.0 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 3 of 32 (Elo1785 vs SkillLevel4)
+Finished game 3 (Elo1785 vs SkillLevel4): 1-0 {White wins by adjudication}
+Score of Elo1785 vs SkillLevel4: 1 - 2 - 0  [0.333] 3
+...      Elo1785 playing White: 1 - 1 - 0  [0.500] 2
+...      Elo1785 playing Black: 0 - 1 - 0  [0.000] 1
+...      White vs Black: 2 - 1 - 0  [0.667] 3
+Elo difference: -120.4 +/- nan, LOS: 28.2 %, DrawRatio: 0.0 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 4 of 32 (SkillLevel4 vs Elo1785)
+Finished game 4 (SkillLevel4 vs Elo1785): 1-0 {White wins by adjudication}
+Score of Elo1785 vs SkillLevel4: 1 - 3 - 0  [0.250] 4
+...      Elo1785 playing White: 1 - 1 - 0  [0.500] 2
+...      Elo1785 playing Black: 0 - 2 - 0  [0.000] 2
+...      White vs Black: 3 - 1 - 0  [0.750] 4
+Elo difference: -190.8 +/- nan, LOS: 15.9 %, DrawRatio: 0.0 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 5 of 32 (Elo1785 vs SkillLevel4)
+Finished game 5 (Elo1785 vs SkillLevel4): 0-1 {Black wins by adjudication}
+Score of Elo1785 vs SkillLevel4: 1 - 4 - 0  [0.200] 5
+...      Elo1785 playing White: 1 - 2 - 0  [0.333] 3
+...      Elo1785 playing Black: 0 - 2 - 0  [0.000] 2
+...      White vs Black: 3 - 2 - 0  [0.600] 5
+Elo difference: -240.8 +/- nan, LOS: 9.0 %, DrawRatio: 0.0 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 6 of 32 (SkillLevel4 vs Elo1785)
+Finished game 6 (SkillLevel4 vs Elo1785): 1-0 {White wins by adjudication}
+Score of Elo1785 vs SkillLevel4: 1 - 5 - 0  [0.167] 6
+...      Elo1785 playing White: 1 - 2 - 0  [0.333] 3
+...      Elo1785 playing Black: 0 - 3 - 0  [0.000] 3
+...      White vs Black: 4 - 2 - 0  [0.667] 6
+Elo difference: -279.6 +/- nan, LOS: 5.1 %, DrawRatio: 0.0 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 7 of 32 (Elo1785 vs SkillLevel4)
+Finished game 7 (Elo1785 vs SkillLevel4): 1-0 {White wins by adjudication}
+Score of Elo1785 vs SkillLevel4: 2 - 5 - 0  [0.286] 7
+...      Elo1785 playing White: 2 - 2 - 0  [0.500] 4
+...      Elo1785 playing Black: 0 - 3 - 0  [0.000] 3
+...      White vs Black: 5 - 2 - 0  [0.714] 7
+Elo difference: -159.2 +/- nan, LOS: 12.8 %, DrawRatio: 0.0 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 8 of 32 (SkillLevel4 vs Elo1785)
+Finished game 8 (SkillLevel4 vs Elo1785): 1-0 {White wins by adjudication}
+Score of Elo1785 vs SkillLevel4: 2 - 6 - 0  [0.250] 8
+...      Elo1785 playing White: 2 - 2 - 0  [0.500] 4
+...      Elo1785 playing Black: 0 - 4 - 0  [0.000] 4
+...      White vs Black: 6 - 2 - 0  [0.750] 8
+Elo difference: -190.8 +/- nan, LOS: 7.9 %, DrawRatio: 0.0 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 9 of 32 (Elo1785 vs SkillLevel4)
+Finished game 9 (Elo1785 vs SkillLevel4): 1-0 {White wins by adjudication}
+Score of Elo1785 vs SkillLevel4: 3 - 6 - 0  [0.333] 9
+...      Elo1785 playing White: 3 - 2 - 0  [0.600] 5
+...      Elo1785 playing Black: 0 - 4 - 0  [0.000] 4
+...      White vs Black: 7 - 2 - 0  [0.778] 9
+Elo difference: -120.4 +/- 365.7, LOS: 15.9 %, DrawRatio: 0.0 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 10 of 32 (SkillLevel4 vs Elo1785)
+Finished game 10 (SkillLevel4 vs Elo1785): 1-0 {White wins by adjudication}
+Score of Elo1785 vs SkillLevel4: 3 - 7 - 0  [0.300] 10
+...      Elo1785 playing White: 3 - 2 - 0  [0.600] 5
+...      Elo1785 playing Black: 0 - 5 - 0  [0.000] 5
+...      White vs Black: 8 - 2 - 0  [0.800] 10
+Elo difference: -147.2 +/- 385.0, LOS: 10.3 %, DrawRatio: 0.0 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 11 of 32 (Elo1785 vs SkillLevel4)
+Finished game 11 (Elo1785 vs SkillLevel4): 1-0 {White wins by adjudication}
+Score of Elo1785 vs SkillLevel4: 4 - 7 - 0  [0.364] 11
+...      Elo1785 playing White: 4 - 2 - 0  [0.667] 6
+...      Elo1785 playing Black: 0 - 5 - 0  [0.000] 5
+...      White vs Black: 9 - 2 - 0  [0.818] 11
+Elo difference: -97.2 +/- 265.2, LOS: 18.3 %, DrawRatio: 0.0 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 12 of 32 (SkillLevel4 vs Elo1785)
+Finished game 12 (SkillLevel4 vs Elo1785): 0-1 {Black wins by adjudication}
+Score of Elo1785 vs SkillLevel4: 5 - 7 - 0  [0.417] 12
+...      Elo1785 playing White: 4 - 2 - 0  [0.667] 6
+...      Elo1785 playing Black: 1 - 5 - 0  [0.167] 6
+...      White vs Black: 9 - 3 - 0  [0.750] 12
+Elo difference: -58.5 +/- 230.7, LOS: 28.2 %, DrawRatio: 0.0 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 13 of 32 (Elo1785 vs SkillLevel4)
+Finished game 13 (Elo1785 vs SkillLevel4): 1-0 {White wins by adjudication}
+Score of Elo1785 vs SkillLevel4: 6 - 7 - 0  [0.462] 13
+...      Elo1785 playing White: 5 - 2 - 0  [0.714] 7
+...      Elo1785 playing Black: 1 - 5 - 0  [0.167] 6
+...      White vs Black: 10 - 3 - 0  [0.769] 13
+Elo difference: -26.8 +/- 212.8, LOS: 39.1 %, DrawRatio: 0.0 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 14 of 32 (SkillLevel4 vs Elo1785)
+Finished game 14 (SkillLevel4 vs Elo1785): 1-0 {White wins by adjudication}
+Score of Elo1785 vs SkillLevel4: 6 - 8 - 0  [0.429] 14
+...      Elo1785 playing White: 5 - 2 - 0  [0.714] 7
+...      Elo1785 playing Black: 1 - 6 - 0  [0.143] 7
+...      White vs Black: 11 - 3 - 0  [0.786] 14
+Elo difference: -50.0 +/- 206.4, LOS: 29.6 %, DrawRatio: 0.0 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 15 of 32 (Elo1785 vs SkillLevel4)
+Finished game 15 (Elo1785 vs SkillLevel4): 1-0 {White wins by adjudication}
+Score of Elo1785 vs SkillLevel4: 7 - 8 - 0  [0.467] 15
+...      Elo1785 playing White: 6 - 2 - 0  [0.750] 8
+...      Elo1785 playing Black: 1 - 6 - 0  [0.143] 7
+...      White vs Black: 12 - 3 - 0  [0.800] 15
+Elo difference: -23.2 +/- 194.2, LOS: 39.8 %, DrawRatio: 0.0 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 16 of 32 (SkillLevel4 vs Elo1785)
+Finished game 16 (SkillLevel4 vs Elo1785): 0-1 {Black wins by adjudication}
+Score of Elo1785 vs SkillLevel4: 8 - 8 - 0  [0.500] 16
+...      Elo1785 playing White: 6 - 2 - 0  [0.750] 8
+...      Elo1785 playing Black: 2 - 6 - 0  [0.250] 8
+...      White vs Black: 12 - 4 - 0  [0.750] 16
+Elo difference: 0.0 +/- 185.9, LOS: 50.0 %, DrawRatio: 0.0 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 17 of 32 (Elo1785 vs SkillLevel4)
+Finished game 17 (Elo1785 vs SkillLevel4): 1-0 {White wins by adjudication}
+Score of Elo1785 vs SkillLevel4: 9 - 8 - 0  [0.529] 17
+...      Elo1785 playing White: 7 - 2 - 0  [0.778] 9
+...      Elo1785 playing Black: 2 - 6 - 0  [0.250] 8
+...      White vs Black: 13 - 4 - 0  [0.765] 17
+Elo difference: 20.5 +/- 179.9, LOS: 59.6 %, DrawRatio: 0.0 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 18 of 32 (SkillLevel4 vs Elo1785)
+Finished game 18 (SkillLevel4 vs Elo1785): 1/2-1/2 {Draw by 3-fold repetition}
+Score of Elo1785 vs SkillLevel4: 9 - 8 - 1  [0.528] 18
+...      Elo1785 playing White: 7 - 2 - 0  [0.778] 9
+...      Elo1785 playing Black: 2 - 6 - 1  [0.278] 9
+...      White vs Black: 13 - 4 - 1  [0.750] 18
+Elo difference: 19.3 +/- 168.1, LOS: 59.6 %, DrawRatio: 5.6 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 19 of 32 (Elo1785 vs SkillLevel4)
+Finished game 19 (Elo1785 vs SkillLevel4): 1-0 {White wins by adjudication}
+Score of Elo1785 vs SkillLevel4: 10 - 8 - 1  [0.553] 19
+...      Elo1785 playing White: 8 - 2 - 0  [0.800] 10
+...      Elo1785 playing Black: 2 - 6 - 1  [0.278] 9
+...      White vs Black: 14 - 4 - 1  [0.763] 19
+Elo difference: 36.7 +/- 164.3, LOS: 68.1 %, DrawRatio: 5.3 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 20 of 32 (SkillLevel4 vs Elo1785)
+Finished game 20 (SkillLevel4 vs Elo1785): 0-1 {Black wins by adjudication}
+Score of Elo1785 vs SkillLevel4: 11 - 8 - 1  [0.575] 20
+...      Elo1785 playing White: 8 - 2 - 0  [0.800] 10
+...      Elo1785 playing Black: 3 - 6 - 1  [0.350] 10
+...      White vs Black: 14 - 5 - 1  [0.725] 20
+Elo difference: 52.5 +/- 161.2, LOS: 75.4 %, DrawRatio: 5.0 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 21 of 32 (Elo1785 vs SkillLevel4)
+Finished game 21 (Elo1785 vs SkillLevel4): 0-1 {Black wins by adjudication}
+Score of Elo1785 vs SkillLevel4: 11 - 9 - 1  [0.548] 21
+...      Elo1785 playing White: 8 - 3 - 0  [0.727] 11
+...      Elo1785 playing Black: 3 - 6 - 1  [0.350] 10
+...      White vs Black: 14 - 6 - 1  [0.690] 21
+Elo difference: 33.2 +/- 155.3, LOS: 67.3 %, DrawRatio: 4.8 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 22 of 32 (SkillLevel4 vs Elo1785)
+Finished game 22 (SkillLevel4 vs Elo1785): 1-0 {White wins by adjudication}
+Score of Elo1785 vs SkillLevel4: 11 - 10 - 1  [0.523] 22
+...      Elo1785 playing White: 8 - 3 - 0  [0.727] 11
+...      Elo1785 playing Black: 3 - 7 - 1  [0.318] 11
+...      White vs Black: 15 - 6 - 1  [0.705] 22
+Elo difference: 15.8 +/- 150.6, LOS: 58.6 %, DrawRatio: 4.5 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 23 of 32 (Elo1785 vs SkillLevel4)
+Finished game 23 (Elo1785 vs SkillLevel4): 1/2-1/2 {Draw by adjudication}
+Score of Elo1785 vs SkillLevel4: 11 - 10 - 2  [0.522] 23
+...      Elo1785 playing White: 8 - 3 - 1  [0.708] 12
+...      Elo1785 playing Black: 3 - 7 - 1  [0.318] 11
+...      White vs Black: 15 - 6 - 2  [0.696] 23
+Elo difference: 15.1 +/- 143.2, LOS: 58.6 %, DrawRatio: 8.7 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 24 of 32 (SkillLevel4 vs Elo1785)
+Finished game 24 (SkillLevel4 vs Elo1785): 1-0 {White wins by adjudication}
+Score of Elo1785 vs SkillLevel4: 11 - 11 - 2  [0.500] 24
+...      Elo1785 playing White: 8 - 3 - 1  [0.708] 12
+...      Elo1785 playing Black: 3 - 8 - 1  [0.292] 12
+...      White vs Black: 16 - 6 - 2  [0.708] 24
+Elo difference: 0.0 +/- 140.0, LOS: 50.0 %, DrawRatio: 8.3 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 25 of 32 (Elo1785 vs SkillLevel4)
+Finished game 25 (Elo1785 vs SkillLevel4): 1-0 {White wins by adjudication}
+Score of Elo1785 vs SkillLevel4: 12 - 11 - 2  [0.520] 25
+...      Elo1785 playing White: 9 - 3 - 1  [0.731] 13
+...      Elo1785 playing Black: 3 - 8 - 1  [0.292] 12
+...      White vs Black: 17 - 6 - 2  [0.720] 25
+Elo difference: 13.9 +/- 137.3, LOS: 58.3 %, DrawRatio: 8.0 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 26 of 32 (SkillLevel4 vs Elo1785)
+Finished game 26 (SkillLevel4 vs Elo1785): 1-0 {White wins by adjudication}
+Score of Elo1785 vs SkillLevel4: 12 - 12 - 2  [0.500] 26
+...      Elo1785 playing White: 9 - 3 - 1  [0.731] 13
+...      Elo1785 playing Black: 3 - 9 - 1  [0.269] 13
+...      White vs Black: 18 - 6 - 2  [0.731] 26
+Elo difference: 0.0 +/- 134.5, LOS: 50.0 %, DrawRatio: 7.7 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 27 of 32 (Elo1785 vs SkillLevel4)
+Finished game 27 (Elo1785 vs SkillLevel4): 1-0 {White wins by adjudication}
+Score of Elo1785 vs SkillLevel4: 13 - 12 - 2  [0.519] 27
+...      Elo1785 playing White: 10 - 3 - 1  [0.750] 14
+...      Elo1785 playing Black: 3 - 9 - 1  [0.269] 13
+...      White vs Black: 19 - 6 - 2  [0.741] 27
+Elo difference: 12.9 +/- 132.0, LOS: 57.9 %, DrawRatio: 7.4 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 28 of 32 (SkillLevel4 vs Elo1785)
+Finished game 28 (SkillLevel4 vs Elo1785): 1-0 {White wins by adjudication}
+Score of Elo1785 vs SkillLevel4: 13 - 13 - 2  [0.500] 28
+...      Elo1785 playing White: 10 - 3 - 1  [0.750] 14
+...      Elo1785 playing Black: 3 - 10 - 1  [0.250] 14
+...      White vs Black: 20 - 6 - 2  [0.750] 28
+Elo difference: 0.0 +/- 129.5, LOS: 50.0 %, DrawRatio: 7.1 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 29 of 32 (Elo1785 vs SkillLevel4)
+Finished game 29 (Elo1785 vs SkillLevel4): 1-0 {White wins by adjudication}
+Score of Elo1785 vs SkillLevel4: 14 - 13 - 2  [0.517] 29
+...      Elo1785 playing White: 11 - 3 - 1  [0.767] 15
+...      Elo1785 playing Black: 3 - 10 - 1  [0.250] 14
+...      White vs Black: 21 - 6 - 2  [0.759] 29
+Elo difference: 12.0 +/- 127.3, LOS: 57.6 %, DrawRatio: 6.9 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 30 of 32 (SkillLevel4 vs Elo1785)
+Finished game 30 (SkillLevel4 vs Elo1785): 1-0 {White wins by adjudication}
+Score of Elo1785 vs SkillLevel4: 14 - 14 - 2  [0.500] 30
+...      Elo1785 playing White: 11 - 3 - 1  [0.767] 15
+...      Elo1785 playing Black: 3 - 11 - 1  [0.233] 15
+...      White vs Black: 22 - 6 - 2  [0.767] 30
+Elo difference: 0.0 +/- 125.1, LOS: 50.0 %, DrawRatio: 6.7 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 31 of 32 (Elo1785 vs SkillLevel4)
+Finished game 31 (Elo1785 vs SkillLevel4): 1-0 {White wins by adjudication}
+Score of Elo1785 vs SkillLevel4: 15 - 14 - 2  [0.516] 31
+...      Elo1785 playing White: 12 - 3 - 1  [0.781] 16
+...      Elo1785 playing Black: 3 - 11 - 1  [0.233] 15
+...      White vs Black: 23 - 6 - 2  [0.774] 31
+Elo difference: 11.2 +/- 123.1, LOS: 57.4 %, DrawRatio: 6.5 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 32 of 32 (SkillLevel4 vs Elo1785)
+Finished game 32 (SkillLevel4 vs Elo1785): 0-1 {Black wins by adjudication}
+Score of Elo1785 vs SkillLevel4: 16 - 14 - 2  [0.531] 32
+...      Elo1785 playing White: 12 - 3 - 1  [0.781] 16
+...      Elo1785 playing Black: 4 - 11 - 1  [0.281] 16
+...      White vs Black: 23 - 7 - 2  [0.750] 32
+Elo difference: 21.7 +/- 121.4, LOS: 64.2 %, DrawRatio: 6.3 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+
+Player: Elo1785
+   "Draw by 3-fold repetition": 1
+   "Draw by adjudication": 1
+   "Loss: Black wins by adjudication": 3
+   "Loss: White wins by adjudication": 11
+   "Win: Black wins by adjudication": 4
+   "Win: White wins by adjudication": 12
+Player: SkillLevel4
+   "Draw by 3-fold repetition": 1
+   "Draw by adjudication": 1
+   "Loss: Black wins by adjudication": 4
+   "Loss: White wins by adjudication": 12
+   "Win: Black wins by adjudication": 3
+   "Win: White wins by adjudication": 11
+Finished match

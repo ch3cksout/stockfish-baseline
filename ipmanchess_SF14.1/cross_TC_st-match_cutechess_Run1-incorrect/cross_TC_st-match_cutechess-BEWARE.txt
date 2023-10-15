@@ -1,0 +1,5 @@
+BEWARE this run had incorrect time control ('st=' i.e. sudden death) for Elo1785_20ms & Elo1785_100ms!
+
+ Also, option for Elo1685_40_240,000ms had wrong syntax:
+-engine tc=/240.0 name=Elo1685_40_240,000ms 
+

@@ -1,0 +1,37 @@
+#~/chess$ ./baseline-match2_cutechess.sh
+Indexing opening suite...
+Started game 1 of 32 (Elo1785 vs SkillLevel4)
+Finished game 1 (Elo1785 vs SkillLevel4): 1-0 {White wins by adjudication}
+Score of Elo1785 vs SkillLevel4: 1 - 0 - 0  [1.000] 1
+...      Elo1785 playing White: 1 - 0 - 0  [1.000] 1
+...      White vs Black: 1 - 0 - 0  [1.000] 1
+Elo difference: inf +/- nan, LOS: 84.1 %, DrawRatio: 0.0 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 2 of 32 (SkillLevel4 vs Elo1785)
+Finished game 2 (SkillLevel4 vs Elo1785): 1-0 {White wins by adjudication}
+Score of Elo1785 vs SkillLevel4: 1 - 1 - 0  [0.500] 2
+...      Elo1785 playing White: 1 - 0 - 0  [1.000] 1
+...      Elo1785 playing Black: 0 - 1 - 0  [0.000] 1
+...      White vs Black: 2 - 0 - 0  [1.000] 2
+Elo difference: 0.0 +/- nan, LOS: 50.0 %, DrawRatio: 0.0 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 3 of 32 (Elo1785 vs SkillLevel4)
+Finished game 3 (Elo1785 vs SkillLevel4): 1-0 {White wins by adjudication}
+Score of Elo1785 vs SkillLevel4: 2 - 1 - 0  [0.667] 3
+...      Elo1785 playing White: 2 - 0 - 0  [1.000] 2
+...      Elo1785 playing Black: 0 - 1 - 0  [0.000] 1
+...      White vs Black: 3 - 0 - 0  [1.000] 3
+Elo difference: 120.4 +/- nan, LOS: 71.8 %, DrawRatio: 0.0 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 4 of 32 (SkillLevel4 vs Elo1785)
+^CTerminating process of engine SkillLevel4(1)
+Terminating process of engine Elo1785(0)
+Finished game 4 (SkillLevel4 vs Elo1785): * {No result}
+Score of Elo1785 vs SkillLevel4: 2 - 1 - 0  [0.667] 3
+...      Elo1785 playing White: 2 - 0 - 0  [1.000] 2
+...      Elo1785 playing Black: 0 - 1 - 0  [0.000] 1
+...      White vs Black: 3 - 0 - 0  [1.000] 3
+Elo difference: 120.4 +/- nan, LOS: 71.8 %, DrawRatio: 0.0 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+
+
