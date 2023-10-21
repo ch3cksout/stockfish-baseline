@@ -1,0 +1,1042 @@
+[Event "RANDOM chess engine vs text-davinci-003"]
+[Site "chessgpt@skiff.com: localhost, appended Stockfish ELo to its name"]
+[Date "????.??.??"]
+[Round "?"]
+[White "RANDOM chess engine"]
+[Black "text-davinci-003"]
+[Result "*"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[UnknownSAN "Qxd1+"]
+
+1. b4 e5 2. c3 Nf6 3. g3 d5 4. a4 Bg4 5. b5 c6 6. Ra2 Bf3 7. Rb2 Bg4 8. c4
+dxc4 9. f4 exf4 10. bxc6 bxc6 11. Ra2 *
+
+[Event "text-davinci-003 vs RANDOM chess engine"]
+[Site "chessgpt@skiff.com: localhost, appended Stockfish ELo to its name"]
+[Date "????.??.??"]
+[Round "?"]
+[White "text-davinci-003"]
+[Black "RANDOM chess engine"]
+[Result "*"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[UnknownSAN "dxc6"]
+
+1. e4 f5 2. Nf3 Kf7 3. d4 b6 4. Bd3 Kf6 5. c4 a5 6. Nc3 Ba6 7. Qb3 f4 8.
+Bxf4 Qc8 9. O-O-O e5 10. Bg3 d5 11. exd5 Be7 *
+
+[Event "text-davinci-003 vs Stockfish"]
+[Site "chessgpt@skiff.com: localhost, appended Stockfish ELo to its name"]
+[Date "????.??.??"]
+[Round "?"]
+[White "text-davinci-003"]
+[Black "Stockfish_Elo1694"]
+[Result "*"]
+[WhiteElo "?"]
+[BlackElo "1694"]
+[UnknownSAN "O-O"]
+
+1. e4 Nh6 2. d4 e6 3. Nf3 Ng4 4. Nc3 Bb4 5. Bd2 O-O *
+
+[Event "text-davinci-003 vs Stockfish"]
+[Site "chessgpt@skiff.com: localhost, appended Stockfish ELo to its name"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish_Elo1694"]
+[Black "text-davinci-003"]
+[Result "*"]
+[WhiteElo "1694"]
+[BlackElo "?"]
+[UnknownSAN "Kf8"]
+
+1. e4 e5 2. Be2 Nf6 3. Nf3 Nc6 4. d3 d5 5. Nc3 Bg4 6. O-O Bxf3 7. Bxf3 Qd7
+8. Nxd5 Nxd5 9. exd5 Qxd5 10. Bxd5 Nd4 11. Qh5 g6 12. Qxe5+ *
+
+[Event "text-davinci-003 vs Stockfish"]
+[Site "chessgpt@skiff.com: localhost, appended Stockfish ELo to its name"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish_Elo1694"]
+[Black "text-davinci-003"]
+[Result "*"]
+[WhiteElo "1694"]
+[BlackElo "?"]
+[UnknownSAN "Bg7"]
+
+1. e4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. Bb5 Bb4 5. Nd5 Nxd5 6. exd5 Nd4 7. Bd3 c6
+8. c3 Nf5 9. cxb4 cxd5 10. Bxf5 d4 11. O-O g6 12. Bb1 *
+
+[Event "text-davinci-003 vs Stockfish"]
+[Site "chessgpt@skiff.com: localhost, appended Stockfish ELo to its name"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish_Elo1694"]
+[Black "text-davinci-003"]
+[Result "*"]
+[WhiteElo "1694"]
+[BlackElo "?"]
+[UnknownSAN "Nb4"]
+
+1. e4 e5 2. Be2 Nf6 3. d3 d5 4. exd5 Nxd5 5. c3 Nc6 6. a4 Be6 7. h3 Be7 8.
+a5 O-O 9. a6 b6 10. Bf3 Bf6 11. Be4 Qd7 12. Nf3 Rad8 13. Na3 *
+
+[Event "text-davinci-003 vs Stockfish"]
+[Site "chessgpt@skiff.com: localhost, appended Stockfish ELo to its name"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish_Elo1694"]
+[Black "text-davinci-003"]
+[Result "*"]
+[WhiteElo "1694"]
+[BlackElo "?"]
+[UnknownSAN "Bf6"]
+
+1. e4 c5 2. d3 d5 3. Be2 Nf6 4. exd5 Qxd5 5. Be3 Qd6 6. Nc3 e6 7. Nf3 Nc6
+8. Qd2 Be7 9. a3 O-O 10. d4 cxd4 11. Nxd4 Nxd4 12. Qxd4 *
+
+[Event "text-davinci-003 vs Stockfish"]
+[Site "chessgpt@skiff.com: localhost, appended Stockfish ELo to its name"]
+[Date "????.??.??"]
+[Round "?"]
+[White "text-davinci-003"]
+[Black "Stockfish_Elo1694"]
+[Result "*"]
+[WhiteElo "?"]
+[BlackElo "1694"]
+[UnknownSAN "Be3"]
+
+1. e4 d5 2. exd5 c6 3. dxc6 Nf6 4. Nf3 Nxc6 5. Bb5 Bg4 6. h3 Bh5 7. g4 Bg6
+8. Ne5 Qd6 9. Nxg6 hxg6 10. Qf3 Qe5+ *
+
+[Event "text-davinci-003 vs Stockfish"]
+[Site "chessgpt@skiff.com: localhost, appended Stockfish ELo to its name"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish_Elo1694"]
+[Black "text-davinci-003"]
+[Result "*"]
+[WhiteElo "1694"]
+[BlackElo "?"]
+[UnknownSAN "Rd8"]
+
+1. d4 Nf6 2. e3 e6 3. a3 d5 4. Nf3 c5 5. c4 dxc4 6. Bxc4 Nc6 7. Nc3 Be7 8.
+Bd3 O-O 9. h3 b6 10. O-O Bb7 11. Re1 Qc7 12. Bd2 *
+
+[Event "text-davinci-003 vs RANDOM chess engine"]
+[Site "chessgpt@skiff.com: localhost, appended Stockfish ELo to its name"]
+[Date "????.??.??"]
+[Round "?"]
+[White "text-davinci-003"]
+[Black "RANDOM chess engine"]
+[Result "*"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[UnknownSAN "N3h2"]
+
+1. e4 e6 2. d4 e5 3. Nf3 a6 4. Bd3 Ra7 5. O-O Ke7 6. c3 a5 7. Re1 f6 8.
+Nbd2 d5 9. exd5 b6 10. dxe5 Bf5 11. Qb3 g6 12. Bxf5 g5 13. Bg4 Nc6 14. Nf1
+Qxd5 *
+
+[Event "text-davinci-003 vs Stockfish"]
+[Site "chessgpt@skiff.com: localhost, appended Stockfish ELo to its name"]
+[Date "????.??.??"]
+[Round "?"]
+[White "text-davinci-003"]
+[Black "Stockfish_Elo1694"]
+[Result "0-1"]
+[WhiteElo "?"]
+[BlackElo "1694"]
+
+1. e4 d5 2. exd5 c6 3. dxc6 Nf6 4. Nf3 Nxc6 5. Bb5 e6 6. O-O Be7 7. Re1 a6
+8. Bf1 h6 9. c4 Qc7 10. Nc3 b6 11. d3 O-O 12. Bd2 Bb7 13. Qe2 Rad8 14. Rad1
+Ng4 15. h3 Nd4 16. Nxd4 Qh2# 0-1
+
+[Event "text-davinci-003 vs Stockfish"]
+[Site "chessgpt@skiff.com: localhost, appended Stockfish ELo to its name"]
+[Date "????.??.??"]
+[Round "?"]
+[White "text-davinci-003"]
+[Black "Stockfish_Elo1694"]
+[Result "*"]
+[WhiteElo "?"]
+[BlackElo "1694"]
+[UnknownSAN "Kc3"]
+
+1. e4 Nh6 2. d4 d6 3. Nf3 a6 4. Bg5 g6 5. Bxh6 Bxh6 6. Nc3 Nd7 7. Qd2 Bxd2+
+8. Kxd2 c6 9. Be2 b5 10. a3 Nf6 11. Nd5 Nxe4+ *
+
+[Event "text-davinci-003 vs Stockfish"]
+[Site "chessgpt@skiff.com: localhost, appended Stockfish ELo to its name"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish_Elo1694"]
+[Black "text-davinci-003"]
+[Result "*"]
+[WhiteElo "1694"]
+[BlackElo "?"]
+[UnknownSAN "Qxg4"]
+
+1. Nf3 d5 2. e3 Nf6 3. h3 c5 4. Be2 Nc6 5. d3 Bg4 6. hxg4 Nxg4 7. Nfd2 e6
+8. Bxg4 *
+
+[Event "text-davinci-003 vs Stockfish"]
+[Site "chessgpt@skiff.com: localhost, appended Stockfish ELo to its name"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish_Elo1694"]
+[Black "text-davinci-003"]
+[Result "*"]
+[WhiteElo "1694"]
+[BlackElo "?"]
+[UnknownSAN "Bxc7"]
+
+1. d4 Nf6 2. a3 d5 3. Bf4 c5 4. c3 e6 5. Nf3 Be7 6. Qc2 Nc6 7. h3 O-O 8.
+Nbd2 b6 9. e3 Bb7 10. Be2 Qc7 11. Bxc7 *
+
+[Event "text-davinci-003 vs Stockfish"]
+[Site "chessgpt@skiff.com: localhost, appended Stockfish ELo to its name"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish_Elo1694"]
+[Black "text-davinci-003"]
+[Result "*"]
+[WhiteElo "1694"]
+[BlackElo "?"]
+[UnknownSAN "Nbd7"]
+
+1. e3 e5 2. c4 Nf6 3. Nc3 Bb4 4. Nge2 d6 5. d4 exd4 6. Qa4+ Bd7 7. Qxb4
+dxc3 8. Qxc3 O-O 9. Ng3 c6 10. h4 h6 11. b3 Re8 12. Bd3 *
+
+[Event "text-davinci-003 vs Stockfish"]
+[Site "chessgpt@skiff.com: localhost, appended Stockfish ELo to its name"]
+[Date "????.??.??"]
+[Round "?"]
+[White "text-davinci-003"]
+[Black "Stockfish_Elo1694"]
+[Result "*"]
+[WhiteElo "?"]
+[BlackElo "1694"]
+[UnknownSAN "Nbd2"]
+
+1. e4 d5 2. exd5 c6 3. dxc6 Nxc6 4. Nf3 Qc7 5. Bd3 Nf6 6. O-O g5 7. c3 h5
+8. Re1 h4 *
+
+[Event "RANDOM chess engine vs text-davinci-003"]
+[Site "chessgpt@skiff.com: localhost, appended Stockfish ELo to its name"]
+[Date "????.??.??"]
+[Round "?"]
+[White "RANDOM chess engine"]
+[Black "text-davinci-003"]
+[Result "*"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[UnknownSAN "Bg4"]
+
+1. f4 e5 2. Na3 d5 3. Nb5 c6 4. f5 cxb5 5. a3 Bd6 6. a4 b4 7. Nf3 Nf6 8. a5
+Be7 9. Ng1 O-O 10. h4 h6 11. Nh3 Qc7 12. h5 Nh7 13. Ng5 Nxg5 14. a6 bxa6
+15. Ra2 Bf6 16. Ra5 *
+
+[Event "text-davinci-003 vs Stockfish"]
+[Site "chessgpt@skiff.com: localhost, appended Stockfish ELo to its name"]
+[Date "????.??.??"]
+[Round "?"]
+[White "text-davinci-003"]
+[Black "Stockfish_Elo1694"]
+[Result "*"]
+[WhiteElo "?"]
+[BlackElo "1694"]
+[UnknownSAN "Qxd5"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 4. d4 g6 5. Nf3 Nh6 6. Bd3 Bg7 7. O-O Nf5
+8. Re1 h6 9. Bf4 a5 10. a3 O-O 11. Bg3 Nxg3 12. hxg3 Bg4 13. Qd2 e6 14.
+Rad1 Nc6 15. Ne5 Bxd1 16. Rxd1 Qxd4 17. Nxc6 Qc5 18. Nd5 exd5 *
+
+[Event "text-davinci-003 vs RANDOM chess engine"]
+[Site "chessgpt@skiff.com: localhost, appended Stockfish ELo to its name"]
+[Date "????.??.??"]
+[Round "?"]
+[White "text-davinci-003"]
+[Black "RANDOM chess engine"]
+[Result "*"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[UnknownSAN "Nh2"]
+
+1. e4 h6 2. d4 f5 3. Nf3 h5 4. Bd3 e5 5. dxe5 Qf6 6. exf6 g5 7. Nxg5 Nh6 8.
+Nf3 h4 *
+
+[Event "text-davinci-003 vs RANDOM chess engine"]
+[Site "chessgpt@skiff.com: localhost, appended Stockfish ELo to its name"]
+[Date "????.??.??"]
+[Round "?"]
+[White "text-davinci-003"]
+[Black "RANDOM chess engine"]
+[Result "*"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[UnknownSAN "Kd1"]
+
+1. e4 c5 2. Nf3 Qc7 3. d4 Qd8 4. d5 b6 5. Nc3 h6 6. Bg5 Nc6 7. Bf6 Bb7 8.
+Bxg7 Nf6 9. Bxf8 Nxd5 10. exd5 Qc8 11. Bg7 Qd8 12. Bf6 Nd4 13. Nxd4 e6 14.
+Nf5 Qxf6 15. Nxh6 Qxf2+ *
+
+[Event "text-davinci-003 vs Stockfish"]
+[Site "chessgpt@skiff.com: localhost, appended Stockfish ELo to its name"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish_Elo1694"]
+[Black "text-davinci-003"]
+[Result "*"]
+[WhiteElo "1694"]
+[BlackElo "?"]
+[UnknownSAN "Qxf5"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. Nd2 d5 7. Bd3
+Bd6 8. a4 O-O 9. O-O Re8 10. Be2 Bf5 11. exf5 *
+
+[Event "text-davinci-003 vs Stockfish"]
+[Site "chessgpt@skiff.com: localhost, appended Stockfish ELo to its name"]
+[Date "????.??.??"]
+[Round "?"]
+[White "text-davinci-003"]
+[Black "Stockfish_Elo1694"]
+[Result "*"]
+[WhiteElo "?"]
+[BlackElo "1694"]
+[UnknownSAN "Rxc8+"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd7 4. d4 c6 5. Nf3 Nf6 6. Bg5 h6 7. Bh4 e6 8.
+Bd3 Qc7 9. O-O Nbd7 10. Re1 Bd6 11. Bg3 b5 12. Qe2 b4 13. Ne4 Bxg3 14. hxg3
+O-O 15. c3 a5 16. cxb4 Bb7 17. Nc5 axb4 18. Nxb7 Qxb7 19. Rac1 Rfc8 20. Qe4
+Nxe4 *
+
+[Event "text-davinci-003 vs Stockfish"]
+[Site "chessgpt@skiff.com: localhost, appended Stockfish ELo to its name"]
+[Date "????.??.??"]
+[Round "?"]
+[White "text-davinci-003"]
+[Black "Stockfish_Elo1694"]
+[Result "*"]
+[WhiteElo "?"]
+[BlackElo "1694"]
+[UnknownSAN "Bxd4"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qe6+ 4. Be2 c5 5. Nf3 Qd6 6. d4 Qd8 7. dxc5
+Qxd1+ 8. Bxd1 Bd7 9. O-O Nf6 10. Bg5 Nc6 11. Bxf6 gxf6 12. Nd4 Nxd4 *
+
+[Event "RANDOM chess engine vs text-davinci-003"]
+[Site "chessgpt@skiff.com: localhost, appended Stockfish ELo to its name"]
+[Date "????.??.??"]
+[Round "?"]
+[White "RANDOM chess engine"]
+[Black "text-davinci-003"]
+[Result "*"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[UnknownSAN "Bd7"]
+
+1. a4 e5 2. Nc3 Nf6 3. Na2 d6 4. h4 Be6 5. c4 c6 6. e3 Nbd7 7. Be2 Qc7 8.
+Bd3 *
+
+[Event "text-davinci-003 vs Stockfish"]
+[Site "chessgpt@skiff.com: localhost, appended Stockfish ELo to its name"]
+[Date "????.??.??"]
+[Round "?"]
+[White "text-davinci-003"]
+[Black "Stockfish_Elo1694"]
+[Result "*"]
+[WhiteElo "?"]
+[BlackElo "1694"]
+[UnknownSAN "Bf2"]
+
+1. e4 Nh6 2. d4 e6 3. Nf3 d5 4. exd5 exd5 5. Bd3 Ng4 6. Bf4 Be7 7. O-O Nf6
+8. Re1 a6 9. c3 Nc6 10. Bg3 h6 11. h3 O-O 12. Nbd2 Nh5 *
+
+[Event "text-davinci-003 vs Stockfish"]
+[Site "chessgpt@skiff.com: localhost, appended Stockfish ELo to its name"]
+[Date "????.??.??"]
+[Round "?"]
+[White "text-davinci-003"]
+[Black "Stockfish_Elo1694"]
+[Result "*"]
+[WhiteElo "?"]
+[BlackElo "1694"]
+[UnknownSAN "Qxb3"]
+
+1. e4 d6 2. d4 e6 3. Nf3 Nf6 4. Bd3 Nc6 5. O-O g6 6. c3 e5 7. d5 Ne7 8.
+Nbd2 c6 9. dxc6 Nxc6 10. Nb3 Be7 11. Bg5 Be6 12. Qd2 h6 13. Bh4 g5 14. Bg3
+Nd7 15. Rad1 h5 16. h3 a6 17. a4 Bxb3 *
+
+[Event "text-davinci-003 vs Stockfish"]
+[Site "chessgpt@skiff.com: localhost, appended Stockfish ELo to its name"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish_Elo1694"]
+[Black "text-davinci-003"]
+[Result "*"]
+[WhiteElo "1694"]
+[BlackElo "?"]
+[UnknownSAN "Kc6"]
+
+1. e4 c5 2. d3 d5 3. Nf3 Nf6 4. exd5 Qxd5 5. Nc3 Qd6 6. d4 cxd4 7. Nb5 Qc5
+8. Qxd4 Qxd4 9. Nfxd4 Nc6 10. Nxc6 bxc6 11. Nc7+ Kd7 12. Nxa8 Nd5 13. Bd2
+Nf4 14. Bxf4 e5 15. O-O-O+ *
+
+[Event "text-davinci-003 vs Stockfish"]
+[Site "chessgpt@skiff.com: localhost, appended Stockfish ELo to its name"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish_Elo1694"]
+[Black "text-davinci-003"]
+[Result "*"]
+[WhiteElo "1694"]
+[BlackElo "?"]
+[UnknownSAN "Bxd4"]
+
+1. Nf3 Nf6 2. d3 d5 3. d4 c5 4. dxc5 e6 5. Bg5 Be7 6. e3 O-O 7. c4 Nc6 8.
+cxd5 exd5 9. Be2 Bf5 10. Nc3 Re8 11. Nd4 Bg6 12. O-O *
+
+[Event "text-davinci-003 vs Stockfish"]
+[Site "chessgpt@skiff.com: localhost, appended Stockfish ELo to its name"]
+[Date "????.??.??"]
+[Round "?"]
+[White "text-davinci-003"]
+[Black "Stockfish_Elo1694"]
+[Result "*"]
+[WhiteElo "?"]
+[BlackElo "1694"]
+[UnknownSAN "Nxg5"]
+
+1. e4 d5 2. exd5 c6 3. dxc6 Nxc6 4. Nf3 e5 5. Bb5 Bd6 6. O-O Ne7 7. Re1 Bg4
+8. c3 O-O 9. h3 Bxf3 10. Qxf3 Kh8 11. Bxc6 Nxc6 12. Qh5 f5 13. Qg5 Qxg5 *
+
+[Event "text-davinci-003 vs RANDOM chess engine"]
+[Site "chessgpt@skiff.com: localhost, appended Stockfish ELo to its name"]
+[Date "????.??.??"]
+[Round "?"]
+[White "text-davinci-003"]
+[Black "RANDOM chess engine"]
+[Result "*"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[UnknownSAN "O-O-O"]
+
+1. e4 g5 2. Nf3 c5 3. d4 c4 4. d5 d6 5. c3 h6 6. Nbd2 b6 7. Bd3 Bf5 8. Qe2
+Rh7 *
+
+[Event "RANDOM chess engine vs text-davinci-003"]
+[Site "chessgpt@skiff.com: localhost, appended Stockfish ELo to its name"]
+[Date "????.??.??"]
+[Round "?"]
+[White "RANDOM chess engine"]
+[Black "text-davinci-003"]
+[Result "*"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[UnknownSAN "+"]
+
+1. f3 e5 2. d4 exd4 3. a4 d6 4. b4 c5 5. h4 Nc6 6. Qxd4 Nf6 7. Qf4 Qb6 8.
+Nd2 Qxb4 9. Qg3 Qxa4 10. Nc4 Qb4+ 11. Kf2 Qb6 12. Rh2 Be6 13. Na3 Qb4 14.
+Qxg7 Rg8 15. c4 Qb6 16. Nb1 Qb4 17. Qxg8 *
+
+[Event "text-davinci-003 vs Stockfish"]
+[Site "chessgpt@skiff.com: localhost, appended Stockfish ELo to its name"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish_Elo1694"]
+[Black "text-davinci-003"]
+[Result "*"]
+[WhiteElo "1694"]
+[BlackElo "?"]
+[UnknownSAN "Bd7"]
+
+1. e3 e5 2. c4 Nf6 3. Be2 d5 4. cxd5 Nxd5 5. d3 Nc6 6. Nc3 Be6 7. Bd2 Qd7
+8. Nxd5 Bxd5 9. e4 Be6 10. Qa4 *
+
+[Event "text-davinci-003 vs Stockfish"]
+[Site "chessgpt@skiff.com: localhost, appended Stockfish ELo to its name"]
+[Date "????.??.??"]
+[Round "?"]
+[White "text-davinci-003"]
+[Black "Stockfish_Elo1694"]
+[Result "*"]
+[WhiteElo "?"]
+[BlackElo "1694"]
+[UnknownSAN "Qh5+"]
+
+1. e4 d5 2. exd5 c6 3. dxc6 Nxc6 4. Nf3 e5 5. Bb5 Qc7 6. O-O Bg4 7. h3 Be6
+8. d3 f6 9. Nbd2 O-O-O 10. Re1 Nh6 11. Nf1 g5 12. Ng3 Nf5 13. Bf4 gxf4 14.
+Nxf5 Bxf5 *
+
+[Event "text-davinci-003 vs Stockfish"]
+[Site "chessgpt@skiff.com: localhost, appended Stockfish ELo to its name"]
+[Date "????.??.??"]
+[Round "?"]
+[White "text-davinci-003"]
+[Black "Stockfish_Elo1694"]
+[Result "*"]
+[WhiteElo "?"]
+[BlackElo "1694"]
+[UnknownSAN "Bxe7"]
+
+1. e4 e6 2. d4 d6 3. Nf3 Be7 4. Bd3 Nd7 5. O-O Ngf6 6. c3 e5 7. d5 a5 8. a4
+O-O 9. Nbd2 c6 10. dxc6 Nc5 11. Bb5 Nfxe4 12. Nxe4 Nxe4 *
+
+[Event "text-davinci-003 vs Stockfish"]
+[Site "chessgpt@skiff.com: localhost, appended Stockfish ELo to its name"]
+[Date "????.??.??"]
+[Round "?"]
+[White "text-davinci-003"]
+[Black "Stockfish_Elo1694"]
+[Result "*"]
+[WhiteElo "?"]
+[BlackElo "1694"]
+[UnknownSAN "Rxc4"]
+
+1. e4 d5 2. exd5 g6 3. d4 Nf6 4. Nf3 Qxd5 5. Nc3 Qd8 6. Bc4 Bg7 7. O-O Bf5
+8. Bf4 Nc6 9. Qe2 Nxd4 10. Nxd4 Bg4 11. f3 O-O 12. fxg4 Qxd4+ 13. Kh1 Nxg4
+14. Qe3 Nxe3 15. Bxe3 Qxe3 16. Rf3 Qd4 17. Rg3 Qxc4 *
+
+[Event "text-davinci-003 vs Stockfish"]
+[Site "chessgpt@skiff.com: localhost, appended Stockfish ELo to its name"]
+[Date "????.??.??"]
+[Round "?"]
+[White "text-davinci-003"]
+[Black "Stockfish_Elo1694"]
+[Result "*"]
+[WhiteElo "?"]
+[BlackElo "1694"]
+[UnknownSAN "Be3"]
+
+1. e4 d5 2. exd5 c6 3. dxc6 Nxc6 4. Nf3 Qc7 5. Bd3 Bg4 6. h3 Bxf3 7. Qxf3
+a6 8. O-O Ne5 9. Qe2 Nf6 10. c3 Nxd3 11. Qxd3 e6 *
+
+[Event "text-davinci-003 vs Stockfish"]
+[Site "chessgpt@skiff.com: localhost, appended Stockfish ELo to its name"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish_Elo1694"]
+[Black "text-davinci-003"]
+[Result "*"]
+[WhiteElo "1694"]
+[BlackElo "?"]
+[UnknownSAN "Nb4"]
+
+1. Nf3 Nf6 2. d4 d5 3. g3 c5 4. c4 dxc4 5. Bg2 Nc6 6. Ne5 Qd5 7. Bxd5 Nxd5
+8. Na3 e6 9. Rb1 Be7 10. e4 *
+
+[Event "text-davinci-003 vs RANDOM chess engine"]
+[Site "chessgpt@skiff.com: localhost, appended Stockfish ELo to its name"]
+[Date "????.??.??"]
+[Round "?"]
+[White "text-davinci-003"]
+[Black "RANDOM chess engine"]
+[Result "*"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[UnknownSAN "Bc2"]
+
+1. e4 c5 2. Nf3 e6 3. d4 Qb6 4. Nc3 Nf6 5. Bd3 Rg8 6. O-O h5 7. Qe2 a6 8.
+a4 c4 *
+
+[Event "text-davinci-003 vs Stockfish"]
+[Site "chessgpt@skiff.com: localhost, appended Stockfish ELo to its name"]
+[Date "????.??.??"]
+[Round "?"]
+[White "text-davinci-003"]
+[Black "Stockfish_Elo1694"]
+[Result "*"]
+[WhiteElo "?"]
+[BlackElo "1694"]
+[UnknownSAN "c8=Q+"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 e6 4. Nf3 Nxd5 5. Nc3 a6 6. Bc4 Be7 7. O-O Nxc3
+8. bxc3 b5 9. Bb3 Bb7 10. Re1 c5 11. dxc5 Qxd1 12. Rxd1 Bxf3 13. gxf3 O-O
+14. Kg2 Rc8 15. Rd2 Bf6 16. Rd6 a5 17. Bd5 exd5 18. c6 Bxc3 19. c7 Na6 20.
+Rf6 Bxf6 *
+
+[Event "text-davinci-003 vs Stockfish"]
+[Site "chessgpt@skiff.com: localhost, appended Stockfish ELo to its name"]
+[Date "????.??.??"]
+[Round "?"]
+[White "text-davinci-003"]
+[Black "Stockfish_Elo1694"]
+[Result "*"]
+[WhiteElo "?"]
+[BlackElo "1694"]
+[UnknownSAN "Bb1"]
+
+1. e4 d5 2. exd5 c6 3. dxc6 Nxc6 4. Nf3 Qc7 5. Bd3 g5 6. O-O g4 7. Nh4 Bd7
+8. Nf5 Nb4 *
+
+[Event "RANDOM chess engine vs text-davinci-003"]
+[Site "chessgpt@skiff.com: localhost, appended Stockfish ELo to its name"]
+[Date "????.??.??"]
+[Round "?"]
+[White "RANDOM chess engine"]
+[Black "text-davinci-003"]
+[Result "*"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[UnknownSAN "Bg5"]
+
+1. f3 e5 2. a3 d5 3. Nh3 Nf6 4. c4 c6 5. b3 Be6 6. g4 h6 7. Qc2 Nbd7 8. d3
+Be7 9. g5 hxg5 10. Bb2 Qc7 11. Bxe5 Nxe5 12. Qc3 Nfd7 13. cxd5 cxd5 14. Bg2
+O-O 15. Kf2 Nf6 16. Qd4 Nc6 17. Qxf6 Bxf6 18. Rd1 Rac8 19. Kg1 Rfd8 20. Nc3
+*
+
+[Event "text-davinci-003 vs Stockfish"]
+[Site "chessgpt@skiff.com: localhost, appended Stockfish ELo to its name"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish_Elo1694"]
+[Black "text-davinci-003"]
+[Result "*"]
+[WhiteElo "1694"]
+[BlackElo "?"]
+[UnknownSAN "Qg5"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bd2 O-O 5. Nf3 d5 6. a3 Bxc3 7. bxc3 c5 8.
+Bg5 h6 9. Bh4 dxc4 10. e3 Qa5 11. Rc1 cxd4 12. Bxf6 gxf6 13. Nxd4 Qd8 14.
+Qg4+ Kh8 15. Bxc4 *
+
+[Event "RANDOM chess engine vs text-davinci-003"]
+[Site "chessgpt@skiff.com: localhost, appended Stockfish ELo to its name"]
+[Date "????.??.??"]
+[Round "?"]
+[White "RANDOM chess engine"]
+[Black "text-davinci-003"]
+[Result "*"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[UnknownSAN "+"]
+
+1. g4 e5 2. Na3 d5 3. e4 dxe4 4. Bg2 Nf6 5. Ke2 Nc6 6. Bxe4 Bxg4+ 7. Ke1
+Bd6 8. Nc4 Bc5 9. Na3 Bb6 10. d4 exd4 11. Bd5 Qe7+ 12. Be6 *
+
+[Event "text-davinci-003 vs Stockfish"]
+[Site "chessgpt@skiff.com: localhost, appended Stockfish ELo to its name"]
+[Date "????.??.??"]
+[Round "?"]
+[White "text-davinci-003"]
+[Black "Stockfish_Elo1694"]
+[Result "*"]
+[WhiteElo "?"]
+[BlackElo "1694"]
+[UnknownSAN "c3"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 g6 6. Nf3 Be7 7. Bd3 c6 8.
+O-O c5 *
+
+[Event "text-davinci-003 vs RANDOM chess engine"]
+[Site "chessgpt@skiff.com: localhost, appended Stockfish ELo to its name"]
+[Date "????.??.??"]
+[Round "?"]
+[White "text-davinci-003"]
+[Black "RANDOM chess engine"]
+[Result "*"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[UnknownSAN "Bxd6"]
+
+1. e4 Nh6 2. d4 Nc6 3. Nf3 e6 4. Bb5 Bd6 5. O-O Be5 6. Re1 Nxd4 7. Nxd4 b6
+8. Bc6 Nf5 9. Nf3 h6 10. Bd5 Bd6 11. c4 Ne3 12. Qc2 c6 *
+
+[Event "text-davinci-003 vs Stockfish"]
+[Site "chessgpt@skiff.com: localhost, appended Stockfish ELo to its name"]
+[Date "????.??.??"]
+[Round "?"]
+[White "text-davinci-003"]
+[Black "Stockfish_Elo1694"]
+[Result "*"]
+[WhiteElo "?"]
+[BlackElo "1694"]
+[UnknownSAN "O-O"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd7 4. d4 e6 5. Nf3 Nf6 6. Bg5 Bb4 7. Bd2 Nc6
+*
+
+[Event "text-davinci-003 vs Stockfish"]
+[Site "chessgpt@skiff.com: localhost, appended Stockfish ELo to its name"]
+[Date "????.??.??"]
+[Round "?"]
+[White "text-davinci-003"]
+[Black "Stockfish_Elo1694"]
+[Result "*"]
+[WhiteElo "?"]
+[BlackElo "1694"]
+[UnknownSAN "Qxd3"]
+
+1. e4 d5 2. exd5 c6 3. dxc6 bxc6 4. Nf3 Bf5 5. Nc3 Nd7 6. Bd3 Bxd3 *
+
+[Event "text-davinci-003 vs RANDOM chess engine"]
+[Site "chessgpt@skiff.com: localhost, appended Stockfish ELo to its name"]
+[Date "????.??.??"]
+[Round "?"]
+[White "text-davinci-003"]
+[Black "RANDOM chess engine"]
+[Result "*"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[UnknownSAN "Bf1"]
+
+1. e4 a6 2. d4 Nf6 3. Nc3 b5 4. Bd3 h5 5. Nf3 Ra7 6. O-O Bb7 7. a3 d6 8. b4
+h4 9. Re1 Nc6 10. Bf1 g6 11. Bg5 d5 12. exd5 Ne4 13. Nxe4 Qxd5 14. Nf6+ Kd8
+15. Ng8 Qxf3 16. Qxf3 a5 17. bxa5 Kd7 18. Qf5+ e6 19. Qf4 Ne5 20. Qg4 Nc4 *
+
+[Event "text-davinci-003 vs Stockfish"]
+[Site "chessgpt@skiff.com: localhost, appended Stockfish ELo to its name"]
+[Date "????.??.??"]
+[Round "?"]
+[White "text-davinci-003"]
+[Black "Stockfish_Elo1694"]
+[Result "*"]
+[WhiteElo "?"]
+[BlackElo "1694"]
+[UnknownSAN "Qxf3"]
+
+1. e4 e6 2. d4 d6 3. Nf3 Nf6 4. Bd3 Be7 5. O-O Nfd7 6. c4 a6 7. Nc3 e5 8.
+d5 c5 9. b3 Nf8 10. Bb2 Bg4 11. Qd2 Ng6 12. h3 Bxf3 *
+
+[Event "text-davinci-003 vs Stockfish"]
+[Site "chessgpt@skiff.com: localhost, appended Stockfish ELo to its name"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish_Elo1694"]
+[Black "text-davinci-003"]
+[Result "*"]
+[WhiteElo "1694"]
+[BlackElo "?"]
+[UnknownSAN "Qf5"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bf4 c5 4. c4 cxd4 5. e4 d5 6. exd5 exd5 7. Bd3 Nc6
+8. Nbd2 Bd6 9. cxd5 Nxd5 10. Qe2+ Be6 11. Bg3 Qd7 12. Ng5 *
+
+[Event "text-davinci-003 vs RANDOM chess engine"]
+[Site "chessgpt@skiff.com: localhost, appended Stockfish ELo to its name"]
+[Date "????.??.??"]
+[Round "?"]
+[White "text-davinci-003"]
+[Black "RANDOM chess engine"]
+[Result "*"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[UnknownSAN "Bg3"]
+
+1. e4 d5 2. exd5 Bf5 3. Nf3 Qd6 4. d4 Nf6 5. c4 Qa6 6. Nc3 Ne4 7. Bd3 Qa5
+8. O-O Bc8 9. Qb3 h6 10. Bxe4 a6 *
+
+[Event "RANDOM chess engine vs text-davinci-003"]
+[Site "chessgpt@skiff.com: localhost, appended Stockfish ELo to its name"]
+[Date "????.??.??"]
+[Round "?"]
+[White "RANDOM chess engine"]
+[Black "text-davinci-003"]
+[Result "*"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[UnknownSAN "dxc4"]
+
+1. g4 e5 2. d4 exd4 3. a3 d5 4. Qd3 Nf6 5. Qf3 *
+
+[Event "text-davinci-003 vs Stockfish"]
+[Site "chessgpt@skiff.com: localhost, appended Stockfish ELo to its name"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish_Elo1694"]
+[Black "text-davinci-003"]
+[Result "*"]
+[WhiteElo "1694"]
+[BlackElo "?"]
+[UnknownSAN "Rae8"]
+
+1. e4 e5 2. Nf3 Nc6 3. Be2 Nf6 4. O-O Bc5 5. Nc3 d6 6. d3 O-O 7. Na4 Bb6 8.
+Re1 Re8 9. Nxb6 axb6 10. a3 Bg4 11. h3 Bh5 12. c3 Qd7 13. Bg5 h6 14. Bc1
+Qf5 15. exf5 Nd4 16. cxd4 exd4 17. Nxd4 Bg6 18. fxg6 fxg6 19. Qd2 *
+
+[Event "text-davinci-003 vs RANDOM chess engine"]
+[Site "chessgpt@skiff.com: localhost, appended Stockfish ELo to its name"]
+[Date "????.??.??"]
+[Round "?"]
+[White "text-davinci-003"]
+[Black "RANDOM chess engine"]
+[Result "*"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[UnknownSAN "Nd3"]
+
+1. e4 f6 2. d4 b5 3. Nf3 f5 4. exf5 d5 5. Bd3 g5 6. c3 e6 7. Qb3 Nh6 8. O-O
+Ng8 9. Nbd2 Kf7 10. Ne5+ Ke7 *
+
+[Event "text-davinci-003 vs Stockfish"]
+[Site "chessgpt@skiff.com: localhost, appended Stockfish ELo to its name"]
+[Date "????.??.??"]
+[Round "?"]
+[White "text-davinci-003"]
+[Black "Stockfish_Elo1694"]
+[Result "*"]
+[WhiteElo "?"]
+[BlackElo "1694"]
+[UnknownSAN "Qxd8+"]
+
+1. e4 d6 2. d4 h6 3. Nf3 Nf6 4. Bd3 e5 5. dxe5 dxe5 *
+
+[Event "text-davinci-003 vs Stockfish"]
+[Site "chessgpt@skiff.com: localhost, appended Stockfish ELo to its name"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish_Elo1694"]
+[Black "text-davinci-003"]
+[Result "*"]
+[WhiteElo "1694"]
+[BlackElo "?"]
+[UnknownSAN "Bf5"]
+
+1. d4 Nf6 2. c4 e6 3. Bg5 Be7 4. Nf3 d5 5. Nc3 O-O 6. e3 h6 7. Bf4 c5 8. a3
+Nc6 9. Be2 b6 10. cxd5 exd5 11. Rc1 Bb7 12. dxc5 bxc5 13. O-O Qd6 14. Bxd6
+Bxd6 15. Nb5 Bb8 16. Nc3 Ne4 17. Nxd5 Nc3 18. Nxc3 *
+
+[Event "text-davinci-003 vs Stockfish"]
+[Site "chessgpt@skiff.com: localhost, appended Stockfish ELo to its name"]
+[Date "????.??.??"]
+[Round "?"]
+[White "text-davinci-003"]
+[Black "Stockfish_Elo1694"]
+[Result "*"]
+[WhiteElo "?"]
+[BlackElo "1694"]
+[UnknownSAN "Bxh6+"]
+
+1. e4 d6 2. d4 h6 3. Nf3 g6 4. Bd3 Bg7 5. O-O a6 6. c3 e5 7. d5 c6 8. Nbd2
+cxd5 9. exd5 f5 10. Re1 Qc7 11. Nf1 Qe7 12. Ng3 a5 13. Bf4 a4 14. Qd2 Bd7
+15. Bg5 hxg5 16. Nxg5 Bf6 17. Nf7 Kxf7 18. Qh6 Nxh6 *
+
+[Event "text-davinci-003 vs Stockfish"]
+[Site "chessgpt@skiff.com: localhost, appended Stockfish ELo to its name"]
+[Date "????.??.??"]
+[Round "?"]
+[White "text-davinci-003"]
+[Black "Stockfish_Elo1694"]
+[Result "*"]
+[WhiteElo "?"]
+[BlackElo "1694"]
+[UnknownSAN "Bb5"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qe6+ 4. Be2 Nf6 5. Nf3 a6 6. d3 Nc6 7. O-O Qf5
+8. Bg5 Nd4 9. Nxd4 Qxg5 10. Nf3 Qf4 11. Re1 e6 12. Bf1 Qb4 13. Qd2 Bd7 14.
+a3 Qd6 15. b4 g6 *
+
+[Event "RANDOM chess engine vs text-davinci-003"]
+[Site "chessgpt@skiff.com: localhost, appended Stockfish ELo to its name"]
+[Date "????.??.??"]
+[Round "?"]
+[White "RANDOM chess engine"]
+[Black "text-davinci-003"]
+[Result "*"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[UnknownSAN "Qd5"]
+
+1. d3 d5 2. f3 Nf6 3. h3 c5 4. Bh6 g6 5. b4 cxb4 6. Bg7 Bxg7 7. Nd2 Nc6 8.
+Qb1 Bd7 9. c3 bxc3 10. e4 dxe4 11. Qb5 *
+
+[Event "text-davinci-003 vs Stockfish"]
+[Site "chessgpt@skiff.com: localhost, appended Stockfish ELo to its name"]
+[Date "????.??.??"]
+[Round "?"]
+[White "text-davinci-003"]
+[Black "Stockfish_Elo1694"]
+[Result "*"]
+[WhiteElo "?"]
+[BlackElo "1694"]
+[UnknownSAN "Bxh5"]
+
+1. e4 d5 2. exd5 c6 3. dxc6 e5 4. Nf3 e4 5. Ng5 Qxg5 6. Qh5 Qxh5 *
+
+[Event "text-davinci-003 vs Stockfish"]
+[Site "chessgpt@skiff.com: localhost, appended Stockfish ELo to its name"]
+[Date "????.??.??"]
+[Round "?"]
+[White "text-davinci-003"]
+[Black "Stockfish_Elo1694"]
+[Result "*"]
+[WhiteElo "?"]
+[BlackElo "1694"]
+[UnknownSAN "Qxd5"]
+
+1. e4 d5 2. exd5 g6 3. d4 c6 4. Nf3 Bg7 5. c4 cxd5 6. cxd5 a6 7. Bf4 Nd7 8.
+Nc3 Nh6 9. Bg3 Nb6 10. Qd2 Nf5 11. Bf4 h6 12. O-O-O Nxd5 13. Nxd5 Qxd5 *
+
+[Event "RANDOM chess engine vs text-davinci-003"]
+[Site "chessgpt@skiff.com: localhost, appended Stockfish ELo to its name"]
+[Date "????.??.??"]
+[Round "?"]
+[White "RANDOM chess engine"]
+[Black "text-davinci-003"]
+[Result "*"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[UnknownSAN "Bb4"]
+
+1. Nc3 d5 2. f3 c5 3. d4 Nf6 4. b4 cxb4 5. Qd2 Nc6 6. Ne4 e6 7. Rb1 *
+
+[Event "text-davinci-003 vs Stockfish"]
+[Site "chessgpt@skiff.com: localhost, appended Stockfish ELo to its name"]
+[Date "????.??.??"]
+[Round "?"]
+[White "text-davinci-003"]
+[Black "Stockfish_Elo1694"]
+[Result "*"]
+[WhiteElo "?"]
+[BlackElo "1694"]
+[UnknownSAN "Bxg4"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Be3 Nbd7 5. Qd2 a6 6. f3 b5 7. Nge2 h5 8.
+g4 hxg4 9. fxg4 Bb7 10. Bg2 b4 11. Nd1 Nxg4 *
+
+[Event "text-davinci-003 vs Stockfish"]
+[Site "chessgpt@skiff.com: localhost, appended Stockfish ELo to its name"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish_Elo1694"]
+[Black "text-davinci-003"]
+[Result "*"]
+[WhiteElo "1694"]
+[BlackElo "?"]
+[UnknownSAN "Nd7"]
+
+1. e4 c5 2. d3 d5 3. Be2 Nf6 4. Nd2 e6 5. e5 Nfd7 6. f4 Be7 7. c3 Nc6 8.
+Ndf3 Qb6 9. Nh3 O-O 10. g4 a5 11. g5 *
+
+[Event "text-davinci-003 vs Stockfish"]
+[Site "chessgpt@skiff.com: localhost, appended Stockfish ELo to its name"]
+[Date "????.??.??"]
+[Round "?"]
+[White "text-davinci-003"]
+[Black "Stockfish_Elo1694"]
+[Result "*"]
+[WhiteElo "?"]
+[BlackElo "1694"]
+[UnknownSAN "Qxf4"]
+
+1. e4 e6 2. d4 a6 3. Nf3 h6 4. Bd3 d6 5. O-O g5 6. c3 Nc6 7. Re1 e5 8. d5
+Na7 9. Nbd2 h5 10. h3 Ne7 11. Nf1 g4 12. hxg4 Bxg4 13. Ng3 Bh6 14. Bf4 Bxf4
+*
+
+[Event "text-davinci-003 vs Stockfish"]
+[Site "chessgpt@skiff.com: localhost, appended Stockfish ELo to its name"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish_Elo1694"]
+[Black "text-davinci-003"]
+[Result "*"]
+[WhiteElo "1694"]
+[BlackElo "?"]
+[UnknownSAN "Bxf5"]
+
+1. e4 e5 2. d4 exd4 3. Nf3 Nf6 4. Nxd4 Nxe4 5. Nd2 Nf6 6. Qe2+ Be7 7. g4 d5
+8. g5 Nfd7 9. Nf5 *
+
+[Event "text-davinci-003 vs Stockfish"]
+[Site "chessgpt@skiff.com: localhost, appended Stockfish ELo to its name"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish_Elo1694"]
+[Black "text-davinci-003"]
+[Result "*"]
+[WhiteElo "1694"]
+[BlackElo "?"]
+[UnknownSAN "Rxe8"]
+
+1. e3 e5 2. c4 Nf6 3. Nc3 Bb4 4. d4 exd4 5. exd4 d5 6. Be2 O-O 7. Be3 Bxc3+
+8. bxc3 Re8 9. Nf3 Nbd7 10. O-O c6 11. Qb3 Qc7 12. Rfe1 Nf8 13. cxd5 cxd5
+14. Rab1 Ng6 15. h3 h6 16. Qc2 Qd6 17. Bf1 Qf4 18. Bxf4 Nxf4 19. Rxe8+ *
+
+[Event "text-davinci-003 vs Stockfish"]
+[Site "chessgpt@skiff.com: localhost, appended Stockfish ELo to its name"]
+[Date "????.??.??"]
+[Round "?"]
+[White "text-davinci-003"]
+[Black "Stockfish_Elo1694"]
+[Result "*"]
+[WhiteElo "?"]
+[BlackElo "1694"]
+[UnknownSAN "Qf4"]
+
+1. e4 Nh6 2. d4 c6 3. Nf3 g6 4. Bd3 Bg7 5. O-O d5 6. exd5 Nf5 7. Re1 cxd5
+8. Nc3 a6 9. Bf4 O-O 10. Qd2 Be6 11. Rad1 Nd6 12. Bg3 Re8 13. Ne5 Nc6 14.
+Bf4 Qb6 *
+
+[Event "RANDOM chess engine vs text-davinci-003"]
+[Site "chessgpt@skiff.com: localhost, appended Stockfish ELo to its name"]
+[Date "????.??.??"]
+[Round "?"]
+[White "RANDOM chess engine"]
+[Black "text-davinci-003"]
+[Result "*"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[UnknownSAN "Bd6"]
+
+1. h4 e5 2. e3 Nf6 3. Ke2 d5 4. c4 d4 5. Qa4+ Nc6 6. d3 Bd6 7. Nh3 O-O 8.
+Qa5 Bf5 9. Qd2 Qe7 10. Kd1 Bg6 11. Ke1 Rad8 12. a3 a6 13. g4 *
+
+[Event "text-davinci-003 vs Stockfish"]
+[Site "chessgpt@skiff.com: localhost, appended Stockfish ELo to its name"]
+[Date "????.??.??"]
+[Round "?"]
+[White "text-davinci-003"]
+[Black "Stockfish_Elo1694"]
+[Result "*"]
+[WhiteElo "?"]
+[BlackElo "1694"]
+[UnknownSAN "Rxd1"]
+
+1. e4 Nh6 2. d4 e6 3. Nf3 d5 4. exd5 exd5 5. Bd3 Qe7+ 6. Kf1 Nf5 7. Bxf5
+Bxf5 8. Qe2 f6 9. Nc3 Qxe2+ 10. Kxe2 c6 11. Ne5 fxe5 12. dxe5 h5 13. h3 Nd7
+14. Rd1 a5 15. g4 hxg4 16. hxg4 Bxg4+ 17. Kd2 Bxd1 *
+
+[Event "text-davinci-003 vs Stockfish"]
+[Site "chessgpt@skiff.com: localhost, appended Stockfish ELo to its name"]
+[Date "????.??.??"]
+[Round "?"]
+[White "text-davinci-003"]
+[Black "Stockfish_Elo1694"]
+[Result "*"]
+[WhiteElo "?"]
+[BlackElo "1694"]
+[UnknownSAN "Qxg5"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 a6 5. Nf3 b6 6. Bd3 Nd7 7. O-O h6 8.
+Re1 Ngf6 9. Nxf6+ Qxf6 10. Bg5 hxg5 *
+
+[Event "text-davinci-003 vs RANDOM chess engine"]
+[Site "chessgpt@skiff.com: localhost, appended Stockfish ELo to its name"]
+[Date "????.??.??"]
+[Round "?"]
+[White "text-davinci-003"]
+[Black "RANDOM chess engine"]
+[Result "*"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[UnknownSAN "Re1"]
+
+1. e4 b6 2. d4 a5 3. Nf3 Na6 4. Bd3 Rb8 5. O-O Nf6 6. c3 Nd5 7. Nbd2 Nxc3
+8. bxc3 Nb4 9. Qe2 Bb7 10. Bb2 h5 11. a3 e6 *
+
+[Event "text-davinci-003 vs Stockfish"]
+[Site "chessgpt@skiff.com: localhost, appended Stockfish ELo to its name"]
+[Date "????.??.??"]
+[Round "?"]
+[White "text-davinci-003"]
+[Black "Stockfish_Elo1694"]
+[Result "*"]
+[WhiteElo "?"]
+[BlackElo "1694"]
+[UnknownSAN "Qf3"]
+
+1. e4 d6 2. d4 e5 3. Nf3 Nf6 4. Nc3 Nc6 5. Bb5 exd4 6. Nxd4 Bd7 7. Bxc6
+bxc6 8. O-O c5 9. Nf3 Be7 10. Re1 O-O 11. Bg5 Nh5 12. Bxe7 Qxe7 13. Qd3 Nf4
+*
+

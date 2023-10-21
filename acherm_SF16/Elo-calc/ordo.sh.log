@@ -1,0 +1,29 @@
+
+File: ./ALL-games_Elo-labeled.pgn
+Loading data (2000 games x dot): 
+
+|
+
+Total games                 878
+ - White wins               235
+ - Draws                     62
+ - Black wins               320
+ - Truncated/Discarded      261
+Unique head to head        2.28%
+Reference rating     --> not fixed, determined by anchors
+
+Anchoring, Stockfish_Elo1694 --> 1694.0
+Anchoring, Stockfish_Elo1785 --> 1785.0
+Anchoring, Stockfish_Elo1871 --> 1871.0
+Loose Anchors = none
+Relative Anchors = none
+
+
+Groups=2
+Encounters: Total=20, within groups=19, @ interface between groups=1
+
+players with no games = 0
+players with all wins = 0
+players w/ all losses = 1
+players, total purged = 1
+

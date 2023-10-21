@@ -1,0 +1,7 @@
+"Stockfish_Elo1597",1597
+"Stockfish_Elo1694",1694
+"Stockfish_Elo1785",1785
+"Stockfish_Elo1871",1871
+"Stockfish_Elo1954",1954
+"Stockfish_Elo2035",2035
+

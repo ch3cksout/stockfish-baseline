@@ -1,0 +1,19 @@
+Group connectivity: **FAILED**
+
+Group 1
+ | RANDOM chess engine
+ | Stockfish_Elo1597
+ | Stockfish_Elo1694
+ | Stockfish_Elo1785
+ | Stockfish_Elo1871
+ | Stockfish_Elo1954
+ | Stockfish_Elo2035
+ | gpt-3.5-turbo
+ | gpt-3.5-turbo-instruct
+ | gpt-4
+ \---> this group has incomplete links with the rest (only wins or losses)
+
+Group 2
+ | text-davinci-003
+ \---> this group has incomplete links with the rest (only wins or losses)
+
