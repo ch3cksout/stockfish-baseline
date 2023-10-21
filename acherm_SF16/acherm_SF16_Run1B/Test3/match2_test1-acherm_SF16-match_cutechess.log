@@ -1,0 +1,101 @@
+Indexing opening suite...
+Started game 1 of 32 (Threads10_stockfish_15.1_Elo1785_40_60,000+600ms-Copy1 vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms-Copy2)
+Finished game 1 (Threads10_stockfish_15.1_Elo1785_40_60,000+600ms-Copy1 vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms-Copy2): 1-0 {White wins by adjudication}
+Score of Threads10_stockfish_15.1_Elo1785_40_60,000+600ms-Copy1 vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms-Copy2: 1 - 0 - 0  [1.000] 1
+...      Threads10_stockfish_15.1_Elo1785_40_60,000+600ms-Copy1 playing White: 1 - 0 - 0  [1.000] 1
+...      White vs Black: 1 - 0 - 0  [1.000] 1
+Elo difference: inf +/- nan, LOS: 84.1 %, DrawRatio: 0.0 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 2 of 32 (Threads10_stockfish_15.1_Elo1785_40_60,000+600ms-Copy2 vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms-Copy1)
+Finished game 2 (Threads10_stockfish_15.1_Elo1785_40_60,000+600ms-Copy2 vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms-Copy1): 1-0 {White wins by adjudication}
+Score of Threads10_stockfish_15.1_Elo1785_40_60,000+600ms-Copy1 vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms-Copy2: 1 - 1 - 0  [0.500] 2
+...      Threads10_stockfish_15.1_Elo1785_40_60,000+600ms-Copy1 playing White: 1 - 0 - 0  [1.000] 1
+...      Threads10_stockfish_15.1_Elo1785_40_60,000+600ms-Copy1 playing Black: 0 - 1 - 0  [0.000] 1
+...      White vs Black: 2 - 0 - 0  [1.000] 2
+Elo difference: 0.0 +/- nan, LOS: 50.0 %, DrawRatio: 0.0 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 3 of 32 (Threads10_stockfish_15.1_Elo1785_40_60,000+600ms-Copy1 vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms-Copy2)
+Finished game 3 (Threads10_stockfish_15.1_Elo1785_40_60,000+600ms-Copy1 vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms-Copy2): 0-1 {Black wins by adjudication}
+Score of Threads10_stockfish_15.1_Elo1785_40_60,000+600ms-Copy1 vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms-Copy2: 1 - 2 - 0  [0.333] 3
+...      Threads10_stockfish_15.1_Elo1785_40_60,000+600ms-Copy1 playing White: 1 - 1 - 0  [0.500] 2
+...      Threads10_stockfish_15.1_Elo1785_40_60,000+600ms-Copy1 playing Black: 0 - 1 - 0  [0.000] 1
+...      White vs Black: 2 - 1 - 0  [0.667] 3
+Elo difference: -120.4 +/- nan, LOS: 28.2 %, DrawRatio: 0.0 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 4 of 32 (Threads10_stockfish_15.1_Elo1785_40_60,000+600ms-Copy2 vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms-Copy1)
+Finished game 4 (Threads10_stockfish_15.1_Elo1785_40_60,000+600ms-Copy2 vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms-Copy1): 1-0 {White wins by adjudication}
+Score of Threads10_stockfish_15.1_Elo1785_40_60,000+600ms-Copy1 vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms-Copy2: 1 - 3 - 0  [0.250] 4
+...      Threads10_stockfish_15.1_Elo1785_40_60,000+600ms-Copy1 playing White: 1 - 1 - 0  [0.500] 2
+...      Threads10_stockfish_15.1_Elo1785_40_60,000+600ms-Copy1 playing Black: 0 - 2 - 0  [0.000] 2
+...      White vs Black: 3 - 1 - 0  [0.750] 4
+Elo difference: -190.8 +/- nan, LOS: 15.9 %, DrawRatio: 0.0 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 5 of 32 (Threads10_stockfish_15.1_Elo1785_40_60,000+600ms-Copy1 vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms-Copy2)
+Finished game 5 (Threads10_stockfish_15.1_Elo1785_40_60,000+600ms-Copy1 vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms-Copy2): 1-0 {White wins by adjudication}
+Score of Threads10_stockfish_15.1_Elo1785_40_60,000+600ms-Copy1 vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms-Copy2: 2 - 3 - 0  [0.400] 5
+...      Threads10_stockfish_15.1_Elo1785_40_60,000+600ms-Copy1 playing White: 2 - 1 - 0  [0.667] 3
+...      Threads10_stockfish_15.1_Elo1785_40_60,000+600ms-Copy1 playing Black: 0 - 2 - 0  [0.000] 2
+...      White vs Black: 4 - 1 - 0  [0.800] 5
+Elo difference: -70.4 +/- nan, LOS: 32.7 %, DrawRatio: 0.0 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 6 of 32 (Threads10_stockfish_15.1_Elo1785_40_60,000+600ms-Copy2 vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms-Copy1)
+Finished game 6 (Threads10_stockfish_15.1_Elo1785_40_60,000+600ms-Copy2 vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms-Copy1): 1-0 {White wins by adjudication}
+Score of Threads10_stockfish_15.1_Elo1785_40_60,000+600ms-Copy1 vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms-Copy2: 2 - 4 - 0  [0.333] 6
+...      Threads10_stockfish_15.1_Elo1785_40_60,000+600ms-Copy1 playing White: 2 - 1 - 0  [0.667] 3
+...      Threads10_stockfish_15.1_Elo1785_40_60,000+600ms-Copy1 playing Black: 0 - 3 - 0  [0.000] 3
+...      White vs Black: 5 - 1 - 0  [0.833] 6
+Elo difference: -120.4 +/- nan, LOS: 20.7 %, DrawRatio: 0.0 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 7 of 32 (Threads10_stockfish_15.1_Elo1785_40_60,000+600ms-Copy1 vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms-Copy2)
+Finished game 7 (Threads10_stockfish_15.1_Elo1785_40_60,000+600ms-Copy1 vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms-Copy2): 0-1 {Black wins by adjudication}
+Score of Threads10_stockfish_15.1_Elo1785_40_60,000+600ms-Copy1 vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms-Copy2: 2 - 5 - 0  [0.286] 7
+...      Threads10_stockfish_15.1_Elo1785_40_60,000+600ms-Copy1 playing White: 2 - 2 - 0  [0.500] 4
+...      Threads10_stockfish_15.1_Elo1785_40_60,000+600ms-Copy1 playing Black: 0 - 3 - 0  [0.000] 3
+...      White vs Black: 5 - 2 - 0  [0.714] 7
+Elo difference: -159.2 +/- nan, LOS: 12.8 %, DrawRatio: 0.0 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 8 of 32 (Threads10_stockfish_15.1_Elo1785_40_60,000+600ms-Copy2 vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms-Copy1)
+Finished game 8 (Threads10_stockfish_15.1_Elo1785_40_60,000+600ms-Copy2 vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms-Copy1): 1-0 {White wins by adjudication}
+Score of Threads10_stockfish_15.1_Elo1785_40_60,000+600ms-Copy1 vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms-Copy2: 2 - 6 - 0  [0.250] 8
+...      Threads10_stockfish_15.1_Elo1785_40_60,000+600ms-Copy1 playing White: 2 - 2 - 0  [0.500] 4
+...      Threads10_stockfish_15.1_Elo1785_40_60,000+600ms-Copy1 playing Black: 0 - 4 - 0  [0.000] 4
+...      White vs Black: 6 - 2 - 0  [0.750] 8
+Elo difference: -190.8 +/- nan, LOS: 7.9 %, DrawRatio: 0.0 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 9 of 32 (Threads10_stockfish_15.1_Elo1785_40_60,000+600ms-Copy1 vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms-Copy2)
+Finished game 9 (Threads10_stockfish_15.1_Elo1785_40_60,000+600ms-Copy1 vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms-Copy2): 0-1 {Black wins by adjudication}
+Score of Threads10_stockfish_15.1_Elo1785_40_60,000+600ms-Copy1 vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms-Copy2: 2 - 7 - 0  [0.222] 9
+...      Threads10_stockfish_15.1_Elo1785_40_60,000+600ms-Copy1 playing White: 2 - 3 - 0  [0.400] 5
+...      Threads10_stockfish_15.1_Elo1785_40_60,000+600ms-Copy1 playing Black: 0 - 4 - 0  [0.000] 4
+...      White vs Black: 6 - 3 - 0  [0.667] 9
+Elo difference: -217.6 +/- nan, LOS: 4.8 %, DrawRatio: 0.0 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 10 of 32 (Threads10_stockfish_15.1_Elo1785_40_60,000+600ms-Copy2 vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms-Copy1)
+Finished game 10 (Threads10_stockfish_15.1_Elo1785_40_60,000+600ms-Copy2 vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms-Copy1): 1-0 {White wins by adjudication}
+Score of Threads10_stockfish_15.1_Elo1785_40_60,000+600ms-Copy1 vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms-Copy2: 2 - 8 - 0  [0.200] 10
+...      Threads10_stockfish_15.1_Elo1785_40_60,000+600ms-Copy1 playing White: 2 - 3 - 0  [0.400] 5
+...      Threads10_stockfish_15.1_Elo1785_40_60,000+600ms-Copy1 playing Black: 0 - 5 - 0  [0.000] 5
+...      White vs Black: 7 - 3 - 0  [0.700] 10
+Elo difference: -240.8 +/- nan, LOS: 2.9 %, DrawRatio: 0.0 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 11 of 32 (Threads10_stockfish_15.1_Elo1785_40_60,000+600ms-Copy1 vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms-Copy2)
+Terminating process of engine Threads10_stockfish_15.1_Elo1785_40_60,000+600ms-Copy1(0)
+
+Player: Threads10_stockfish_15.1_Elo1785_40_60,000+600ms-Copy1
+   "Loss: Black wins by adjudication": 3
+   "Loss: White disconnects": 1
+   "Loss: White wins by adjudication": 5
+   "Win: White wins by adjudication": 2
+Player: Threads10_stockfish_15.1_Elo1785_40_60,000+600ms-Copy2
+   "Loss: White wins by adjudication": 2
+   "Win: Black wins by adjudication": 3
+   "Win: White disconnects": 1
+   "Win: White wins by adjudication": 5
+Finished match
+Finished game 11 (Threads10_stockfish_15.1_Elo1785_40_60,000+600ms-Copy1 vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms-Copy2): 0-1 {White disconnects}
+Score of Threads10_stockfish_15.1_Elo1785_40_60,000+600ms-Copy1 vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms-Copy2: 2 - 9 - 0  [0.182] 11
+...      Threads10_stockfish_15.1_Elo1785_40_60,000+600ms-Copy1 playing White: 2 - 4 - 0  [0.333] 6
+...      Threads10_stockfish_15.1_Elo1785_40_60,000+600ms-Copy1 playing Black: 0 - 5 - 0  [0.000] 5
+...      White vs Black: 7 - 4 - 0  [0.636] 11
+Elo difference: -261.3 +/- nan, LOS: 1.7 %, DrawRatio: 0.0 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf

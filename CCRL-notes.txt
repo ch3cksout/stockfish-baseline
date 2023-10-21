@@ -1,0 +1,18 @@
+ Many chess engine refer to the CCRL ratings list for their comparative performance.
+Stockfish has its calibration (run against the Stach engine) anchored to CCRL 40/4, i.e. a list for time control of 4 minutes for 40 moves.
+
+ At the time of this writing, the archived URL for the above mentioned list is:
+<https://web.archive.org/web/20231019032345/https://www.computerchess.org.uk/ccrl/404/>.
+Note that this is actually a list specified as "CCRL Blitz", which has not had the same time control historically!
+ For the original early settings (actual 40/4 for the fast "blitz" time control) see:
+<https://web.archive.org/web/20071228085500/http://computerchess.org.uk/ccrl/404/about.html>.
+
+Currently "CCRL Blitz" is set to be equivalent to 2'+1" on an Intel i7-4770K. For details, see:
+<https://web.archive.org/web/20230410102639/http://www.computerchess.org.uk/ccrl/404/about.html>.
+
+ Note that, for cross-hardware comparability, the actual time control should be adjusted for processing speed of the CPU.
+For this adjustment, CCRL uses Stockfish 10 as a benchmark to determine the equivalent time control for a particular machine.
+That binary is available here:
+<https://files.stockfishchess.org/archive/Stockfish%2010/>.
+
+

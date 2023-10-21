@@ -1,0 +1,4 @@
+"#","PLAYER","RATING","ERROR","POINTS","PLAYED","(%)"
+1,"Threads10_stockfish_15.1_Elo1700_40_60,000+600ms",1700.0,"-",5.00,8,62.50
+2,"Threads1_stockfish_15.1_Elo1700_40_60,000+600ms",1700.0,"-",4.50,8,56.25
+3,"stockfish_15.1_skynet-dev_handicapped",1633.5,"-",6.50,16,40.62

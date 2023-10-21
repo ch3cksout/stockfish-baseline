@@ -1,0 +1,70 @@
+
+Program to calculate individual ratings
+
+quick example: ordo -a 2500 -p input.pgn -o output.txt
+  - Processes input.pgn (PGN file) to calculate ratings to output.txt.
+  - The general pool will have an average of 2500
+
+usage: ordo [-OPTION]
+
+ -h, --help               print this help and exit
+ -H, --show-switches      print switch information and exit
+ -v, --version            print version number and exit
+ -L, --license            print license information  and exit
+ -q, --quiet              quiet mode (no progress updates on screen)
+     --silent             same as --quiet
+ -Q, --terse              same as --quiet, but shows simulation counter
+     --timelog            outputs elapsed time after each step
+ -a, --average=NUM        set rating for the pool average
+ -A, --anchor=<player>    anchor: rating given by '-a' is fixed for <player>
+ -V, --pool-relative      errors relative to pool average, not to the anchor
+ -m, --multi-anchors=FILE multiple anchors: file contains rows of 
+                          "AnchorName",AnchorRating
+ -y, --loose-anchors=FILE loose anchors: file contains rows of 
+                          "Player",Rating,Uncertainty
+ -r, --relations=FILE     relations: rows of 
+                          "PlayerA","PlayerB",delta_rating,uncertainty
+ -R, --remove-older       no output of older 'related' versions (given by -r)
+ -w, --white=NUM          white advantage value (default=0.0)
+ -u, --white-error=NUM    white advantage uncertainty value (default=0.0)
+ -W, --white-auto         white advantage will be automatically adjusted
+ -d, --draw=NUM           draw rate value % (default=50.0)
+ -k, --draw-error=NUM     draw rate uncertainty value % (default=0.0 %)
+ -D, --draw-auto          draw rate value will be automatically adjusted
+ -z, --scale=NUM          set rating for winning expectancy of 76% (default=202)
+ -T, --table              display winning expectancy table
+ -p, --pgn=FILE           input file, PGN format
+ -P, --pgn-list=FILE      multiple input: file with a list of PGN files
+ -o, --output=FILE        output file, text format
+ -c, --csv=FILE           output file, comma separated value format
+ -E, --elostat            output files in elostat format (rating.dat, 
+                          programs.dat & general.dat)
+ -j, --head2head=FILE     output file with head to head information
+ -g, --groups=FILE        outputs group connection info (no rating output)
+ -G, --force              force program to run ignoring isolated-groups warning
+ -s, --simulations=NUM    perform NUM simulations to calculate errors
+ -e, --error-matrix=FILE  save an error matrix (use of -s required)
+ -C, --cfs-matrix=FILE    save a matrix (comma separated value .csv) with 
+                          confidence for superiority (-s was used)
+ -J, --cfs-show           output an extra column with confidence for superiority
+                          (relative to the player in the next row)
+ -F, --confidence=NUM     confidence to estimate error margins (default=95.0)
+ -X, --ignore-draws       do not take into account draws in the calculation
+ -t, --threshold=NUM      threshold of games for a participant to be included
+ -N, --decimals=<a,b>     a=rating decimals, b=score decimals (optional)
+ -M, --ML                 force maximum-likelihood estimation to obtain ratings
+ -n, --cpus=NUM           number of processors used in simulations
+ -U, --columns=<a,..,z>   info in output (default columns are "0,1,2,3,4,5")
+ -Y, --synonyms=FILE      name synonyms (comma separated value format). Each 
+                          line: main,syn1,syn2 or "main","syn1","syn2"
+     --aliases=FILE       same as --synonyms FILE
+ -i, --include=FILE       include only games of participants present in FILE
+ -x, --exclude=FILE       names in FILE will not have their games included
+     --no-warnings        supress warnings of names from -x or -i that do not 
+                          match names in input file
+ -b, --column-format=FILE format column output, each line form FILE being 
+                          <column>,<width>,"Header"
+
+Copyright (c) 2015 Miguel A. Ballicora
+There is NO WARRANTY of any kind
+

@@ -1,0 +1,2 @@
+ needs to double check PGN output for illegal moves!
+ 

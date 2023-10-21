@@ -1,0 +1,24 @@
+Indexing opening suite...
+Started game 1 of 2 (Threads1_-Copy1 vs Threads1_-Copy2)
+Finished game 1 (Threads1_-Copy1 vs Threads1_-Copy2): 0-1 {Black wins by adjudication}
+Score of Threads1_-Copy1 vs Threads1_-Copy2: 0 - 1 - 0  [0.000] 1
+...      Threads1_-Copy1 playing White: 0 - 1 - 0  [0.000] 1
+...      White vs Black: 0 - 1 - 0  [0.000] 1
+Elo difference: -inf +/- nan, LOS: 15.9 %, DrawRatio: 0.0 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 2 of 2 (Threads1_-Copy2 vs Threads1_-Copy1)
+Finished game 2 (Threads1_-Copy2 vs Threads1_-Copy1): 1-0 {White wins by adjudication}
+Score of Threads1_-Copy1 vs Threads1_-Copy2: 0 - 2 - 0  [0.000] 2
+...      Threads1_-Copy1 playing White: 0 - 1 - 0  [0.000] 1
+...      Threads1_-Copy1 playing Black: 0 - 1 - 0  [0.000] 1
+...      White vs Black: 1 - 1 - 0  [0.500] 2
+Elo difference: -inf +/- nan, LOS: 7.9 %, DrawRatio: 0.0 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+
+Player: Threads1_-Copy1
+   "Loss: Black wins by adjudication": 1
+   "Loss: White wins by adjudication": 1
+Player: Threads1_-Copy2
+   "Win: Black wins by adjudication": 1
+   "Win: White wins by adjudication": 1
+Finished match

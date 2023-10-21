@@ -1,0 +1,833 @@
+Indexing opening suite...
+Started game 1 of 80 (Elo1785_40_60,000+600ms vs Elo1785_100ms)
+Finished game 1 (Elo1785_40_60,000+600ms vs Elo1785_100ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Elo1785_40_60,000+600ms       inf     nan       1  100.0%    0.0% 
+   2 Elo1785_100ms                -inf     nan       1    0.0%    0.0% 
+   3 Elo1785_20ms                  nan     nan       0    nan%    nan% 
+   4 SkillLevel4_40_60,000+600ms     nan     nan       0    nan%    nan% 
+   5 Elo1785_40_240,000ms          nan     nan       0    nan%    nan% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 2 of 80 (Elo1785_100ms vs Elo1785_40_60,000+600ms)
+Finished game 2 (Elo1785_100ms vs Elo1785_40_60,000+600ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Elo1785_40_60,000+600ms       inf     nan       2  100.0%    0.0% 
+   2 Elo1785_100ms                -inf     nan       2    0.0%    0.0% 
+   3 Elo1785_20ms                  nan     nan       0    nan%    nan% 
+   4 SkillLevel4_40_60,000+600ms     nan     nan       0    nan%    nan% 
+   5 Elo1785_40_240,000ms          nan     nan       0    nan%    nan% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 3 of 80 (SkillLevel4_40_60,000+600ms vs Elo1785_20ms)
+Finished game 3 (SkillLevel4_40_60,000+600ms vs Elo1785_20ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 SkillLevel4_40_60,000+600ms     inf     nan       1  100.0%    0.0% 
+   2 Elo1785_40_60,000+600ms       inf     nan       2  100.0%    0.0% 
+   3 Elo1785_100ms                -inf     nan       2    0.0%    0.0% 
+   4 Elo1785_20ms                 -inf     nan       1    0.0%    0.0% 
+   5 Elo1785_40_240,000ms          nan     nan       0    nan%    nan% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 4 of 80 (Elo1785_20ms vs SkillLevel4_40_60,000+600ms)
+Finished game 4 (Elo1785_20ms vs SkillLevel4_40_60,000+600ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 SkillLevel4_40_60,000+600ms     inf     nan       2  100.0%    0.0% 
+   2 Elo1785_40_60,000+600ms       inf     nan       2  100.0%    0.0% 
+   3 Elo1785_100ms                -inf     nan       2    0.0%    0.0% 
+   4 Elo1785_20ms                 -inf     nan       2    0.0%    0.0% 
+   5 Elo1785_40_240,000ms          nan     nan       0    nan%    nan% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 5 of 80 (Elo1785_40_240,000ms vs Elo1785_100ms)
+Finished game 5 (Elo1785_40_240,000ms vs Elo1785_100ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 SkillLevel4_40_60,000+600ms     inf     nan       2  100.0%    0.0% 
+   2 Elo1785_40_60,000+600ms       inf     nan       2  100.0%    0.0% 
+   3 Elo1785_40_240,000ms          inf     nan       1  100.0%    0.0% 
+   4 Elo1785_100ms                -inf     nan       3    0.0%    0.0% 
+   5 Elo1785_20ms                 -inf     nan       2    0.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 6 of 80 (Elo1785_100ms vs Elo1785_40_240,000ms)
+Finished game 6 (Elo1785_100ms vs Elo1785_40_240,000ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 SkillLevel4_40_60,000+600ms     inf     nan       2  100.0%    0.0% 
+   2 Elo1785_40_60,000+600ms       inf     nan       2  100.0%    0.0% 
+   3 Elo1785_40_240,000ms          inf     nan       2  100.0%    0.0% 
+   4 Elo1785_100ms                -inf     nan       4    0.0%    0.0% 
+   5 Elo1785_20ms                 -inf     nan       2    0.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 7 of 80 (Elo1785_40_60,000+600ms vs SkillLevel4_40_60,000+600ms)
+Finished game 7 (Elo1785_40_60,000+600ms vs SkillLevel4_40_60,000+600ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Elo1785_40_60,000+600ms       inf     nan       3  100.0%    0.0% 
+   2 Elo1785_40_240,000ms          inf     nan       2  100.0%    0.0% 
+   3 SkillLevel4_40_60,000+600ms     120     nan       3   66.7%    0.0% 
+   4 Elo1785_100ms                -inf     nan       4    0.0%    0.0% 
+   5 Elo1785_20ms                 -inf     nan       2    0.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 8 of 80 (SkillLevel4_40_60,000+600ms vs Elo1785_40_60,000+600ms)
+Finished game 8 (SkillLevel4_40_60,000+600ms vs Elo1785_40_60,000+600ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Elo1785_40_60,000+600ms       inf     nan       4  100.0%    0.0% 
+   2 Elo1785_40_240,000ms          inf     nan       2  100.0%    0.0% 
+   3 SkillLevel4_40_60,000+600ms       0     786       4   50.0%    0.0% 
+   4 Elo1785_100ms                -inf     nan       4    0.0%    0.0% 
+   5 Elo1785_20ms                 -inf     nan       2    0.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 9 of 80 (Elo1785_40_240,000ms vs Elo1785_20ms)
+Finished game 9 (Elo1785_40_240,000ms vs Elo1785_20ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Elo1785_40_60,000+600ms       inf     nan       4  100.0%    0.0% 
+   2 Elo1785_40_240,000ms          inf     nan       3  100.0%    0.0% 
+   3 SkillLevel4_40_60,000+600ms       0     786       4   50.0%    0.0% 
+   4 Elo1785_100ms                -inf     nan       4    0.0%    0.0% 
+   5 Elo1785_20ms                 -inf     nan       3    0.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 10 of 80 (Elo1785_20ms vs Elo1785_40_240,000ms)
+Finished game 10 (Elo1785_20ms vs Elo1785_40_240,000ms): 1/2-1/2 {Draw by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Elo1785_40_60,000+600ms       inf     nan       4  100.0%    0.0% 
+   2 Elo1785_40_240,000ms          338     nan       4   87.5%   25.0% 
+   3 SkillLevel4_40_60,000+600ms       0     786       4   50.0%    0.0% 
+   4 Elo1785_20ms                 -338     nan       4   12.5%   25.0% 
+   5 Elo1785_100ms                -inf     nan       4    0.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 11 of 80 (Elo1785_100ms vs SkillLevel4_40_60,000+600ms)
+Finished game 11 (Elo1785_100ms vs SkillLevel4_40_60,000+600ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Elo1785_40_60,000+600ms       inf     nan       4  100.0%    0.0% 
+   2 Elo1785_40_240,000ms          338     nan       4   87.5%   25.0% 
+   3 SkillLevel4_40_60,000+600ms      70     nan       5   60.0%    0.0% 
+   4 Elo1785_20ms                 -338     nan       4   12.5%   25.0% 
+   5 Elo1785_100ms                -inf     nan       5    0.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 12 of 80 (SkillLevel4_40_60,000+600ms vs Elo1785_100ms)
+Finished game 12 (SkillLevel4_40_60,000+600ms vs Elo1785_100ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Elo1785_40_60,000+600ms       inf     nan       4  100.0%    0.0% 
+   2 Elo1785_40_240,000ms          338     nan       4   87.5%   25.0% 
+   3 SkillLevel4_40_60,000+600ms     120     nan       6   66.7%    0.0% 
+   4 Elo1785_20ms                 -338     nan       4   12.5%   25.0% 
+   5 Elo1785_100ms                -inf     nan       6    0.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 13 of 80 (Elo1785_40_240,000ms vs SkillLevel4_40_60,000+600ms)
+Finished game 13 (Elo1785_40_240,000ms vs SkillLevel4_40_60,000+600ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Elo1785_40_60,000+600ms       inf     nan       4  100.0%    0.0% 
+   2 SkillLevel4_40_60,000+600ms     159     nan       7   71.4%    0.0% 
+   3 Elo1785_40_240,000ms          147     nan       5   70.0%   20.0% 
+   4 Elo1785_20ms                 -338     nan       4   12.5%   25.0% 
+   5 Elo1785_100ms                -inf     nan       6    0.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 14 of 80 (SkillLevel4_40_60,000+600ms vs Elo1785_40_240,000ms)
+Finished game 14 (SkillLevel4_40_60,000+600ms vs Elo1785_40_240,000ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Elo1785_40_60,000+600ms       inf     nan       4  100.0%    0.0% 
+   2 SkillLevel4_40_60,000+600ms     191     nan       8   75.0%    0.0% 
+   3 Elo1785_40_240,000ms           58     350       6   58.3%   16.7% 
+   4 Elo1785_20ms                 -338     nan       4   12.5%   25.0% 
+   5 Elo1785_100ms                -inf     nan       6    0.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 15 of 80 (Elo1785_20ms vs Elo1785_40_60,000+600ms)
+Finished game 15 (Elo1785_20ms vs Elo1785_40_60,000+600ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Elo1785_40_60,000+600ms       241     nan       5   80.0%    0.0% 
+   2 SkillLevel4_40_60,000+600ms     191     nan       8   75.0%    0.0% 
+   3 Elo1785_40_240,000ms           58     350       6   58.3%   16.7% 
+   4 Elo1785_20ms                 -147     nan       5   30.0%   20.0% 
+   5 Elo1785_100ms                -inf     nan       6    0.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 16 of 80 (Elo1785_40_60,000+600ms vs Elo1785_20ms)
+Finished game 16 (Elo1785_40_60,000+600ms vs Elo1785_20ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Elo1785_40_60,000+600ms       280     nan       6   83.3%    0.0% 
+   2 SkillLevel4_40_60,000+600ms     191     nan       8   75.0%    0.0% 
+   3 Elo1785_40_240,000ms           58     350       6   58.3%   16.7% 
+   4 Elo1785_20ms                 -191     nan       6   25.0%   16.7% 
+   5 Elo1785_100ms                -inf     nan       6    0.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 17 of 80 (Elo1785_40_240,000ms vs Elo1785_40_60,000+600ms)
+Finished game 17 (Elo1785_40_240,000ms vs Elo1785_40_60,000+600ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 SkillLevel4_40_60,000+600ms     191     nan       8   75.0%    0.0% 
+   2 Elo1785_40_60,000+600ms       159     nan       7   71.4%    0.0% 
+   3 Elo1785_40_240,000ms          102     364       7   64.3%   14.3% 
+   4 Elo1785_20ms                 -191     nan       6   25.0%   16.7% 
+   5 Elo1785_100ms                -inf     nan       6    0.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 18 of 80 (Elo1785_40_60,000+600ms vs Elo1785_40_240,000ms)
+Finished game 18 (Elo1785_40_60,000+600ms vs Elo1785_40_240,000ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 SkillLevel4_40_60,000+600ms     191     nan       8   75.0%    0.0% 
+   2 Elo1785_40_60,000+600ms       191     nan       8   75.0%    0.0% 
+   3 Elo1785_40_240,000ms           44     275       8   56.3%   12.5% 
+   4 Elo1785_20ms                 -191     nan       6   25.0%   16.7% 
+   5 Elo1785_100ms                -inf     nan       6    0.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 19 of 80 (Elo1785_20ms vs Elo1785_100ms)
+Finished game 19 (Elo1785_20ms vs Elo1785_100ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 SkillLevel4_40_60,000+600ms     191     nan       8   75.0%    0.0% 
+   2 Elo1785_40_60,000+600ms       191     nan       8   75.0%    0.0% 
+   3 Elo1785_40_240,000ms           44     275       8   56.3%   12.5% 
+   4 Elo1785_20ms                 -102     364       7   35.7%   14.3% 
+   5 Elo1785_100ms                -inf     nan       7    0.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 20 of 80 (Elo1785_100ms vs Elo1785_20ms)
+Finished game 20 (Elo1785_100ms vs Elo1785_20ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 SkillLevel4_40_60,000+600ms     191     nan       8   75.0%    0.0% 
+   2 Elo1785_40_60,000+600ms       191     nan       8   75.0%    0.0% 
+   3 Elo1785_40_240,000ms           44     275       8   56.3%   12.5% 
+   4 Elo1785_20ms                 -137     396       8   31.3%   12.5% 
+   5 Elo1785_100ms                -338     nan       8   12.5%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 21 of 80 (Elo1785_40_60,000+600ms vs Elo1785_100ms)
+Finished game 21 (Elo1785_40_60,000+600ms vs Elo1785_100ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Elo1785_40_60,000+600ms       218     nan       9   77.8%    0.0% 
+   2 SkillLevel4_40_60,000+600ms     191     nan       8   75.0%    0.0% 
+   3 Elo1785_40_240,000ms           44     275       8   56.3%   12.5% 
+   4 Elo1785_20ms                 -137     396       8   31.3%   12.5% 
+   5 Elo1785_100ms                -361     nan       9   11.1%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 22 of 80 (Elo1785_100ms vs Elo1785_40_60,000+600ms)
+Finished game 22 (Elo1785_100ms vs Elo1785_40_60,000+600ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Elo1785_40_60,000+600ms       241     nan      10   80.0%    0.0% 
+   2 SkillLevel4_40_60,000+600ms     191     nan       8   75.0%    0.0% 
+   3 Elo1785_40_240,000ms           44     275       8   56.3%   12.5% 
+   4 Elo1785_20ms                 -137     396       8   31.3%   12.5% 
+   5 Elo1785_100ms                -382     nan      10   10.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 23 of 80 (SkillLevel4_40_60,000+600ms vs Elo1785_20ms)
+Finished game 23 (SkillLevel4_40_60,000+600ms vs Elo1785_20ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Elo1785_40_60,000+600ms       241     nan      10   80.0%    0.0% 
+   2 SkillLevel4_40_60,000+600ms     218     nan       9   77.8%    0.0% 
+   3 Elo1785_40_240,000ms           44     275       8   56.3%   12.5% 
+   4 Elo1785_20ms                 -166     453       9   27.8%   11.1% 
+   5 Elo1785_100ms                -382     nan      10   10.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 24 of 80 (Elo1785_20ms vs SkillLevel4_40_60,000+600ms)
+Finished game 24 (Elo1785_20ms vs SkillLevel4_40_60,000+600ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 SkillLevel4_40_60,000+600ms     241     nan      10   80.0%    0.0% 
+   2 Elo1785_40_60,000+600ms       241     nan      10   80.0%    0.0% 
+   3 Elo1785_40_240,000ms           44     275       8   56.3%   12.5% 
+   4 Elo1785_20ms                 -191     658      10   25.0%   10.0% 
+   5 Elo1785_100ms                -382     nan      10   10.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 25 of 80 (Elo1785_40_240,000ms vs Elo1785_100ms)
+Finished game 25 (Elo1785_40_240,000ms vs Elo1785_100ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 SkillLevel4_40_60,000+600ms     241     nan      10   80.0%    0.0% 
+   2 Elo1785_40_60,000+600ms       241     nan      10   80.0%    0.0% 
+   3 Elo1785_40_240,000ms           79     270       9   61.1%   11.1% 
+   4 Elo1785_20ms                 -191     658      10   25.0%   10.0% 
+   5 Elo1785_100ms                -400     nan      11    9.1%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 26 of 80 (Elo1785_100ms vs Elo1785_40_240,000ms)
+Finished game 26 (Elo1785_100ms vs Elo1785_40_240,000ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 SkillLevel4_40_60,000+600ms     241     nan      10   80.0%    0.0% 
+   2 Elo1785_40_60,000+600ms       241     nan      10   80.0%    0.0% 
+   3 Elo1785_40_240,000ms          108     268      10   65.0%   10.0% 
+   4 Elo1785_20ms                 -191     658      10   25.0%   10.0% 
+   5 Elo1785_100ms                -417     nan      12    8.3%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 27 of 80 (Elo1785_40_60,000+600ms vs SkillLevel4_40_60,000+600ms)
+Finished game 27 (Elo1785_40_60,000+600ms vs SkillLevel4_40_60,000+600ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Elo1785_40_60,000+600ms       261     nan      11   81.8%    0.0% 
+   2 SkillLevel4_40_60,000+600ms     170     412      11   72.7%    0.0% 
+   3 Elo1785_40_240,000ms          108     268      10   65.0%   10.0% 
+   4 Elo1785_20ms                 -191     658      10   25.0%   10.0% 
+   5 Elo1785_100ms                -417     nan      12    8.3%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 28 of 80 (SkillLevel4_40_60,000+600ms vs Elo1785_40_60,000+600ms)
+Finished game 28 (SkillLevel4_40_60,000+600ms vs Elo1785_40_60,000+600ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 SkillLevel4_40_60,000+600ms     191     452      12   75.0%    0.0% 
+   2 Elo1785_40_60,000+600ms       191     452      12   75.0%    0.0% 
+   3 Elo1785_40_240,000ms          108     268      10   65.0%   10.0% 
+   4 Elo1785_20ms                 -191     658      10   25.0%   10.0% 
+   5 Elo1785_100ms                -417     nan      12    8.3%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 29 of 80 (Elo1785_40_240,000ms vs Elo1785_20ms)
+Finished game 29 (Elo1785_40_240,000ms vs Elo1785_20ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 SkillLevel4_40_60,000+600ms     191     452      12   75.0%    0.0% 
+   2 Elo1785_40_60,000+600ms       191     452      12   75.0%    0.0% 
+   3 Elo1785_40_240,000ms          132     269      11   68.2%    9.1% 
+   4 Elo1785_20ms                 -213     nan      11   22.7%    9.1% 
+   5 Elo1785_100ms                -417     nan      12    8.3%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 30 of 80 (Elo1785_20ms vs Elo1785_40_240,000ms)
+Finished game 30 (Elo1785_20ms vs Elo1785_40_240,000ms): 1/2-1/2 {Draw by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 SkillLevel4_40_60,000+600ms     191     452      12   75.0%    0.0% 
+   2 Elo1785_40_60,000+600ms       191     452      12   75.0%    0.0% 
+   3 Elo1785_40_240,000ms          120     223      12   66.7%   16.7% 
+   4 Elo1785_20ms                 -191     278      12   25.0%   16.7% 
+   5 Elo1785_100ms                -417     nan      12    8.3%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 31 of 80 (Elo1785_100ms vs SkillLevel4_40_60,000+600ms)
+Finished game 31 (Elo1785_100ms vs SkillLevel4_40_60,000+600ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 SkillLevel4_40_60,000+600ms     209     523      13   76.9%    0.0% 
+   2 Elo1785_40_60,000+600ms       191     452      12   75.0%    0.0% 
+   3 Elo1785_40_240,000ms          120     223      12   66.7%   16.7% 
+   4 Elo1785_20ms                 -191     278      12   25.0%   16.7% 
+   5 Elo1785_100ms                -432     nan      13    7.7%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 32 of 80 (SkillLevel4_40_60,000+600ms vs Elo1785_100ms)
+Finished game 32 (SkillLevel4_40_60,000+600ms vs Elo1785_100ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 SkillLevel4_40_60,000+600ms     226     nan      14   78.6%    0.0% 
+   2 Elo1785_40_60,000+600ms       191     452      12   75.0%    0.0% 
+   3 Elo1785_40_240,000ms          120     223      12   66.7%   16.7% 
+   4 Elo1785_20ms                 -191     278      12   25.0%   16.7% 
+   5 Elo1785_100ms                -446     nan      14    7.1%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 33 of 80 (Elo1785_40_240,000ms vs SkillLevel4_40_60,000+600ms)
+Finished game 33 (Elo1785_40_240,000ms vs SkillLevel4_40_60,000+600ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 SkillLevel4_40_60,000+600ms     241     nan      15   80.0%    0.0% 
+   2 Elo1785_40_60,000+600ms       191     452      12   75.0%    0.0% 
+   3 Elo1785_40_240,000ms           82     200      13   61.5%   15.4% 
+   4 Elo1785_20ms                 -191     278      12   25.0%   16.7% 
+   5 Elo1785_100ms                -446     nan      14    7.1%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 34 of 80 (SkillLevel4_40_60,000+600ms vs Elo1785_40_240,000ms)
+Finished game 34 (SkillLevel4_40_60,000+600ms vs Elo1785_40_240,000ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 SkillLevel4_40_60,000+600ms     255     nan      16   81.3%    0.0% 
+   2 Elo1785_40_60,000+600ms       191     452      12   75.0%    0.0% 
+   3 Elo1785_40_240,000ms           50     187      14   57.1%   14.3% 
+   4 Elo1785_20ms                 -191     278      12   25.0%   16.7% 
+   5 Elo1785_100ms                -446     nan      14    7.1%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 35 of 80 (Elo1785_20ms vs Elo1785_40_60,000+600ms)
+Finished game 35 (Elo1785_20ms vs Elo1785_40_60,000+600ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 SkillLevel4_40_60,000+600ms     255     nan      16   81.3%    0.0% 
+   2 Elo1785_40_60,000+600ms       209     523      13   76.9%    0.0% 
+   3 Elo1785_40_240,000ms           50     187      14   57.1%   14.3% 
+   4 Elo1785_20ms                 -209     284      13   23.1%   15.4% 
+   5 Elo1785_100ms                -446     nan      14    7.1%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 36 of 80 (Elo1785_40_60,000+600ms vs Elo1785_20ms)
+Finished game 36 (Elo1785_40_60,000+600ms vs Elo1785_20ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 SkillLevel4_40_60,000+600ms     255     nan      16   81.3%    0.0% 
+   2 Elo1785_40_60,000+600ms       226     nan      14   78.6%    0.0% 
+   3 Elo1785_40_240,000ms           50     187      14   57.1%   14.3% 
+   4 Elo1785_20ms                 -226     289      14   21.4%   14.3% 
+   5 Elo1785_100ms                -446     nan      14    7.1%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 37 of 80 (Elo1785_40_240,000ms vs Elo1785_40_60,000+600ms)
+Finished game 37 (Elo1785_40_240,000ms vs Elo1785_40_60,000+600ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 SkillLevel4_40_60,000+600ms     255     nan      16   81.3%    0.0% 
+   2 Elo1785_40_60,000+600ms       241     nan      15   80.0%    0.0% 
+   3 Elo1785_40_240,000ms           23     178      15   53.3%   13.3% 
+   4 Elo1785_20ms                 -226     289      14   21.4%   14.3% 
+   5 Elo1785_100ms                -446     nan      14    7.1%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 38 of 80 (Elo1785_40_60,000+600ms vs Elo1785_40_240,000ms)
+Finished game 38 (Elo1785_40_60,000+600ms vs Elo1785_40_240,000ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 SkillLevel4_40_60,000+600ms     255     nan      16   81.3%    0.0% 
+   2 Elo1785_40_60,000+600ms       255     nan      16   81.3%    0.0% 
+   3 Elo1785_40_240,000ms            0     172      16   50.0%   12.5% 
+   4 Elo1785_20ms                 -226     289      14   21.4%   14.3% 
+   5 Elo1785_100ms                -446     nan      14    7.1%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 39 of 80 (Elo1785_20ms vs Elo1785_100ms)
+Finished game 39 (Elo1785_20ms vs Elo1785_100ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 SkillLevel4_40_60,000+600ms     255     nan      16   81.3%    0.0% 
+   2 Elo1785_40_60,000+600ms       255     nan      16   81.3%    0.0% 
+   3 Elo1785_40_240,000ms            0     172      16   50.0%   12.5% 
+   4 Elo1785_20ms                 -241     295      15   20.0%   13.3% 
+   5 Elo1785_100ms                -325     nan      15   13.3%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 40 of 80 (Elo1785_100ms vs Elo1785_20ms)
+Finished game 40 (Elo1785_100ms vs Elo1785_20ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 SkillLevel4_40_60,000+600ms     255     nan      16   81.3%    0.0% 
+   2 Elo1785_40_60,000+600ms       255     nan      16   81.3%    0.0% 
+   3 Elo1785_40_240,000ms            0     172      16   50.0%   12.5% 
+   4 Elo1785_100ms                -255     nan      16   18.8%    0.0% 
+   5 Elo1785_20ms                 -255     300      16   18.8%   12.5% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 41 of 80 (Elo1785_40_60,000+600ms vs Elo1785_100ms)
+Finished game 41 (Elo1785_40_60,000+600ms vs Elo1785_100ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Elo1785_40_60,000+600ms       268     nan      17   82.4%    0.0% 
+   2 SkillLevel4_40_60,000+600ms     255     nan      16   81.3%    0.0% 
+   3 Elo1785_40_240,000ms            0     172      16   50.0%   12.5% 
+   4 Elo1785_20ms                 -255     300      16   18.8%   12.5% 
+   5 Elo1785_100ms                -268     nan      17   17.6%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 42 of 80 (Elo1785_100ms vs Elo1785_40_60,000+600ms)
+Finished game 42 (Elo1785_100ms vs Elo1785_40_60,000+600ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 SkillLevel4_40_60,000+600ms     255     nan      16   81.3%    0.0% 
+   2 Elo1785_40_60,000+600ms       218     270      18   77.8%    0.0% 
+   3 Elo1785_40_240,000ms            0     172      16   50.0%   12.5% 
+   4 Elo1785_100ms                -218     270      18   22.2%    0.0% 
+   5 Elo1785_20ms                 -255     300      16   18.8%   12.5% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 43 of 80 (SkillLevel4_40_60,000+600ms vs Elo1785_20ms)
+Finished game 43 (SkillLevel4_40_60,000+600ms vs Elo1785_20ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 SkillLevel4_40_60,000+600ms     268     nan      17   82.4%    0.0% 
+   2 Elo1785_40_60,000+600ms       218     270      18   77.8%    0.0% 
+   3 Elo1785_40_240,000ms            0     172      16   50.0%   12.5% 
+   4 Elo1785_100ms                -218     270      18   22.2%    0.0% 
+   5 Elo1785_20ms                 -268     306      17   17.6%   11.8% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 44 of 80 (Elo1785_20ms vs SkillLevel4_40_60,000+600ms)
+Finished game 44 (Elo1785_20ms vs SkillLevel4_40_60,000+600ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 SkillLevel4_40_60,000+600ms     218     270      18   77.8%    0.0% 
+   2 Elo1785_40_60,000+600ms       218     270      18   77.8%    0.0% 
+   3 Elo1785_40_240,000ms            0     172      16   50.0%   12.5% 
+   4 Elo1785_100ms                -218     270      18   22.2%    0.0% 
+   5 Elo1785_20ms                 -218     226      18   22.2%   11.1% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 45 of 80 (Elo1785_40_240,000ms vs Elo1785_100ms)
+Finished game 45 (Elo1785_40_240,000ms vs Elo1785_100ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 SkillLevel4_40_60,000+600ms     218     270      18   77.8%    0.0% 
+   2 Elo1785_40_60,000+600ms       218     270      18   77.8%    0.0% 
+   3 Elo1785_40_240,000ms          -20     167      17   47.1%   11.8% 
+   4 Elo1785_100ms                -179     217      19   26.3%    0.0% 
+   5 Elo1785_20ms                 -218     226      18   22.2%   11.1% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 46 of 80 (Elo1785_100ms vs Elo1785_40_240,000ms)
+Finished game 46 (Elo1785_100ms vs Elo1785_40_240,000ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 SkillLevel4_40_60,000+600ms     218     270      18   77.8%    0.0% 
+   2 Elo1785_40_60,000+600ms       218     270      18   77.8%    0.0% 
+   3 Elo1785_40_240,000ms            0     162      18   50.0%   11.1% 
+   4 Elo1785_100ms                -191     217      20   25.0%    0.0% 
+   5 Elo1785_20ms                 -218     226      18   22.2%   11.1% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 47 of 80 (Elo1785_40_60,000+600ms vs SkillLevel4_40_60,000+600ms)
+Finished game 47 (Elo1785_40_60,000+600ms vs SkillLevel4_40_60,000+600ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 SkillLevel4_40_60,000+600ms     230     272      19   78.9%    0.0% 
+   2 Elo1785_40_60,000+600ms       179     217      19   73.7%    0.0% 
+   3 Elo1785_40_240,000ms            0     162      18   50.0%   11.1% 
+   4 Elo1785_100ms                -191     217      20   25.0%    0.0% 
+   5 Elo1785_20ms                 -218     226      18   22.2%   11.1% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 48 of 80 (SkillLevel4_40_60,000+600ms vs Elo1785_40_60,000+600ms)
+Finished game 48 (SkillLevel4_40_60,000+600ms vs Elo1785_40_60,000+600ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 SkillLevel4_40_60,000+600ms     241     274      20   80.0%    0.0% 
+   2 Elo1785_40_60,000+600ms       147     192      20   70.0%    0.0% 
+   3 Elo1785_40_240,000ms            0     162      18   50.0%   11.1% 
+   4 Elo1785_100ms                -191     217      20   25.0%    0.0% 
+   5 Elo1785_20ms                 -218     226      18   22.2%   11.1% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 49 of 80 (Elo1785_40_240,000ms vs Elo1785_20ms)
+Finished game 49 (Elo1785_40_240,000ms vs Elo1785_20ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 SkillLevel4_40_60,000+600ms     241     274      20   80.0%    0.0% 
+   2 Elo1785_40_60,000+600ms       147     192      20   70.0%    0.0% 
+   3 Elo1785_40_240,000ms           18     158      19   52.6%   10.5% 
+   4 Elo1785_100ms                -191     217      20   25.0%    0.0% 
+   5 Elo1785_20ms                 -230     227      19   21.1%   10.5% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 50 of 80 (Elo1785_20ms vs Elo1785_40_240,000ms)
+Finished game 50 (Elo1785_20ms vs Elo1785_40_240,000ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 SkillLevel4_40_60,000+600ms     241     274      20   80.0%    0.0% 
+   2 Elo1785_40_60,000+600ms       147     192      20   70.0%    0.0% 
+   3 Elo1785_40_240,000ms           35     155      20   55.0%   10.0% 
+   4 Elo1785_100ms                -191     217      20   25.0%    0.0% 
+   5 Elo1785_20ms                 -241     228      20   20.0%   10.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 51 of 80 (Elo1785_100ms vs SkillLevel4_40_60,000+600ms)
+Finished game 51 (Elo1785_100ms vs SkillLevel4_40_60,000+600ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 SkillLevel4_40_60,000+600ms     251     276      21   81.0%    0.0% 
+   2 Elo1785_40_60,000+600ms       147     192      20   70.0%    0.0% 
+   3 Elo1785_40_240,000ms           35     155      20   55.0%   10.0% 
+   4 Elo1785_100ms                -202     217      21   23.8%    0.0% 
+   5 Elo1785_20ms                 -241     228      20   20.0%   10.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 52 of 80 (SkillLevel4_40_60,000+600ms vs Elo1785_100ms)
+Finished game 52 (SkillLevel4_40_60,000+600ms vs Elo1785_100ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 SkillLevel4_40_60,000+600ms     261     278      22   81.8%    0.0% 
+   2 Elo1785_40_60,000+600ms       147     192      20   70.0%    0.0% 
+   3 Elo1785_40_240,000ms           35     155      20   55.0%   10.0% 
+   4 Elo1785_100ms                -213     217      22   22.7%    0.0% 
+   5 Elo1785_20ms                 -241     228      20   20.0%   10.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 53 of 80 (Elo1785_40_240,000ms vs SkillLevel4_40_60,000+600ms)
+Finished game 53 (Elo1785_40_240,000ms vs SkillLevel4_40_60,000+600ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 SkillLevel4_40_60,000+600ms     223     217      23   78.3%    0.0% 
+   2 Elo1785_40_60,000+600ms       147     192      20   70.0%    0.0% 
+   3 Elo1785_40_240,000ms           50     152      21   57.1%    9.5% 
+   4 Elo1785_100ms                -213     217      22   22.7%    0.0% 
+   5 Elo1785_20ms                 -241     228      20   20.0%   10.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 54 of 80 (SkillLevel4_40_60,000+600ms vs Elo1785_40_240,000ms)
+Finished game 54 (SkillLevel4_40_60,000+600ms vs Elo1785_40_240,000ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 SkillLevel4_40_60,000+600ms     232     217      24   79.2%    0.0% 
+   2 Elo1785_40_60,000+600ms       147     192      20   70.0%    0.0% 
+   3 Elo1785_40_240,000ms           32     147      22   54.5%    9.1% 
+   4 Elo1785_100ms                -213     217      22   22.7%    0.0% 
+   5 Elo1785_20ms                 -241     228      20   20.0%   10.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 55 of 80 (Elo1785_20ms vs Elo1785_40_60,000+600ms)
+Finished game 55 (Elo1785_20ms vs Elo1785_40_60,000+600ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 SkillLevel4_40_60,000+600ms     232     217      24   79.2%    0.0% 
+   2 Elo1785_40_60,000+600ms       159     191      21   71.4%    0.0% 
+   3 Elo1785_40_240,000ms           32     147      22   54.5%    9.1% 
+   4 Elo1785_100ms                -213     217      22   22.7%    0.0% 
+   5 Elo1785_20ms                 -251     229      21   19.0%    9.5% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 56 of 80 (Elo1785_40_60,000+600ms vs Elo1785_20ms)
+Finished game 56 (Elo1785_40_60,000+600ms vs Elo1785_20ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 SkillLevel4_40_60,000+600ms     232     217      24   79.2%    0.0% 
+   2 Elo1785_40_60,000+600ms       170     190      22   72.7%    0.0% 
+   3 Elo1785_40_240,000ms           32     147      22   54.5%    9.1% 
+   4 Elo1785_100ms                -213     217      22   22.7%    0.0% 
+   5 Elo1785_20ms                 -261     230      22   18.2%    9.1% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 57 of 80 (Elo1785_40_240,000ms vs Elo1785_40_60,000+600ms)
+Finished game 57 (Elo1785_40_240,000ms vs Elo1785_40_60,000+600ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 SkillLevel4_40_60,000+600ms     232     217      24   79.2%    0.0% 
+   2 Elo1785_40_60,000+600ms       144     173      23   69.6%    0.0% 
+   3 Elo1785_40_240,000ms           46     145      23   56.5%    8.7% 
+   4 Elo1785_100ms                -213     217      22   22.7%    0.0% 
+   5 Elo1785_20ms                 -261     230      22   18.2%    9.1% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 58 of 80 (Elo1785_40_60,000+600ms vs Elo1785_40_240,000ms)
+Finished game 58 (Elo1785_40_60,000+600ms vs Elo1785_40_240,000ms): 1/2-1/2 {Draw by 3-fold repetition}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 SkillLevel4_40_60,000+600ms     232     217      24   79.2%    0.0% 
+   2 Elo1785_40_60,000+600ms       137     161      24   68.8%    4.2% 
+   3 Elo1785_40_240,000ms           44     138      24   56.3%   12.5% 
+   4 Elo1785_100ms                -213     217      22   22.7%    0.0% 
+   5 Elo1785_20ms                 -261     230      22   18.2%    9.1% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 59 of 80 (Elo1785_20ms vs Elo1785_100ms)
+Finished game 59 (Elo1785_20ms vs Elo1785_100ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 SkillLevel4_40_60,000+600ms     232     217      24   79.2%    0.0% 
+   2 Elo1785_40_60,000+600ms       137     161      24   68.8%    4.2% 
+   3 Elo1785_40_240,000ms           44     138      24   56.3%   12.5% 
+   4 Elo1785_100ms                -181     189      23   26.1%    0.0% 
+   5 Elo1785_20ms                 -271     231      23   17.4%    8.7% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 60 of 80 (Elo1785_100ms vs Elo1785_20ms)
+Finished game 60 (Elo1785_100ms vs Elo1785_20ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 SkillLevel4_40_60,000+600ms     232     217      24   79.2%    0.0% 
+   2 Elo1785_40_60,000+600ms       137     161      24   68.8%    4.2% 
+   3 Elo1785_40_240,000ms           44     138      24   56.3%   12.5% 
+   4 Elo1785_100ms                -154     172      24   29.2%    0.0% 
+   5 Elo1785_20ms                 -280     232      24   16.7%    8.3% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 61 of 80 (Elo1785_40_60,000+600ms vs Elo1785_100ms)
+Finished game 61 (Elo1785_40_60,000+600ms vs Elo1785_100ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 SkillLevel4_40_60,000+600ms     232     217      24   79.2%    0.0% 
+   2 Elo1785_40_60,000+600ms       147     160      25   70.0%    4.0% 
+   3 Elo1785_40_240,000ms           44     138      24   56.3%   12.5% 
+   4 Elo1785_100ms                -164     171      25   28.0%    0.0% 
+   5 Elo1785_20ms                 -280     232      24   16.7%    8.3% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 62 of 80 (Elo1785_100ms vs Elo1785_40_60,000+600ms)
+Finished game 62 (Elo1785_100ms vs Elo1785_40_60,000+600ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 SkillLevel4_40_60,000+600ms     232     217      24   79.2%    0.0% 
+   2 Elo1785_40_60,000+600ms       125     151      26   67.3%    3.8% 
+   3 Elo1785_40_240,000ms           44     138      24   56.3%   12.5% 
+   4 Elo1785_100ms                -141     159      26   30.8%    0.0% 
+   5 Elo1785_20ms                 -280     232      24   16.7%    8.3% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 63 of 80 (SkillLevel4_40_60,000+600ms vs Elo1785_20ms)
+Finished game 63 (SkillLevel4_40_60,000+600ms vs Elo1785_20ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 SkillLevel4_40_60,000+600ms     241     217      25   80.0%    0.0% 
+   2 Elo1785_40_60,000+600ms       125     151      26   67.3%    3.8% 
+   3 Elo1785_40_240,000ms           44     138      24   56.3%   12.5% 
+   4 Elo1785_100ms                -141     159      26   30.8%    0.0% 
+   5 Elo1785_20ms                 -288     233      25   16.0%    8.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 64 of 80 (Elo1785_20ms vs SkillLevel4_40_60,000+600ms)
+Finished game 64 (Elo1785_20ms vs SkillLevel4_40_60,000+600ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 SkillLevel4_40_60,000+600ms     249     217      26   80.8%    0.0% 
+   2 Elo1785_40_60,000+600ms       125     151      26   67.3%    3.8% 
+   3 Elo1785_40_240,000ms           44     138      24   56.3%   12.5% 
+   4 Elo1785_100ms                -141     159      26   30.8%    0.0% 
+   5 Elo1785_20ms                 -296     233      26   15.4%    7.7% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 65 of 80 (Elo1785_40_240,000ms vs Elo1785_100ms)
+Finished game 65 (Elo1785_40_240,000ms vs Elo1785_100ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 SkillLevel4_40_60,000+600ms     249     217      26   80.8%    0.0% 
+   2 Elo1785_40_60,000+600ms       125     151      26   67.3%    3.8% 
+   3 Elo1785_40_240,000ms           56     136      25   58.0%   12.0% 
+   4 Elo1785_100ms                -150     159      27   29.6%    0.0% 
+   5 Elo1785_20ms                 -296     233      26   15.4%    7.7% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 66 of 80 (Elo1785_100ms vs Elo1785_40_240,000ms)
+Finished game 66 (Elo1785_100ms vs Elo1785_40_240,000ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 SkillLevel4_40_60,000+600ms     249     217      26   80.8%    0.0% 
+   2 Elo1785_40_60,000+600ms       125     151      26   67.3%    3.8% 
+   3 Elo1785_40_240,000ms           40     132      26   55.8%   11.5% 
+   4 Elo1785_100ms                -130     150      28   32.1%    0.0% 
+   5 Elo1785_20ms                 -296     233      26   15.4%    7.7% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 67 of 80 (Elo1785_40_60,000+600ms vs SkillLevel4_40_60,000+600ms)
+Finished game 67 (Elo1785_40_60,000+600ms vs SkillLevel4_40_60,000+600ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 SkillLevel4_40_60,000+600ms     218     188      27   77.8%    0.0% 
+   2 Elo1785_40_60,000+600ms       135     150      27   68.5%    3.7% 
+   3 Elo1785_40_240,000ms           40     132      26   55.8%   11.5% 
+   4 Elo1785_100ms                -130     150      28   32.1%    0.0% 
+   5 Elo1785_20ms                 -296     233      26   15.4%    7.7% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 68 of 80 (SkillLevel4_40_60,000+600ms vs Elo1785_40_60,000+600ms)
+Finished game 68 (SkillLevel4_40_60,000+600ms vs Elo1785_40_60,000+600ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 SkillLevel4_40_60,000+600ms     191     170      28   75.0%    0.0% 
+   2 Elo1785_40_60,000+600ms       144     149      28   69.6%    3.6% 
+   3 Elo1785_40_240,000ms           40     132      26   55.8%   11.5% 
+   4 Elo1785_100ms                -130     150      28   32.1%    0.0% 
+   5 Elo1785_20ms                 -296     233      26   15.4%    7.7% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 69 of 80 (Elo1785_40_240,000ms vs Elo1785_20ms)
+Finished game 69 (Elo1785_40_240,000ms vs Elo1785_20ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 SkillLevel4_40_60,000+600ms     191     170      28   75.0%    0.0% 
+   2 Elo1785_40_60,000+600ms       144     149      28   69.6%    3.6% 
+   3 Elo1785_40_240,000ms           52     131      27   57.4%   11.1% 
+   4 Elo1785_100ms                -130     150      28   32.1%    0.0% 
+   5 Elo1785_20ms                 -304     234      27   14.8%    7.4% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 70 of 80 (Elo1785_20ms vs Elo1785_40_240,000ms)
+Finished game 70 (Elo1785_20ms vs Elo1785_40_240,000ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 SkillLevel4_40_60,000+600ms     191     170      28   75.0%    0.0% 
+   2 Elo1785_40_60,000+600ms       144     149      28   69.6%    3.6% 
+   3 Elo1785_40_240,000ms           63     129      28   58.9%   10.7% 
+   4 Elo1785_100ms                -130     150      28   32.1%    0.0% 
+   5 Elo1785_20ms                 -311     235      28   14.3%    7.1% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 71 of 80 (Elo1785_100ms vs SkillLevel4_40_60,000+600ms)
+Finished game 71 (Elo1785_100ms vs SkillLevel4_40_60,000+600ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 SkillLevel4_40_60,000+600ms     199     169      29   75.9%    0.0% 
+   2 Elo1785_40_60,000+600ms       144     149      28   69.6%    3.6% 
+   3 Elo1785_40_240,000ms           63     129      28   58.9%   10.7% 
+   4 Elo1785_100ms                -139     149      29   31.0%    0.0% 
+   5 Elo1785_20ms                 -311     235      28   14.3%    7.1% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 72 of 80 (SkillLevel4_40_60,000+600ms vs Elo1785_100ms)
+Finished game 72 (SkillLevel4_40_60,000+600ms vs Elo1785_100ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 SkillLevel4_40_60,000+600ms     207     169      30   76.7%    0.0% 
+   2 Elo1785_40_60,000+600ms       144     149      28   69.6%    3.6% 
+   3 Elo1785_40_240,000ms           63     129      28   58.9%   10.7% 
+   4 Elo1785_100ms                -147     148      30   30.0%    0.0% 
+   5 Elo1785_20ms                 -311     235      28   14.3%    7.1% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 73 of 80 (Elo1785_40_240,000ms vs SkillLevel4_40_60,000+600ms)
+Finished game 73 (Elo1785_40_240,000ms vs SkillLevel4_40_60,000+600ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 SkillLevel4_40_60,000+600ms     214     168      31   77.4%    0.0% 
+   2 Elo1785_40_60,000+600ms       144     149      28   69.6%    3.6% 
+   3 Elo1785_40_240,000ms           48     126      29   56.9%   10.3% 
+   4 Elo1785_100ms                -147     148      30   30.0%    0.0% 
+   5 Elo1785_20ms                 -311     235      28   14.3%    7.1% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 74 of 80 (SkillLevel4_40_60,000+600ms vs Elo1785_40_240,000ms)
+Finished game 74 (SkillLevel4_40_60,000+600ms vs Elo1785_40_240,000ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 SkillLevel4_40_60,000+600ms     221     168      32   78.1%    0.0% 
+   2 Elo1785_40_60,000+600ms       144     149      28   69.6%    3.6% 
+   3 Elo1785_40_240,000ms           35     123      30   55.0%   10.0% 
+   4 Elo1785_100ms                -147     148      30   30.0%    0.0% 
+   5 Elo1785_20ms                 -311     235      28   14.3%    7.1% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 75 of 80 (Elo1785_20ms vs Elo1785_40_60,000+600ms)
+Finished game 75 (Elo1785_20ms vs Elo1785_40_60,000+600ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 SkillLevel4_40_60,000+600ms     221     168      32   78.1%    0.0% 
+   2 Elo1785_40_60,000+600ms       153     149      29   70.7%    3.4% 
+   3 Elo1785_40_240,000ms           35     123      30   55.0%   10.0% 
+   4 Elo1785_100ms                -147     148      30   30.0%    0.0% 
+   5 Elo1785_20ms                 -318     236      29   13.8%    6.9% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 76 of 80 (Elo1785_40_60,000+600ms vs Elo1785_20ms)
+Finished game 76 (Elo1785_40_60,000+600ms vs Elo1785_20ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 SkillLevel4_40_60,000+600ms     221     168      32   78.1%    0.0% 
+   2 Elo1785_40_60,000+600ms       161     148      30   71.7%    3.3% 
+   3 Elo1785_40_240,000ms           35     123      30   55.0%   10.0% 
+   4 Elo1785_100ms                -147     148      30   30.0%    0.0% 
+   5 Elo1785_20ms                 -325     236      30   13.3%    6.7% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 77 of 80 (Elo1785_40_240,000ms vs Elo1785_40_60,000+600ms)
+Finished game 77 (Elo1785_40_240,000ms vs Elo1785_40_60,000+600ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 SkillLevel4_40_60,000+600ms     221     168      32   78.1%    0.0% 
+   2 Elo1785_40_60,000+600ms       169     147      31   72.6%    3.2% 
+   3 Elo1785_40_240,000ms           22     121      31   53.2%    9.7% 
+   4 Elo1785_100ms                -147     148      30   30.0%    0.0% 
+   5 Elo1785_20ms                 -325     236      30   13.3%    6.7% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 78 of 80 (Elo1785_40_60,000+600ms vs Elo1785_40_240,000ms)
+Finished game 78 (Elo1785_40_60,000+600ms vs Elo1785_40_240,000ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 SkillLevel4_40_60,000+600ms     221     168      32   78.1%    0.0% 
+   2 Elo1785_40_60,000+600ms       177     147      32   73.4%    3.1% 
+   3 Elo1785_40_240,000ms           11     119      32   51.6%    9.4% 
+   4 Elo1785_100ms                -147     148      30   30.0%    0.0% 
+   5 Elo1785_20ms                 -325     236      30   13.3%    6.7% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 79 of 80 (Elo1785_20ms vs Elo1785_100ms)
+Finished game 79 (Elo1785_20ms vs Elo1785_100ms): 1/2-1/2 {Draw by insufficient mating material}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 SkillLevel4_40_60,000+600ms     221     168      32   78.1%    0.0% 
+   2 Elo1785_40_60,000+600ms       177     147      32   73.4%    3.1% 
+   3 Elo1785_40_240,000ms           11     119      32   51.6%    9.4% 
+   4 Elo1785_100ms                -142     140      31   30.6%    3.2% 
+   5 Elo1785_20ms                 -308     198      31   14.5%    9.7% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 80 of 80 (Elo1785_100ms vs Elo1785_20ms)
+Finished game 80 (Elo1785_100ms vs Elo1785_20ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 SkillLevel4_40_60,000+600ms     221     168      32   78.1%    0.0% 
+   2 Elo1785_40_60,000+600ms       177     147      32   73.4%    3.1% 
+   3 Elo1785_40_240,000ms           11     119      32   51.6%    9.4% 
+   4 Elo1785_100ms                -124     134      32   32.8%    3.1% 
+   5 Elo1785_20ms                 -314     198      32   14.1%    9.4% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+
+Player: Elo1785_40_240,000ms
+   "Draw by 3-fold repetition": 1
+   "Draw by adjudication": 2
+   "Loss: Black wins by adjudication": 6
+   "Loss: White wins by adjudication": 8
+   "Win: Black wins by adjudication": 5
+   "Win: White wins by adjudication": 10
+Player: Elo1785_40_60,000+600ms
+   "Draw by 3-fold repetition": 1
+   "Loss: Black wins by adjudication": 1
+   "Loss: White wins by adjudication": 7
+   "Win: Black wins by adjudication": 9
+   "Win: White wins by adjudication": 14
+Player: SkillLevel4_40_60,000+600ms
+   "Loss: Black wins by adjudication": 2
+   "Loss: White wins by adjudication": 5
+   "Win: Black wins by adjudication": 11
+   "Win: White wins by adjudication": 14
+Player: Elo1785_20ms
+   "Draw by adjudication": 2
+   "Draw by insufficient mating material": 1
+   "Loss: Black wins by adjudication": 10
+   "Loss: White wins by adjudication": 16
+   "Win: White wins by adjudication": 3
+Player: Elo1785_100ms
+   "Draw by insufficient mating material": 1
+   "Loss: Black wins by adjudication": 9
+   "Loss: White wins by adjudication": 12
+   "Win: Black wins by adjudication": 3
+   "Win: White wins by adjudication": 7
+Finished match

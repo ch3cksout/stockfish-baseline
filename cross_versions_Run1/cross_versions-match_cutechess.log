@@ -1,0 +1,457 @@
+Indexing opening suite...
+Started game 1 of 48 (stockfish_16-dev_SkillLevel4_40_60,000+600ms vs ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms)
+Finished game 1 (stockfish_16-dev_SkillLevel4_40_60,000+600ms vs ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-dev_SkillLevel4_40_60,000+600ms     inf     nan       1  100.0%    0.0% 
+   2 ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms    -inf     nan       1    0.0%    0.0% 
+   3 stockfish_15.1_Elo1785_40_60,000+600ms     nan     nan       0    nan%    nan% 
+   4 stockfish_15.1_SkillLevel4_40_60,000+600ms     nan     nan       0    nan%    nan% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 2 of 48 (ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms vs stockfish_16-dev_SkillLevel4_40_60,000+600ms)
+Finished game 2 (ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms vs stockfish_16-dev_SkillLevel4_40_60,000+600ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms       0     nan       2   50.0%    0.0% 
+   2 stockfish_16-dev_SkillLevel4_40_60,000+600ms       0     nan       2   50.0%    0.0% 
+   3 stockfish_15.1_Elo1785_40_60,000+600ms     nan     nan       0    nan%    nan% 
+   4 stockfish_15.1_SkillLevel4_40_60,000+600ms     nan     nan       0    nan%    nan% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 3 of 48 (stockfish_15.1_SkillLevel4_40_60,000+600ms vs stockfish_15.1_Elo1785_40_60,000+600ms)
+Finished game 3 (stockfish_15.1_SkillLevel4_40_60,000+600ms vs stockfish_15.1_Elo1785_40_60,000+600ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_15.1_SkillLevel4_40_60,000+600ms     inf     nan       1  100.0%    0.0% 
+   2 ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms       0     nan       2   50.0%    0.0% 
+   3 stockfish_16-dev_SkillLevel4_40_60,000+600ms       0     nan       2   50.0%    0.0% 
+   4 stockfish_15.1_Elo1785_40_60,000+600ms    -inf     nan       1    0.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 4 of 48 (stockfish_15.1_Elo1785_40_60,000+600ms vs stockfish_15.1_SkillLevel4_40_60,000+600ms)
+Finished game 4 (stockfish_15.1_Elo1785_40_60,000+600ms vs stockfish_15.1_SkillLevel4_40_60,000+600ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_15.1_SkillLevel4_40_60,000+600ms     inf     nan       2  100.0%    0.0% 
+   2 ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms       0     nan       2   50.0%    0.0% 
+   3 stockfish_16-dev_SkillLevel4_40_60,000+600ms       0     nan       2   50.0%    0.0% 
+   4 stockfish_15.1_Elo1785_40_60,000+600ms    -inf     nan       2    0.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 5 of 48 (stockfish_16-dev_SkillLevel4_40_60,000+600ms vs stockfish_15.1_Elo1785_40_60,000+600ms)
+Finished game 5 (stockfish_16-dev_SkillLevel4_40_60,000+600ms vs stockfish_15.1_Elo1785_40_60,000+600ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_15.1_SkillLevel4_40_60,000+600ms     inf     nan       2  100.0%    0.0% 
+   2 ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms       0     nan       2   50.0%    0.0% 
+   3 stockfish_15.1_Elo1785_40_60,000+600ms    -120     nan       3   33.3%    0.0% 
+   4 stockfish_16-dev_SkillLevel4_40_60,000+600ms    -120     nan       3   33.3%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 6 of 48 (stockfish_15.1_Elo1785_40_60,000+600ms vs stockfish_16-dev_SkillLevel4_40_60,000+600ms)
+Finished game 6 (stockfish_15.1_Elo1785_40_60,000+600ms vs stockfish_16-dev_SkillLevel4_40_60,000+600ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_15.1_SkillLevel4_40_60,000+600ms     inf     nan       2  100.0%    0.0% 
+   2 ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms       0     nan       2   50.0%    0.0% 
+   3 stockfish_15.1_Elo1785_40_60,000+600ms       0     786       4   50.0%    0.0% 
+   4 stockfish_16-dev_SkillLevel4_40_60,000+600ms    -191     nan       4   25.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 7 of 48 (ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms vs stockfish_15.1_SkillLevel4_40_60,000+600ms)
+Finished game 7 (ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms vs stockfish_15.1_SkillLevel4_40_60,000+600ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_15.1_SkillLevel4_40_60,000+600ms     inf     nan       3  100.0%    0.0% 
+   2 stockfish_15.1_Elo1785_40_60,000+600ms       0     786       4   50.0%    0.0% 
+   3 ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms    -120     nan       3   33.3%    0.0% 
+   4 stockfish_16-dev_SkillLevel4_40_60,000+600ms    -191     nan       4   25.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 8 of 48 (stockfish_15.1_SkillLevel4_40_60,000+600ms vs ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms)
+Finished game 8 (stockfish_15.1_SkillLevel4_40_60,000+600ms vs ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_15.1_SkillLevel4_40_60,000+600ms     inf     nan       4  100.0%    0.0% 
+   2 stockfish_15.1_Elo1785_40_60,000+600ms       0     786       4   50.0%    0.0% 
+   3 ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms    -191     nan       4   25.0%    0.0% 
+   4 stockfish_16-dev_SkillLevel4_40_60,000+600ms    -191     nan       4   25.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 9 of 48 (stockfish_16-dev_SkillLevel4_40_60,000+600ms vs stockfish_15.1_SkillLevel4_40_60,000+600ms)
+Finished game 9 (stockfish_16-dev_SkillLevel4_40_60,000+600ms vs stockfish_15.1_SkillLevel4_40_60,000+600ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_15.1_SkillLevel4_40_60,000+600ms     inf     nan       5  100.0%    0.0% 
+   2 stockfish_15.1_Elo1785_40_60,000+600ms       0     786       4   50.0%    0.0% 
+   3 ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms    -191     nan       4   25.0%    0.0% 
+   4 stockfish_16-dev_SkillLevel4_40_60,000+600ms    -241     nan       5   20.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 10 of 48 (stockfish_15.1_SkillLevel4_40_60,000+600ms vs stockfish_16-dev_SkillLevel4_40_60,000+600ms)
+Finished game 10 (stockfish_15.1_SkillLevel4_40_60,000+600ms vs stockfish_16-dev_SkillLevel4_40_60,000+600ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_15.1_SkillLevel4_40_60,000+600ms     inf     nan       6  100.0%    0.0% 
+   2 stockfish_15.1_Elo1785_40_60,000+600ms       0     786       4   50.0%    0.0% 
+   3 ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms    -191     nan       4   25.0%    0.0% 
+   4 stockfish_16-dev_SkillLevel4_40_60,000+600ms    -280     nan       6   16.7%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 11 of 48 (stockfish_15.1_Elo1785_40_60,000+600ms vs ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms)
+Finished game 11 (stockfish_15.1_Elo1785_40_60,000+600ms vs ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_15.1_SkillLevel4_40_60,000+600ms     inf     nan       6  100.0%    0.0% 
+   2 ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms     -70     nan       5   40.0%    0.0% 
+   3 stockfish_15.1_Elo1785_40_60,000+600ms     -70     nan       5   40.0%    0.0% 
+   4 stockfish_16-dev_SkillLevel4_40_60,000+600ms    -280     nan       6   16.7%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 12 of 48 (ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms vs stockfish_15.1_Elo1785_40_60,000+600ms)
+Finished game 12 (ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms vs stockfish_15.1_Elo1785_40_60,000+600ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_15.1_SkillLevel4_40_60,000+600ms     inf     nan       6  100.0%    0.0% 
+   2 ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms       0     381       6   50.0%    0.0% 
+   3 stockfish_15.1_Elo1785_40_60,000+600ms    -120     nan       6   33.3%    0.0% 
+   4 stockfish_16-dev_SkillLevel4_40_60,000+600ms    -280     nan       6   16.7%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 13 of 48 (stockfish_16-dev_SkillLevel4_40_60,000+600ms vs ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms)
+Finished game 13 (stockfish_16-dev_SkillLevel4_40_60,000+600ms vs ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_15.1_SkillLevel4_40_60,000+600ms     inf     nan       6  100.0%    0.0% 
+   2 ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms     -50     353       7   42.9%    0.0% 
+   3 stockfish_15.1_Elo1785_40_60,000+600ms    -120     nan       6   33.3%    0.0% 
+   4 stockfish_16-dev_SkillLevel4_40_60,000+600ms    -159     nan       7   28.6%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 14 of 48 (ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms vs stockfish_16-dev_SkillLevel4_40_60,000+600ms)
+Finished game 14 (ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms vs stockfish_16-dev_SkillLevel4_40_60,000+600ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_15.1_SkillLevel4_40_60,000+600ms     inf     nan       6  100.0%    0.0% 
+   2 ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms       0     296       8   50.0%    0.0% 
+   3 stockfish_15.1_Elo1785_40_60,000+600ms    -120     nan       6   33.3%    0.0% 
+   4 stockfish_16-dev_SkillLevel4_40_60,000+600ms    -191     nan       8   25.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 15 of 48 (stockfish_15.1_SkillLevel4_40_60,000+600ms vs stockfish_15.1_Elo1785_40_60,000+600ms)
+Finished game 15 (stockfish_15.1_SkillLevel4_40_60,000+600ms vs stockfish_15.1_Elo1785_40_60,000+600ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_15.1_SkillLevel4_40_60,000+600ms     311     nan       7   85.7%    0.0% 
+   2 ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms       0     296       8   50.0%    0.0% 
+   3 stockfish_15.1_Elo1785_40_60,000+600ms     -50     353       7   42.9%    0.0% 
+   4 stockfish_16-dev_SkillLevel4_40_60,000+600ms    -191     nan       8   25.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 16 of 48 (stockfish_15.1_Elo1785_40_60,000+600ms vs stockfish_15.1_SkillLevel4_40_60,000+600ms)
+Finished game 16 (stockfish_15.1_Elo1785_40_60,000+600ms vs stockfish_15.1_SkillLevel4_40_60,000+600ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_15.1_SkillLevel4_40_60,000+600ms     338     nan       8   87.5%    0.0% 
+   2 ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms       0     296       8   50.0%    0.0% 
+   3 stockfish_15.1_Elo1785_40_60,000+600ms     -89     354       8   37.5%    0.0% 
+   4 stockfish_16-dev_SkillLevel4_40_60,000+600ms    -191     nan       8   25.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 17 of 48 (stockfish_16-dev_SkillLevel4_40_60,000+600ms vs stockfish_15.1_Elo1785_40_60,000+600ms)
+Finished game 17 (stockfish_16-dev_SkillLevel4_40_60,000+600ms vs stockfish_15.1_Elo1785_40_60,000+600ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_15.1_SkillLevel4_40_60,000+600ms     338     nan       8   87.5%    0.0% 
+   2 ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms       0     296       8   50.0%    0.0% 
+   3 stockfish_15.1_Elo1785_40_60,000+600ms    -120     366       9   33.3%    0.0% 
+   4 stockfish_16-dev_SkillLevel4_40_60,000+600ms    -120     366       9   33.3%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 18 of 48 (stockfish_15.1_Elo1785_40_60,000+600ms vs stockfish_16-dev_SkillLevel4_40_60,000+600ms)
+Finished game 18 (stockfish_15.1_Elo1785_40_60,000+600ms vs stockfish_16-dev_SkillLevel4_40_60,000+600ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_15.1_SkillLevel4_40_60,000+600ms     338     nan       8   87.5%    0.0% 
+   2 ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms       0     296       8   50.0%    0.0% 
+   3 stockfish_15.1_Elo1785_40_60,000+600ms     -70     269      10   40.0%    0.0% 
+   4 stockfish_16-dev_SkillLevel4_40_60,000+600ms    -147     385      10   30.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 19 of 48 (ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms vs stockfish_15.1_SkillLevel4_40_60,000+600ms)
+Finished game 19 (ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms vs stockfish_15.1_SkillLevel4_40_60,000+600ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_15.1_SkillLevel4_40_60,000+600ms     218     nan       9   77.8%    0.0% 
+   2 ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms      39     277       9   55.6%    0.0% 
+   3 stockfish_15.1_Elo1785_40_60,000+600ms     -70     269      10   40.0%    0.0% 
+   4 stockfish_16-dev_SkillLevel4_40_60,000+600ms    -147     385      10   30.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 20 of 48 (stockfish_15.1_SkillLevel4_40_60,000+600ms vs ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms)
+Finished game 20 (stockfish_15.1_SkillLevel4_40_60,000+600ms vs ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_15.1_SkillLevel4_40_60,000+600ms     241     nan      10   80.0%    0.0% 
+   2 ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms       0     251      10   50.0%    0.0% 
+   3 stockfish_15.1_Elo1785_40_60,000+600ms     -70     269      10   40.0%    0.0% 
+   4 stockfish_16-dev_SkillLevel4_40_60,000+600ms    -147     385      10   30.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 21 of 48 (stockfish_16-dev_SkillLevel4_40_60,000+600ms vs stockfish_15.1_SkillLevel4_40_60,000+600ms)
+Finished game 21 (stockfish_16-dev_SkillLevel4_40_60,000+600ms vs stockfish_15.1_SkillLevel4_40_60,000+600ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_15.1_SkillLevel4_40_60,000+600ms     261     nan      11   81.8%    0.0% 
+   2 ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms       0     251      10   50.0%    0.0% 
+   3 stockfish_15.1_Elo1785_40_60,000+600ms     -70     269      10   40.0%    0.0% 
+   4 stockfish_16-dev_SkillLevel4_40_60,000+600ms    -170     412      11   27.3%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 22 of 48 (stockfish_15.1_SkillLevel4_40_60,000+600ms vs stockfish_16-dev_SkillLevel4_40_60,000+600ms)
+Finished game 22 (stockfish_15.1_SkillLevel4_40_60,000+600ms vs stockfish_16-dev_SkillLevel4_40_60,000+600ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_15.1_SkillLevel4_40_60,000+600ms     191     452      12   75.0%    0.0% 
+   2 ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms       0     251      10   50.0%    0.0% 
+   3 stockfish_15.1_Elo1785_40_60,000+600ms     -70     269      10   40.0%    0.0% 
+   4 stockfish_16-dev_SkillLevel4_40_60,000+600ms    -120     264      12   33.3%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 23 of 48 (stockfish_15.1_Elo1785_40_60,000+600ms vs ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms)
+Finished game 23 (stockfish_15.1_Elo1785_40_60,000+600ms vs ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_15.1_SkillLevel4_40_60,000+600ms     191     452      12   75.0%    0.0% 
+   2 ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms     -32     238      11   45.5%    0.0% 
+   3 stockfish_15.1_Elo1785_40_60,000+600ms     -32     238      11   45.5%    0.0% 
+   4 stockfish_16-dev_SkillLevel4_40_60,000+600ms    -120     264      12   33.3%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 24 of 48 (ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms vs stockfish_15.1_Elo1785_40_60,000+600ms)
+Finished game 24 (ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms vs stockfish_15.1_Elo1785_40_60,000+600ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_15.1_SkillLevel4_40_60,000+600ms     191     452      12   75.0%    0.0% 
+   2 ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms       0     222      12   50.0%    0.0% 
+   3 stockfish_15.1_Elo1785_40_60,000+600ms     -58     231      12   41.7%    0.0% 
+   4 stockfish_16-dev_SkillLevel4_40_60,000+600ms    -120     264      12   33.3%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 25 of 48 (stockfish_16-dev_SkillLevel4_40_60,000+600ms vs ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms)
+Finished game 25 (stockfish_16-dev_SkillLevel4_40_60,000+600ms vs ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_15.1_SkillLevel4_40_60,000+600ms     191     452      12   75.0%    0.0% 
+   2 ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms      27     213      13   53.8%    0.0% 
+   3 stockfish_15.1_Elo1785_40_60,000+600ms     -58     231      12   41.7%    0.0% 
+   4 stockfish_16-dev_SkillLevel4_40_60,000+600ms    -141     264      13   30.8%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 26 of 48 (ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms vs stockfish_16-dev_SkillLevel4_40_60,000+600ms)
+Finished game 26 (ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms vs stockfish_16-dev_SkillLevel4_40_60,000+600ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_15.1_SkillLevel4_40_60,000+600ms     191     452      12   75.0%    0.0% 
+   2 ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms      50     206      14   57.1%    0.0% 
+   3 stockfish_15.1_Elo1785_40_60,000+600ms     -58     231      12   41.7%    0.0% 
+   4 stockfish_16-dev_SkillLevel4_40_60,000+600ms    -159     264      14   28.6%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 27 of 48 (stockfish_15.1_SkillLevel4_40_60,000+600ms vs stockfish_15.1_Elo1785_40_60,000+600ms)
+Finished game 27 (stockfish_15.1_SkillLevel4_40_60,000+600ms vs stockfish_15.1_Elo1785_40_60,000+600ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_15.1_SkillLevel4_40_60,000+600ms     209     523      13   76.9%    0.0% 
+   2 ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms      50     206      14   57.1%    0.0% 
+   3 stockfish_15.1_Elo1785_40_60,000+600ms     -82     226      13   38.5%    0.0% 
+   4 stockfish_16-dev_SkillLevel4_40_60,000+600ms    -159     264      14   28.6%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 28 of 48 (stockfish_15.1_Elo1785_40_60,000+600ms vs stockfish_15.1_SkillLevel4_40_60,000+600ms)
+Finished game 28 (stockfish_15.1_Elo1785_40_60,000+600ms vs stockfish_15.1_SkillLevel4_40_60,000+600ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_15.1_SkillLevel4_40_60,000+600ms     226     nan      14   78.6%    0.0% 
+   2 ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms      50     206      14   57.1%    0.0% 
+   3 stockfish_15.1_Elo1785_40_60,000+600ms    -102     223      14   35.7%    0.0% 
+   4 stockfish_16-dev_SkillLevel4_40_60,000+600ms    -159     264      14   28.6%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 29 of 48 (stockfish_16-dev_SkillLevel4_40_60,000+600ms vs stockfish_15.1_Elo1785_40_60,000+600ms)
+Finished game 29 (stockfish_16-dev_SkillLevel4_40_60,000+600ms vs stockfish_15.1_Elo1785_40_60,000+600ms): 1/2-1/2 {Draw by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_15.1_SkillLevel4_40_60,000+600ms     226     nan      14   78.6%    0.0% 
+   2 ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms      50     206      14   57.1%    0.0% 
+   3 stockfish_15.1_Elo1785_40_60,000+600ms     -95     199      15   36.7%    6.7% 
+   4 stockfish_16-dev_SkillLevel4_40_60,000+600ms    -147     222      15   30.0%    6.7% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 30 of 48 (stockfish_15.1_Elo1785_40_60,000+600ms vs stockfish_16-dev_SkillLevel4_40_60,000+600ms)
+Finished game 30 (stockfish_15.1_Elo1785_40_60,000+600ms vs stockfish_16-dev_SkillLevel4_40_60,000+600ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_15.1_SkillLevel4_40_60,000+600ms     226     nan      14   78.6%    0.0% 
+   2 ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms      50     206      14   57.1%    0.0% 
+   3 stockfish_15.1_Elo1785_40_60,000+600ms     -66     185      16   40.6%    6.3% 
+   4 stockfish_16-dev_SkillLevel4_40_60,000+600ms    -163     222      16   28.1%    6.3% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 31 of 48 (ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms vs stockfish_15.1_SkillLevel4_40_60,000+600ms)
+Finished game 31 (ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms vs stockfish_15.1_SkillLevel4_40_60,000+600ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_15.1_SkillLevel4_40_60,000+600ms     241     nan      15   80.0%    0.0% 
+   2 ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms      23     194      15   53.3%    0.0% 
+   3 stockfish_15.1_Elo1785_40_60,000+600ms     -66     185      16   40.6%    6.3% 
+   4 stockfish_16-dev_SkillLevel4_40_60,000+600ms    -163     222      16   28.1%    6.3% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 32 of 48 (stockfish_15.1_SkillLevel4_40_60,000+600ms vs ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms)
+Finished game 32 (stockfish_15.1_SkillLevel4_40_60,000+600ms vs ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_15.1_SkillLevel4_40_60,000+600ms     191     267      16   75.0%    0.0% 
+   2 ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms      44     189      16   56.3%    0.0% 
+   3 stockfish_15.1_Elo1785_40_60,000+600ms     -66     185      16   40.6%    6.3% 
+   4 stockfish_16-dev_SkillLevel4_40_60,000+600ms    -163     222      16   28.1%    6.3% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 33 of 48 (stockfish_16-dev_SkillLevel4_40_60,000+600ms vs stockfish_15.1_SkillLevel4_40_60,000+600ms)
+Finished game 33 (stockfish_16-dev_SkillLevel4_40_60,000+600ms vs stockfish_15.1_SkillLevel4_40_60,000+600ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_15.1_SkillLevel4_40_60,000+600ms     152     218      17   70.6%    0.0% 
+   2 ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms      44     189      16   56.3%    0.0% 
+   3 stockfish_15.1_Elo1785_40_60,000+600ms     -66     185      16   40.6%    6.3% 
+   4 stockfish_16-dev_SkillLevel4_40_60,000+600ms    -128     196      17   32.4%    5.9% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 34 of 48 (stockfish_15.1_SkillLevel4_40_60,000+600ms vs stockfish_16-dev_SkillLevel4_40_60,000+600ms)
+Finished game 34 (stockfish_15.1_SkillLevel4_40_60,000+600ms vs stockfish_16-dev_SkillLevel4_40_60,000+600ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_15.1_SkillLevel4_40_60,000+600ms     166     218      18   72.2%    0.0% 
+   2 ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms      44     189      16   56.3%    0.0% 
+   3 stockfish_15.1_Elo1785_40_60,000+600ms     -66     185      16   40.6%    6.3% 
+   4 stockfish_16-dev_SkillLevel4_40_60,000+600ms    -143     195      18   30.6%    5.6% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 35 of 48 (stockfish_15.1_Elo1785_40_60,000+600ms vs ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms)
+Finished game 35 (stockfish_15.1_Elo1785_40_60,000+600ms vs ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_15.1_SkillLevel4_40_60,000+600ms     166     218      18   72.2%    0.0% 
+   2 ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms      62     185      17   58.8%    0.0% 
+   3 stockfish_15.1_Elo1785_40_60,000+600ms     -83     182      17   38.2%    5.9% 
+   4 stockfish_16-dev_SkillLevel4_40_60,000+600ms    -143     195      18   30.6%    5.6% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 36 of 48 (ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms vs stockfish_15.1_Elo1785_40_60,000+600ms)
+Finished game 36 (ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms vs stockfish_15.1_Elo1785_40_60,000+600ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_15.1_SkillLevel4_40_60,000+600ms     166     218      18   72.2%    0.0% 
+   2 ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms      79     182      18   61.1%    0.0% 
+   3 stockfish_15.1_Elo1785_40_60,000+600ms     -99     180      18   36.1%    5.6% 
+   4 stockfish_16-dev_SkillLevel4_40_60,000+600ms    -143     195      18   30.6%    5.6% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 37 of 48 (stockfish_16-dev_SkillLevel4_40_60,000+600ms vs ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms)
+Finished game 37 (stockfish_16-dev_SkillLevel4_40_60,000+600ms vs ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_15.1_SkillLevel4_40_60,000+600ms     166     218      18   72.2%    0.0% 
+   2 ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms      94     179      19   63.2%    0.0% 
+   3 stockfish_15.1_Elo1785_40_60,000+600ms     -99     180      18   36.1%    5.6% 
+   4 stockfish_16-dev_SkillLevel4_40_60,000+600ms    -156     194      19   28.9%    5.3% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 38 of 48 (ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms vs stockfish_16-dev_SkillLevel4_40_60,000+600ms)
+Finished game 38 (ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms vs stockfish_16-dev_SkillLevel4_40_60,000+600ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_15.1_SkillLevel4_40_60,000+600ms     166     218      18   72.2%    0.0% 
+   2 ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms     108     177      20   65.0%    0.0% 
+   3 stockfish_15.1_Elo1785_40_60,000+600ms     -99     180      18   36.1%    5.6% 
+   4 stockfish_16-dev_SkillLevel4_40_60,000+600ms    -168     193      20   27.5%    5.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 39 of 48 (stockfish_15.1_SkillLevel4_40_60,000+600ms vs stockfish_15.1_Elo1785_40_60,000+600ms)
+Finished game 39 (stockfish_15.1_SkillLevel4_40_60,000+600ms vs stockfish_15.1_Elo1785_40_60,000+600ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_15.1_SkillLevel4_40_60,000+600ms     179     217      19   73.7%    0.0% 
+   2 ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms     108     177      20   65.0%    0.0% 
+   3 stockfish_15.1_Elo1785_40_60,000+600ms    -114     178      19   34.2%    5.3% 
+   4 stockfish_16-dev_SkillLevel4_40_60,000+600ms    -168     193      20   27.5%    5.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 40 of 48 (stockfish_15.1_Elo1785_40_60,000+600ms vs stockfish_15.1_SkillLevel4_40_60,000+600ms)
+Finished game 40 (stockfish_15.1_Elo1785_40_60,000+600ms vs stockfish_15.1_SkillLevel4_40_60,000+600ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_15.1_SkillLevel4_40_60,000+600ms     147     192      20   70.0%    0.0% 
+   2 ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms     108     177      20   65.0%    0.0% 
+   3 stockfish_15.1_Elo1785_40_60,000+600ms     -89     167      20   37.5%    5.0% 
+   4 stockfish_16-dev_SkillLevel4_40_60,000+600ms    -168     193      20   27.5%    5.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 41 of 48 (stockfish_16-dev_SkillLevel4_40_60,000+600ms vs stockfish_15.1_Elo1785_40_60,000+600ms)
+Finished game 41 (stockfish_16-dev_SkillLevel4_40_60,000+600ms vs stockfish_15.1_Elo1785_40_60,000+600ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_15.1_SkillLevel4_40_60,000+600ms     147     192      20   70.0%    0.0% 
+   2 ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms     108     177      20   65.0%    0.0% 
+   3 stockfish_15.1_Elo1785_40_60,000+600ms     -67     159      21   40.5%    4.8% 
+   4 stockfish_16-dev_SkillLevel4_40_60,000+600ms    -180     193      21   26.2%    4.8% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 42 of 48 (stockfish_15.1_Elo1785_40_60,000+600ms vs stockfish_16-dev_SkillLevel4_40_60,000+600ms)
+Finished game 42 (stockfish_15.1_Elo1785_40_60,000+600ms vs stockfish_16-dev_SkillLevel4_40_60,000+600ms): 1/2-1/2 {Draw by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_15.1_SkillLevel4_40_60,000+600ms     147     192      20   70.0%    0.0% 
+   2 ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms     108     177      20   65.0%    0.0% 
+   3 stockfish_15.1_Elo1785_40_60,000+600ms     -64     150      22   40.9%    9.1% 
+   4 stockfish_16-dev_SkillLevel4_40_60,000+600ms    -170     175      22   27.3%    9.1% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 43 of 48 (ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms vs stockfish_15.1_SkillLevel4_40_60,000+600ms)
+Finished game 43 (ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms vs stockfish_15.1_SkillLevel4_40_60,000+600ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms     120     176      21   66.7%    0.0% 
+   2 stockfish_15.1_SkillLevel4_40_60,000+600ms     120     176      21   66.7%    0.0% 
+   3 stockfish_15.1_Elo1785_40_60,000+600ms     -64     150      22   40.9%    9.1% 
+   4 stockfish_16-dev_SkillLevel4_40_60,000+600ms    -170     175      22   27.3%    9.1% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 44 of 48 (stockfish_15.1_SkillLevel4_40_60,000+600ms vs ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms)
+Finished game 44 (stockfish_15.1_SkillLevel4_40_60,000+600ms vs ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_15.1_SkillLevel4_40_60,000+600ms     132     174      22   68.2%    0.0% 
+   2 ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms      97     165      22   63.6%    0.0% 
+   3 stockfish_15.1_Elo1785_40_60,000+600ms     -64     150      22   40.9%    9.1% 
+   4 stockfish_16-dev_SkillLevel4_40_60,000+600ms    -170     175      22   27.3%    9.1% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 45 of 48 (stockfish_16-dev_SkillLevel4_40_60,000+600ms vs stockfish_15.1_SkillLevel4_40_60,000+600ms)
+Finished game 45 (stockfish_16-dev_SkillLevel4_40_60,000+600ms vs stockfish_15.1_SkillLevel4_40_60,000+600ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_15.1_SkillLevel4_40_60,000+600ms     109     163      23   65.2%    0.0% 
+   2 ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms      97     165      22   63.6%    0.0% 
+   3 stockfish_15.1_Elo1785_40_60,000+600ms     -64     150      22   40.9%    9.1% 
+   4 stockfish_16-dev_SkillLevel4_40_60,000+600ms    -144     162      23   30.4%    8.7% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 46 of 48 (stockfish_15.1_SkillLevel4_40_60,000+600ms vs stockfish_16-dev_SkillLevel4_40_60,000+600ms)
+Finished game 46 (stockfish_15.1_SkillLevel4_40_60,000+600ms vs stockfish_16-dev_SkillLevel4_40_60,000+600ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_15.1_SkillLevel4_40_60,000+600ms     120     162      24   66.7%    0.0% 
+   2 ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms      97     165      22   63.6%    0.0% 
+   3 stockfish_15.1_Elo1785_40_60,000+600ms     -64     150      22   40.9%    9.1% 
+   4 stockfish_16-dev_SkillLevel4_40_60,000+600ms    -154     161      24   29.2%    8.3% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 47 of 48 (stockfish_15.1_Elo1785_40_60,000+600ms vs ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms)
+Finished game 47 (stockfish_15.1_Elo1785_40_60,000+600ms vs ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_15.1_SkillLevel4_40_60,000+600ms     120     162      24   66.7%    0.0% 
+   2 ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms     109     163      23   65.2%    0.0% 
+   3 stockfish_15.1_Elo1785_40_60,000+600ms     -77     148      23   39.1%    8.7% 
+   4 stockfish_16-dev_SkillLevel4_40_60,000+600ms    -154     161      24   29.2%    8.3% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 48 of 48 (ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms vs stockfish_15.1_Elo1785_40_60,000+600ms)
+Finished game 48 (ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms vs stockfish_15.1_Elo1785_40_60,000+600ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms     120     162      24   66.7%    0.0% 
+   2 stockfish_15.1_SkillLevel4_40_60,000+600ms     120     162      24   66.7%    0.0% 
+   3 stockfish_15.1_Elo1785_40_60,000+600ms     -89     147      24   37.5%    8.3% 
+   4 stockfish_16-dev_SkillLevel4_40_60,000+600ms    -154     161      24   29.2%    8.3% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+
+Player: stockfish_16-dev_SkillLevel4_40_60,000+600ms
+   "Draw by adjudication": 2
+   "Loss: Black wins by adjudication": 6
+   "Loss: White wins by adjudication": 10
+   "Win: Black wins by adjudication": 1
+   "Win: White wins by adjudication": 5
+Player: stockfish_15.1_SkillLevel4_40_60,000+600ms
+   "Loss: Black wins by adjudication": 3
+   "Loss: White wins by adjudication": 5
+   "Win: Black wins by adjudication": 7
+   "Win: White wins by adjudication": 9
+Player: stockfish_15.1_Elo1785_40_60,000+600ms
+   "Draw by adjudication": 2
+   "Loss: Black wins by adjudication": 6
+   "Loss: White wins by adjudication": 8
+   "Win: Black wins by adjudication": 3
+   "Win: White wins by adjudication": 5
+Player: ipmanchess_SF14.1_SkillLevel4_40_60,000+600ms
+   "Loss: Black wins by adjudication": 2
+   "Loss: White wins by adjudication": 6
+   "Win: Black wins by adjudication": 6
+   "Win: White wins by adjudication": 10
+Finished match

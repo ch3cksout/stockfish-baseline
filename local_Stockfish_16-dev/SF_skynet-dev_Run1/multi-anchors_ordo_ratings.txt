@@ -1,0 +1,3 @@
+"Threads1_stockfish_15.1_Elo1700_40_60,000+600ms"     1700.0
+"Threads10_stockfish_15.1_Elo1700_40_60,000+600ms"    1700.0    
+

@@ -1,0 +1,1648 @@
+Indexing opening suite...
+Started game 1 of 160 (stockfish_16-SL4_acherm_handicapped_100ms vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms)
+Finished game 1 (stockfish_16-SL4_acherm_handicapped_100ms vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_acherm_handicapped_100ms     inf     nan       1  100.0%    0.0% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms    -inf     nan       1    0.0%    0.0% 
+   3 stockfish_16-SL4_UNhandicapped_40_4min     nan     nan       0    nan%    nan% 
+   4 stockfish_16-SL4_acherm_handicapped_6000ms     nan     nan       0    nan%    nan% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms     nan     nan       0    nan%    nan% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 2 of 160 (Threads10_stockfish_15.1_Elo1785_40_60,000+600ms vs stockfish_16-SL4_acherm_handicapped_100ms)
+Finished game 2 (Threads10_stockfish_15.1_Elo1785_40_60,000+600ms vs stockfish_16-SL4_acherm_handicapped_100ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms       0     nan       2   50.0%    0.0% 
+   2 stockfish_16-SL4_acherm_handicapped_100ms       0     nan       2   50.0%    0.0% 
+   3 stockfish_16-SL4_UNhandicapped_40_4min     nan     nan       0    nan%    nan% 
+   4 stockfish_16-SL4_acherm_handicapped_6000ms     nan     nan       0    nan%    nan% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms     nan     nan       0    nan%    nan% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 3 of 160 (stockfish_16-SL4_acherm_handicapped_6000ms vs stockfish_16-SL4_UNhandicapped_40_4min)
+Finished game 3 (stockfish_16-SL4_acherm_handicapped_6000ms vs stockfish_16-SL4_UNhandicapped_40_4min): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min     inf     nan       1  100.0%    0.0% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms       0     nan       2   50.0%    0.0% 
+   3 stockfish_16-SL4_acherm_handicapped_100ms       0     nan       2   50.0%    0.0% 
+   4 stockfish_16-SL4_acherm_handicapped_6000ms    -inf     nan       1    0.0%    0.0% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms     nan     nan       0    nan%    nan% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 4 of 160 (stockfish_16-SL4_UNhandicapped_40_4min vs stockfish_16-SL4_acherm_handicapped_6000ms)
+Finished game 4 (stockfish_16-SL4_UNhandicapped_40_4min vs stockfish_16-SL4_acherm_handicapped_6000ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms       0     nan       2   50.0%    0.0% 
+   2 stockfish_16-SL4_UNhandicapped_40_4min       0     nan       2   50.0%    0.0% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms       0     nan       2   50.0%    0.0% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms       0     nan       2   50.0%    0.0% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms     nan     nan       0    nan%    nan% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 5 of 160 (stockfish_16-SL4_acherm_handicapped_20ms vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms)
+Finished game 5 (stockfish_16-SL4_acherm_handicapped_20ms vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms): 1/2-1/2 {Draw by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms       0     558       3   50.0%   33.3% 
+   2 stockfish_16-SL4_UNhandicapped_40_4min       0     nan       2   50.0%    0.0% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms       0     nan       2   50.0%    0.0% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms       0     nan       2   50.0%    0.0% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms       0       0       1   50.0%  100.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 6 of 160 (Threads10_stockfish_15.1_Elo1785_40_60,000+600ms vs stockfish_16-SL4_acherm_handicapped_20ms)
+Finished game 6 (Threads10_stockfish_15.1_Elo1785_40_60,000+600ms vs stockfish_16-SL4_acherm_handicapped_20ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      89     nan       4   62.5%   25.0% 
+   2 stockfish_16-SL4_UNhandicapped_40_4min       0     nan       2   50.0%    0.0% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms       0     nan       2   50.0%    0.0% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms       0     nan       2   50.0%    0.0% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -191     nan       2   25.0%   50.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 7 of 160 (stockfish_16-SL4_acherm_handicapped_100ms vs stockfish_16-SL4_acherm_handicapped_6000ms)
+Finished game 7 (stockfish_16-SL4_acherm_handicapped_100ms vs stockfish_16-SL4_acherm_handicapped_6000ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_acherm_handicapped_100ms     120     nan       3   66.7%    0.0% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      89     nan       4   62.5%   25.0% 
+   3 stockfish_16-SL4_UNhandicapped_40_4min       0     nan       2   50.0%    0.0% 
+   4 stockfish_16-SL4_acherm_handicapped_6000ms    -120     nan       3   33.3%    0.0% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -191     nan       2   25.0%   50.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 8 of 160 (stockfish_16-SL4_acherm_handicapped_6000ms vs stockfish_16-SL4_acherm_handicapped_100ms)
+Finished game 8 (stockfish_16-SL4_acherm_handicapped_6000ms vs stockfish_16-SL4_acherm_handicapped_100ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      89     nan       4   62.5%   25.0% 
+   2 stockfish_16-SL4_UNhandicapped_40_4min       0     nan       2   50.0%    0.0% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms       0     786       4   50.0%    0.0% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms       0     786       4   50.0%    0.0% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -191     nan       2   25.0%   50.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 9 of 160 (stockfish_16-SL4_acherm_handicapped_20ms vs stockfish_16-SL4_UNhandicapped_40_4min)
+Finished game 9 (stockfish_16-SL4_acherm_handicapped_20ms vs stockfish_16-SL4_UNhandicapped_40_4min): 0-1 {White loses on time}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min     120     nan       3   66.7%    0.0% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      89     nan       4   62.5%   25.0% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms       0     786       4   50.0%    0.0% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms       0     786       4   50.0%    0.0% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -280     nan       3   16.7%   33.3% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 10 of 160 (stockfish_16-SL4_UNhandicapped_40_4min vs stockfish_16-SL4_acherm_handicapped_20ms)
+Finished game 10 (stockfish_16-SL4_UNhandicapped_40_4min vs stockfish_16-SL4_acherm_handicapped_20ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min     191     nan       4   75.0%    0.0% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      89     nan       4   62.5%   25.0% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms       0     786       4   50.0%    0.0% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms       0     786       4   50.0%    0.0% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -338     nan       4   12.5%   25.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 11 of 160 (Threads10_stockfish_15.1_Elo1785_40_60,000+600ms vs stockfish_16-SL4_acherm_handicapped_6000ms)
+Finished game 11 (Threads10_stockfish_15.1_Elo1785_40_60,000+600ms vs stockfish_16-SL4_acherm_handicapped_6000ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min     191     nan       4   75.0%    0.0% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms     147     nan       5   70.0%   20.0% 
+   3 stockfish_16-SL4_acherm_handicapped_100ms       0     786       4   50.0%    0.0% 
+   4 stockfish_16-SL4_acherm_handicapped_6000ms     -70     nan       5   40.0%    0.0% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -338     nan       4   12.5%   25.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 12 of 160 (stockfish_16-SL4_acherm_handicapped_6000ms vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms)
+Finished game 12 (stockfish_16-SL4_acherm_handicapped_6000ms vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min     191     nan       4   75.0%    0.0% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      58     350       6   58.3%   16.7% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms       0     381       6   50.0%    0.0% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms       0     786       4   50.0%    0.0% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -338     nan       4   12.5%   25.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 13 of 160 (stockfish_16-SL4_acherm_handicapped_20ms vs stockfish_16-SL4_acherm_handicapped_6000ms)
+Finished game 13 (stockfish_16-SL4_acherm_handicapped_20ms vs stockfish_16-SL4_acherm_handicapped_6000ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min     191     nan       4   75.0%    0.0% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      58     350       6   58.3%   16.7% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      50     353       7   57.1%    0.0% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms       0     786       4   50.0%    0.0% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -382     nan       5   10.0%   20.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 14 of 160 (stockfish_16-SL4_acherm_handicapped_6000ms vs stockfish_16-SL4_acherm_handicapped_20ms)
+Finished game 14 (stockfish_16-SL4_acherm_handicapped_6000ms vs stockfish_16-SL4_acherm_handicapped_20ms): 1/2-1/2 {Draw by 3-fold repetition}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min     191     nan       4   75.0%    0.0% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      58     350       6   58.3%   16.7% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      44     275       8   56.3%   12.5% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms       0     786       4   50.0%    0.0% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -280     nan       6   16.7%   33.3% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 15 of 160 (stockfish_16-SL4_UNhandicapped_40_4min vs stockfish_16-SL4_acherm_handicapped_100ms)
+Finished game 15 (stockfish_16-SL4_UNhandicapped_40_4min vs stockfish_16-SL4_acherm_handicapped_100ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min     241     nan       5   80.0%    0.0% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      58     350       6   58.3%   16.7% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      44     275       8   56.3%   12.5% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -70     nan       5   40.0%    0.0% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -280     nan       6   16.7%   33.3% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 16 of 160 (stockfish_16-SL4_acherm_handicapped_100ms vs stockfish_16-SL4_UNhandicapped_40_4min)
+Finished game 16 (stockfish_16-SL4_acherm_handicapped_100ms vs stockfish_16-SL4_UNhandicapped_40_4min): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min     280     nan       6   83.3%    0.0% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      58     350       6   58.3%   16.7% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      44     275       8   56.3%   12.5% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms    -120     nan       6   33.3%    0.0% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -280     nan       6   16.7%   33.3% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 17 of 160 (stockfish_16-SL4_acherm_handicapped_20ms vs stockfish_16-SL4_acherm_handicapped_100ms)
+Finished game 17 (stockfish_16-SL4_acherm_handicapped_20ms vs stockfish_16-SL4_acherm_handicapped_100ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min     280     nan       6   83.3%    0.0% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      58     350       6   58.3%   16.7% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      44     275       8   56.3%   12.5% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms    -159     nan       7   28.6%    0.0% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -159     375       7   28.6%   28.6% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 18 of 160 (stockfish_16-SL4_acherm_handicapped_100ms vs stockfish_16-SL4_acherm_handicapped_20ms)
+Finished game 18 (stockfish_16-SL4_acherm_handicapped_100ms vs stockfish_16-SL4_acherm_handicapped_20ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min     280     nan       6   83.3%    0.0% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      58     350       6   58.3%   16.7% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      44     275       8   56.3%   12.5% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -89     354       8   37.5%    0.0% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -191     452       8   25.0%   25.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 19 of 160 (stockfish_16-SL4_UNhandicapped_40_4min vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms)
+Finished game 19 (stockfish_16-SL4_UNhandicapped_40_4min vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min     159     nan       7   71.4%    0.0% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms     102     364       7   64.3%   14.3% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      44     275       8   56.3%   12.5% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -89     354       8   37.5%    0.0% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -191     452       8   25.0%   25.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 20 of 160 (Threads10_stockfish_15.1_Elo1785_40_60,000+600ms vs stockfish_16-SL4_UNhandicapped_40_4min)
+Finished game 20 (Threads10_stockfish_15.1_Elo1785_40_60,000+600ms vs stockfish_16-SL4_UNhandicapped_40_4min): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms     137     396       8   68.8%   12.5% 
+   2 stockfish_16-SL4_UNhandicapped_40_4min      89     354       8   62.5%    0.0% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      44     275       8   56.3%   12.5% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -89     354       8   37.5%    0.0% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -191     452       8   25.0%   25.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 21 of 160 (stockfish_16-SL4_acherm_handicapped_100ms vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms)
+Finished game 21 (stockfish_16-SL4_acherm_handicapped_100ms vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms): 1/2-1/2 {Draw by insufficient mating material}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms     120     264       9   66.7%   22.2% 
+   2 stockfish_16-SL4_UNhandicapped_40_4min      89     354       8   62.5%    0.0% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      44     275       8   56.3%   12.5% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -79     270       9   38.9%   11.1% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -191     452       8   25.0%   25.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 22 of 160 (Threads10_stockfish_15.1_Elo1785_40_60,000+600ms vs stockfish_16-SL4_acherm_handicapped_100ms)
+Finished game 22 (Threads10_stockfish_15.1_Elo1785_40_60,000+600ms vs stockfish_16-SL4_acherm_handicapped_100ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms     147     268      10   70.0%   20.0% 
+   2 stockfish_16-SL4_UNhandicapped_40_4min      89     354       8   62.5%    0.0% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      44     275       8   56.3%   12.5% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms    -108     268      10   35.0%   10.0% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -191     452       8   25.0%   25.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 23 of 160 (stockfish_16-SL4_acherm_handicapped_6000ms vs stockfish_16-SL4_UNhandicapped_40_4min)
+Finished game 23 (stockfish_16-SL4_acherm_handicapped_6000ms vs stockfish_16-SL4_UNhandicapped_40_4min): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms     147     268      10   70.0%   20.0% 
+   2 stockfish_16-SL4_acherm_handicapped_6000ms      79     270       9   61.1%   11.1% 
+   3 stockfish_16-SL4_UNhandicapped_40_4min      39     277       9   55.6%    0.0% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms    -108     268      10   35.0%   10.0% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -191     452       8   25.0%   25.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 24 of 160 (stockfish_16-SL4_UNhandicapped_40_4min vs stockfish_16-SL4_acherm_handicapped_6000ms)
+Finished game 24 (stockfish_16-SL4_UNhandicapped_40_4min vs stockfish_16-SL4_acherm_handicapped_6000ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms     147     268      10   70.0%   20.0% 
+   2 stockfish_16-SL4_UNhandicapped_40_4min      70     269      10   60.0%    0.0% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      35     237      10   55.0%   10.0% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms    -108     268      10   35.0%   10.0% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -191     452       8   25.0%   25.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 25 of 160 (stockfish_16-SL4_acherm_handicapped_20ms vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms)
+Finished game 25 (stockfish_16-SL4_acherm_handicapped_20ms vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms): 0-1 {White loses on time}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms     170     273      11   72.7%   18.2% 
+   2 stockfish_16-SL4_UNhandicapped_40_4min      70     269      10   60.0%    0.0% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      35     237      10   55.0%   10.0% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms    -108     268      10   35.0%   10.0% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -218     nan       9   22.2%   22.2% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 26 of 160 (Threads10_stockfish_15.1_Elo1785_40_60,000+600ms vs stockfish_16-SL4_acherm_handicapped_20ms)
+Finished game 26 (Threads10_stockfish_15.1_Elo1785_40_60,000+600ms vs stockfish_16-SL4_acherm_handicapped_20ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms     191     278      12   75.0%   16.7% 
+   2 stockfish_16-SL4_UNhandicapped_40_4min      70     269      10   60.0%    0.0% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      35     237      10   55.0%   10.0% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms    -108     268      10   35.0%   10.0% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -241     nan      10   20.0%   20.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 27 of 160 (stockfish_16-SL4_acherm_handicapped_100ms vs stockfish_16-SL4_acherm_handicapped_6000ms)
+Finished game 27 (stockfish_16-SL4_acherm_handicapped_100ms vs stockfish_16-SL4_acherm_handicapped_6000ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms     191     278      12   75.0%   16.7% 
+   2 stockfish_16-SL4_UNhandicapped_40_4min      70     269      10   60.0%    0.0% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms       0     221      11   50.0%    9.1% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -64     230      11   40.9%    9.1% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -241     nan      10   20.0%   20.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 28 of 160 (stockfish_16-SL4_acherm_handicapped_6000ms vs stockfish_16-SL4_acherm_handicapped_100ms)
+Finished game 28 (stockfish_16-SL4_acherm_handicapped_6000ms vs stockfish_16-SL4_acherm_handicapped_100ms): 1/2-1/2 {Draw by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms     191     278      12   75.0%   16.7% 
+   2 stockfish_16-SL4_UNhandicapped_40_4min      70     269      10   60.0%    0.0% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms       0     198      12   50.0%   16.7% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -58     204      12   41.7%   16.7% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -241     nan      10   20.0%   20.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 29 of 160 (stockfish_16-SL4_acherm_handicapped_20ms vs stockfish_16-SL4_UNhandicapped_40_4min)
+Finished game 29 (stockfish_16-SL4_acherm_handicapped_20ms vs stockfish_16-SL4_UNhandicapped_40_4min): 0-1 {White loses on time}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms     191     278      12   75.0%   16.7% 
+   2 stockfish_16-SL4_UNhandicapped_40_4min      97     265      11   63.6%    0.0% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms       0     198      12   50.0%   16.7% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -58     204      12   41.7%   16.7% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -261     nan      11   18.2%   18.2% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 30 of 160 (stockfish_16-SL4_UNhandicapped_40_4min vs stockfish_16-SL4_acherm_handicapped_20ms)
+Finished game 30 (stockfish_16-SL4_UNhandicapped_40_4min vs stockfish_16-SL4_acherm_handicapped_20ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms     191     278      12   75.0%   16.7% 
+   2 stockfish_16-SL4_UNhandicapped_40_4min     120     264      12   66.7%    0.0% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms       0     198      12   50.0%   16.7% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -58     204      12   41.7%   16.7% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -280     nan      12   16.7%   16.7% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 31 of 160 (Threads10_stockfish_15.1_Elo1785_40_60,000+600ms vs stockfish_16-SL4_acherm_handicapped_6000ms)
+Finished game 31 (Threads10_stockfish_15.1_Elo1785_40_60,000+600ms vs stockfish_16-SL4_acherm_handicapped_6000ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms     209     284      13   76.9%   15.4% 
+   2 stockfish_16-SL4_UNhandicapped_40_4min     120     264      12   66.7%    0.0% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms     -27     192      13   46.2%   15.4% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -58     204      12   41.7%   16.7% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -280     nan      12   16.7%   16.7% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 32 of 160 (stockfish_16-SL4_acherm_handicapped_6000ms vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms)
+Finished game 32 (stockfish_16-SL4_acherm_handicapped_6000ms vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms     159     223      14   71.4%   14.3% 
+   2 stockfish_16-SL4_UNhandicapped_40_4min     120     264      12   66.7%    0.0% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms       0     184      14   50.0%   14.3% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -58     204      12   41.7%   16.7% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -280     nan      12   16.7%   16.7% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 33 of 160 (stockfish_16-SL4_acherm_handicapped_20ms vs stockfish_16-SL4_acherm_handicapped_6000ms)
+Finished game 33 (stockfish_16-SL4_acherm_handicapped_20ms vs stockfish_16-SL4_acherm_handicapped_6000ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms     159     223      14   71.4%   14.3% 
+   2 stockfish_16-SL4_UNhandicapped_40_4min     120     264      12   66.7%    0.0% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      23     178      15   53.3%   13.3% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -58     204      12   41.7%   16.7% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -296     nan      13   15.4%   15.4% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 34 of 160 (stockfish_16-SL4_acherm_handicapped_6000ms vs stockfish_16-SL4_acherm_handicapped_20ms)
+Finished game 34 (stockfish_16-SL4_acherm_handicapped_6000ms vs stockfish_16-SL4_acherm_handicapped_20ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms     159     223      14   71.4%   14.3% 
+   2 stockfish_16-SL4_UNhandicapped_40_4min     120     264      12   66.7%    0.0% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      44     174      16   56.3%   12.5% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -58     204      12   41.7%   16.7% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -311     nan      14   14.3%   14.3% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 35 of 160 (stockfish_16-SL4_UNhandicapped_40_4min vs stockfish_16-SL4_acherm_handicapped_100ms)
+Finished game 35 (stockfish_16-SL4_UNhandicapped_40_4min vs stockfish_16-SL4_acherm_handicapped_100ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms     159     223      14   71.4%   14.3% 
+   2 stockfish_16-SL4_UNhandicapped_40_4min     141     264      13   69.2%    0.0% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      44     174      16   56.3%   12.5% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -82     200      13   38.5%   15.4% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -311     nan      14   14.3%   14.3% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 36 of 160 (stockfish_16-SL4_acherm_handicapped_100ms vs stockfish_16-SL4_UNhandicapped_40_4min)
+Finished game 36 (stockfish_16-SL4_acherm_handicapped_100ms vs stockfish_16-SL4_UNhandicapped_40_4min): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms     159     223      14   71.4%   14.3% 
+   2 stockfish_16-SL4_UNhandicapped_40_4min     159     264      14   71.4%    0.0% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      44     174      16   56.3%   12.5% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms    -102     198      14   35.7%   14.3% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -311     nan      14   14.3%   14.3% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 37 of 160 (stockfish_16-SL4_acherm_handicapped_20ms vs stockfish_16-SL4_acherm_handicapped_100ms)
+Finished game 37 (stockfish_16-SL4_acherm_handicapped_20ms vs stockfish_16-SL4_acherm_handicapped_100ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms     159     223      14   71.4%   14.3% 
+   2 stockfish_16-SL4_UNhandicapped_40_4min     159     264      14   71.4%    0.0% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      44     174      16   56.3%   12.5% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -70     184      15   40.0%   13.3% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -325     nan      15   13.3%   13.3% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 38 of 160 (stockfish_16-SL4_acherm_handicapped_100ms vs stockfish_16-SL4_acherm_handicapped_20ms)
+Finished game 38 (stockfish_16-SL4_acherm_handicapped_100ms vs stockfish_16-SL4_acherm_handicapped_20ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms     159     223      14   71.4%   14.3% 
+   2 stockfish_16-SL4_UNhandicapped_40_4min     159     264      14   71.4%    0.0% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      44     174      16   56.3%   12.5% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -44     174      16   43.8%   12.5% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -338     nan      16   12.5%   12.5% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 39 of 160 (stockfish_16-SL4_UNhandicapped_40_4min vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms)
+Finished game 39 (stockfish_16-SL4_UNhandicapped_40_4min vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min     176     266      15   73.3%    0.0% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms     120     197      15   66.7%   13.3% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      44     174      16   56.3%   12.5% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -44     174      16   43.8%   12.5% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -338     nan      16   12.5%   12.5% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 40 of 160 (Threads10_stockfish_15.1_Elo1785_40_60,000+600ms vs stockfish_16-SL4_UNhandicapped_40_4min)
+Finished game 40 (Threads10_stockfish_15.1_Elo1785_40_60,000+600ms vs stockfish_16-SL4_UNhandicapped_40_4min): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms     137     196      16   68.8%   12.5% 
+   2 stockfish_16-SL4_UNhandicapped_40_4min     137     219      16   68.8%    0.0% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      44     174      16   56.3%   12.5% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -44     174      16   43.8%   12.5% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -338     nan      16   12.5%   12.5% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 41 of 160 (stockfish_16-SL4_acherm_handicapped_100ms vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms)
+Finished game 41 (stockfish_16-SL4_acherm_handicapped_100ms vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms     152     195      17   70.6%   11.8% 
+   2 stockfish_16-SL4_UNhandicapped_40_4min     137     219      16   68.8%    0.0% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      44     174      16   56.3%   12.5% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -62     171      17   41.2%   11.8% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -338     nan      16   12.5%   12.5% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 42 of 160 (Threads10_stockfish_15.1_Elo1785_40_60,000+600ms vs stockfish_16-SL4_acherm_handicapped_100ms)
+Finished game 42 (Threads10_stockfish_15.1_Elo1785_40_60,000+600ms vs stockfish_16-SL4_acherm_handicapped_100ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min     137     219      16   68.8%    0.0% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms     120     178      18   66.7%   11.1% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      44     174      16   56.3%   12.5% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -39     163      18   44.4%   11.1% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -338     nan      16   12.5%   12.5% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 43 of 160 (stockfish_16-SL4_acherm_handicapped_6000ms vs stockfish_16-SL4_UNhandicapped_40_4min)
+Finished game 43 (stockfish_16-SL4_acherm_handicapped_6000ms vs stockfish_16-SL4_UNhandicapped_40_4min): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min     152     218      17   70.6%    0.0% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms     120     178      18   66.7%   11.1% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      20     167      17   52.9%   11.8% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -39     163      18   44.4%   11.1% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -338     nan      16   12.5%   12.5% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 44 of 160 (stockfish_16-SL4_UNhandicapped_40_4min vs stockfish_16-SL4_acherm_handicapped_6000ms)
+Finished game 44 (stockfish_16-SL4_UNhandicapped_40_4min vs stockfish_16-SL4_acherm_handicapped_6000ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min     166     218      18   72.2%    0.0% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms     120     178      18   66.7%   11.1% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms       0     162      18   50.0%   11.1% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -39     163      18   44.4%   11.1% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -338     nan      16   12.5%   12.5% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 45 of 160 (stockfish_16-SL4_acherm_handicapped_20ms vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms)
+Finished game 45 (stockfish_16-SL4_acherm_handicapped_20ms vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms): 0-1 {White loses on time}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min     166     218      18   72.2%    0.0% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms     134     177      19   68.4%   10.5% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms       0     162      18   50.0%   11.1% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -39     163      18   44.4%   11.1% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -350     nan      17   11.8%   11.8% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 46 of 160 (Threads10_stockfish_15.1_Elo1785_40_60,000+600ms vs stockfish_16-SL4_acherm_handicapped_20ms)
+Finished game 46 (Threads10_stockfish_15.1_Elo1785_40_60,000+600ms vs stockfish_16-SL4_acherm_handicapped_20ms): 0-1 {Black mates}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min     166     218      18   72.2%    0.0% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms     108     165      20   65.0%   10.0% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms       0     162      18   50.0%   11.1% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -39     163      18   44.4%   11.1% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -280     311      18   16.7%   11.1% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 47 of 160 (stockfish_16-SL4_acherm_handicapped_100ms vs stockfish_16-SL4_acherm_handicapped_6000ms)
+Finished game 47 (stockfish_16-SL4_acherm_handicapped_100ms vs stockfish_16-SL4_acherm_handicapped_6000ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min     166     218      18   72.2%    0.0% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms     108     165      20   65.0%   10.0% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      18     158      19   52.6%   10.5% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -55     161      19   42.1%   10.5% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -280     311      18   16.7%   11.1% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 48 of 160 (stockfish_16-SL4_acherm_handicapped_6000ms vs stockfish_16-SL4_acherm_handicapped_100ms)
+Finished game 48 (stockfish_16-SL4_acherm_handicapped_6000ms vs stockfish_16-SL4_acherm_handicapped_100ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min     166     218      18   72.2%    0.0% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms     108     165      20   65.0%   10.0% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms       0     154      20   50.0%   10.0% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -35     155      20   45.0%   10.0% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -280     311      18   16.7%   11.1% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 49 of 160 (stockfish_16-SL4_acherm_handicapped_20ms vs stockfish_16-SL4_UNhandicapped_40_4min)
+Finished game 49 (stockfish_16-SL4_acherm_handicapped_20ms vs stockfish_16-SL4_UNhandicapped_40_4min): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min     179     217      19   73.7%    0.0% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms     108     165      20   65.0%   10.0% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms       0     154      20   50.0%   10.0% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -35     155      20   45.0%   10.0% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -291     317      19   15.8%   10.5% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 50 of 160 (stockfish_16-SL4_UNhandicapped_40_4min vs stockfish_16-SL4_acherm_handicapped_20ms)
+Finished game 50 (stockfish_16-SL4_UNhandicapped_40_4min vs stockfish_16-SL4_acherm_handicapped_20ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min     191     217      20   75.0%    0.0% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms     108     165      20   65.0%   10.0% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms       0     154      20   50.0%   10.0% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -35     155      20   45.0%   10.0% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -301     322      20   15.0%   10.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 51 of 160 (Threads10_stockfish_15.1_Elo1785_40_60,000+600ms vs stockfish_16-SL4_acherm_handicapped_6000ms)
+Finished game 51 (Threads10_stockfish_15.1_Elo1785_40_60,000+600ms vs stockfish_16-SL4_acherm_handicapped_6000ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min     191     217      20   75.0%    0.0% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      84     156      21   61.9%    9.5% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      17     150      21   52.4%    9.5% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -35     155      20   45.0%   10.0% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -301     322      20   15.0%   10.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 52 of 160 (stockfish_16-SL4_acherm_handicapped_6000ms vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms)
+Finished game 52 (stockfish_16-SL4_acherm_handicapped_6000ms vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min     191     217      20   75.0%    0.0% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      64     150      22   59.1%    9.1% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      32     147      22   54.5%    9.1% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -35     155      20   45.0%   10.0% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -301     322      20   15.0%   10.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 53 of 160 (stockfish_16-SL4_acherm_handicapped_20ms vs stockfish_16-SL4_acherm_handicapped_6000ms)
+Finished game 53 (stockfish_16-SL4_acherm_handicapped_20ms vs stockfish_16-SL4_acherm_handicapped_6000ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min     191     217      20   75.0%    0.0% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      64     150      22   59.1%    9.1% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      15     143      23   52.2%    8.7% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -35     155      20   45.0%   10.0% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -251     229      21   19.0%    9.5% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 54 of 160 (stockfish_16-SL4_acherm_handicapped_6000ms vs stockfish_16-SL4_acherm_handicapped_20ms)
+Finished game 54 (stockfish_16-SL4_acherm_handicapped_6000ms vs stockfish_16-SL4_acherm_handicapped_20ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min     191     217      20   75.0%    0.0% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      64     150      22   59.1%    9.1% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      29     141      24   54.2%    8.3% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -35     155      20   45.0%   10.0% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -261     230      22   18.2%    9.1% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 55 of 160 (stockfish_16-SL4_UNhandicapped_40_4min vs stockfish_16-SL4_acherm_handicapped_100ms)
+Finished game 55 (stockfish_16-SL4_UNhandicapped_40_4min vs stockfish_16-SL4_acherm_handicapped_100ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min     202     217      21   76.2%    0.0% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      64     150      22   59.1%    9.1% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      29     141      24   54.2%    8.3% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -50     152      21   42.9%    9.5% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -261     230      22   18.2%    9.1% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 56 of 160 (stockfish_16-SL4_acherm_handicapped_100ms vs stockfish_16-SL4_UNhandicapped_40_4min)
+Finished game 56 (stockfish_16-SL4_acherm_handicapped_100ms vs stockfish_16-SL4_UNhandicapped_40_4min): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min     170     190      22   72.7%    0.0% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      64     150      22   59.1%    9.1% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      29     141      24   54.2%    8.3% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -32     147      22   45.5%    9.1% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -261     230      22   18.2%    9.1% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 57 of 160 (stockfish_16-SL4_acherm_handicapped_20ms vs stockfish_16-SL4_acherm_handicapped_100ms)
+Finished game 57 (stockfish_16-SL4_acherm_handicapped_20ms vs stockfish_16-SL4_acherm_handicapped_100ms): 0-1 {Black mates}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min     170     190      22   72.7%    0.0% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      64     150      22   59.1%    9.1% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      29     141      24   54.2%    8.3% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -15     143      23   47.8%    8.7% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -271     231      23   17.4%    8.7% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 58 of 160 (stockfish_16-SL4_acherm_handicapped_100ms vs stockfish_16-SL4_acherm_handicapped_20ms)
+Finished game 58 (stockfish_16-SL4_acherm_handicapped_100ms vs stockfish_16-SL4_acherm_handicapped_20ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min     170     190      22   72.7%    0.0% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      64     150      22   59.1%    9.1% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      29     141      24   54.2%    8.3% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms       0     140      24   50.0%    8.3% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -280     232      24   16.7%    8.3% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 59 of 160 (stockfish_16-SL4_UNhandicapped_40_4min vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms)
+Finished game 59 (stockfish_16-SL4_UNhandicapped_40_4min vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min     181     189      23   73.9%    0.0% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      46     145      23   56.5%    8.7% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      29     141      24   54.2%    8.3% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms       0     140      24   50.0%    8.3% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -280     232      24   16.7%    8.3% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 60 of 160 (Threads10_stockfish_15.1_Elo1785_40_60,000+600ms vs stockfish_16-SL4_UNhandicapped_40_4min)
+Finished game 60 (Threads10_stockfish_15.1_Elo1785_40_60,000+600ms vs stockfish_16-SL4_UNhandicapped_40_4min): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min     154     172      24   70.8%    0.0% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      58     143      24   58.3%    8.3% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      29     141      24   54.2%    8.3% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms       0     140      24   50.0%    8.3% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -280     232      24   16.7%    8.3% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 61 of 160 (stockfish_16-SL4_acherm_handicapped_100ms vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms)
+Finished game 61 (stockfish_16-SL4_acherm_handicapped_100ms vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min     154     172      24   70.8%    0.0% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      42     139      25   56.0%    8.0% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      29     141      24   54.2%    8.3% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms      14     137      25   52.0%    8.0% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -280     232      24   16.7%    8.3% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 62 of 160 (Threads10_stockfish_15.1_Elo1785_40_60,000+600ms vs stockfish_16-SL4_acherm_handicapped_100ms)
+Finished game 62 (Threads10_stockfish_15.1_Elo1785_40_60,000+600ms vs stockfish_16-SL4_acherm_handicapped_100ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min     154     172      24   70.8%    0.0% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      54     137      26   57.7%    7.7% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      29     141      24   54.2%    8.3% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms       0     134      26   50.0%    7.7% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -280     232      24   16.7%    8.3% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 63 of 160 (stockfish_16-SL4_acherm_handicapped_6000ms vs stockfish_16-SL4_UNhandicapped_40_4min)
+Finished game 63 (stockfish_16-SL4_acherm_handicapped_6000ms vs stockfish_16-SL4_UNhandicapped_40_4min): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min     164     171      25   72.0%    0.0% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      54     137      26   57.7%    7.7% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      14     137      25   52.0%    8.0% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms       0     134      26   50.0%    7.7% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -280     232      24   16.7%    8.3% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 64 of 160 (stockfish_16-SL4_UNhandicapped_40_4min vs stockfish_16-SL4_acherm_handicapped_6000ms)
+Finished game 64 (stockfish_16-SL4_UNhandicapped_40_4min vs stockfish_16-SL4_acherm_handicapped_6000ms): 1/2-1/2 {Draw by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min     157     160      26   71.2%    3.8% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      54     137      26   57.7%    7.7% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      13     131      26   51.9%   11.5% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms       0     134      26   50.0%    7.7% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -280     232      24   16.7%    8.3% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 65 of 160 (stockfish_16-SL4_acherm_handicapped_20ms vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms)
+Finished game 65 (stockfish_16-SL4_acherm_handicapped_20ms vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms): 0-1 {White loses on time}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min     157     160      26   71.2%    3.8% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      65     135      27   59.3%    7.4% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      13     131      26   51.9%   11.5% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms       0     134      26   50.0%    7.7% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -288     233      25   16.0%    8.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 66 of 160 (Threads10_stockfish_15.1_Elo1785_40_60,000+600ms vs stockfish_16-SL4_acherm_handicapped_20ms)
+Finished game 66 (Threads10_stockfish_15.1_Elo1785_40_60,000+600ms vs stockfish_16-SL4_acherm_handicapped_20ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min     157     160      26   71.2%    3.8% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      50     131      28   57.1%    7.1% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      13     131      26   51.9%   11.5% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms       0     134      26   50.0%    7.7% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -249     194      26   19.2%    7.7% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 67 of 160 (stockfish_16-SL4_acherm_handicapped_100ms vs stockfish_16-SL4_acherm_handicapped_6000ms)
+Finished game 67 (stockfish_16-SL4_acherm_handicapped_100ms vs stockfish_16-SL4_acherm_handicapped_6000ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min     157     160      26   71.2%    3.8% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      50     131      28   57.1%    7.1% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      26     129      27   53.7%   11.1% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -13     132      27   48.1%    7.4% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -249     194      26   19.2%    7.7% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 68 of 160 (stockfish_16-SL4_acherm_handicapped_6000ms vs stockfish_16-SL4_acherm_handicapped_100ms)
+Finished game 68 (stockfish_16-SL4_acherm_handicapped_6000ms vs stockfish_16-SL4_acherm_handicapped_100ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min     157     160      26   71.2%    3.8% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      50     131      28   57.1%    7.1% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      37     128      28   55.4%   10.7% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -25     130      28   46.4%    7.1% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -249     194      26   19.2%    7.7% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 69 of 160 (stockfish_16-SL4_acherm_handicapped_20ms vs stockfish_16-SL4_UNhandicapped_40_4min)
+Finished game 69 (stockfish_16-SL4_acherm_handicapped_20ms vs stockfish_16-SL4_UNhandicapped_40_4min): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min     166     159      27   72.2%    3.7% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      50     131      28   57.1%    7.1% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      37     128      28   55.4%   10.7% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -25     130      28   46.4%    7.1% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -257     195      27   18.5%    7.4% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 70 of 160 (stockfish_16-SL4_UNhandicapped_40_4min vs stockfish_16-SL4_acherm_handicapped_20ms)
+Finished game 70 (stockfish_16-SL4_UNhandicapped_40_4min vs stockfish_16-SL4_acherm_handicapped_20ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min     144     149      28   69.6%    3.6% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      50     131      28   57.1%    7.1% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      37     128      28   55.4%   10.7% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -25     130      28   46.4%    7.1% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -226     173      28   21.4%    7.1% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 71 of 160 (Threads10_stockfish_15.1_Elo1785_40_60,000+600ms vs stockfish_16-SL4_acherm_handicapped_6000ms)
+Finished game 71 (Threads10_stockfish_15.1_Elo1785_40_60,000+600ms vs stockfish_16-SL4_acherm_handicapped_6000ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min     144     149      28   69.6%    3.6% 
+   2 stockfish_16-SL4_acherm_handicapped_6000ms      48     126      29   56.9%   10.3% 
+   3 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      36     128      29   55.2%    6.9% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -25     130      28   46.4%    7.1% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -226     173      28   21.4%    7.1% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 72 of 160 (stockfish_16-SL4_acherm_handicapped_6000ms vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms)
+Finished game 72 (stockfish_16-SL4_acherm_handicapped_6000ms vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min     144     149      28   69.6%    3.6% 
+   2 stockfish_16-SL4_acherm_handicapped_6000ms      58     125      30   58.3%   10.0% 
+   3 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      23     125      30   53.3%    6.7% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -25     130      28   46.4%    7.1% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -226     173      28   21.4%    7.1% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 73 of 160 (stockfish_16-SL4_acherm_handicapped_20ms vs stockfish_16-SL4_acherm_handicapped_6000ms)
+Finished game 73 (stockfish_16-SL4_acherm_handicapped_20ms vs stockfish_16-SL4_acherm_handicapped_6000ms): 1/2-1/2 {Draw by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min     144     149      28   69.6%    3.6% 
+   2 stockfish_16-SL4_acherm_handicapped_6000ms      57     120      31   58.1%   12.9% 
+   3 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      23     125      30   53.3%    6.7% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -25     130      28   46.4%    7.1% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -216     159      29   22.4%   10.3% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 74 of 160 (stockfish_16-SL4_acherm_handicapped_6000ms vs stockfish_16-SL4_acherm_handicapped_20ms)
+Finished game 74 (stockfish_16-SL4_acherm_handicapped_6000ms vs stockfish_16-SL4_acherm_handicapped_20ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min     144     149      28   69.6%    3.6% 
+   2 stockfish_16-SL4_acherm_handicapped_6000ms      66     119      32   59.4%   12.5% 
+   3 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      23     125      30   53.3%    6.7% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -25     130      28   46.4%    7.1% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -223     159      30   21.7%   10.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 75 of 160 (stockfish_16-SL4_UNhandicapped_40_4min vs stockfish_16-SL4_acherm_handicapped_100ms)
+Finished game 75 (stockfish_16-SL4_UNhandicapped_40_4min vs stockfish_16-SL4_acherm_handicapped_100ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min     153     149      29   70.7%    3.4% 
+   2 stockfish_16-SL4_acherm_handicapped_6000ms      66     119      32   59.4%   12.5% 
+   3 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      23     125      30   53.3%    6.7% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -36     128      29   44.8%    6.9% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -223     159      30   21.7%   10.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 76 of 160 (stockfish_16-SL4_acherm_handicapped_100ms vs stockfish_16-SL4_UNhandicapped_40_4min)
+Finished game 76 (stockfish_16-SL4_acherm_handicapped_100ms vs stockfish_16-SL4_UNhandicapped_40_4min): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min     134     141      30   68.3%    3.3% 
+   2 stockfish_16-SL4_acherm_handicapped_6000ms      66     119      32   59.4%   12.5% 
+   3 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      23     125      30   53.3%    6.7% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -23     125      30   46.7%    6.7% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -223     159      30   21.7%   10.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 77 of 160 (stockfish_16-SL4_acherm_handicapped_20ms vs stockfish_16-SL4_acherm_handicapped_100ms)
+Finished game 77 (stockfish_16-SL4_acherm_handicapped_20ms vs stockfish_16-SL4_acherm_handicapped_100ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min     134     141      30   68.3%    3.3% 
+   2 stockfish_16-SL4_acherm_handicapped_6000ms      66     119      32   59.4%   12.5% 
+   3 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      23     125      30   53.3%    6.7% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -34     124      31   45.2%    6.5% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -198     148      31   24.2%    9.7% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 78 of 160 (stockfish_16-SL4_acherm_handicapped_100ms vs stockfish_16-SL4_acherm_handicapped_20ms)
+Finished game 78 (stockfish_16-SL4_acherm_handicapped_100ms vs stockfish_16-SL4_acherm_handicapped_20ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min     134     141      30   68.3%    3.3% 
+   2 stockfish_16-SL4_acherm_handicapped_6000ms      66     119      32   59.4%   12.5% 
+   3 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      23     125      30   53.3%    6.7% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -22     121      32   46.9%    6.3% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -206     147      32   23.4%    9.4% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 79 of 160 (stockfish_16-SL4_UNhandicapped_40_4min vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms)
+Finished game 79 (stockfish_16-SL4_UNhandicapped_40_4min vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min     116     135      31   66.1%    3.2% 
+   2 stockfish_16-SL4_acherm_handicapped_6000ms      66     119      32   59.4%   12.5% 
+   3 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      34     124      31   54.8%    6.5% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -22     121      32   46.9%    6.3% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -206     147      32   23.4%    9.4% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 80 of 160 (Threads10_stockfish_15.1_Elo1785_40_60,000+600ms vs stockfish_16-SL4_UNhandicapped_40_4min)
+Finished game 80 (Threads10_stockfish_15.1_Elo1785_40_60,000+600ms vs stockfish_16-SL4_UNhandicapped_40_4min): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min     124     134      32   67.2%    3.1% 
+   2 stockfish_16-SL4_acherm_handicapped_6000ms      66     119      32   59.4%   12.5% 
+   3 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      22     121      32   53.1%    6.3% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -22     121      32   46.9%    6.3% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -206     147      32   23.4%    9.4% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 81 of 160 (stockfish_16-SL4_acherm_handicapped_100ms vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms)
+Finished game 81 (stockfish_16-SL4_acherm_handicapped_100ms vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min     124     134      32   67.2%    3.1% 
+   2 stockfish_16-SL4_acherm_handicapped_6000ms      66     119      32   59.4%   12.5% 
+   3 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      32     120      33   54.5%    6.1% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -32     120      33   45.5%    6.1% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -206     147      32   23.4%    9.4% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 82 of 160 (Threads10_stockfish_15.1_Elo1785_40_60,000+600ms vs stockfish_16-SL4_acherm_handicapped_100ms)
+Finished game 82 (Threads10_stockfish_15.1_Elo1785_40_60,000+600ms vs stockfish_16-SL4_acherm_handicapped_100ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min     124     134      32   67.2%    3.1% 
+   2 stockfish_16-SL4_acherm_handicapped_6000ms      66     119      32   59.4%   12.5% 
+   3 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      41     118      34   55.9%    5.9% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -41     118      34   44.1%    5.9% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -206     147      32   23.4%    9.4% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 83 of 160 (stockfish_16-SL4_acherm_handicapped_6000ms vs stockfish_16-SL4_UNhandicapped_40_4min)
+Finished game 83 (stockfish_16-SL4_acherm_handicapped_6000ms vs stockfish_16-SL4_UNhandicapped_40_4min): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min     109     129      33   65.2%    3.0% 
+   2 stockfish_16-SL4_acherm_handicapped_6000ms      75     118      33   60.6%   12.1% 
+   3 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      41     118      34   55.9%    5.9% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -41     118      34   44.1%    5.9% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -206     147      32   23.4%    9.4% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 84 of 160 (stockfish_16-SL4_UNhandicapped_40_4min vs stockfish_16-SL4_acherm_handicapped_6000ms)
+Finished game 84 (stockfish_16-SL4_UNhandicapped_40_4min vs stockfish_16-SL4_acherm_handicapped_6000ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min     117     129      34   66.2%    2.9% 
+   2 stockfish_16-SL4_acherm_handicapped_6000ms      62     116      34   58.8%   11.8% 
+   3 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      41     118      34   55.9%    5.9% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -41     118      34   44.1%    5.9% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -206     147      32   23.4%    9.4% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 85 of 160 (stockfish_16-SL4_acherm_handicapped_20ms vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms)
+Finished game 85 (stockfish_16-SL4_acherm_handicapped_20ms vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms): 0-1 {White loses on time}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min     117     129      34   66.2%    2.9% 
+   2 stockfish_16-SL4_acherm_handicapped_6000ms      62     116      34   58.8%   11.8% 
+   3 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      50     117      35   57.1%    5.7% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -41     118      34   44.1%    5.9% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -213     147      33   22.7%    9.1% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 86 of 160 (Threads10_stockfish_15.1_Elo1785_40_60,000+600ms vs stockfish_16-SL4_acherm_handicapped_20ms)
+Finished game 86 (Threads10_stockfish_15.1_Elo1785_40_60,000+600ms vs stockfish_16-SL4_acherm_handicapped_20ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min     117     129      34   66.2%    2.9% 
+   2 stockfish_16-SL4_acherm_handicapped_6000ms      62     116      34   58.8%   11.8% 
+   3 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      58     116      36   58.3%    5.6% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -41     118      34   44.1%    5.9% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -219     147      34   22.1%    8.8% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 87 of 160 (stockfish_16-SL4_acherm_handicapped_100ms vs stockfish_16-SL4_acherm_handicapped_6000ms)
+Finished game 87 (stockfish_16-SL4_acherm_handicapped_100ms vs stockfish_16-SL4_acherm_handicapped_6000ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min     117     129      34   66.2%    2.9% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      58     116      36   58.3%    5.6% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      50     113      35   57.1%   11.4% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -30     116      35   45.7%    5.7% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -219     147      34   22.1%    8.8% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 88 of 160 (stockfish_16-SL4_acherm_handicapped_6000ms vs stockfish_16-SL4_acherm_handicapped_100ms)
+Finished game 88 (stockfish_16-SL4_acherm_handicapped_6000ms vs stockfish_16-SL4_acherm_handicapped_100ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min     117     129      34   66.2%    2.9% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      58     116      36   58.3%    5.6% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      58     112      36   58.3%   11.1% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -39     115      36   44.4%    5.6% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -219     147      34   22.1%    8.8% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 89 of 160 (stockfish_16-SL4_acherm_handicapped_20ms vs stockfish_16-SL4_UNhandicapped_40_4min)
+Finished game 89 (stockfish_16-SL4_acherm_handicapped_20ms vs stockfish_16-SL4_UNhandicapped_40_4min): 0-1 {White loses on time}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min     124     128      35   67.1%    2.9% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      58     116      36   58.3%    5.6% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      58     112      36   58.3%   11.1% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -39     115      36   44.4%    5.6% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -226     146      35   21.4%    8.6% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 90 of 160 (stockfish_16-SL4_UNhandicapped_40_4min vs stockfish_16-SL4_acherm_handicapped_20ms)
+Finished game 90 (stockfish_16-SL4_UNhandicapped_40_4min vs stockfish_16-SL4_acherm_handicapped_20ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min     110     124      36   65.3%    2.8% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      58     116      36   58.3%    5.6% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      58     112      36   58.3%   11.1% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -39     115      36   44.4%    5.6% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -204     138      36   23.6%    8.3% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 91 of 160 (Threads10_stockfish_15.1_Elo1785_40_60,000+600ms vs stockfish_16-SL4_acherm_handicapped_6000ms)
+Finished game 91 (Threads10_stockfish_15.1_Elo1785_40_60,000+600ms vs stockfish_16-SL4_acherm_handicapped_6000ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min     110     124      36   65.3%    2.8% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      67     115      37   59.5%    5.4% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      47     110      37   56.8%   10.8% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -39     115      36   44.4%    5.6% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -204     138      36   23.6%    8.3% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 92 of 160 (stockfish_16-SL4_acherm_handicapped_6000ms vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms)
+Finished game 92 (stockfish_16-SL4_acherm_handicapped_6000ms vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min     110     124      36   65.3%    2.8% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      55     113      38   57.9%    5.3% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      55     109      38   57.9%   10.5% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -39     115      36   44.4%    5.6% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -204     138      36   23.6%    8.3% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 93 of 160 (stockfish_16-SL4_acherm_handicapped_20ms vs stockfish_16-SL4_acherm_handicapped_6000ms)
+Finished game 93 (stockfish_16-SL4_acherm_handicapped_20ms vs stockfish_16-SL4_acherm_handicapped_6000ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min     110     124      36   65.3%    2.8% 
+   2 stockfish_16-SL4_acherm_handicapped_6000ms      63     108      39   59.0%   10.3% 
+   3 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      55     113      38   57.9%    5.3% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -39     115      36   44.4%    5.6% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -210     138      37   23.0%    8.1% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 94 of 160 (stockfish_16-SL4_acherm_handicapped_6000ms vs stockfish_16-SL4_acherm_handicapped_20ms)
+Finished game 94 (stockfish_16-SL4_acherm_handicapped_6000ms vs stockfish_16-SL4_acherm_handicapped_20ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min     110     124      36   65.3%    2.8% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      55     113      38   57.9%    5.3% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      53     106      40   57.5%   10.0% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -39     115      36   44.4%    5.6% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -191     131      38   25.0%    7.9% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 95 of 160 (stockfish_16-SL4_UNhandicapped_40_4min vs stockfish_16-SL4_acherm_handicapped_100ms)
+Finished game 95 (stockfish_16-SL4_UNhandicapped_40_4min vs stockfish_16-SL4_acherm_handicapped_100ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min     117     123      37   66.2%    2.7% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      55     113      38   57.9%    5.3% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      53     106      40   57.5%   10.0% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -47     114      37   43.2%    5.4% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -191     131      38   25.0%    7.9% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 96 of 160 (stockfish_16-SL4_acherm_handicapped_100ms vs stockfish_16-SL4_UNhandicapped_40_4min)
+Finished game 96 (stockfish_16-SL4_acherm_handicapped_100ms vs stockfish_16-SL4_UNhandicapped_40_4min): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min     104     119      38   64.5%    2.6% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      55     113      38   57.9%    5.3% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      53     106      40   57.5%   10.0% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -37     112      38   44.7%    5.3% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -191     131      38   25.0%    7.9% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 97 of 160 (stockfish_16-SL4_acherm_handicapped_20ms vs stockfish_16-SL4_acherm_handicapped_100ms)
+Finished game 97 (stockfish_16-SL4_acherm_handicapped_20ms vs stockfish_16-SL4_acherm_handicapped_100ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min     104     119      38   64.5%    2.6% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      55     113      38   57.9%    5.3% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      53     106      40   57.5%   10.0% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -27     110      39   46.2%    5.1% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -197     130      39   24.4%    7.7% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 98 of 160 (stockfish_16-SL4_acherm_handicapped_100ms vs stockfish_16-SL4_acherm_handicapped_20ms)
+Finished game 98 (stockfish_16-SL4_acherm_handicapped_100ms vs stockfish_16-SL4_acherm_handicapped_20ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min     104     119      38   64.5%    2.6% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      55     113      38   57.9%    5.3% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      53     106      40   57.5%   10.0% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -17     108      40   47.5%    5.0% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -203     130      40   23.8%    7.5% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 99 of 160 (stockfish_16-SL4_UNhandicapped_40_4min vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms)
+Finished game 99 (stockfish_16-SL4_UNhandicapped_40_4min vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min      91     116      39   62.8%    2.6% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      63     112      39   59.0%    5.1% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      53     106      40   57.5%   10.0% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -17     108      40   47.5%    5.0% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -203     130      40   23.8%    7.5% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 100 of 160 (Threads10_stockfish_15.1_Elo1785_40_60,000+600ms vs stockfish_16-SL4_UNhandicapped_40_4min)
+Finished game 100 (Threads10_stockfish_15.1_Elo1785_40_60,000+600ms vs stockfish_16-SL4_UNhandicapped_40_4min): 1/2-1/2 {Draw by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min      89     113      40   62.5%    5.0% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      61     109      40   58.8%    7.5% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      53     106      40   57.5%   10.0% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -17     108      40   47.5%    5.0% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -203     130      40   23.8%    7.5% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 101 of 160 (stockfish_16-SL4_acherm_handicapped_100ms vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms)
+Finished game 101 (stockfish_16-SL4_acherm_handicapped_100ms vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min      89     113      40   62.5%    5.0% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      69     108      41   59.8%    7.3% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      53     106      40   57.5%   10.0% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -25     107      41   46.3%    4.9% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -203     130      40   23.8%    7.5% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 102 of 160 (Threads10_stockfish_15.1_Elo1785_40_60,000+600ms vs stockfish_16-SL4_acherm_handicapped_100ms)
+Finished game 102 (Threads10_stockfish_15.1_Elo1785_40_60,000+600ms vs stockfish_16-SL4_acherm_handicapped_100ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min      89     113      40   62.5%    5.0% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      76     107      42   60.7%    7.1% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      53     106      40   57.5%   10.0% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -33     106      42   45.2%    4.8% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -203     130      40   23.8%    7.5% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 103 of 160 (stockfish_16-SL4_acherm_handicapped_6000ms vs stockfish_16-SL4_UNhandicapped_40_4min)
+Finished game 103 (stockfish_16-SL4_acherm_handicapped_6000ms vs stockfish_16-SL4_UNhandicapped_40_4min): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min      78     110      41   61.0%    4.9% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      76     107      42   60.7%    7.1% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      60     106      41   58.5%    9.8% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -33     106      42   45.2%    4.8% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -203     130      40   23.8%    7.5% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 104 of 160 (stockfish_16-SL4_UNhandicapped_40_4min vs stockfish_16-SL4_acherm_handicapped_6000ms)
+Finished game 104 (stockfish_16-SL4_UNhandicapped_40_4min vs stockfish_16-SL4_acherm_handicapped_6000ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min      84     109      42   61.9%    4.8% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      76     107      42   60.7%    7.1% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      50     104      42   57.1%    9.5% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -33     106      42   45.2%    4.8% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -203     130      40   23.8%    7.5% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 105 of 160 (stockfish_16-SL4_acherm_handicapped_20ms vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms)
+Finished game 105 (stockfish_16-SL4_acherm_handicapped_20ms vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms): 0-1 {White loses on time}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min      84     109      42   61.9%    4.8% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      82     106      43   61.6%    7.0% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      50     104      42   57.1%    9.5% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -33     106      42   45.2%    4.8% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -208     130      41   23.2%    7.3% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 106 of 160 (Threads10_stockfish_15.1_Elo1785_40_60,000+600ms vs stockfish_16-SL4_acherm_handicapped_20ms)
+Finished game 106 (Threads10_stockfish_15.1_Elo1785_40_60,000+600ms vs stockfish_16-SL4_acherm_handicapped_20ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      89     106      44   62.5%    6.8% 
+   2 stockfish_16-SL4_UNhandicapped_40_4min      84     109      42   61.9%    4.8% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      50     104      42   57.1%    9.5% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -33     106      42   45.2%    4.8% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -214     129      42   22.6%    7.1% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 107 of 160 (stockfish_16-SL4_acherm_handicapped_100ms vs stockfish_16-SL4_acherm_handicapped_6000ms)
+Finished game 107 (stockfish_16-SL4_acherm_handicapped_100ms vs stockfish_16-SL4_acherm_handicapped_6000ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      89     106      44   62.5%    6.8% 
+   2 stockfish_16-SL4_UNhandicapped_40_4min      84     109      42   61.9%    4.8% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      57     103      43   58.1%    9.3% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -41     105      43   44.2%    4.7% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -214     129      42   22.6%    7.1% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 108 of 160 (stockfish_16-SL4_acherm_handicapped_6000ms vs stockfish_16-SL4_acherm_handicapped_100ms)
+Finished game 108 (stockfish_16-SL4_acherm_handicapped_6000ms vs stockfish_16-SL4_acherm_handicapped_100ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      89     106      44   62.5%    6.8% 
+   2 stockfish_16-SL4_UNhandicapped_40_4min      84     109      42   61.9%    4.8% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      64     102      44   59.1%    9.1% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -48     104      44   43.2%    4.5% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -214     129      42   22.6%    7.1% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 109 of 160 (stockfish_16-SL4_acherm_handicapped_20ms vs stockfish_16-SL4_UNhandicapped_40_4min)
+Finished game 109 (stockfish_16-SL4_acherm_handicapped_20ms vs stockfish_16-SL4_UNhandicapped_40_4min): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      89     106      44   62.5%    6.8% 
+   2 stockfish_16-SL4_UNhandicapped_40_4min      74     107      43   60.5%    4.7% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      64     102      44   59.1%    9.1% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -48     104      44   43.2%    4.5% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -196     124      43   24.4%    7.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 110 of 160 (stockfish_16-SL4_UNhandicapped_40_4min vs stockfish_16-SL4_acherm_handicapped_20ms)
+Finished game 110 (stockfish_16-SL4_UNhandicapped_40_4min vs stockfish_16-SL4_acherm_handicapped_20ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      89     106      44   62.5%    6.8% 
+   2 stockfish_16-SL4_UNhandicapped_40_4min      80     106      44   61.4%    4.5% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      64     102      44   59.1%    9.1% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -48     104      44   43.2%    4.5% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -202     123      44   23.9%    6.8% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 111 of 160 (Threads10_stockfish_15.1_Elo1785_40_60,000+600ms vs stockfish_16-SL4_acherm_handicapped_6000ms)
+Finished game 111 (Threads10_stockfish_15.1_Elo1785_40_60,000+600ms vs stockfish_16-SL4_acherm_handicapped_6000ms): 1/2-1/2 {Draw by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      87     103      45   62.2%    8.9% 
+   2 stockfish_16-SL4_UNhandicapped_40_4min      80     106      44   61.4%    4.5% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      62     100      45   58.9%   11.1% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -48     104      44   43.2%    4.5% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -202     123      44   23.9%    6.8% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 112 of 160 (stockfish_16-SL4_acherm_handicapped_6000ms vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms)
+Finished game 112 (stockfish_16-SL4_acherm_handicapped_6000ms vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      93     102      46   63.0%    8.7% 
+   2 stockfish_16-SL4_UNhandicapped_40_4min      80     106      44   61.4%    4.5% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      53      98      46   57.6%   10.9% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -48     104      44   43.2%    4.5% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -202     123      44   23.9%    6.8% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 113 of 160 (stockfish_16-SL4_acherm_handicapped_20ms vs stockfish_16-SL4_acherm_handicapped_6000ms)
+Finished game 113 (stockfish_16-SL4_acherm_handicapped_20ms vs stockfish_16-SL4_acherm_handicapped_6000ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      93     102      46   63.0%    8.7% 
+   2 stockfish_16-SL4_UNhandicapped_40_4min      80     106      44   61.4%    4.5% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      60      98      47   58.5%   10.6% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -48     104      44   43.2%    4.5% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -207     123      45   23.3%    6.7% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 114 of 160 (stockfish_16-SL4_acherm_handicapped_6000ms vs stockfish_16-SL4_acherm_handicapped_20ms)
+Finished game 114 (stockfish_16-SL4_acherm_handicapped_6000ms vs stockfish_16-SL4_acherm_handicapped_20ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      93     102      46   63.0%    8.7% 
+   2 stockfish_16-SL4_UNhandicapped_40_4min      80     106      44   61.4%    4.5% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      66      97      48   59.4%   10.4% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -48     104      44   43.2%    4.5% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -212     123      46   22.8%    6.5% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 115 of 160 (stockfish_16-SL4_UNhandicapped_40_4min vs stockfish_16-SL4_acherm_handicapped_100ms)
+Finished game 115 (stockfish_16-SL4_UNhandicapped_40_4min vs stockfish_16-SL4_acherm_handicapped_100ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      93     102      46   63.0%    8.7% 
+   2 stockfish_16-SL4_UNhandicapped_40_4min      87     106      45   62.2%    4.4% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      66      97      48   59.4%   10.4% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -54     103      45   42.2%    4.4% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -212     123      46   22.8%    6.5% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 116 of 160 (stockfish_16-SL4_acherm_handicapped_100ms vs stockfish_16-SL4_UNhandicapped_40_4min)
+Finished game 116 (stockfish_16-SL4_acherm_handicapped_100ms vs stockfish_16-SL4_UNhandicapped_40_4min): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      93     102      46   63.0%    8.7% 
+   2 stockfish_16-SL4_UNhandicapped_40_4min      93     105      46   63.0%    4.3% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      66      97      48   59.4%   10.4% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -61     103      46   41.3%    4.3% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -212     123      46   22.8%    6.5% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 117 of 160 (stockfish_16-SL4_acherm_handicapped_20ms vs stockfish_16-SL4_acherm_handicapped_100ms)
+Finished game 117 (stockfish_16-SL4_acherm_handicapped_20ms vs stockfish_16-SL4_acherm_handicapped_100ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      93     102      46   63.0%    8.7% 
+   2 stockfish_16-SL4_UNhandicapped_40_4min      93     105      46   63.0%    4.3% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      66      97      48   59.4%   10.4% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -67     102      47   40.4%    4.3% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -196     118      47   24.5%    6.4% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 118 of 160 (stockfish_16-SL4_acherm_handicapped_100ms vs stockfish_16-SL4_acherm_handicapped_20ms)
+Finished game 118 (stockfish_16-SL4_acherm_handicapped_100ms vs stockfish_16-SL4_acherm_handicapped_20ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      93     102      46   63.0%    8.7% 
+   2 stockfish_16-SL4_UNhandicapped_40_4min      93     105      46   63.0%    4.3% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      66      97      48   59.4%   10.4% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -73     101      48   39.6%    4.2% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -181     114      48   26.0%    6.3% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 119 of 160 (stockfish_16-SL4_UNhandicapped_40_4min vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms)
+Finished game 119 (stockfish_16-SL4_UNhandicapped_40_4min vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min      99     105      47   63.8%    4.3% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      83     100      47   61.7%    8.5% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      66      97      48   59.4%   10.4% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -73     101      48   39.6%    4.2% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -181     114      48   26.0%    6.3% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 120 of 160 (Threads10_stockfish_15.1_Elo1785_40_60,000+600ms vs stockfish_16-SL4_UNhandicapped_40_4min)
+Finished game 120 (Threads10_stockfish_15.1_Elo1785_40_60,000+600ms vs stockfish_16-SL4_UNhandicapped_40_4min): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      89     100      48   62.5%    8.3% 
+   2 stockfish_16-SL4_UNhandicapped_40_4min      89     103      48   62.5%    4.2% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      66      97      48   59.4%   10.4% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -73     101      48   39.6%    4.2% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -181     114      48   26.0%    6.3% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 121 of 160 (stockfish_16-SL4_acherm_handicapped_100ms vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms)
+Finished game 121 (stockfish_16-SL4_acherm_handicapped_100ms vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min      89     103      48   62.5%    4.2% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      79      98      49   61.2%    8.2% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      66      97      48   59.4%   10.4% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -65     100      49   40.8%    4.1% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -181     114      48   26.0%    6.3% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 122 of 160 (Threads10_stockfish_15.1_Elo1785_40_60,000+600ms vs stockfish_16-SL4_acherm_handicapped_100ms)
+Finished game 122 (Threads10_stockfish_15.1_Elo1785_40_60,000+600ms vs stockfish_16-SL4_acherm_handicapped_100ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min      89     103      48   62.5%    4.2% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      85      98      50   62.0%    8.0% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      66      97      48   59.4%   10.4% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -70      99      50   40.0%    4.0% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -181     114      48   26.0%    6.3% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 123 of 160 (stockfish_16-SL4_acherm_handicapped_6000ms vs stockfish_16-SL4_UNhandicapped_40_4min)
+Finished game 123 (stockfish_16-SL4_acherm_handicapped_6000ms vs stockfish_16-SL4_UNhandicapped_40_4min): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      85      98      50   62.0%    8.0% 
+   2 stockfish_16-SL4_UNhandicapped_40_4min      79     101      49   61.2%    4.1% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      72      97      49   60.2%   10.2% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -70      99      50   40.0%    4.0% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -181     114      48   26.0%    6.3% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 124 of 160 (stockfish_16-SL4_UNhandicapped_40_4min vs stockfish_16-SL4_acherm_handicapped_6000ms)
+Finished game 124 (stockfish_16-SL4_UNhandicapped_40_4min vs stockfish_16-SL4_acherm_handicapped_6000ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      85      98      50   62.0%    8.0% 
+   2 stockfish_16-SL4_UNhandicapped_40_4min      85     100      50   62.0%    4.0% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      63      95      50   59.0%   10.0% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -70      99      50   40.0%    4.0% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -181     114      48   26.0%    6.3% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 125 of 160 (stockfish_16-SL4_acherm_handicapped_20ms vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms)
+Finished game 125 (stockfish_16-SL4_acherm_handicapped_20ms vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms): 0-1 {White loses on time}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      91      97      51   62.7%    7.8% 
+   2 stockfish_16-SL4_UNhandicapped_40_4min      85     100      50   62.0%    4.0% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      63      95      50   59.0%   10.0% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -70      99      50   40.0%    4.0% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -186     113      49   25.5%    6.1% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 126 of 160 (Threads10_stockfish_15.1_Elo1785_40_60,000+600ms vs stockfish_16-SL4_acherm_handicapped_20ms)
+Finished game 126 (Threads10_stockfish_15.1_Elo1785_40_60,000+600ms vs stockfish_16-SL4_acherm_handicapped_20ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      96      97      52   63.5%    7.7% 
+   2 stockfish_16-SL4_UNhandicapped_40_4min      85     100      50   62.0%    4.0% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      63      95      50   59.0%   10.0% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -70      99      50   40.0%    4.0% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -191     113      50   25.0%    6.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 127 of 160 (stockfish_16-SL4_acherm_handicapped_100ms vs stockfish_16-SL4_acherm_handicapped_6000ms)
+Finished game 127 (stockfish_16-SL4_acherm_handicapped_100ms vs stockfish_16-SL4_acherm_handicapped_6000ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      96      97      52   63.5%    7.7% 
+   2 stockfish_16-SL4_UNhandicapped_40_4min      85     100      50   62.0%    4.0% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      69      95      51   59.8%    9.8% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -76      98      51   39.2%    3.9% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -191     113      50   25.0%    6.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 128 of 160 (stockfish_16-SL4_acherm_handicapped_6000ms vs stockfish_16-SL4_acherm_handicapped_100ms)
+Finished game 128 (stockfish_16-SL4_acherm_handicapped_6000ms vs stockfish_16-SL4_acherm_handicapped_100ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      96      97      52   63.5%    7.7% 
+   2 stockfish_16-SL4_UNhandicapped_40_4min      85     100      50   62.0%    4.0% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      75      94      52   60.6%    9.6% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -82      98      52   38.5%    3.8% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -191     113      50   25.0%    6.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 129 of 160 (stockfish_16-SL4_acherm_handicapped_20ms vs stockfish_16-SL4_UNhandicapped_40_4min)
+Finished game 129 (stockfish_16-SL4_acherm_handicapped_20ms vs stockfish_16-SL4_UNhandicapped_40_4min): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      96      97      52   63.5%    7.7% 
+   2 stockfish_16-SL4_UNhandicapped_40_4min      91     100      51   62.7%    3.9% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      75      94      52   60.6%    9.6% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -82      98      52   38.5%    3.8% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -195     113      51   24.5%    5.9% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 130 of 160 (stockfish_16-SL4_UNhandicapped_40_4min vs stockfish_16-SL4_acherm_handicapped_20ms)
+Finished game 130 (stockfish_16-SL4_UNhandicapped_40_4min vs stockfish_16-SL4_acherm_handicapped_20ms): 1-0 {White mates}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      96      97      52   63.5%    7.7% 
+   2 stockfish_16-SL4_UNhandicapped_40_4min      96      99      52   63.5%    3.8% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      75      94      52   60.6%    9.6% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -82      98      52   38.5%    3.8% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -200     113      52   24.0%    5.8% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 131 of 160 (Threads10_stockfish_15.1_Elo1785_40_60,000+600ms vs stockfish_16-SL4_acherm_handicapped_6000ms)
+Finished game 131 (Threads10_stockfish_15.1_Elo1785_40_60,000+600ms vs stockfish_16-SL4_acherm_handicapped_6000ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms     101      96      53   64.2%    7.5% 
+   2 stockfish_16-SL4_UNhandicapped_40_4min      96      99      52   63.5%    3.8% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      66      93      53   59.4%    9.4% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -82      98      52   38.5%    3.8% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -200     113      52   24.0%    5.8% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 132 of 160 (stockfish_16-SL4_acherm_handicapped_6000ms vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms)
+Finished game 132 (stockfish_16-SL4_acherm_handicapped_6000ms vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min      96      99      52   63.5%    3.8% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      92      95      54   63.0%    7.4% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      72      92      54   60.2%    9.3% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -82      98      52   38.5%    3.8% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -200     113      52   24.0%    5.8% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 133 of 160 (stockfish_16-SL4_acherm_handicapped_20ms vs stockfish_16-SL4_acherm_handicapped_6000ms)
+Finished game 133 (stockfish_16-SL4_acherm_handicapped_20ms vs stockfish_16-SL4_acherm_handicapped_6000ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min      96      99      52   63.5%    3.8% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      92      95      54   63.0%    7.4% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      77      92      55   60.9%    9.1% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -82      98      52   38.5%    3.8% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -204     112      53   23.6%    5.7% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 134 of 160 (stockfish_16-SL4_acherm_handicapped_6000ms vs stockfish_16-SL4_acherm_handicapped_20ms)
+Finished game 134 (stockfish_16-SL4_acherm_handicapped_6000ms vs stockfish_16-SL4_acherm_handicapped_20ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min      96      99      52   63.5%    3.8% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      92      95      54   63.0%    7.4% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      69      90      56   59.8%    8.9% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -82      98      52   38.5%    3.8% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -191     109      54   25.0%    5.6% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 135 of 160 (stockfish_16-SL4_UNhandicapped_40_4min vs stockfish_16-SL4_acherm_handicapped_100ms)
+Finished game 135 (stockfish_16-SL4_UNhandicapped_40_4min vs stockfish_16-SL4_acherm_handicapped_100ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min     101      99      53   64.2%    3.8% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      92      95      54   63.0%    7.4% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      69      90      56   59.8%    8.9% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -87      97      53   37.7%    3.8% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -191     109      54   25.0%    5.6% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 136 of 160 (stockfish_16-SL4_acherm_handicapped_100ms vs stockfish_16-SL4_UNhandicapped_40_4min)
+Finished game 136 (stockfish_16-SL4_acherm_handicapped_100ms vs stockfish_16-SL4_UNhandicapped_40_4min): 1/2-1/2 {Draw by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min      99      96      54   63.9%    5.6% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      92      95      54   63.0%    7.4% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      69      90      56   59.8%    8.9% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -85      95      54   38.0%    5.6% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -191     109      54   25.0%    5.6% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 137 of 160 (stockfish_16-SL4_acherm_handicapped_20ms vs stockfish_16-SL4_acherm_handicapped_100ms)
+Finished game 137 (stockfish_16-SL4_acherm_handicapped_20ms vs stockfish_16-SL4_acherm_handicapped_100ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min      99      96      54   63.9%    5.6% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      92      95      54   63.0%    7.4% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      69      90      56   59.8%    8.9% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -90      95      55   37.3%    5.5% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -178     106      55   26.4%    5.5% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 138 of 160 (stockfish_16-SL4_acherm_handicapped_100ms vs stockfish_16-SL4_acherm_handicapped_20ms)
+Finished game 138 (stockfish_16-SL4_acherm_handicapped_100ms vs stockfish_16-SL4_acherm_handicapped_20ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min      99      96      54   63.9%    5.6% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      92      95      54   63.0%    7.4% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      69      90      56   59.8%    8.9% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -82      93      56   38.4%    5.4% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -183     105      56   25.9%    5.4% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 139 of 160 (stockfish_16-SL4_UNhandicapped_40_4min vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms)
+Finished game 139 (stockfish_16-SL4_UNhandicapped_40_4min vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      97      94      55   63.6%    7.3% 
+   2 stockfish_16-SL4_UNhandicapped_40_4min      90      95      55   62.7%    5.5% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      69      90      56   59.8%    8.9% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -82      93      56   38.4%    5.4% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -183     105      56   25.9%    5.4% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 140 of 160 (Threads10_stockfish_15.1_Elo1785_40_60,000+600ms vs stockfish_16-SL4_UNhandicapped_40_4min)
+Finished game 140 (Threads10_stockfish_15.1_Elo1785_40_60,000+600ms vs stockfish_16-SL4_UNhandicapped_40_4min): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min      95      94      56   63.4%    5.4% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      89      93      56   62.5%    7.1% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      69      90      56   59.8%    8.9% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -82      93      56   38.4%    5.4% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -183     105      56   25.9%    5.4% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 141 of 160 (stockfish_16-SL4_acherm_handicapped_100ms vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms)
+Finished game 141 (stockfish_16-SL4_acherm_handicapped_100ms vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min      95      94      56   63.4%    5.4% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      81      91      57   61.4%    7.0% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      69      90      56   59.8%    8.9% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -74      92      57   39.5%    5.3% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -183     105      56   25.9%    5.4% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 142 of 160 (Threads10_stockfish_15.1_Elo1785_40_60,000+600ms vs stockfish_16-SL4_acherm_handicapped_100ms)
+Finished game 142 (Threads10_stockfish_15.1_Elo1785_40_60,000+600ms vs stockfish_16-SL4_acherm_handicapped_100ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min      95      94      56   63.4%    5.4% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      73      90      58   60.3%    6.9% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      69      90      56   59.8%    8.9% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -67      91      58   40.5%    5.2% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -183     105      56   25.9%    5.4% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 143 of 160 (stockfish_16-SL4_acherm_handicapped_6000ms vs stockfish_16-SL4_UNhandicapped_40_4min)
+Finished game 143 (stockfish_16-SL4_acherm_handicapped_6000ms vs stockfish_16-SL4_UNhandicapped_40_4min): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min      87      93      57   62.3%    5.3% 
+   2 stockfish_16-SL4_acherm_handicapped_6000ms      74      90      57   60.5%    8.8% 
+   3 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      73      90      58   60.3%    6.9% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -67      91      58   40.5%    5.2% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -183     105      56   25.9%    5.4% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 144 of 160 (stockfish_16-SL4_UNhandicapped_40_4min vs stockfish_16-SL4_acherm_handicapped_6000ms)
+Finished game 144 (stockfish_16-SL4_UNhandicapped_40_4min vs stockfish_16-SL4_acherm_handicapped_6000ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min      92      92      58   62.9%    5.2% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      73      90      58   60.3%    6.9% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      67      89      58   59.5%    8.6% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -67      91      58   40.5%    5.2% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -183     105      56   25.9%    5.4% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 145 of 160 (stockfish_16-SL4_acherm_handicapped_20ms vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms)
+Finished game 145 (stockfish_16-SL4_acherm_handicapped_20ms vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min      92      92      58   62.9%    5.2% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      78      90      59   61.0%    6.8% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      67      89      58   59.5%    8.6% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -67      91      58   40.5%    5.2% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -187     105      57   25.4%    5.3% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 146 of 160 (Threads10_stockfish_15.1_Elo1785_40_60,000+600ms vs stockfish_16-SL4_acherm_handicapped_20ms)
+Finished game 146 (Threads10_stockfish_15.1_Elo1785_40_60,000+600ms vs stockfish_16-SL4_acherm_handicapped_20ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min      92      92      58   62.9%    5.2% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      83      89      60   61.7%    6.7% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      67      89      58   59.5%    8.6% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -67      91      58   40.5%    5.2% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -191     105      58   25.0%    5.2% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 147 of 160 (stockfish_16-SL4_acherm_handicapped_100ms vs stockfish_16-SL4_acherm_handicapped_6000ms)
+Finished game 147 (stockfish_16-SL4_acherm_handicapped_100ms vs stockfish_16-SL4_acherm_handicapped_6000ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min      92      92      58   62.9%    5.2% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      83      89      60   61.7%    6.7% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      59      88      59   58.5%    8.5% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -59      90      59   41.5%    5.1% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -191     105      58   25.0%    5.2% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 148 of 160 (stockfish_16-SL4_acherm_handicapped_6000ms vs stockfish_16-SL4_acherm_handicapped_100ms)
+Finished game 148 (stockfish_16-SL4_acherm_handicapped_6000ms vs stockfish_16-SL4_acherm_handicapped_100ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min      92      92      58   62.9%    5.2% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      83      89      60   61.7%    6.7% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      64      87      60   59.2%    8.3% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -64      89      60   40.8%    5.0% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -191     105      58   25.0%    5.2% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 149 of 160 (stockfish_16-SL4_acherm_handicapped_20ms vs stockfish_16-SL4_UNhandicapped_40_4min)
+Finished game 149 (stockfish_16-SL4_acherm_handicapped_20ms vs stockfish_16-SL4_UNhandicapped_40_4min): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min      97      92      59   63.6%    5.1% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      83      89      60   61.7%    6.7% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      64      87      60   59.2%    8.3% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -64      89      60   40.8%    5.0% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -195     105      59   24.6%    5.1% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 150 of 160 (stockfish_16-SL4_UNhandicapped_40_4min vs stockfish_16-SL4_acherm_handicapped_20ms)
+Finished game 150 (stockfish_16-SL4_UNhandicapped_40_4min vs stockfish_16-SL4_acherm_handicapped_20ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min     101      92      60   64.2%    5.0% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      83      89      60   61.7%    6.7% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      64      87      60   59.2%    8.3% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -64      89      60   40.8%    5.0% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -199     104      60   24.2%    5.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 151 of 160 (Threads10_stockfish_15.1_Elo1785_40_60,000+600ms vs stockfish_16-SL4_acherm_handicapped_6000ms)
+Finished game 151 (Threads10_stockfish_15.1_Elo1785_40_60,000+600ms vs stockfish_16-SL4_acherm_handicapped_6000ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min     101      92      60   64.2%    5.0% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      75      88      61   60.7%    6.6% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      69      87      61   59.8%    8.2% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -64      89      60   40.8%    5.0% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -199     104      60   24.2%    5.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 152 of 160 (stockfish_16-SL4_acherm_handicapped_6000ms vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms)
+Finished game 152 (stockfish_16-SL4_acherm_handicapped_6000ms vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min     101      92      60   64.2%    5.0% 
+   2 stockfish_16-SL4_acherm_handicapped_6000ms      74      86      62   60.5%    8.1% 
+   3 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      68      87      62   59.7%    6.5% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -64      89      60   40.8%    5.0% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -199     104      60   24.2%    5.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 153 of 160 (stockfish_16-SL4_acherm_handicapped_20ms vs stockfish_16-SL4_acherm_handicapped_6000ms)
+Finished game 153 (stockfish_16-SL4_acherm_handicapped_20ms vs stockfish_16-SL4_acherm_handicapped_6000ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min     101      92      60   64.2%    5.0% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      68      87      62   59.7%    6.5% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      67      85      63   59.5%    7.9% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -64      89      60   40.8%    5.0% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -187     101      61   25.4%    4.9% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 154 of 160 (stockfish_16-SL4_acherm_handicapped_6000ms vs stockfish_16-SL4_acherm_handicapped_20ms)
+Finished game 154 (stockfish_16-SL4_acherm_handicapped_6000ms vs stockfish_16-SL4_acherm_handicapped_20ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min     101      92      60   64.2%    5.0% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      68      87      62   59.7%    6.5% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      60      85      64   58.6%    7.8% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -64      89      60   40.8%    5.0% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -176      99      62   26.6%    4.8% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 155 of 160 (stockfish_16-SL4_UNhandicapped_40_4min vs stockfish_16-SL4_acherm_handicapped_100ms)
+Finished game 155 (stockfish_16-SL4_UNhandicapped_40_4min vs stockfish_16-SL4_acherm_handicapped_100ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min      93      90      61   63.1%    4.9% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      68      87      62   59.7%    6.5% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      60      85      64   58.6%    7.8% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -57      88      61   41.8%    4.9% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -176      99      62   26.6%    4.8% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 156 of 160 (stockfish_16-SL4_acherm_handicapped_100ms vs stockfish_16-SL4_UNhandicapped_40_4min)
+Finished game 156 (stockfish_16-SL4_acherm_handicapped_100ms vs stockfish_16-SL4_UNhandicapped_40_4min): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min      86      89      62   62.1%    4.8% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      68      87      62   59.7%    6.5% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      60      85      64   58.6%    7.8% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -51      87      62   42.7%    4.8% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -176      99      62   26.6%    4.8% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 157 of 160 (stockfish_16-SL4_acherm_handicapped_20ms vs stockfish_16-SL4_acherm_handicapped_100ms)
+Finished game 157 (stockfish_16-SL4_acherm_handicapped_20ms vs stockfish_16-SL4_acherm_handicapped_100ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min      86      89      62   62.1%    4.8% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      68      87      62   59.7%    6.5% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      60      85      64   58.6%    7.8% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -56      87      63   42.1%    4.8% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -166      97      63   27.8%    4.8% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 158 of 160 (stockfish_16-SL4_acherm_handicapped_100ms vs stockfish_16-SL4_acherm_handicapped_20ms)
+Finished game 158 (stockfish_16-SL4_acherm_handicapped_100ms vs stockfish_16-SL4_acherm_handicapped_20ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min      86      89      62   62.1%    4.8% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      68      87      62   59.7%    6.5% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      60      85      64   58.6%    7.8% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -49      86      64   43.0%    4.7% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -170      96      64   27.3%    4.7% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 159 of 160 (stockfish_16-SL4_UNhandicapped_40_4min vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms)
+Finished game 159 (stockfish_16-SL4_UNhandicapped_40_4min vs Threads10_stockfish_15.1_Elo1785_40_60,000+600ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min      90      89      63   62.7%    4.8% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      61      86      63   58.7%    6.3% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      60      85      64   58.6%    7.8% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -49      86      64   43.0%    4.7% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -170      96      64   27.3%    4.7% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 160 of 160 (Threads10_stockfish_15.1_Elo1785_40_60,000+600ms vs stockfish_16-SL4_UNhandicapped_40_4min)
+Finished game 160 (Threads10_stockfish_15.1_Elo1785_40_60,000+600ms vs stockfish_16-SL4_UNhandicapped_40_4min): 1/2-1/2 {Draw by 3-fold repetition}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_16-SL4_UNhandicapped_40_4min      89      87      64   62.5%    6.3% 
+   2 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms      60      85      64   58.6%    7.8% 
+   3 stockfish_16-SL4_acherm_handicapped_6000ms      60      85      64   58.6%    7.8% 
+   4 stockfish_16-SL4_acherm_handicapped_100ms     -49      86      64   43.0%    4.7% 
+   5 stockfish_16-SL4_acherm_handicapped_20ms    -170      96      64   27.3%    4.7% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+
+Player: stockfish_16-SL4_acherm_handicapped_20ms
+   "Draw by 3-fold repetition": 1
+   "Draw by adjudication": 2
+   "Loss: Black mates": 1
+   "Loss: Black wins by adjudication": 12
+   "Loss: White loses on time": 9
+   "Loss: White mates": 1
+   "Loss: White wins by adjudication": 22
+   "Win: Black mates": 1
+   "Win: Black wins by adjudication": 7
+   "Win: White wins by adjudication": 8
+Player: stockfish_16-SL4_acherm_handicapped_100ms
+   "Draw by adjudication": 2
+   "Draw by insufficient mating material": 1
+   "Loss: Black wins by adjudication": 11
+   "Loss: White wins by adjudication": 24
+   "Win: Black mates": 1
+   "Win: Black wins by adjudication": 6
+   "Win: White wins by adjudication": 19
+Player: stockfish_16-SL4_acherm_handicapped_6000ms
+   "Draw by 3-fold repetition": 1
+   "Draw by adjudication": 4
+   "Loss: Black wins by adjudication": 8
+   "Loss: White wins by adjudication": 16
+   "Win: Black wins by adjudication": 13
+   "Win: White wins by adjudication": 22
+Player: stockfish_16-SL4_UNhandicapped_40_4min
+   "Draw by 3-fold repetition": 1
+   "Draw by adjudication": 3
+   "Loss: Black wins by adjudication": 8
+   "Loss: White wins by adjudication": 14
+   "Win: Black wins by adjudication": 12
+   "Win: White loses on time": 3
+   "Win: White mates": 1
+   "Win: White wins by adjudication": 22
+Player: Threads10_stockfish_15.1_Elo1785_40_60,000+600ms
+   "Draw by 3-fold repetition": 1
+   "Draw by adjudication": 3
+   "Draw by insufficient mating material": 1
+   "Loss: Black mates": 1
+   "Loss: Black wins by adjudication": 8
+   "Loss: White wins by adjudication": 15
+   "Win: Black wins by adjudication": 9
+   "Win: White loses on time": 6
+   "Win: White wins by adjudication": 20
+Finished match

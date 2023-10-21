@@ -1,0 +1,404 @@
+Indexing opening suite...
+Started game 1 of 48 (Threads1_stockfish_15.1_Elo1700_40_60,000+600ms vs Threads10_stockfish_15.1_Elo1700_40_60,000+600ms)
+Finished game 1 (Threads1_stockfish_15.1_Elo1700_40_60,000+600ms vs Threads10_stockfish_15.1_Elo1700_40_60,000+600ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Threads10_stockfish_15.1_Elo1700_40_60,000+600ms     inf     nan       1  100.0%    0.0% 
+   2 Threads1_stockfish_15.1_Elo1700_40_60,000+600ms    -inf     nan       1    0.0%    0.0% 
+   3 stockfish_15.1_skynet-dev_handicapped     nan     nan       0    nan%    nan% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 2 of 48 (Threads10_stockfish_15.1_Elo1700_40_60,000+600ms vs Threads1_stockfish_15.1_Elo1700_40_60,000+600ms)
+Finished game 2 (Threads10_stockfish_15.1_Elo1700_40_60,000+600ms vs Threads1_stockfish_15.1_Elo1700_40_60,000+600ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Threads10_stockfish_15.1_Elo1700_40_60,000+600ms     inf     nan       2  100.0%    0.0% 
+   2 Threads1_stockfish_15.1_Elo1700_40_60,000+600ms    -inf     nan       2    0.0%    0.0% 
+   3 stockfish_15.1_skynet-dev_handicapped     nan     nan       0    nan%    nan% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 3 of 48 (stockfish_15.1_skynet-dev_handicapped vs Threads10_stockfish_15.1_Elo1700_40_60,000+600ms)
+Finished game 3 (stockfish_15.1_skynet-dev_handicapped vs Threads10_stockfish_15.1_Elo1700_40_60,000+600ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Threads10_stockfish_15.1_Elo1700_40_60,000+600ms     inf     nan       3  100.0%    0.0% 
+   2 Threads1_stockfish_15.1_Elo1700_40_60,000+600ms    -inf     nan       2    0.0%    0.0% 
+   3 stockfish_15.1_skynet-dev_handicapped    -inf     nan       1    0.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 4 of 48 (Threads10_stockfish_15.1_Elo1700_40_60,000+600ms vs stockfish_15.1_skynet-dev_handicapped)
+Finished game 4 (Threads10_stockfish_15.1_Elo1700_40_60,000+600ms vs stockfish_15.1_skynet-dev_handicapped): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Threads10_stockfish_15.1_Elo1700_40_60,000+600ms     inf     nan       4  100.0%    0.0% 
+   2 Threads1_stockfish_15.1_Elo1700_40_60,000+600ms    -inf     nan       2    0.0%    0.0% 
+   3 stockfish_15.1_skynet-dev_handicapped    -inf     nan       2    0.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 5 of 48 (stockfish_15.1_skynet-dev_handicapped vs Threads1_stockfish_15.1_Elo1700_40_60,000+600ms)
+Finished game 5 (stockfish_15.1_skynet-dev_handicapped vs Threads1_stockfish_15.1_Elo1700_40_60,000+600ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Threads10_stockfish_15.1_Elo1700_40_60,000+600ms     inf     nan       4  100.0%    0.0% 
+   2 stockfish_15.1_skynet-dev_handicapped    -120     nan       3   33.3%    0.0% 
+   3 Threads1_stockfish_15.1_Elo1700_40_60,000+600ms    -inf     nan       3    0.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 6 of 48 (Threads1_stockfish_15.1_Elo1700_40_60,000+600ms vs stockfish_15.1_skynet-dev_handicapped)
+Finished game 6 (Threads1_stockfish_15.1_Elo1700_40_60,000+600ms vs stockfish_15.1_skynet-dev_handicapped): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Threads10_stockfish_15.1_Elo1700_40_60,000+600ms     inf     nan       4  100.0%    0.0% 
+   2 stockfish_15.1_skynet-dev_handicapped       0     786       4   50.0%    0.0% 
+   3 Threads1_stockfish_15.1_Elo1700_40_60,000+600ms    -inf     nan       4    0.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 7 of 48 (Threads1_stockfish_15.1_Elo1700_40_60,000+600ms vs Threads10_stockfish_15.1_Elo1700_40_60,000+600ms)
+Finished game 7 (Threads1_stockfish_15.1_Elo1700_40_60,000+600ms vs Threads10_stockfish_15.1_Elo1700_40_60,000+600ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Threads10_stockfish_15.1_Elo1700_40_60,000+600ms     241     nan       5   80.0%    0.0% 
+   2 stockfish_15.1_skynet-dev_handicapped       0     786       4   50.0%    0.0% 
+   3 Threads1_stockfish_15.1_Elo1700_40_60,000+600ms    -241     nan       5   20.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 8 of 48 (Threads10_stockfish_15.1_Elo1700_40_60,000+600ms vs Threads1_stockfish_15.1_Elo1700_40_60,000+600ms)
+Finished game 8 (Threads10_stockfish_15.1_Elo1700_40_60,000+600ms vs Threads1_stockfish_15.1_Elo1700_40_60,000+600ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Threads10_stockfish_15.1_Elo1700_40_60,000+600ms     120     nan       6   66.7%    0.0% 
+   2 stockfish_15.1_skynet-dev_handicapped       0     786       4   50.0%    0.0% 
+   3 Threads1_stockfish_15.1_Elo1700_40_60,000+600ms    -120     nan       6   33.3%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 9 of 48 (stockfish_15.1_skynet-dev_handicapped vs Threads10_stockfish_15.1_Elo1700_40_60,000+600ms)
+Finished game 9 (stockfish_15.1_skynet-dev_handicapped vs Threads10_stockfish_15.1_Elo1700_40_60,000+600ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Threads10_stockfish_15.1_Elo1700_40_60,000+600ms     159     nan       7   71.4%    0.0% 
+   2 stockfish_15.1_skynet-dev_handicapped     -70     nan       5   40.0%    0.0% 
+   3 Threads1_stockfish_15.1_Elo1700_40_60,000+600ms    -120     nan       6   33.3%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 10 of 48 (Threads10_stockfish_15.1_Elo1700_40_60,000+600ms vs stockfish_15.1_skynet-dev_handicapped)
+Finished game 10 (Threads10_stockfish_15.1_Elo1700_40_60,000+600ms vs stockfish_15.1_skynet-dev_handicapped): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Threads10_stockfish_15.1_Elo1700_40_60,000+600ms     191     nan       8   75.0%    0.0% 
+   2 Threads1_stockfish_15.1_Elo1700_40_60,000+600ms    -120     nan       6   33.3%    0.0% 
+   3 stockfish_15.1_skynet-dev_handicapped    -120     nan       6   33.3%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 11 of 48 (stockfish_15.1_skynet-dev_handicapped vs Threads1_stockfish_15.1_Elo1700_40_60,000+600ms)
+Finished game 11 (stockfish_15.1_skynet-dev_handicapped vs Threads1_stockfish_15.1_Elo1700_40_60,000+600ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Threads10_stockfish_15.1_Elo1700_40_60,000+600ms     191     nan       8   75.0%    0.0% 
+   2 stockfish_15.1_skynet-dev_handicapped     -50     353       7   42.9%    0.0% 
+   3 Threads1_stockfish_15.1_Elo1700_40_60,000+600ms    -159     nan       7   28.6%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 12 of 48 (Threads1_stockfish_15.1_Elo1700_40_60,000+600ms vs stockfish_15.1_skynet-dev_handicapped)
+Finished game 12 (Threads1_stockfish_15.1_Elo1700_40_60,000+600ms vs stockfish_15.1_skynet-dev_handicapped): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Threads10_stockfish_15.1_Elo1700_40_60,000+600ms     191     nan       8   75.0%    0.0% 
+   2 stockfish_15.1_skynet-dev_handicapped       0     296       8   50.0%    0.0% 
+   3 Threads1_stockfish_15.1_Elo1700_40_60,000+600ms    -191     nan       8   25.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 13 of 48 (Threads1_stockfish_15.1_Elo1700_40_60,000+600ms vs Threads10_stockfish_15.1_Elo1700_40_60,000+600ms)
+Finished game 13 (Threads1_stockfish_15.1_Elo1700_40_60,000+600ms vs Threads10_stockfish_15.1_Elo1700_40_60,000+600ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Threads10_stockfish_15.1_Elo1700_40_60,000+600ms     120     366       9   66.7%    0.0% 
+   2 stockfish_15.1_skynet-dev_handicapped       0     296       8   50.0%    0.0% 
+   3 Threads1_stockfish_15.1_Elo1700_40_60,000+600ms    -120     366       9   33.3%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 14 of 48 (Threads10_stockfish_15.1_Elo1700_40_60,000+600ms vs Threads1_stockfish_15.1_Elo1700_40_60,000+600ms)
+Finished game 14 (Threads10_stockfish_15.1_Elo1700_40_60,000+600ms vs Threads1_stockfish_15.1_Elo1700_40_60,000+600ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Threads10_stockfish_15.1_Elo1700_40_60,000+600ms      70     269      10   60.0%    0.0% 
+   2 stockfish_15.1_skynet-dev_handicapped       0     296       8   50.0%    0.0% 
+   3 Threads1_stockfish_15.1_Elo1700_40_60,000+600ms     -70     269      10   40.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 15 of 48 (stockfish_15.1_skynet-dev_handicapped vs Threads10_stockfish_15.1_Elo1700_40_60,000+600ms)
+Finished game 15 (stockfish_15.1_skynet-dev_handicapped vs Threads10_stockfish_15.1_Elo1700_40_60,000+600ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_15.1_skynet-dev_handicapped      39     277       9   55.6%    0.0% 
+   2 Threads10_stockfish_15.1_Elo1700_40_60,000+600ms      32     238      11   54.5%    0.0% 
+   3 Threads1_stockfish_15.1_Elo1700_40_60,000+600ms     -70     269      10   40.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 16 of 48 (Threads10_stockfish_15.1_Elo1700_40_60,000+600ms vs stockfish_15.1_skynet-dev_handicapped)
+Finished game 16 (Threads10_stockfish_15.1_Elo1700_40_60,000+600ms vs stockfish_15.1_skynet-dev_handicapped): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Threads10_stockfish_15.1_Elo1700_40_60,000+600ms      58     231      12   58.3%    0.0% 
+   2 stockfish_15.1_skynet-dev_handicapped       0     251      10   50.0%    0.0% 
+   3 Threads1_stockfish_15.1_Elo1700_40_60,000+600ms     -70     269      10   40.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 17 of 48 (stockfish_15.1_skynet-dev_handicapped vs Threads1_stockfish_15.1_Elo1700_40_60,000+600ms)
+Finished game 17 (stockfish_15.1_skynet-dev_handicapped vs Threads1_stockfish_15.1_Elo1700_40_60,000+600ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Threads10_stockfish_15.1_Elo1700_40_60,000+600ms      58     231      12   58.3%    0.0% 
+   2 Threads1_stockfish_15.1_Elo1700_40_60,000+600ms     -32     238      11   45.5%    0.0% 
+   3 stockfish_15.1_skynet-dev_handicapped     -32     238      11   45.5%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 18 of 48 (Threads1_stockfish_15.1_Elo1700_40_60,000+600ms vs stockfish_15.1_skynet-dev_handicapped)
+Finished game 18 (Threads1_stockfish_15.1_Elo1700_40_60,000+600ms vs stockfish_15.1_skynet-dev_handicapped): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Threads10_stockfish_15.1_Elo1700_40_60,000+600ms      58     231      12   58.3%    0.0% 
+   2 stockfish_15.1_skynet-dev_handicapped       0     222      12   50.0%    0.0% 
+   3 Threads1_stockfish_15.1_Elo1700_40_60,000+600ms     -58     231      12   41.7%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 19 of 48 (Threads1_stockfish_15.1_Elo1700_40_60,000+600ms vs Threads10_stockfish_15.1_Elo1700_40_60,000+600ms)
+Finished game 19 (Threads1_stockfish_15.1_Elo1700_40_60,000+600ms vs Threads10_stockfish_15.1_Elo1700_40_60,000+600ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Threads10_stockfish_15.1_Elo1700_40_60,000+600ms      27     213      13   53.8%    0.0% 
+   2 stockfish_15.1_skynet-dev_handicapped       0     222      12   50.0%    0.0% 
+   3 Threads1_stockfish_15.1_Elo1700_40_60,000+600ms     -27     213      13   46.2%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 20 of 48 (Threads10_stockfish_15.1_Elo1700_40_60,000+600ms vs Threads1_stockfish_15.1_Elo1700_40_60,000+600ms)
+Finished game 20 (Threads10_stockfish_15.1_Elo1700_40_60,000+600ms vs Threads1_stockfish_15.1_Elo1700_40_60,000+600ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Threads10_stockfish_15.1_Elo1700_40_60,000+600ms       0     202      14   50.0%    0.0% 
+   2 Threads1_stockfish_15.1_Elo1700_40_60,000+600ms       0     202      14   50.0%    0.0% 
+   3 stockfish_15.1_skynet-dev_handicapped       0     222      12   50.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 21 of 48 (stockfish_15.1_skynet-dev_handicapped vs Threads10_stockfish_15.1_Elo1700_40_60,000+600ms)
+Finished game 21 (stockfish_15.1_skynet-dev_handicapped vs Threads10_stockfish_15.1_Elo1700_40_60,000+600ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Threads10_stockfish_15.1_Elo1700_40_60,000+600ms      23     194      15   53.3%    0.0% 
+   2 Threads1_stockfish_15.1_Elo1700_40_60,000+600ms       0     202      14   50.0%    0.0% 
+   3 stockfish_15.1_skynet-dev_handicapped     -27     213      13   46.2%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 22 of 48 (Threads10_stockfish_15.1_Elo1700_40_60,000+600ms vs stockfish_15.1_skynet-dev_handicapped)
+Finished game 22 (Threads10_stockfish_15.1_Elo1700_40_60,000+600ms vs stockfish_15.1_skynet-dev_handicapped): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Threads10_stockfish_15.1_Elo1700_40_60,000+600ms       0     186      16   50.0%    0.0% 
+   2 Threads1_stockfish_15.1_Elo1700_40_60,000+600ms       0     202      14   50.0%    0.0% 
+   3 stockfish_15.1_skynet-dev_handicapped       0     202      14   50.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 23 of 48 (stockfish_15.1_skynet-dev_handicapped vs Threads1_stockfish_15.1_Elo1700_40_60,000+600ms)
+Finished game 23 (stockfish_15.1_skynet-dev_handicapped vs Threads1_stockfish_15.1_Elo1700_40_60,000+600ms): 1/2-1/2 {Draw by 3-fold repetition}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Threads10_stockfish_15.1_Elo1700_40_60,000+600ms       0     186      16   50.0%    0.0% 
+   2 Threads1_stockfish_15.1_Elo1700_40_60,000+600ms       0     185      15   50.0%    6.7% 
+   3 stockfish_15.1_skynet-dev_handicapped       0     185      15   50.0%    6.7% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 24 of 48 (Threads1_stockfish_15.1_Elo1700_40_60,000+600ms vs stockfish_15.1_skynet-dev_handicapped)
+Finished game 24 (Threads1_stockfish_15.1_Elo1700_40_60,000+600ms vs stockfish_15.1_skynet-dev_handicapped): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_15.1_skynet-dev_handicapped      22     180      16   53.1%    6.3% 
+   2 Threads10_stockfish_15.1_Elo1700_40_60,000+600ms       0     186      16   50.0%    0.0% 
+   3 Threads1_stockfish_15.1_Elo1700_40_60,000+600ms     -22     180      16   46.9%    6.3% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 25 of 48 (Threads1_stockfish_15.1_Elo1700_40_60,000+600ms vs Threads10_stockfish_15.1_Elo1700_40_60,000+600ms)
+Finished game 25 (Threads1_stockfish_15.1_Elo1700_40_60,000+600ms vs Threads10_stockfish_15.1_Elo1700_40_60,000+600ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_15.1_skynet-dev_handicapped      22     180      16   53.1%    6.3% 
+   2 Threads10_stockfish_15.1_Elo1700_40_60,000+600ms      20     180      17   52.9%    0.0% 
+   3 Threads1_stockfish_15.1_Elo1700_40_60,000+600ms     -41     175      17   44.1%    5.9% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 26 of 48 (Threads10_stockfish_15.1_Elo1700_40_60,000+600ms vs Threads1_stockfish_15.1_Elo1700_40_60,000+600ms)
+Finished game 26 (Threads10_stockfish_15.1_Elo1700_40_60,000+600ms vs Threads1_stockfish_15.1_Elo1700_40_60,000+600ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_15.1_skynet-dev_handicapped      22     180      16   53.1%    6.3% 
+   2 Threads10_stockfish_15.1_Elo1700_40_60,000+600ms       0     173      18   50.0%    0.0% 
+   3 Threads1_stockfish_15.1_Elo1700_40_60,000+600ms     -19     168      18   47.2%    5.6% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 27 of 48 (stockfish_15.1_skynet-dev_handicapped vs Threads10_stockfish_15.1_Elo1700_40_60,000+600ms)
+Finished game 27 (stockfish_15.1_skynet-dev_handicapped vs Threads10_stockfish_15.1_Elo1700_40_60,000+600ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_15.1_skynet-dev_handicapped      41     175      17   55.9%    5.9% 
+   2 Threads10_stockfish_15.1_Elo1700_40_60,000+600ms     -18     168      19   47.4%    0.0% 
+   3 Threads1_stockfish_15.1_Elo1700_40_60,000+600ms     -19     168      18   47.2%    5.6% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 28 of 48 (Threads10_stockfish_15.1_Elo1700_40_60,000+600ms vs stockfish_15.1_skynet-dev_handicapped)
+Finished game 28 (Threads10_stockfish_15.1_Elo1700_40_60,000+600ms vs stockfish_15.1_skynet-dev_handicapped): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_15.1_skynet-dev_handicapped      19     168      18   52.8%    5.6% 
+   2 Threads10_stockfish_15.1_Elo1700_40_60,000+600ms       0     163      20   50.0%    0.0% 
+   3 Threads1_stockfish_15.1_Elo1700_40_60,000+600ms     -19     168      18   47.2%    5.6% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 29 of 48 (stockfish_15.1_skynet-dev_handicapped vs Threads1_stockfish_15.1_Elo1700_40_60,000+600ms)
+Finished game 29 (stockfish_15.1_skynet-dev_handicapped vs Threads1_stockfish_15.1_Elo1700_40_60,000+600ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Threads10_stockfish_15.1_Elo1700_40_60,000+600ms       0     163      20   50.0%    0.0% 
+   2 Threads1_stockfish_15.1_Elo1700_40_60,000+600ms       0     163      19   50.0%    5.3% 
+   3 stockfish_15.1_skynet-dev_handicapped       0     163      19   50.0%    5.3% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 30 of 48 (Threads1_stockfish_15.1_Elo1700_40_60,000+600ms vs stockfish_15.1_skynet-dev_handicapped)
+Finished game 30 (Threads1_stockfish_15.1_Elo1700_40_60,000+600ms vs stockfish_15.1_skynet-dev_handicapped): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Threads1_stockfish_15.1_Elo1700_40_60,000+600ms      17     159      20   52.5%    5.0% 
+   2 Threads10_stockfish_15.1_Elo1700_40_60,000+600ms       0     163      20   50.0%    0.0% 
+   3 stockfish_15.1_skynet-dev_handicapped     -17     159      20   47.5%    5.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 31 of 48 (Threads1_stockfish_15.1_Elo1700_40_60,000+600ms vs Threads10_stockfish_15.1_Elo1700_40_60,000+600ms)
+Finished game 31 (Threads1_stockfish_15.1_Elo1700_40_60,000+600ms vs Threads10_stockfish_15.1_Elo1700_40_60,000+600ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Threads10_stockfish_15.1_Elo1700_40_60,000+600ms      17     159      21   52.4%    0.0% 
+   2 Threads1_stockfish_15.1_Elo1700_40_60,000+600ms       0     154      21   50.0%    4.8% 
+   3 stockfish_15.1_skynet-dev_handicapped     -17     159      20   47.5%    5.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 32 of 48 (Threads10_stockfish_15.1_Elo1700_40_60,000+600ms vs Threads1_stockfish_15.1_Elo1700_40_60,000+600ms)
+Finished game 32 (Threads10_stockfish_15.1_Elo1700_40_60,000+600ms vs Threads1_stockfish_15.1_Elo1700_40_60,000+600ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Threads10_stockfish_15.1_Elo1700_40_60,000+600ms      32     155      22   54.5%    0.0% 
+   2 Threads1_stockfish_15.1_Elo1700_40_60,000+600ms     -16     151      22   47.7%    4.5% 
+   3 stockfish_15.1_skynet-dev_handicapped     -17     159      20   47.5%    5.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 33 of 48 (stockfish_15.1_skynet-dev_handicapped vs Threads10_stockfish_15.1_Elo1700_40_60,000+600ms)
+Finished game 33 (stockfish_15.1_skynet-dev_handicapped vs Threads10_stockfish_15.1_Elo1700_40_60,000+600ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Threads10_stockfish_15.1_Elo1700_40_60,000+600ms      46     153      23   56.5%    0.0% 
+   2 Threads1_stockfish_15.1_Elo1700_40_60,000+600ms     -16     151      22   47.7%    4.5% 
+   3 stockfish_15.1_skynet-dev_handicapped     -33     155      21   45.2%    4.8% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 34 of 48 (Threads10_stockfish_15.1_Elo1700_40_60,000+600ms vs stockfish_15.1_skynet-dev_handicapped)
+Finished game 34 (Threads10_stockfish_15.1_Elo1700_40_60,000+600ms vs stockfish_15.1_skynet-dev_handicapped): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Threads10_stockfish_15.1_Elo1700_40_60,000+600ms      29     148      24   54.2%    0.0% 
+   2 Threads1_stockfish_15.1_Elo1700_40_60,000+600ms     -16     151      22   47.7%    4.5% 
+   3 stockfish_15.1_skynet-dev_handicapped     -16     151      22   47.7%    4.5% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 35 of 48 (stockfish_15.1_skynet-dev_handicapped vs Threads1_stockfish_15.1_Elo1700_40_60,000+600ms)
+Finished game 35 (stockfish_15.1_skynet-dev_handicapped vs Threads1_stockfish_15.1_Elo1700_40_60,000+600ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Threads10_stockfish_15.1_Elo1700_40_60,000+600ms      29     148      24   54.2%    0.0% 
+   2 stockfish_15.1_skynet-dev_handicapped       0     147      23   50.0%    4.3% 
+   3 Threads1_stockfish_15.1_Elo1700_40_60,000+600ms     -30     148      23   45.7%    4.3% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 36 of 48 (Threads1_stockfish_15.1_Elo1700_40_60,000+600ms vs stockfish_15.1_skynet-dev_handicapped)
+Finished game 36 (Threads1_stockfish_15.1_Elo1700_40_60,000+600ms vs stockfish_15.1_skynet-dev_handicapped): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Threads10_stockfish_15.1_Elo1700_40_60,000+600ms      29     148      24   54.2%    0.0% 
+   2 stockfish_15.1_skynet-dev_handicapped      14     144      24   52.1%    4.2% 
+   3 Threads1_stockfish_15.1_Elo1700_40_60,000+600ms     -44     145      24   43.8%    4.2% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 37 of 48 (Threads1_stockfish_15.1_Elo1700_40_60,000+600ms vs Threads10_stockfish_15.1_Elo1700_40_60,000+600ms)
+Finished game 37 (Threads1_stockfish_15.1_Elo1700_40_60,000+600ms vs Threads10_stockfish_15.1_Elo1700_40_60,000+600ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_15.1_skynet-dev_handicapped      14     144      24   52.1%    4.2% 
+   2 Threads10_stockfish_15.1_Elo1700_40_60,000+600ms      14     144      25   52.0%    0.0% 
+   3 Threads1_stockfish_15.1_Elo1700_40_60,000+600ms     -28     141      25   46.0%    4.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 38 of 48 (Threads10_stockfish_15.1_Elo1700_40_60,000+600ms vs Threads1_stockfish_15.1_Elo1700_40_60,000+600ms)
+Finished game 38 (Threads10_stockfish_15.1_Elo1700_40_60,000+600ms vs Threads1_stockfish_15.1_Elo1700_40_60,000+600ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Threads10_stockfish_15.1_Elo1700_40_60,000+600ms      27     141      26   53.8%    0.0% 
+   2 stockfish_15.1_skynet-dev_handicapped      14     144      24   52.1%    4.2% 
+   3 Threads1_stockfish_15.1_Elo1700_40_60,000+600ms     -40     139      26   44.2%    3.8% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 39 of 48 (stockfish_15.1_skynet-dev_handicapped vs Threads10_stockfish_15.1_Elo1700_40_60,000+600ms)
+Finished game 39 (stockfish_15.1_skynet-dev_handicapped vs Threads10_stockfish_15.1_Elo1700_40_60,000+600ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 stockfish_15.1_skynet-dev_handicapped      28     141      25   54.0%    4.0% 
+   2 Threads10_stockfish_15.1_Elo1700_40_60,000+600ms      13     138      27   51.9%    0.0% 
+   3 Threads1_stockfish_15.1_Elo1700_40_60,000+600ms     -40     139      26   44.2%    3.8% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 40 of 48 (Threads10_stockfish_15.1_Elo1700_40_60,000+600ms vs stockfish_15.1_skynet-dev_handicapped)
+Finished game 40 (Threads10_stockfish_15.1_Elo1700_40_60,000+600ms vs stockfish_15.1_skynet-dev_handicapped): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Threads10_stockfish_15.1_Elo1700_40_60,000+600ms      25     135      28   53.6%    0.0% 
+   2 stockfish_15.1_skynet-dev_handicapped      13     138      26   51.9%    3.8% 
+   3 Threads1_stockfish_15.1_Elo1700_40_60,000+600ms     -40     139      26   44.2%    3.8% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 41 of 48 (stockfish_15.1_skynet-dev_handicapped vs Threads1_stockfish_15.1_Elo1700_40_60,000+600ms)
+Finished game 41 (stockfish_15.1_skynet-dev_handicapped vs Threads1_stockfish_15.1_Elo1700_40_60,000+600ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Threads10_stockfish_15.1_Elo1700_40_60,000+600ms      25     135      28   53.6%    0.0% 
+   2 stockfish_15.1_skynet-dev_handicapped       0     135      27   50.0%    3.7% 
+   3 Threads1_stockfish_15.1_Elo1700_40_60,000+600ms     -26     135      27   46.3%    3.7% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 42 of 48 (Threads1_stockfish_15.1_Elo1700_40_60,000+600ms vs stockfish_15.1_skynet-dev_handicapped)
+Finished game 42 (Threads1_stockfish_15.1_Elo1700_40_60,000+600ms vs stockfish_15.1_skynet-dev_handicapped): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Threads10_stockfish_15.1_Elo1700_40_60,000+600ms      25     135      28   53.6%    0.0% 
+   2 Threads1_stockfish_15.1_Elo1700_40_60,000+600ms     -12     132      28   48.2%    3.6% 
+   3 stockfish_15.1_skynet-dev_handicapped     -12     132      28   48.2%    3.6% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 43 of 48 (Threads1_stockfish_15.1_Elo1700_40_60,000+600ms vs Threads10_stockfish_15.1_Elo1700_40_60,000+600ms)
+Finished game 43 (Threads1_stockfish_15.1_Elo1700_40_60,000+600ms vs Threads10_stockfish_15.1_Elo1700_40_60,000+600ms): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Threads10_stockfish_15.1_Elo1700_40_60,000+600ms      12     132      29   51.7%    0.0% 
+   2 Threads1_stockfish_15.1_Elo1700_40_60,000+600ms       0     130      29   50.0%    3.4% 
+   3 stockfish_15.1_skynet-dev_handicapped     -12     132      28   48.2%    3.6% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 44 of 48 (Threads10_stockfish_15.1_Elo1700_40_60,000+600ms vs Threads1_stockfish_15.1_Elo1700_40_60,000+600ms)
+Finished game 44 (Threads10_stockfish_15.1_Elo1700_40_60,000+600ms vs Threads1_stockfish_15.1_Elo1700_40_60,000+600ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Threads1_stockfish_15.1_Elo1700_40_60,000+600ms      12     128      30   51.7%    3.3% 
+   2 Threads10_stockfish_15.1_Elo1700_40_60,000+600ms       0     130      30   50.0%    0.0% 
+   3 stockfish_15.1_skynet-dev_handicapped     -12     132      28   48.2%    3.6% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 45 of 48 (stockfish_15.1_skynet-dev_handicapped vs Threads10_stockfish_15.1_Elo1700_40_60,000+600ms)
+Finished game 45 (stockfish_15.1_skynet-dev_handicapped vs Threads10_stockfish_15.1_Elo1700_40_60,000+600ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Threads1_stockfish_15.1_Elo1700_40_60,000+600ms      12     128      30   51.7%    3.3% 
+   2 Threads10_stockfish_15.1_Elo1700_40_60,000+600ms      11     128      31   51.6%    0.0% 
+   3 stockfish_15.1_skynet-dev_handicapped     -24     130      29   46.6%    3.4% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 46 of 48 (Threads10_stockfish_15.1_Elo1700_40_60,000+600ms vs stockfish_15.1_skynet-dev_handicapped)
+Finished game 46 (Threads10_stockfish_15.1_Elo1700_40_60,000+600ms vs stockfish_15.1_skynet-dev_handicapped): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Threads10_stockfish_15.1_Elo1700_40_60,000+600ms      22     126      32   53.1%    0.0% 
+   2 Threads1_stockfish_15.1_Elo1700_40_60,000+600ms      12     128      30   51.7%    3.3% 
+   3 stockfish_15.1_skynet-dev_handicapped     -35     128      30   45.0%    3.3% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 47 of 48 (stockfish_15.1_skynet-dev_handicapped vs Threads1_stockfish_15.1_Elo1700_40_60,000+600ms)
+Finished game 47 (stockfish_15.1_skynet-dev_handicapped vs Threads1_stockfish_15.1_Elo1700_40_60,000+600ms): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Threads1_stockfish_15.1_Elo1700_40_60,000+600ms      22     126      31   53.2%    3.2% 
+   2 Threads10_stockfish_15.1_Elo1700_40_60,000+600ms      22     126      32   53.1%    0.0% 
+   3 stockfish_15.1_skynet-dev_handicapped     -45     127      31   43.5%    3.2% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 48 of 48 (Threads1_stockfish_15.1_Elo1700_40_60,000+600ms vs stockfish_15.1_skynet-dev_handicapped)
+Finished game 48 (Threads1_stockfish_15.1_Elo1700_40_60,000+600ms vs stockfish_15.1_skynet-dev_handicapped): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Threads1_stockfish_15.1_Elo1700_40_60,000+600ms      33     124      32   54.7%    3.1% 
+   2 Threads10_stockfish_15.1_Elo1700_40_60,000+600ms      22     126      32   53.1%    0.0% 
+   3 stockfish_15.1_skynet-dev_handicapped     -55     125      32   42.2%    3.1% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+
+Player: stockfish_15.1_skynet-dev_handicapped
+   "Draw by 3-fold repetition": 1
+   "Loss: Black wins by adjudication": 9
+   "Loss: White wins by adjudication": 9
+   "Win: Black wins by adjudication": 7
+   "Win: White wins by adjudication": 6
+Player: Threads1_stockfish_15.1_Elo1700_40_60,000+600ms
+   "Draw by 3-fold repetition": 1
+   "Loss: Black wins by adjudication": 8
+   "Loss: White wins by adjudication": 6
+   "Win: Black wins by adjudication": 9
+   "Win: White wins by adjudication": 8
+Player: Threads10_stockfish_15.1_Elo1700_40_60,000+600ms
+   "Loss: Black wins by adjudication": 7
+   "Loss: White wins by adjudication": 8
+   "Win: Black wins by adjudication": 8
+   "Win: White wins by adjudication": 9
+Finished match
