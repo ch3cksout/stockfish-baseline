@@ -1,0 +1,8 @@
+
+   # PLAYER                    :  RATING  POINTS  PLAYED   (%)
+   1 gpt-3.5-turbo-instruct    :  1538.7    44.5      45    99
+   2 RANDOM chess engine       :   760.6     0.5      45     1
+
+White advantage = 35.00
+Draw rate (equal opponents) = 99.93 %
+

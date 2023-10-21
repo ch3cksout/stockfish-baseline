@@ -1,0 +1,9 @@
+Rank Name                     Elo    +    - games score oppo. draws 
+   1 Stockfish_Elo1954        251  160  160    19   87%   -53   16% 
+   2 Stockfish_Elo2035        186  142  142    20   80%   -53   20% 
+   3 Stockfish_Elo1871        127   43   43   250   74%   -95   12% 
+   4 Stockfish_Elo1785         58   53   53   153   68%  -107   13% 
+   5 Stockfish_Elo1694        -15   98   98    40   51%   -53    8% 
+   6 gpt-3.5-turbo-instruct   -53   31   31   440   34%    90   13% 
+   7 Stockfish_Elo1597       -185  136  136    22   39%  -125    5% 
+   8 gpt-4                   -369  126  126    64    7%    75    5% 

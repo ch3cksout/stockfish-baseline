@@ -1,0 +1,5 @@
+Rank Name                     Elo    +    - games score oppo. draws 
+   1 gpt-4                    210  202  202    59   99%  -373    2% 
+   2 gpt-3.5-turbo-instruct   180  209  209    45   99%  -373    2% 
+   3 gpt-3.5-turbo            -17  330  330     6  100%  -373    0% 
+   4 RANDOM chess engine     -373  133  133   110    1%   185    2% 

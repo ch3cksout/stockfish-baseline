@@ -1,0 +1,14 @@
+
+   # PLAYER                    :  RATING  POINTS  PLAYED   (%)
+   1 Stockfish_Elo2035         :  2035.0    16.0      20    80
+   2 Stockfish_Elo1954         :  1954.0    16.5      19    87
+   3 Stockfish_Elo1871         :  1871.0   185.5     250    74
+   4 Stockfish_Elo1785         :  1785.0   104.0     153    68
+   5 Stockfish_Elo1694         :  1694.0    20.5      40    51
+   6 gpt-3.5-turbo-instruct    :  1683.7   148.5     440    34
+   7 Stockfish_Elo1597         :  1597.0     8.5      22    39
+   8 gpt-4                     :  1357.9     4.5      64     7
+
+White advantage = 35.00
+Draw rate (equal opponents) = 14.16 %
+

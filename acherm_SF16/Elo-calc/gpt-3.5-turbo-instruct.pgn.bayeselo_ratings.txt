@@ -1,0 +1,9 @@
+Rank Name                     Elo    +    - games score oppo. draws 
+   1 Stockfish_Elo1954        285  160  160    19   87%   -19   16% 
+   2 Stockfish_Elo2035        221  142  142    20   80%   -19   20% 
+   3 Stockfish_Elo1871        162   44   44   217   71%   -19   13% 
+   4 Stockfish_Elo1785         96   55   55   127   63%   -19   14% 
+   5 Stockfish_Elo1694         20   98   98    40   51%   -19    8% 
+   6 gpt-3.5-turbo-instruct   -19   30   30   485   40%    58   12% 
+   7 Stockfish_Elo1597       -172  157  157    17   26%   -19    6% 
+   8 RANDOM chess engine     -593  223  223    45    1%   -19    2% 
