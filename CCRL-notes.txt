@@ -41,8 +41,14 @@ That binary is available here:
 <https://cc.bingj.com/cache.aspx?q=%22Intel+Core+i7+4770K%22+site%3aipmanchess.yolasite.com%2f&d=4778847212692405&mkt=en-WW&setlang=en-US&w=ZL1ri63atQ59K3pD92hX1d1lLOWfNFfI>
 <http://webcache.googleusercontent.com/search?q=cache:TgqHWHLaKL8J:ipmanchess.yolasite.com/amd---intel-chess-bench.php&hl=en&gl=hu>
 
+ With standard Stockfish (version 14.1), results are available for a sligthly different CPU, Intel Core i7 4790s @4.0Ghz (under WIndows 7):
+7.870.256	Intel Core i7 4790s @4.0Ghz ddr3 1600 CL11	8threads	bmi2+LP	DeeDs	W7
+7.841.630	Intel Core i7 4790s @4.0Ghz ddr3 1600 CL11	8threads	avx2+LP	DeeDs	W7
+7.146.413	Intel Core i7 4790s @4.0Ghz ddr3 1600 CL11	8threads	pop	DeeDs	W7
+
  It is important to note that traditionally the CCRL data was collected with single CPU (1 thread) engine setup.
-The same 1 thread setting has been used for calibrating the internal UCI_Elo rating for Stockfish.
+The same 1 thread setting has been used for calibrating the  
+ internal UCI_Elo rating for Stockfish <https://github.com/official-stockfish/Stockfish/pull/4341#issue-1533551205>.
 Modern hardware is typically multi-core, and many recent benchmark results are from multi-threaded runs,
 so extra attention should be paid for valid conditions in order to make meaningful comparisons!
 
