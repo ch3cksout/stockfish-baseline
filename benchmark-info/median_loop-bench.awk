@@ -25,7 +25,7 @@ ENDFILE {
 
     if (c % 2) {
         #print "TRACK vals[int(c/2)]: " c, vals[int(c/2)]
-        print vals[int(c/2)]
+        print "\"" FILENAME "\"," "\"median Nodes/second from "c" benchmark runs\"," sprintf("%9.0f", (vals[int(c/2)])) 
     } else {
         #print "TRACK (vals[c/2-1] + vals[c/2]) / 2.0: " c, "vals[c/2-1]="vals[c/2-1], "vals[c/2]="vals[c/2], "(vals[c/2-1] + vals[c/2]) / 2.0="(vals[c/2-1] + vals[c/2]) / 2.0
         print "\"" FILENAME "\"," "\"median Nodes/second from "c" benchmark runs\"," sprintf("%9.0f", (vals[c/2-1] + vals[c/2]) / 2.0) 
