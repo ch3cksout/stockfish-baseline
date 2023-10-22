@@ -3,6 +3,7 @@ Stockfish has its calibration (run against the Stach engine) anchored to CCRL 40
 
  At the time of this writing, the archived URL for the above mentioned list is:
 <https://web.archive.org/web/20231019032345/https://www.computerchess.org.uk/ccrl/404/>.
+ CCRL's current home is <http://ccrl.chessdom.com/ccrl/404/>.
 Note that this is actually a list specified as "CCRL Blitz", which has not had the same time control historically!
  For the original early settings (actual 40/4 for the fast "blitz" time control) see:
 <https://web.archive.org/web/20071228085500/http://computerchess.org.uk/ccrl/404/about.html>.
@@ -15,4 +16,36 @@ For this adjustment, CCRL uses Stockfish 10 as a benchmark to determine the equi
 That binary is available here:
 <https://files.stockfishchess.org/archive/Stockfish%2010/>.
 
+ The CCRL report pages do not disclose actual benchmark for processing speed. There are other sites for such generic data:
+1. [Intel Core i7 4770K "Haswell" Benchmarks On Ubuntu Linux](^1^): This article provides a selection of CPU benchmarks against older Intel Sandy Bridge and Ivy Bridge CPUs along with AMD CPU/APUs¹. 
 
+2. [OpenBenchmarking.org](^2^): This platform provides storage of Phoronix Test Suite benchmark result data, including optional system logs, etc². You can find comparisons of different hardware configurations here².
+
+3. [Gallium3D LLVMpipe Benchmarks From Intel Haswell](^3^): This article provides benchmarks for the Core i7 4770K CPU³.
+
+4. [Intel Haswell HD Graphics 4600 Performance On Ubuntu Linux](^4^): This article provides benchmarks for the Intel Core i7 4770K CPU with its HD Graphics 4600 on the latest Linux code⁴.
+
+(1) Intel Core i7 4770K "Haswell" Benchmarks On Ubuntu Linux - Phoronix. https://www.phoronix.com/review/intel_4770k_linux.
+(2) OpenBenchmarking.org - Cross-Platform, Open-Source Automated .... https://openbenchmarking.org/.
+(3) Gallium3D LLVMpipe Benchmarks From Intel Haswell - Phoronix. https://www.phoronix.com/news/MTM4OTM.
+(4) Intel Haswell HD Graphics 4600 Performance On Ubuntu Linux - Phoronix. https://www.phoronix.com/review/intel_hd4600_linux.
+
+ Stockfish-specific (mostly for Ver. 14.1) data is available at <https://ipmanchess.yolasite.com/amd---intel-chess-bench.php>.
+ The Intel Core i7 4770K @4.2Ghz with 4 cores and using the BMI2 instruction set achieved a benchmark score of 9,985,6501
+ (according to Bing, verification is needed for the citation!).
+ 
+ On the page <https://ipmanchess.yolasite.com/amd---intel-chess-bench.php> there are the following relevant results
+ (obtained with asmFishW_2017-05-22, parameters: bench 1024 128 26):
+ 13.906.497	Intel Core i7 4770K @4.2Ghz	8threads	BMI2	Christian
+ 10.095.484	Intel Core i7 4770K @4.2Ghz	4cores	BMI2	Christian
+<https://cc.bingj.com/cache.aspx?q=%22Intel+Core+i7+4770K%22+site%3aipmanchess.yolasite.com%2f&d=4778847212692405&mkt=en-WW&setlang=en-US&w=ZL1ri63atQ59K3pD92hX1d1lLOWfNFfI>
+<http://webcache.googleusercontent.com/search?q=cache:TgqHWHLaKL8J:ipmanchess.yolasite.com/amd---intel-chess-bench.php&hl=en&gl=hu>
+
+ It is important to note that traditionally the CCRL data was collected with single CPU (1 thread) engine setup.
+The same 1 thread setting has been used for calibrating the internal UCI_Elo rating for Stockfish.
+Modern hardware is typically multi-core, and many recent benchmark results are from multi-threaded runs,
+so extra attention should be paid for valid conditions in order to make meaningful comparisons!
+
+
+
+ 
