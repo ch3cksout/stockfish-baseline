@@ -1,0 +1,66 @@
+https://kirill-kryukov.com/chess/discussion-board/viewtopic.php?t=1486&start=75
+https://web.archive.org/web/20231023084338/https://kirill-kryukov.com/chess/discussion-board/viewtopic.php?t=1486&start=75
+
+Re: CCRL 40/15 Testing Conditions (previously 40/40)
+Post by Paul Galbraith » Fri Oct 28, 2022 2:07 am
+
+Ray wrote: ↑Thu Nov 19, 2020 7:26 pm
+In Windows you just double-click the Stockfish 10 exe and type "bench", Adapted time control for 40/15 would be/:
+
+T minutes for 40 moves where T = Your time / 2054 x 15 (for 40/15)
+I think this is the only place I've been able to find this information, maybe it's documented privately I'm guessing from some of the other discussion here, can anyone confirm this? From this post I'm assuming that 2054 is the time produced on real hardware for the "standard" machine running the Stockfish 10 bench ... can anyone confirm which binary was used to obtain this value (bmi2, x64, etc.)?
+Top
+Ray
+Posts: 21848
+Joined: Sun Dec 18, 2005 6:33 pm
+Sign-up code: 10159
+Location: NZ
+Re: CCRL 40/15 Testing Conditions (previously 40/40)
+Post by Ray » Fri Oct 28, 2022 11:38 pm
+
+Paul Galbraith wrote: ↑Fri Oct 28, 2022 2:07 am
+In Windows you just double-click the Stockfish 10 exe and type "bench", Adapted time control for 40/15 would be/:
+
+T minutes for 40 moves where T = Your time / 2054 x 15 (for 40/15)
+From this post I'm assuming that 2054 is the time produced on real hardware for the "standard" machine running the Stockfish 10 bench ... can anyone confirm which binary was used to obtain this value (bmi2, x64, etc.)?
+Yes, Graham has an i7-4770k so it is an actual result on an actual machine. Another tester has similar Intel hardware and got the same results.
+Top
+Paul Galbraith
+Posts: 3
+Joined: Thu Oct 27, 2022 1:16 am
+Sign-up code: 10159
+Location: Canada
+Re: CCRL 40/15 Testing Conditions (previously 40/40)
+Post by Paul Galbraith » Sat Oct 29, 2022 12:54 am
+
+Ray wrote: ↑Fri Oct 28, 2022 11:38 pm
+Paul Galbraith wrote: ↑Fri Oct 28, 2022 2:07 am
+From this post I'm assuming that 2054 is the time produced on real hardware for the "standard" machine running the Stockfish 10 bench ... can anyone confirm which binary was used to obtain this value (bmi2, x64, etc.)?
+Yes, Graham has an i7-4770k so it is an actual result on an actual machine. Another tester has similar Intel hardware and got the same results.
+Thanks, Ray. Do you happen to know which binary was used by Graham?
+Top
+User avatarGraham Banks
+Posts: 25952
+Joined: Sun Dec 18, 2005 5:47 pm
+Sign-up code: 0
+Location: Auckland, NZ
+Re: CCRL 40/15 Testing Conditions (previously 40/40)
+Post by Graham Banks » Sat Oct 29, 2022 1:25 am
+
+Paul Galbraith wrote: ↑Sat Oct 29, 2022 12:54 am
+Ray wrote: ↑Fri Oct 28, 2022 11:38 pm
+Paul Galbraith wrote: ↑Fri Oct 28, 2022 2:07 am
+From this post I'm assuming that 2054 is the time produced on real hardware for the "standard" machine running the Stockfish 10 bench ... can anyone confirm which binary was used to obtain this value (bmi2, x64, etc.)?
+Yes, Graham has an i7-4770k so it is an actual result on an actual machine. Another tester has similar Intel hardware and got the same results.
+Thanks, Ray. Do you happen to know which binary was used by Graham?
+The machine supports both bm12 and avx2, so would have been the bm12 one, as the modern one is just popcount as far as I'm aware.
+
+
+https://kirill-kryukov.com/chess/discussion-board/viewtopic.php?t=2808
+https://web.archive.org/web/20231023084637/https://kirill-kryukov.com/chess/discussion-board/viewtopic.php?t=2808
+
+by Graham Banks » Sat Jan 26, 2008 10:42 pm
+
+Our 40 moves in 15 minutes repeating and 2 minutes with 1 second increments are both adjusted to the Intel i7 4770k (3.5GHz) using the Stockfish 10 64-bit benchmark.
+All of our current testing uses AVX2 compiles where available.
+

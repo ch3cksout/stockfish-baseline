@@ -1,0 +1,99 @@
+https://kirill-kryukov.com/chess/discussion-board/viewtopic.php?t=2226
+https://web.archive.org/web/20231023072649/https://kirill-kryukov.com/chess/discussion-board/viewtopic.php?t=2226
+
+Computed on 2007-05-21				
+Based on "CCRL-404.[127296].pgn"				
+				
+Name                               	ELO	Change	 Games	Change
+Rybka 2.3.2 Beta 64-bit 2CPU       	3054	   New	   977	   977
+Petir 4.39                         	2673	   -19	   991	   959
+Crafty 21.5 PS 64-bit              	2649	   -42	   976	   880
+Scorpio 1.9JA                      	2734	     3	  1842	   653
+Delfi 5.1                          	2721	    -1	  1393	   633
+Toga II 1.3x4b egbb                	2847	   New	   571	   571
+Movei 0.08.418(10 10 10)           	2660	   New	   479	   479
+Movei 0.08.418(3 7 10)             	2648	   New	   478	   478
+Movei 0.08.403(10 10 10)           	2646	   New	   476	   476
+Chess Tiger 2007.1                 	2825	    -1	   658	   340
+Pro Deo 1.2                        	2719	     2	  2206	   325
+Deep Sjeng 2.5 1CPU                	2760	   New	   303	   303
+Spike 1.2 Turin                    	2827	    -1	  6458	   286
+Rybka 1.01 Beta 13d                	2917	    49	   418	   256
+WildCat 7                          	2699	    -2	  2133	   249
+Thinker 4.7a                       	2629	    -9	  1581	   249
+Glaurung 1.2.1 32-bit              	2758	     1	  4885	   224
+Naum 2.1 32-bit                    	2838	     2	  1919	   213
+Rybka 1.0 Beta 64-bit              	2947	    12	   928	   192
+Rybka 1.0 Beta 32-bit              	2890	    -6	  1651	   192
+Slow Chess Blitz WV2.1             	2712	    -2	  4245	   185
+Naum 2.0 32-bit                    	2799	    -1	  4921	   154
+Pseudo 0.7c                        	2678	    -1	  2329	   153
+Alaric 0704                        	2714	     1	  1140	   144
+Toga II 1.2.1a 32-bit              	2860	     1	  5314	   128
+Ruffian 1.0.5                      	2675	    -4	  1603	   128
+Strelka 1.0b 32-bit                	2797	   New	   128	   128
+SOS 5.1                            	2684	     1	  1865	   127
+List 5.12                          	2699	     1	  2315	   125
+Petir 3.99d                        	2620	    -6	  1194	   122
+Ufim 8.02                          	2615	    -4	  1471	   121
+Hiarcs 11.1                        	2915	    -1	  1711	   116
+Toga II 1.3x4 HT80                 	2875	    -4	   891	   116
+Loop 13.6 32-bit                   	2865	   New	   116	   116
+Pharaon 3.5.1                      	2700	    -1	  2174	    96
+Aristarch 4.50                     	2666	    -3	  1929	    96
+Colossus 2006f                     	2644	    -5	  1213	    96
+Movei 0.08.403                     	2636	    -5	   828	    96
+Fritz 9                            	2849	     0	  5389	    95
+Hiarcs 11                          	2892	     0	  2930	    95
+Toga II 1.3 Beta1 32-bit           	2865	     0	  3390	    95
+Scorpio 1.91 (5-men-egbb)          	2732	    -4	   930	    94
+Scorpio 1.81                       	2750	     1	  2405	    90
+The Baron 1.7.0                    	2559	     1	  1571	    90
+E.T. Chess 18.11.05                	2598	     0	  1395	    90
+Scorpio 1.82                       	2740	    -1	  1187	    90
+Arasan 9.2                         	2463	    -7	   732	    90
+Pro Deo 1.1                        	2704	     1	  2115	    89
+WildCat 6                          	2661	    -2	  1245	    88
+Rybka 2.2 32-bit                   	2992	    -1	  2266	    85
+Clueless V1.4                      	1938	   103	   128	    64
+Glaurung 1.2.1 64-bit              	2752	     1	  1871	    64
+Naum 2.0 64-bit                    	2792	    -3	  1619	    64
+Smarthink 0.17a                    	2650	    -4	   702	    64
+The Baron 1.8.1                    	2653	    -8	   789	    64
+Fritz 6 Light                      	2629	    -9	   639	    64
+Loop 13.6 64-bit 2CPU              	2904	     3	   379	    63
+Zappa 1.1 64-bit                   	2714	     1	   992	    63
+Hiarcs 11 2CPU                     	2921	    -1	  1494	    63
+Pharaon 3.5.1 2CPU                 	2753	    -1	  1595	    63
+Hiarcs 11.1 2CPU                   	2962	    -2	  1502	    63
+Loop 13.5 64-bit 2CPU              	2916	    -2	   921	    63
+Toga II 1.3x4                      	2870	    -2	  1654	    63
+Naum 2.1 64-bit 2CPU               	2900	    -4	  1130	    63
+Junior 10.1                        	2826	     0	   160	    60
+Rybka 2.3.1 32-bit                 	2992	    -3	  1805	    54
+Loop 13.5 32-bit                   	2869	     0	  1063	    52
+CM10th Paralyse                    	2760	    -1	  1563	    52
+Mustang 3.0                        	1952	    17	    64	    32
+Rybka 2.1o 64-bit 2CPU             	3046	     4	   735	    32
+CM10th Magic II                    	2702	     2	   453	    32
+Glaurung 1.2.1 64-bit 2CPU         	2806	     2	  1138	    32
+Chess Tiger 2007                   	2796	     0	  3613	    32
+Rybka 2.2 64-bit 2CPU              	3058	    -1	  2513	    32
+Bright-0.1d                        	2739	    -2	   776	    32
+Jonny 2.83 32-bit                  	2644	    -3	  1216	    32
+Petir 3.95                         	2600	    -3	   768	    32
+Anaconda 2.0.1                     	2634	    -4	  1011	    32
+Comet B50                          	2515	    -6	   158	    32
+BamBam                             	2028	   -15	   266	    32
+Scorpio 1.91                       	2732	   New	    32	    32
+Rebel 12                           	2671	    13	   341	    31
+Crafty 19.19 32-bit                	2574	     2	   505	    31
+Toga II 1.3x1                      	2869	     1	  3315	    31
+Twisted Logic 0.099x               	2582	   New	    31	    31
+Little Goliath Evolution 3.12      	2609	    -3	  1084	    30
+Rybka 2.3 LK 32-bit                	2994	     0	   908	    21
+Gandalf 6                          	2702	     2	   619	    20
+CM9000 Enforcer                    	2737	    -1	   816	    20
+Zap!Chess Zanzibar 32-bit          	2847	    -1	   200	    20
+
+

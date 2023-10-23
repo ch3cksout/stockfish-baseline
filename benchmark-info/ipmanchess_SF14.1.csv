@@ -1,2 +1,3 @@
 "loop-bench-1core_HEREDOC.sh_Loop_count=4_nCPU=1.bench.stderr","median Nodes/second from 4 benchmark runs",  1814918
 "loop-bench-8core_HEREDOC.sh_Loop_count=6_nCPU=8.bench.stderr","median Nodes/second from 6 benchmark runs",  8156820
+"loop-bench-4core_HEREDOC.sh_Loop_count=4_nCPU=4.bench.stderr","median Nodes/second from 4 benchmark runs",  3912356
