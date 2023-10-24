@@ -1,6 +1,8 @@
 "EXE-file","Script","Loop-index","Total_time"
-"./stockfish_10_x64_bmi2","./loop-bench-plain_Total_time_HEREDOC2csv.sh",1,1584
-"./stockfish_10_x64_bmi2","./loop-bench-plain_Total_time_HEREDOC2csv.sh",2,1585
-"./stockfish_10_x64_bmi2","./loop-bench-plain_Total_time_HEREDOC2csv.sh",3,1586
-"./stockfish_10_x64_bmi2","./loop-bench-plain_Total_time_HEREDOC2csv.sh",4,1612
-"./stockfish_10_x64_bmi2","Trimmed_AVG",4,1585.50000000000000000000
+"./stockfish_10_x64_bmi2","./loop-bench-plain_Total_time_HEREDOC2csv.sh",1,1460
+"./stockfish_10_x64_bmi2","./loop-bench-plain_Total_time_HEREDOC2csv.sh",2,1478
+"./stockfish_10_x64_bmi2","./loop-bench-plain_Total_time_HEREDOC2csv.sh",3,1556
+"./stockfish_10_x64_bmi2","./loop-bench-plain_Total_time_HEREDOC2csv.sh",4,1502
+"./stockfish_10_x64_bmi2","./loop-bench-plain_Total_time_HEREDOC2csv.sh",5,1503
+"./stockfish_10_x64_bmi2","./loop-bench-plain_Total_time_HEREDOC2csv.sh",6,1483
+"./stockfish_10_x64_bmi2","Trimmed_AVG",6,1491.50000000000000000000

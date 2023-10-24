@@ -1,29 +1,20 @@
 #!/bin/bash
-# looping for tests to reproduce benchmark:
-# https://ipmanchess.yolasite.com/amd--intel-chess-bench-stockfish.php
-# the above list uses this console input: bench 1024 12 26 default depth nnue
-#NOTE for asmFishW_2017-05-22, rather use this console input (had no nnue!): bench 12 128 26
-# https://ipmanchess.yolasite.com/amd---intel-chess-bench.php
-
-#HEREDOC version
-
-#NOTE standard Stockfish uses stderr for summary output, asmFishW_2017-05-22 uses stdout only
-
+# looping for tests to reproduce time control scaling based on Stockfish benchmark:
 # this particular setting replicates the "plain" bench call, recommended on the CCRL discussion forum:
 #<https://kirill-kryukov.com/chess/discussion-board/viewtopic.php?t=1486&start=50#p117895>
 #<https://web.archive.org/web/20230602174057/https://kirill-kryukov.com/chess/discussion-board/viewtopic.php?t=1486&start=50#p117895>
+
+reftime_ms=2054
+
+#HEREDOC version, with CSV output of Total time statistics, and separate file for scaled time control 
 
 EXE="./stockfish_10_x64_bmi2"
 
 if [ $# -eq 0 ]
   then
-    echo "No arguments supplied - expected input is the number of loops!"
-    echo TEST of script $0
-    Threads=$(eval $EXE uci |sed -ne '/Threads/s/^option name Threads type spin default \([0-9][0-9]*\).*/\1/p')
-    echo Threads=$Threads
-    Hash=$(eval $EXE uci |sed -ne '/Hash/s/^option name Hash type spin default \([0-9][0-9]*\).*/\1/p')
-    echo Hash=$Hash
-    # >$0_Loop_count=$1_Threads=$Threads.bench.stderr
+	echo "No arguments supplied - expected input is the number of loops!"
+	echo TEST of script $0
+#	echo TCout=$TCout
   else (
 	#Threads="UNSPECIFIED"
 	Threads=$(eval $EXE uci |sed -ne '/Threads/s/^option name Threads type spin default \([0-9][0-9]*\).*/\1/p')
@@ -76,8 +67,17 @@ EOF
 	fi
 	#echo Trimmed_AVG calc: sum=$sum nAVG=$nAVG 
 	sum=$(echo "$sum / $nAVG" | bc -l)
+	#'$sum' now has the Trimmed AVG calculated
 	#echo Trimmed_AVG=$sum
 	echo \"$EXE\",\"Trimmed_AVG\",$1,$sum >>${EXE}_Total_time.csv
+	
+	#reftime_ms=2054
+	TCout=time_controls_$(lscpu | sed -ne'/Model name:/s/ /_/g;s/Model_name:_*//p').csv
+	echo '"TC-code(sec)","rescaled_TC-code(sec)"' >$TCout
+	echo \"240\",\"$(echo " $sum / $reftime_ms * 240" | bc -l)\" >>$TCout
+	echo \"60+0.6\",\"$(echo " $sum / $reftime_ms * 60" | bc -l)+$(echo " $sum / $reftime_ms * 0.6" | bc -l)\" >>$TCout
+	echo \"120+1\",\"$(echo " $sum / $reftime_ms * 120" | bc -l)+$(echo " $sum / $reftime_ms * 1" | bc -l)\" >>$TCout
+
 	)
 fi
 
