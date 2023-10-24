@@ -61,4 +61,8 @@ so extra attention should be paid for valid conditions in order to make meaningf
 
 	TODO  
 	locate actual CCRL page for stash-bot ratings (and time control)!
-
+https://web.archive.org/web/20200610172842/http://www.computerchess.org.uk/ccrl/4040/games.html
+NOARCH	https://web.archive.org/web/20200610172842/http://www.computerchess.org.uk/ccrl/4040/games-by-engine-commented/Stash_15_0_64-bit.commented.[44].pgn.7z
+https://web.archive.org/web/20200608211315/http://www.computerchess.org.uk/ccrl/4040/rating_list_all.html
+NOARCH	https://web.archive.org/web/20200608211315/http://www.computerchess.org.uk/ccrl/4040/games-by-engine-commented/Stash_15_0_64-bit.commented.[44].pgn.7z
+NOARCH	https://web.archive.org/web/20200608211315/http://www.computerchess.org.uk/ccrl/4040/cgi/engine_details.cgi?print=Details&each_game=1&eng=Stash%2015.0%2064-bit#Stash_15_0_64-bit
