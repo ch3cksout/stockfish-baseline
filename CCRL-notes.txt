@@ -48,10 +48,15 @@ That binary is available here:
 
  It is important to note that traditionally the CCRL data was collected with single CPU (1 thread) engine setup.
 The same 1 thread setting has been used for calibrating the  
- internal UCI_Elo rating for Stockfish <https://github.com/official-stockfish/Stockfish/pull/4341#issue-1533551205>.
+internal UCI_Elo rating for Stockfish; that protocol is explained here:
+ <https://github.com/official-stockfish/Stockfish/pull/2225> (although the Threads setting is only mentioned elsewhere,  
+e.g. <https://github.com/official-stockfish/Stockfish/issues/2791> and  
+<https://github.com/official-stockfish/Stockfish/issues/3101>).  
+Note that the most recent internal UCI_Elo rating list for Stockfish is posted here:
+ <https://github.com/official-stockfish/Stockfish/pull/4341#issue-1533551205>.
+See also the internal code reference <https://github.com/official-stockfish/Stockfish/blob/49ece9f791b84a261f2a8865d2de51c20a520bc6/src/search.cpp#L104>.
+
 Modern hardware is typically multi-core, and many recent benchmark results are from multi-threaded runs,
 so extra attention should be paid for valid conditions in order to make meaningful comparisons!
 
 
-
- 
