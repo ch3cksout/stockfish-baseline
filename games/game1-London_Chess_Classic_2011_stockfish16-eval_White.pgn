@@ -1,0 +1,18 @@
+[Event "3rd London Chess Classic"]
+[Site "London ENG"]
+[Date "2011.12.03"]
+[Round "1"]
+[White "Adams, Mi"]
+[Black "Anand, V."]
+[Result "1/2-1/2"]
+[ECO "B92"]
+[WhiteElo "2734"]
+[BlackElo "2811"]
+[PlyCount "97"]
+[EventDate "2011.12.03"]
+[Evaluating-engine "stockfish-ubuntu-x86-64-avx2"]
+[EvaluationScores "38,33,41,46,40,37,39,40,33,21,39,14,18,17,17,19,27,29,20,21,18,18,36,30,32,24,33,34,32,1,7,11,1,0,-4,-10,-9,-1,-18,-11,-9,-10,-11,-30,-9,-34,-23,-43,-43,-47,-6,0,0,-3,3,0,3,0,0,0,0,0,0,0,4,1,0,0,0,0,0,0,9,13,13,4,0,0,0,0,0,0,2,3,8,8,2,0,0,0,0,0,0,0,0,0,0"]
+
+1. e4 { WhiteValue=+38 } 1... c5 { WhiteValue=+33 } 2. Nf3 { WhiteValue=+41 } 2... d6 { WhiteValue=+46 } 3. d4 { WhiteValue=+40 } 3... cxd4 { WhiteValue=+37 } 4. Nxd4 { WhiteValue=+39 } 4... Nf6 { WhiteValue=+40 } 5. Nc3 { WhiteValue=+33 } 5... a6 { WhiteValue=+21 } 6. Be2 { WhiteValue=+39 } 6... e5 { WhiteValue=+14 } 7. Nb3 { WhiteValue=+18 } 7... Be7 { WhiteValue=+17 } 8. O-O { WhiteValue=+17 } 8... O-O { WhiteValue=+19 } 9. Be3 { WhiteValue=+27 } 9... Be6 { WhiteValue=+29 } 10. Qd2 { WhiteValue=+20 } 10... Nbd7 { WhiteValue=+21 } 11. a4 { WhiteValue=+18 } 11... Nb6 { WhiteValue=+18 } 12. a5 { WhiteValue=+36 } 12... Nc4 { WhiteValue=+30 } 13. Bxc4 { WhiteValue=+32 } 13... Bxc4 { WhiteValue=+24 } 14. Rfd1 { WhiteValue=+33 } 14... Rc8 { WhiteValue=+34 } 15. Bb6 { WhiteValue=+32 } 15... Qe8 { WhiteValue=+1 } 16. Nc1 { WhiteValue=+7 } 16... d5 { WhiteValue=+11 } 17. Nxd5 { WhiteValue=+1 } 17... Nxe4 { WhiteValue=-0 } 18. Nxe7+ { WhiteValue=-4 } 18... Qxe7 { WhiteValue=-10 } 19. Qe1 { WhiteValue=-9 } 19... f5 { WhiteValue=-1 } 20. b3 { WhiteValue=-18 } 20... Bf7 { WhiteValue=-11 } 21. c4 { WhiteValue=-9 } 21... Rfe8 { WhiteValue=-10 } 22. f3 { WhiteValue=-11 } 22... Nc5 { WhiteValue=-30 } 23. Qe3 { WhiteValue=-9 } 23... Nd7 { WhiteValue=-34 } 24. Nd3 { WhiteValue=-23 } 24... Nxb6 { WhiteValue=-43 } 25. axb6 { WhiteValue=-43 } 25... e4 { WhiteValue=-47 } 26. fxe4 { WhiteValue=-6 } 26... fxe4 { WhiteValue=-0 } 27. Nf4 { WhiteValue=-0 } 27... Rc6 { WhiteValue=-3 } 28. Nd5 { WhiteValue=+3 } 28... Bxd5 { WhiteValue=-0 } 29. Rxd5 { WhiteValue=+3 } 29... Qe6 { WhiteValue=-0 } 30. Rad1 { WhiteValue=-0 } 30... Rxb6 { WhiteValue=-0 } 31. Rd8 { WhiteValue=-0 } 31... Rc6 { WhiteValue=-0 } 32. R1d4 { WhiteValue=-0 } 32... Rc8 { WhiteValue=-0 } 33. Rxc8 { WhiteValue=+4 } 33... Qxc8 { WhiteValue=+1 } 34. Rxe4 { WhiteValue=-0 } 34... Rxe4 { WhiteValue=-0 } 35. Qxe4 { WhiteValue=-0 } 35... Qd7 { WhiteValue=-0 } 36. Kf2 { WhiteValue=-0 } 36... h6 { WhiteValue=-0 } 37. Ke3 { WhiteValue=+9 } 37... a5 { WhiteValue=+13 } 38. h3 { WhiteValue=+13 } 38... b6 { WhiteValue=+4 } 39. Qe5 { WhiteValue=-0 } 39... Qc6 { WhiteValue=-0 } 40. Qe4 { WhiteValue=-0 } 40... Qc5+ { WhiteValue=-0 } 41. Kd3 { WhiteValue=-0 } 41... Qg1 { WhiteValue=-0 } 42. Qe8+ { WhiteValue=+2 } 42... Kh7 { WhiteValue=+3 } 43. Qe4+ { WhiteValue=+8 } 43... Kg8 { WhiteValue=+8 } 44. Qf3 { WhiteValue=+2 } 44... Qc5 { WhiteValue=-0 } 45. g4 { WhiteValue=-0 } 45... Qd6+ { WhiteValue=-0 } 46. Ke3 { WhiteValue=-0 } 46... Qe5+ { WhiteValue=-0 } 47. Kd3 { WhiteValue=-0 } 47... Qd6+ { WhiteValue=-0 } 48. Ke3 { WhiteValue=-0 } 48... Qe5+ { WhiteValue=-0 } 49. Kd3 { WhiteValue=-0 } 1/2-1/2
+
+

@@ -1,0 +1,21 @@
+[Event "Third Rosenwald Trophy"]
+[Site "New York, NY USA"]
+[Date "1956.10.17"]
+[Round "8"]
+[White "Donald Byrne"]
+[Black "Robert James Fischer"]
+[Result "0-1"]
+[EventDate "1956.10.07"]
+[ECO "D92"]
+[WhiteElo "2526"]
+[WhiteElo-ref "https://web.archive.org/web/20231028111432/http://www.chessmetrics.com/cm/CM2/SingleEvent.asp?Params=199510SSSSS3S038178000000131100290200000010100"]
+[BlackElo "2533"]
+[BlackElo-ref "https://web.archive.org/web/20231028111432/http://www.chessmetrics.com/cm/CM2/SingleEvent.asp?Params=199510SSSSS3S038178000000131100290200000010100"]
+[PlyCount "82"]
+[Evaluating-engine "asmFishL_2017-05-22_bmi2"]
+[Evaluating-path "/var/chess-engines/asmFishL_2017-05-22_bmi2"]
+[Evaluation-Scores "20,13,40,6,57,24,30,38,55,26,37,14,14,22,34,24,43,64,71,30,45,157,155,146,154,150,150,155,149,159,144,150,136,141,131,550,582,600,595,611,624,634,618,633,637,643,633,639,647,708,694,740,800,835,846,887,908,919,897,931,930,1110,991,1131,952,1042,1086,1275,4933,5742,5762,5762,5762,5762,5762,5762,5762,5762,5762,5762,5762,5762"]
+
+1. Nf3 { WhiteValue=+20 } 1... Nf6 { WhiteValue=+13 } 2. c4 { WhiteValue=+40 } 2... g6 { WhiteValue=+6 } 3. Nc3 { WhiteValue=+57 } 3... Bg7 { WhiteValue=+24 } 4. d4 { WhiteValue=+30 } 4... O-O { WhiteValue=+38 } 5. Bf4 { WhiteValue=+55 } 5... d5 { WhiteValue=+26 } 6. Qb3 { WhiteValue=+37 } 6... dxc4 { WhiteValue=+14 } 7. Qxc4 { WhiteValue=+14 } 7... c6 { WhiteValue=+22 } 8. e4 { WhiteValue=+34 } 8... Nbd7 { WhiteValue=+24 } 9. Rd1 { WhiteValue=+43 } 9... Nb6 { WhiteValue=+64 } 10. Qc5 { WhiteValue=+71 } 10... Bg4 { WhiteValue=+30 } 11. Bg5 { WhiteValue=+45 } 11... Na4 { WhiteValue=+157 } 12. Qa3 { WhiteValue=+155 } 12... Nxc3 { WhiteValue=+146 } 13. bxc3 { WhiteValue=+154 } 13... Nxe4 { WhiteValue=+150 } 14. Bxe7 { WhiteValue=+150 } 14... Qb6 { WhiteValue=+155 } 15. Bc4 { WhiteValue=+149 } 15... Nxc3 { WhiteValue=+159 } 16. Bc5 { WhiteValue=+144 } 16... Rfe8+ { WhiteValue=+150 } 17. Kf1 { WhiteValue=+136 } 17... Be6 { WhiteValue=+141 } 18. Bxb6 { WhiteValue=+131 } 18... Bxc4+ { WhiteValue=+550 } 19. Kg1 { WhiteValue=+582 } 19... Ne2+ { WhiteValue=+600 } 20. Kf1 { WhiteValue=+595 } 20... Nxd4+ { WhiteValue=+611 } 21. Kg1 { WhiteValue=+624 } 21... Ne2+ { WhiteValue=+634 } 22. Kf1 { WhiteValue=+618 } 22... Nc3+ { WhiteValue=+633 } 23. Kg1 { WhiteValue=+637 } 23... axb6 { WhiteValue=+643 } 24. Qb4 { WhiteValue=+633 } 24... Ra4 { WhiteValue=+639 } 25. Qxb6 { WhiteValue=+647 } 25... Nxd1 { WhiteValue=+708 } 26. h3 { WhiteValue=+694 } 26... Rxa2 { WhiteValue=+740 } 27. Kh2 { WhiteValue=+800 } 27... Nxf2 { WhiteValue=+835 } 28. Re1 { WhiteValue=+846 } 28... Rxe1 { WhiteValue=+887 } 29. Qd8+ { WhiteValue=+908 } 29... Bf8 { WhiteValue=+919 } 30. Nxe1 { WhiteValue=+897 } 30... Bd5 { WhiteValue=+931 } 31. Nf3 { WhiteValue=+930 } 31... Ne4 { WhiteValue=+1110 } 32. Qb8 { WhiteValue=+991 } 32... b5 { WhiteValue=+1131 } 33. h4 { WhiteValue=+952 } 33... h5 { WhiteValue=+1042 } 34. Ne5 { WhiteValue=+1086 } 34... Kg7 { WhiteValue=+1275 } 35. Kg1 { WhiteValue=+4933 } 35... Bc5+ { WhiteValue=+5742 } 36. Kf1 { WhiteValue=+5762 } 36... Ng3+ { WhiteValue=+5762 } 37. Ke1 { WhiteValue=+5762 } 37... Bb4+ { WhiteValue=+5762 } 38. Kd1 { WhiteValue=+5762 } 38... Bb3+ { WhiteValue=+5762 } 39. Kc1 { WhiteValue=+5762 } 39... Ne2+ { WhiteValue=+5762 } 40. Kb1 { WhiteValue=+5762 } 40... Nc3+ { WhiteValue=+5762 } 41. Kc1 { WhiteValue=+5762 } 41... Rc2# { WhiteValue=+5762 } 0-1
+
+

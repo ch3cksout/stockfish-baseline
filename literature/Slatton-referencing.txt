@@ -1,0 +1,15 @@
+<https://sl.bing.net/bIbVY3dycEK>
+## Bing
+The source of Grant Slatton's claim about the Elo rating of the GPT-3.5-turbo-instruct model playing chess seems to be based on his own testing and observations. However, the exact methodology or data behind his claim is not explicitly mentioned in the available sources. It's worth noting that other developers and researchers have conducted their own tests and shared their findings on platforms like GitHub, which provide additional context and validation to Slatton's claim. These tests involve playing multiple games against various levels of Stockfish and GPT-4. Please note that while these sources provide some insight, they may not fully detail the exact process or data used by Slatton in determining the Elo rating. For the most accurate information, it would be best to directly refer to Slatton's original sources or communications.
+
+
+Source: Conversation with Bing, 10/29/2023
+(1) Grant Slatton on Twitter. https://twitter.com/GrantSlatton/status/1677037048916525056.
+(2) GitHub - UlisseMini/gpt-chess: gpt-3.5-turbo-instruct playing chess at .... https://github.com/UlisseMini/gpt-chess.
+(3) notnil/chess-gpt: A Chess Bot powered by OpenAI's ChatGPT - GitHub. https://github.com/notnil/chess-gpt.
+(4) adamkarvonen/chess_gpt_eval - GitHub. https://github.com/adamkarvonen/chess_gpt_eval.
+(5) GitHub - CarperAI/InstructGPT: For experiments involving instruct gpt .... https://github.com/CarperAI/InstructGPT.
+(6) undefined. https://lichess.org/@/konaz.
+(7) undefined. https://github.com/yourusername/chess-gpt.git.
+(8) undefined. https://t.co/8O9OUC0sc3.
+

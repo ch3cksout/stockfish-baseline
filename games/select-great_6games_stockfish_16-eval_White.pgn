@@ -1,0 +1,114 @@
+[Event "Berlin"]
+[Site "Berlin GER"]
+[Date "1852.08.??"]
+[Round "?"]
+[White "Adolf Anderssen"]
+[Black "Jean Dufresne"]
+[Result "1-0"]
+[WhiteElo "http://www.chessmetrics.com/cm/CM2/SingleMonth.asp?Params=199510SSSSS3S003629185208131000038800006010100"]
+[BlackElo "http://www.chessmetrics.com/cm/CM2/PlayerProfile.asp?Params=199510SSSSS3S032501000000131100290200006010100"]
+[ECO "C52"]
+[EventDate "?"]
+[PlyCount "47"]
+[Evaluating-engine "stockfish_16"]
+[Evaluating-path "/var/chess-engines/stockfish_16"]
+[Evaluation-Scores "38,33,35,30,37,17,16,22,21,28,30,30,4,19,33,32,28,24,26,27,36,62,75,51,67,83,96,20,158,163,435,421,460,74,70,61,51,4,401,398,398,398,398,398,398,398,398"]
+
+1. e4 { WhiteValue=+38 } 1... e5 { WhiteValue=+33 } 2. Nf3 { WhiteValue=+35 } 2... Nc6 { WhiteValue=+30 } 3. Bc4 { WhiteValue=+37 } 3... Bc5 { WhiteValue=+17 } 4. b4 { WhiteValue=+16 } 4... Bxb4 { WhiteValue=+22 } 5. c3 { WhiteValue=+21 } 5... Ba5 { WhiteValue=+28 } 6. d4 { WhiteValue=+30 } 6... exd4 { WhiteValue=+30 } 7. O-O { WhiteValue=+4 } 7... d3 { WhiteValue=+19 } 8. Qb3 { WhiteValue=+33 } 8... Qf6 { WhiteValue=+32 } 9. e5 { WhiteValue=+28 } 9... Qg6 { WhiteValue=+24 } 10. Re1 { WhiteValue=+26 } 10... Nge7 { WhiteValue=+27 } 11. Ba3 { WhiteValue=+36 } 11... b5 { WhiteValue=+62 } 12. Qxb5 { WhiteValue=+75 } 12... Rb8 { WhiteValue=+51 } 13. Qa4 { WhiteValue=+67 } 13... Bb6 { WhiteValue=+83 } 14. Nbd2 { WhiteValue=+96 } 14... Bb7 { WhiteValue=+20 } 15. Ne4 { WhiteValue=+158 } 15... Qf5 { WhiteValue=+163 } 16. Bxd3 { WhiteValue=+435 } 16... Qh5 { WhiteValue=+421 } 17. Nf6+ { WhiteValue=+460 } 17... gxf6 { WhiteValue=+74 } 18. exf6 { WhiteValue=+70 } 18... Rg8 { WhiteValue=+61 } 19. Rad1 { WhiteValue=+51 } 19... Qxf3 { WhiteValue=+4 } 20. Rxe7+ { WhiteValue=+401 } 20... Nxe7 { WhiteValue=+398 } 21. Qxd7+ { WhiteValue=+398 } 21... Kxd7 { WhiteValue=+398 } 22. Bf5+ { WhiteValue=+398 } 22... Ke8 { WhiteValue=+398 } 23. Bd7+ { WhiteValue=+398 } 23... Kf8 { WhiteValue=+398 } 24. Bxe7# { WhiteValue=+398 } 1-0
+
+
+[Event "Grand Slam Chess Final"]
+[Site "Sao Paulo BRA"]
+[Date "2012.10.12"]
+[Round "9"]
+[White "Magnus Carlsen"]
+[Black "Viswanathan Anand"]
+[Result "1-0"]
+[WhiteElo "https://ratings.fide.com/id.phtml?event=1503014"]
+[BlackElo "https://ratings.fide.com/id.phtml?event=5000017"]
+[ECO "B52"]
+[EventDate "2012.09.24"]
+[PlyCount "59"]
+[Evaluating-engine "stockfish_16"]
+[Evaluating-path "/var/chess-engines/stockfish_16"]
+[Evaluation-Scores "24,25,39,39,43,21,16,21,16,14,13,28,38,32,33,17,31,9,45,25,32,11,21,15,7,0,5,36,10,15,16,22,16,15,70,64,82,12,40,41,40,69,48,41,40,55,61,70,123,135,207,227,208,205,303,303,309,310,325"]
+
+1. e4 { WhiteValue=+24 } 1... c5 { WhiteValue=+25 } 2. Nf3 { WhiteValue=+39 } 2... d6 { WhiteValue=+39 } 3. Bb5+ { WhiteValue=+43 } 3... Bd7 { WhiteValue=+21 } 4. Bxd7+ { WhiteValue=+16 } 4... Qxd7 { WhiteValue=+21 } 5. c4 { WhiteValue=+16 } 5... Nf6 { WhiteValue=+14 } 6. Nc3 { WhiteValue=+13 } 6... g6 { WhiteValue=+28 } 7. d4 { WhiteValue=+38 } 7... cxd4 { WhiteValue=+32 } 8. Nxd4 { WhiteValue=+33 } 8... Bg7 { WhiteValue=+17 } 9. f3 { WhiteValue=+31 } 9... Qc7 { WhiteValue=+9 } 10. b3 { WhiteValue=+45 } 10... Qa5 { WhiteValue=+25 } 11. Bb2 { WhiteValue=+32 } 11... Nc6 { WhiteValue=+11 } 12. O-O { WhiteValue=+21 } 12... O-O { WhiteValue=+15 } 13. Nce2 { WhiteValue=+7 } 13... Rfd8 { WhiteValue=-0 } 14. Bc3 { WhiteValue=+5 } 14... Qb6 { WhiteValue=+36 } 15. Kh1 { WhiteValue=+10 } 15... d5 { WhiteValue=+15 } 16. Nxc6 { WhiteValue=+16 } 16... bxc6 { WhiteValue=+22 } 17. Qe1 { WhiteValue=+16 } 17... Rdc8 { WhiteValue=+15 } 18. e5 { WhiteValue=+70 } 18... Ne8 { WhiteValue=+64 } 19. e6 { WhiteValue=+82 } 19... fxe6 { WhiteValue=+12 } 20. Nf4 { WhiteValue=+40 } 20... Bxc3 { WhiteValue=+41 } 21. Qxc3 { WhiteValue=+40 } 21... d4 { WhiteValue=+69 } 22. Qd2 { WhiteValue=+48 } 22... c5 { WhiteValue=+41 } 23. Rae1 { WhiteValue=+40 } 23... Ng7 { WhiteValue=+55 } 24. g4 { WhiteValue=+61 } 24... Rc6 { WhiteValue=+70 } 25. Nh3 { WhiteValue=+123 } 25... Ne8 { WhiteValue=+135 } 26. Qh6 { WhiteValue=+207 } 26... Nf6 { WhiteValue=+227 } 27. Ng5 { WhiteValue=+208 } 27... d3 { WhiteValue=+205 } 28. Re5 { WhiteValue=+303 } 28... Kh8 { WhiteValue=+303 } 29. Rd1 { WhiteValue=+309 } 29... Qa6 { WhiteValue=+310 } 30. a4 { WhiteValue=+325 } 1-0
+
+
+[Event "Tata Steel Masters"]
+[Site "Rotterdam NED"]
+[Date "2015.01.15"]
+[Round "5"]
+[White "Magnus Carlsen"]
+[Black "Levon Aronian"]
+[Result "1-0"]
+[WhiteElo "2862"]
+[BlackElo "2797"]
+[ECO "D38"]
+[EventDate "2015.01.09"]
+[PlyCount "93"]
+[Evaluating-engine "stockfish_16"]
+[Evaluating-path "/var/chess-engines/stockfish_16"]
+[Evaluation-Scores "25,30,31,30,29,29,31,31,26,23,24,16,5,10,12,2,5,0,16,0,0,6,4,25,29,28,18,31,13,19,5,16,26,15,23,22,54,52,64,56,53,55,66,54,56,52,75,65,89,86,96,101,94,92,125,123,141,133,138,143,125,129,131,102,113,123,115,110,109,111,109,108,211,288,407,492,510,528,532,541,544,545,603,621,3758,3817,3817,3817,3812,3812,3817,3817,3818"]
+
+1. d4 { WhiteValue=+25 } 1... Nf6 { WhiteValue=+30 } 2. c4 { WhiteValue=+31 } 2... e6 { WhiteValue=+30 } 3. Nf3 { WhiteValue=+29 } 3... d5 { WhiteValue=+29 } 4. Nc3 { WhiteValue=+31 } 4... Bb4 { WhiteValue=+31 } 5. cxd5 { WhiteValue=+26 } 5... exd5 { WhiteValue=+23 } 6. Bg5 { WhiteValue=+24 } 6... h6 { WhiteValue=+16 } 7. Bxf6 { WhiteValue=+5 } 7... Qxf6 { WhiteValue=+10 } 8. Qa4+ { WhiteValue=+12 } 8... Nc6 { WhiteValue=+2 } 9. e3 { WhiteValue=+5 } 9... O-O { WhiteValue=-0 } 10. Be2 { WhiteValue=+16 } 10... Be6 { WhiteValue=-0 } 11. O-O { WhiteValue=-0 } 11... a6 { WhiteValue=+6 } 12. Rfc1 { WhiteValue=+4 } 12... Bd6 { WhiteValue=+25 } 13. Qd1 { WhiteValue=+29 } 13... Ne7 { WhiteValue=+28 } 14. a3 { WhiteValue=+18 } 14... Rfd8 { WhiteValue=+31 } 15. b4 { WhiteValue=+13 } 15... Nc8 { WhiteValue=+19 } 16. Na4 { WhiteValue=+5 } 16... b6 { WhiteValue=+16 } 17. Nb2 { WhiteValue=+26 } 17... Ne7 { WhiteValue=+15 } 18. Nd3 { WhiteValue=+23 } 18... Ng6 { WhiteValue=+22 } 19. a4 { WhiteValue=+54 } 19... a5 { WhiteValue=+52 } 20. b5 { WhiteValue=+64 } 20... Re8 { WhiteValue=+56 } 21. Rc3 { WhiteValue=+53 } 21... Bf5 { WhiteValue=+55 } 22. Rac1 { WhiteValue=+66 } 22... Rad8 { WhiteValue=+54 } 23. Nd2 { WhiteValue=+56 } 23... Rd7 { WhiteValue=+52 } 24. g3 { WhiteValue=+75 } 24... Nf8 { WhiteValue=+65 } 25. Bg4 { WhiteValue=+89 } 25... Nh7 { WhiteValue=+86 } 26. Bxf5 { WhiteValue=+96 } 26... Qxf5 { WhiteValue=+101 } 27. Qf3 { WhiteValue=+94 } 27... Qg5 { WhiteValue=+92 } 28. h4 { WhiteValue=+125 } 28... Qe7 { WhiteValue=+123 } 29. Rc6 { WhiteValue=+141 } 29... Nf6 { WhiteValue=+133 } 30. Nf4 { WhiteValue=+138 } 30... g6 { WhiteValue=+143 } 31. h5 { WhiteValue=+125 } 31... Kg7 { WhiteValue=+129 } 32. hxg6 { WhiteValue=+131 } 32... fxg6 { WhiteValue=+102 } 33. Nxd5 { WhiteValue=+113 } 33... Nxd5 { WhiteValue=+123 } 34. Qxd5 { WhiteValue=+115 } 34... Bxg3 { WhiteValue=+110 } 35. Qg2 { WhiteValue=+109 } 35... Bd6 { WhiteValue=+111 } 36. Nc4 { WhiteValue=+109 } 36... Rf8 { WhiteValue=+108 } 37. Ne5 { WhiteValue=+211 } 37... Bxe5 { WhiteValue=+288 } 38. Qxg6+ { WhiteValue=+407 } 38... Kh8 { WhiteValue=+492 } 39. Qxh6+ { WhiteValue=+510 } 39... Kg8 { WhiteValue=+528 } 40. dxe5 { WhiteValue=+532 } 40... Qxe5 { WhiteValue=+541 } 41. Rg6+ { WhiteValue=+544 } 41... Kf7 { WhiteValue=+545 } 42. Rc4 { WhiteValue=+603 } 42... Qa1+ { WhiteValue=+621 } 43. Kg2 { WhiteValue=+3758 } 43... Rh8 { WhiteValue=+3817 } 44. Rf4+ { WhiteValue=+3817 } 44... Ke8 { WhiteValue=+3817 } 45. Re6+ { WhiteValue=+3812 } 45... Re7 { WhiteValue=+3812 } 46. Rxe7+ { WhiteValue=+3817 } 46... Kxe7 { WhiteValue=+3817 } 47. Re4+ { WhiteValue=+3818 } 1-0
+
+
+[Event "Tata Steel Group A"]
+[Site "Wijk aan Zee NED"]
+[Date "2013.01.20"]
+[Round "8"]
+[White "Magnus Carlsen"]
+[Black "Sergey Karjakin"]
+[Result "1-0"]
+[WhiteElo "https://ratings.fide.com/id.phtml?event=1503014"]
+[BlackElo "https://ratings.fide.com/id.phtml?event=14109603"]
+[ECO "A07"]
+[EventDate "2013.01.11"]
+[PlyCount "183"]
+[Evaluating-engine "stockfish_16"]
+[Evaluating-path "/var/chess-engines/stockfish_16"]
+[Evaluation-Scores "42,25,22,10,26,25,22,27,25,7,13,12,25,13,21,10,43,21,36,38,31,30,25,32,31,30,22,28,32,20,23,22,28,17,25,27,26,27,29,33,43,0,50,10,11,6,10,5,1,12,15,22,18,21,36,16,21,32,1,1,0,26,20,41,39,33,33,52,22,23,23,22,11,8,2,12,4,0,0,0,16,0,3,8,7,3,88,68,91,85,84,84,77,6,149,147,164,164,156,164,164,164,164,160,166,94,146,94,94,97,92,92,92,85,85,85,88,85,87,86,86,92,100,98,96,98,103,92,90,87,82,82,82,0,0,0,137,136,136,139,141,158,294,310,333,344,371,270,291,291,286,326,329,312,340,335,318,398,423,431,444,471,557,569,673,703,754,806,879,3452,3452,3452,3452,3452,3420,3563,3571,3576,3547,3581,3581,3576,3576"]
+
+1. Nf3 { WhiteValue=+42 } 1... Nf6 { WhiteValue=+25 } 2. g3 { WhiteValue=+22 } 2... d5 { WhiteValue=+10 } 3. Bg2 { WhiteValue=+26 } 3... c6 { WhiteValue=+25 } 4. O-O { WhiteValue=+22 } 4... Bg4 { WhiteValue=+27 } 5. c4 { WhiteValue=+25 } 5... e6 { WhiteValue=+7 } 6. d3 { WhiteValue=+13 } 6... Nbd7 { WhiteValue=+12 } 7. cxd5 { WhiteValue=+25 } 7... exd5 { WhiteValue=+13 } 8. Qc2 { WhiteValue=+21 } 8... Be7 { WhiteValue=+10 } 9. Nc3 { WhiteValue=+43 } 9... Bxf3 { WhiteValue=+21 } 10. Bxf3 { WhiteValue=+36 } 10... d4 { WhiteValue=+38 } 11. Ne4 { WhiteValue=+31 } 11... O-O { WhiteValue=+30 } 12. Nxf6+ { WhiteValue=+25 } 12... Nxf6 { WhiteValue=+32 } 13. Bd2 { WhiteValue=+31 } 13... a5 { WhiteValue=+30 } 14. a3 { WhiteValue=+22 } 14... Nd5 { WhiteValue=+28 } 15. Rab1 { WhiteValue=+32 } 15... Qd7 { WhiteValue=+20 } 16. Rfc1 { WhiteValue=+23 } 16... Rfe8 { WhiteValue=+22 } 17. Qc4 { WhiteValue=+28 } 17... Nc7 { WhiteValue=+17 } 18. h4 { WhiteValue=+25 } 18... a4 { WhiteValue=+27 } 19. Bb4 { WhiteValue=+26 } 19... Nb5 { WhiteValue=+27 } 20. Kg2 { WhiteValue=+29 } 20... h6 { WhiteValue=+33 } 21. Bc5 { WhiteValue=+43 } 21... g6 { WhiteValue=-0 } 22. Qb4 { WhiteValue=+50 } 22... Bf6 { WhiteValue=+10 } 23. Qd2 { WhiteValue=+11 } 23... Kg7 { WhiteValue=+6 } 24. Rc4 { WhiteValue=+10 } 24... Ra6 { WhiteValue=+5 } 25. Qd1 { WhiteValue=+1 } 25... b6 { WhiteValue=+12 } 26. Bb4 { WhiteValue=+15 } 26... c5 { WhiteValue=+22 } 27. Bd2 { WhiteValue=+18 } 27... Nc7 { WhiteValue=+21 } 28. Rcc1 { WhiteValue=+36 } 28... Nd5 { WhiteValue=+16 } 29. Qh1 { WhiteValue=+21 } 29... Be7 { WhiteValue=+32 } 30. Kg1 { WhiteValue=+1 } 30... Rd8 { WhiteValue=+1 } 31. Rc2 { WhiteValue=-0 } 31... Qe6 { WhiteValue=+26 } 32. Qg2 { WhiteValue=+20 } 32... Ra7 { WhiteValue=+41 } 33. Re1 { WhiteValue=+39 } 33... Rad7 { WhiteValue=+33 } 34. Kh2 { WhiteValue=+33 } 34... Rc8 { WhiteValue=+52 } 35. Qh3 { WhiteValue=+22 } 35... Qxh3+ { WhiteValue=+23 } 36. Kxh3 { WhiteValue=+23 } 36... h5 { WhiteValue=+22 } 37. Rb1 { WhiteValue=+11 } 37... Ra8 { WhiteValue=+8 } 38. Kg2 { WhiteValue=+2 } 38... Ra6 { WhiteValue=+12 } 39. b3 { WhiteValue=+4 } 39... axb3 { WhiteValue=-0 } 40. Rxb3 { WhiteValue=-0 } 40... Bf6 { WhiteValue=-0 } 41. Rc4 { WhiteValue=+16 } 41... Rd6 { WhiteValue=-0 } 42. Kf1 { WhiteValue=+3 } 42... Kf8 { WhiteValue=+8 } 43. a4 { WhiteValue=+7 } 43... Nc3 { WhiteValue=+3 } 44. Bf4 { WhiteValue=+88 } 44... Re6 { WhiteValue=+68 } 45. e3 { WhiteValue=+91 } 45... Nxa4 { WhiteValue=+85 } 46. Bd5 { WhiteValue=+84 } 46... Re7 { WhiteValue=+84 } 47. Bd6 { WhiteValue=+77 } 47... b5 { WhiteValue=+6 } 48. Bxe7+ { WhiteValue=+149 } 48... Bxe7 { WhiteValue=+147 } 49. Rxb5 { WhiteValue=+164 } 49... Nb6 { WhiteValue=+164 } 50. e4 { WhiteValue=+156 } 50... Nxc4 { WhiteValue=+164 } 51. Rb8+ { WhiteValue=+164 } 51... Kg7 { WhiteValue=+164 } 52. Bxc4 { WhiteValue=+164 } 52... Ra7 { WhiteValue=+160 } 53. f4 { WhiteValue=+166 } 53... Bd6 { WhiteValue=+94 } 54. Re8 { WhiteValue=+146 } 54... Rb7 { WhiteValue=+94 } 55. Ra8 { WhiteValue=+94 } 55... Be7 { WhiteValue=+97 } 56. Kg2 { WhiteValue=+92 } 56... Rb1 { WhiteValue=+92 } 57. e5 { WhiteValue=+92 } 57... Re1 { WhiteValue=+85 } 58. Kf2 { WhiteValue=+85 } 58... Rb1 { WhiteValue=+85 } 59. Re8 { WhiteValue=+88 } 59... Bf8 { WhiteValue=+85 } 60. Rc8 { WhiteValue=+87 } 60... Be7 { WhiteValue=+86 } 61. Ra8 { WhiteValue=+86 } 61... Rb2+ { WhiteValue=+92 } 62. Kf3 { WhiteValue=+100 } 62... Rb1 { WhiteValue=+98 } 63. Bd5 { WhiteValue=+96 } 63... Re1 { WhiteValue=+98 } 64. Kf2 { WhiteValue=+103 } 64... Rd1 { WhiteValue=+92 } 65. Re8 { WhiteValue=+90 } 65... Bf8 { WhiteValue=+87 } 66. Bc4 { WhiteValue=+82 } 66... Rb1 { WhiteValue=+82 } 67. g4 { WhiteValue=+82 } 67... hxg4 { WhiteValue=-0 } 68. h5 { WhiteValue=-0 } 68... Rh1 { WhiteValue=-0 } 69. hxg6 { WhiteValue=+137 } 69... fxg6 { WhiteValue=+136 } 70. Re6 { WhiteValue=+136 } 70... Kh6 { WhiteValue=+139 } 71. Bd5 { WhiteValue=+141 } 71... Rh2+ { WhiteValue=+158 } 72. Kg3 { WhiteValue=+294 } 72... Rh3+ { WhiteValue=+310 } 73. Kxg4 { WhiteValue=+333 } 73... Rxd3 { WhiteValue=+344 } 74. f5 { WhiteValue=+371 } 74... Re3 { WhiteValue=+270 } 75. Rxg6+ { WhiteValue=+291 } 75... Kh7 { WhiteValue=+291 } 76. Bg8+ { WhiteValue=+286 } 76... Kh8 { WhiteValue=+326 } 77. Kf4 { WhiteValue=+329 } 77... Rc3 { WhiteValue=+312 } 78. f6 { WhiteValue=+340 } 78... d3 { WhiteValue=+335 } 79. Ke3 { WhiteValue=+318 } 79... c4 { WhiteValue=+398 } 80. Be6 { WhiteValue=+423 } 80... Kh7 { WhiteValue=+431 } 81. Bf5 { WhiteValue=+444 } 81... Rc2 { WhiteValue=+471 } 82. Rg2+ { WhiteValue=+557 } 82... Kh6 { WhiteValue=+569 } 83. Rxc2 { WhiteValue=+673 } 83... dxc2 { WhiteValue=+703 } 84. Bxc2 { WhiteValue=+754 } 84... Kg5 { WhiteValue=+806 } 85. Kd4 { WhiteValue=+879 } 85... Ba3 { WhiteValue=+3452 } 86. Kxc4 { WhiteValue=+3452 } 86... Bb2 { WhiteValue=+3452 } 87. Kd5 { WhiteValue=+3452 } 87... Kf4 { WhiteValue=+3452 } 88. f7 { WhiteValue=+3420 } 88... Ba3 { WhiteValue=+3563 } 89. e6 { WhiteValue=+3571 } 89... Kg5 { WhiteValue=+3576 } 90. Kc6 { WhiteValue=+3547 } 90... Kf6 { WhiteValue=+3581 } 91. Kd7 { WhiteValue=+3581 } 91... Kg7 { WhiteValue=+3576 } 92. e7 { WhiteValue=+3576 } 1-0
+
+
+[Event "Karpov - Kasparov World Championship Match"]
+[Site "Moscow URS"]
+[Date "1985.10.15"]
+[Round "16"]
+[White "Anatoly Karpov"]
+[Black "Garry Kasparov"]
+[Result "0-1"]
+[WhiteElo "https://en.wikipedia.org/wiki/World_Chess_Championship_1985"]
+[BlackElo "https://en.wikipedia.org/wiki/World_Chess_Championship_1985"]
+[ECO "B44"]
+[EventDate "?"]
+[PlyCount "80"]
+[Evaluating-engine "stockfish_16"]
+[Evaluating-path "/var/chess-engines/stockfish_16"]
+[Evaluation-Scores "36,30,39,50,43,56,46,52,55,31,22,13,17,17,17,15,40,32,34,45,49,23,35,9,15,24,32,11,46,0,3,42,28,164,123,146,132,138,156,155,152,142,161,182,191,186,123,250,250,244,271,273,278,313,272,278,263,242,282,346,368,413,481,450,482,484,474,481,489,508,545,549,557,543,559,559,559,559,559,559"]
+
+1. e4 { WhiteValue=+36 } 1... c5 { WhiteValue=+30 } 2. Nf3 { WhiteValue=+39 } 2... e6 { WhiteValue=+50 } 3. d4 { WhiteValue=+43 } 3... cxd4 { WhiteValue=+56 } 4. Nxd4 { WhiteValue=+46 } 4... Nc6 { WhiteValue=+52 } 5. Nb5 { WhiteValue=+55 } 5... d6 { WhiteValue=+31 } 6. c4 { WhiteValue=+22 } 6... Nf6 { WhiteValue=+13 } 7. N1c3 { WhiteValue=+17 } 7... a6 { WhiteValue=+17 } 8. Na3 { WhiteValue=+17 } 8... d5 { WhiteValue=+15 } 9. cxd5 { WhiteValue=+40 } 9... exd5 { WhiteValue=+32 } 10. exd5 { WhiteValue=+34 } 10... Nb4 { WhiteValue=+45 } 11. Be2 { WhiteValue=+49 } 11... Bc5 { WhiteValue=+23 } 12. O-O { WhiteValue=+35 } 12... O-O { WhiteValue=+9 } 13. Bf3 { WhiteValue=+15 } 13... Bf5 { WhiteValue=+24 } 14. Bg5 { WhiteValue=+32 } 14... Re8 { WhiteValue=+11 } 15. Qd2 { WhiteValue=+46 } 15... b5 { WhiteValue=-0 } 16. Rad1 { WhiteValue=+3 } 16... Nd3 { WhiteValue=+42 } 17. Nab1 { WhiteValue=+28 } 17... h6 { WhiteValue=+164 } 18. Bh4 { WhiteValue=+123 } 18... b4 { WhiteValue=+146 } 19. Na4 { WhiteValue=+132 } 19... Bd6 { WhiteValue=+138 } 20. Bg3 { WhiteValue=+156 } 20... Rc8 { WhiteValue=+155 } 21. b3 { WhiteValue=+152 } 21... g5 { WhiteValue=+142 } 22. Bxd6 { WhiteValue=+161 } 22... Qxd6 { WhiteValue=+182 } 23. g3 { WhiteValue=+191 } 23... Nd7 { WhiteValue=+186 } 24. Bg2 { WhiteValue=+123 } 24... Qf6 { WhiteValue=+250 } 25. a3 { WhiteValue=+250 } 25... a5 { WhiteValue=+244 } 26. axb4 { WhiteValue=+271 } 26... axb4 { WhiteValue=+273 } 27. Qa2 { WhiteValue=+278 } 27... Bg6 { WhiteValue=+313 } 28. d6 { WhiteValue=+272 } 28... g4 { WhiteValue=+278 } 29. Qd2 { WhiteValue=+263 } 29... Kg7 { WhiteValue=+242 } 30. f3 { WhiteValue=+282 } 30... Qxd6 { WhiteValue=+346 } 31. fxg4 { WhiteValue=+368 } 31... Qd4+ { WhiteValue=+413 } 32. Kh1 { WhiteValue=+481 } 32... Nf6 { WhiteValue=+450 } 33. Rf4 { WhiteValue=+482 } 33... Ne4 { WhiteValue=+484 } 34. Qxd3 { WhiteValue=+474 } 34... Nf2+ { WhiteValue=+481 } 35. Rxf2 { WhiteValue=+489 } 35... Bxd3 { WhiteValue=+508 } 36. Rfd2 { WhiteValue=+545 } 36... Qe3 { WhiteValue=+549 } 37. Rxd3 { WhiteValue=+557 } 37... Rc1 { WhiteValue=+543 } 38. Nb2 { WhiteValue=+559 } 38... Qf2 { WhiteValue=+559 } 39. Nd2 { WhiteValue=+559 } 39... Rxd1+ { WhiteValue=+559 } 40. Nxd1 { WhiteValue=+559 } 40... Re1+ { WhiteValue=+559 } 0-1
+
+
+[Event "Paris"]
+[Site "Paris FRA"]
+[Date "1858.11.??"]
+[Round "?"]
+[White "Paul Morphy"]
+[Black "Duke Karl & Count Isouard"]
+[Result "1-0"]
+[WhiteElo "http://www.chessmetrics.com/cm/CM2/PlayerProfile.asp?Params=199510SSSSS3S088959000000131100290200019610100"]
+[BlackElo "?"]
+[ECO "C41"]
+[EventDate "?"]
+[PlyCount "33"]
+[Evaluating-engine "stockfish_16"]
+[Evaluating-path "/var/chess-engines/stockfish_16"]
+[Evaluation-Scores "35,35,37,28,67,63,103,78,135,127,149,145,238,233,244,201,208,203,341,343,551,562,556,582,578,587,606,610,711,697,697,697,697"]
+
+1. e4 { WhiteValue=+35 } 1... e5 { WhiteValue=+35 } 2. Nf3 { WhiteValue=+37 } 2... d6 { WhiteValue=+28 } 3. d4 { WhiteValue=+67 } 3... Bg4 { WhiteValue=+63 } 4. dxe5 { WhiteValue=+103 } 4... Bxf3 { WhiteValue=+78 } 5. Qxf3 { WhiteValue=+135 } 5... dxe5 { WhiteValue=+127 } 6. Bc4 { WhiteValue=+149 } 6... Nf6 { WhiteValue=+145 } 7. Qb3 { WhiteValue=+238 } 7... Qe7 { WhiteValue=+233 } 8. Nc3 { WhiteValue=+244 } 8... c6 { WhiteValue=+201 } 9. Bg5 { WhiteValue=+208 } 9... b5 { WhiteValue=+203 } 10. Nxb5 { WhiteValue=+341 } 10... cxb5 { WhiteValue=+343 } 11. Bxb5+ { WhiteValue=+551 } 11... Nbd7 { WhiteValue=+562 } 12. O-O-O { WhiteValue=+556 } 12... Rd8 { WhiteValue=+582 } 13. Rxd7 { WhiteValue=+578 } 13... Rxd7 { WhiteValue=+587 } 14. Rd1 { WhiteValue=+606 } 14... Qe6 { WhiteValue=+610 } 15. Bxd7+ { WhiteValue=+711 } 15... Nxd7 { WhiteValue=+697 } 16. Qb8+ { WhiteValue=+697 } 16... Nxb8 { WhiteValue=+697 } 17. Rd8# { WhiteValue=+697 } 1-0
+
+
