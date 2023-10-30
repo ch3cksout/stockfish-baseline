@@ -16,7 +16,7 @@ from tenacity import (
     wait_random_exponential,
 )  # for exponential backoff
 
-with open("gpt_inputs/api_key.txt", "r") as f:
+with open("/var/chess/OPENAI-api_key.txt", "r") as f:
     openai.api_key = f.read().strip()
 
 # system message is used in openai_request()

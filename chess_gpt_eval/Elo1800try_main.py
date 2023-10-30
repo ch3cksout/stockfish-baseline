@@ -355,7 +355,7 @@ if __name__ == "__main__":
     with open("/var/chess/OPENAI-api_key.txt", "r") as f:
         openai.api_key = f.read().strip()
 
-    for i in range(1):
+    for i in range(2):
         num_games = 15
         player_one = GPTPlayer(model="gpt-3.5-turbo-instruct")
         # player_one = GPTPlayer(model="gpt-4")
