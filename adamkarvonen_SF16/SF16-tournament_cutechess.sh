@@ -4,7 +4,8 @@
 #https://disservin.github.io/stockfish-docs/pages-fishtest/Build-cutechess-with-Qt5-static.html
 # engine binary downloaded from <https://ipmanchess.yolasite.com/compiles.php>
 
-# match against Stockfish engine, as setup per Adam Karvonen's chess_gpt_eval code
+# matches amongs Stockfish engines, as setup per Adam Karvonen's chess_gpt_eval code
+# actual UCI_Elo governed setups are included for true calibration
 # <https://github.com/adamkarvonen/chess_gpt_eval>
 # ch3cksout@skiff.com: localhost, running Stockfish ver.16: stockfish-ubuntu-x86-64-avx2 
 
