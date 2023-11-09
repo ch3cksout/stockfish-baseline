@@ -1,0 +1,575 @@
+[Event "Stockfish Elo baseline testing: various time controls"]
+[Site "ch3cksout@skiff.com: localhost"]
+[Date "2023.10.18"]
+[Round "1"]
+[White "stockfish_16-SL4_acherm_handicapped_100ms"]
+[Black "Threads10_stockfish_15.1_Elo1785_40_60,000+600ms"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "rnbq1rk1/1p1nppbp/2pp2p1/p7/2PP1B2/2N1PN2/PP2BPPP/R2Q1RK1 w - - 0 1"]
+[Termination "time forfeit"]
+[PlyCount "6"]
+[GameDuration "00:00:15"]
+[GameEndTime "2023-10-18T20:28:17.989 CEST"]
+[GameStartTime "2023-10-18T20:28:02.571 CEST"]
+[BlackTimeControl "40/60+0.6"]
+[WhiteTimeControl "1/0.1+0.1"]
+
+1. h3 { +0.87/9 0.17s } 1... e5 { -0.94/24 11s } 2. Bg5 { +0.79/9 0.17s }
+2... Nf6 { -0.64/15 0.67s } 3. dxe5 { +1.32/10 0.21s } 3... dxe5 { -0.93/18
+3.0s, White loses on time } 0-1
+
+[Event "Stockfish Elo baseline testing: various time controls"]
+[Site "ch3cksout@skiff.com: localhost"]
+[Date "2023.10.18"]
+[Round "1"]
+[White "Threads10_stockfish_15.1_Elo1785_40_60,000+600ms"]
+[Black "stockfish_16-SL4_acherm_handicapped_100ms"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "rnbq1rk1/1p1nppbp/2pp2p1/p7/2PP1B2/2N1PN2/PP2BPPP/R2Q1RK1 w - - 0 1"]
+[Termination "time forfeit"]
+[PlyCount "33"]
+[GameDuration "00:01:04"]
+[GameEndTime "2023-10-18T20:29:22.330 CEST"]
+[GameStartTime "2023-10-18T20:28:18.220 CEST"]
+[BlackTimeControl "1/0.1+0.1"]
+[WhiteTimeControl "40/60+0.6"]
+
+1. h3 { +1.02/24 11s } 1... e5 { -0.80/9 0.14s } 2. Bg3 { +0.96/25 6.8s }
+2... Qe8 { -0.79/12 0.20s } 3. Qc2 { +1.29/20 4.1s } 3... Kh8 { -1.08/13
+0.18s } 4. Rad1 { +1.40/18 2.9s } 4... Na6 { -1.06/13 0.20s } 5. a3 {
++1.50/17 1.6s } 5... f5 { -1.17/13 0.10s } 6. c5 { +1.31/22 5.4s } 6... e4
+{ -1.14/16 0.28s } 7. Nd2 { +1.20/20 4.3s } 7... dxc5 { -1.14/16 0.22s } 8.
+d5 { +1.27/18 1.9s } 8... Ne5 { -1.50/15 0.20s } 9. dxc6 { +1.39/19 2.4s }
+9... Qe6 { -1.61/14 0.20s } 10. f3 { +2.48/18 2.7s } 10... exf3 { -1.79/14
+0.20s } 11. Nxf3 { +1.69/18 2.4s } 11... Nxf3+ { -1.87/14 0.20s } 12. Bxf3
+{ +2.02/18 2.5s } 12... bxc6 { -2.37/15 0.20s } 13. Bd6 { +1.98/18 3.2s }
+13... Rf7 { -2.17/13 0.20s } 14. Rfe1 { +2.13/19 2.7s } 14... Bd7 {
+-1.75/14 0.20s } 15. Bh2 { +1.81/17 2.9s } 15... Be5 { -1.37/13 0.20s } 16.
+Na4 { +1.47/16 1.7s } 16... Bxh2+ { -1.03/13 0.20s } 17. Kxh2 { +0.68/16
+2.1s, Black loses on time } 1-0
+
+[Event "Stockfish Elo baseline testing: various time controls"]
+[Site "ch3cksout@skiff.com: localhost"]
+[Date "2023.10.18"]
+[Round "2"]
+[White "stockfish_16-SL4_acherm_handicapped_20ms"]
+[Black "Threads10_stockfish_15.1_Elo1785_40_60,000+600ms"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "r2qk1nr/pp1n1pbp/2pp2p1/4p3/2PPP3/2N1BB2/PP3PPP/R2QK2R w KQkq - 0 1"]
+[Termination "time forfeit"]
+[PlyCount "0"]
+[GameDuration "00:00:00"]
+[GameEndTime "2023-10-18T20:47:37.714 CEST"]
+[GameStartTime "2023-10-18T20:47:37.490 CEST"]
+[BlackTimeControl "40/60+0.6"]
+[WhiteTimeControl "1/0.02+0.02"]
+
+{ White loses on time }
+
+0-1
+
+[Event "Stockfish Elo baseline testing: various time controls"]
+[Site "ch3cksout@skiff.com: localhost"]
+[Date "2023.10.18"]
+[Round "3"]
+[White "stockfish_16-SL4_acherm_handicapped_20ms"]
+[Black "stockfish_16-SL4_UNhandicapped_40_4min"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "r2q1rk1/pppnppbp/3p1np1/8/2PP4/2N1BP2/PP2BPPP/R2Q1RK1 w - - 0 1"]
+[Termination "time forfeit"]
+[PlyCount "0"]
+[GameDuration "00:00:00"]
+[GameEndTime "2023-10-18T21:01:37.330 CEST"]
+[GameStartTime "2023-10-18T21:01:36.381 CEST"]
+[BlackTimeControl "40/240"]
+[WhiteTimeControl "1/0.02+0.02"]
+
+{ White loses on time }
+
+0-1
+
+[Event "Stockfish Elo baseline testing: various time controls"]
+[Site "ch3cksout@skiff.com: localhost"]
+[Date "2023.10.18"]
+[Round "3"]
+[White "stockfish_16-SL4_UNhandicapped_40_4min"]
+[Black "stockfish_16-SL4_acherm_handicapped_20ms"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r2q1rk1/pppnppbp/3p1np1/8/2PP4/2N1BP2/PP2BPPP/R2Q1RK1 w - - 0 1"]
+[Termination "time forfeit"]
+[PlyCount "1"]
+[GameDuration "00:00:07"]
+[GameEndTime "2023-10-18T21:01:44.829 CEST"]
+[GameStartTime "2023-10-18T21:01:37.518 CEST"]
+[BlackTimeControl "1/0.02+0.02"]
+[WhiteTimeControl "40/240"]
+
+1. g3 { +0.92/23 7.1s, Black loses on time } 1-0
+
+[Event "Stockfish Elo baseline testing: various time controls"]
+[Site "ch3cksout@skiff.com: localhost"]
+[Date "2023.10.18"]
+[Round "2"]
+[White "stockfish_16-SL4_acherm_handicapped_20ms"]
+[Black "Threads10_stockfish_15.1_Elo1785_40_60,000+600ms"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "r2qk1nr/p3ppbp/6p1/2pp4/3P2b1/2P2N2/PP3PPP/RNBQ1RK1 w kq - 0 1"]
+[Termination "time forfeit"]
+[PlyCount "0"]
+[GameDuration "00:00:00"]
+[GameEndTime "2023-10-18T22:13:29.068 CEST"]
+[GameStartTime "2023-10-18T22:13:28.987 CEST"]
+[BlackTimeControl "40/60+0.6"]
+[WhiteTimeControl "1/0.02+0.02"]
+
+{ White loses on time }
+
+0-1
+
+[Event "Stockfish Elo baseline testing: various time controls"]
+[Site "ch3cksout@skiff.com: localhost"]
+[Date "2023.10.18"]
+[Round "3"]
+[White "stockfish_16-SL4_acherm_handicapped_20ms"]
+[Black "stockfish_16-SL4_UNhandicapped_40_4min"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "r2qk2r/pp1nppbp/2pp2pn/4P3/3P1P2/2PB1Q2/PP4PP/RNB1K2R w KQkq - 0 1"]
+[Termination "time forfeit"]
+[PlyCount "0"]
+[GameDuration "00:00:00"]
+[GameEndTime "2023-10-18T22:20:11.868 CEST"]
+[GameStartTime "2023-10-18T22:20:11.745 CEST"]
+[BlackTimeControl "40/240"]
+[WhiteTimeControl "1/0.02+0.02"]
+
+{ White loses on time }
+
+0-1
+
+[Event "Stockfish Elo baseline testing: various time controls"]
+[Site "ch3cksout@skiff.com: localhost"]
+[Date "2023.10.19"]
+[Round "3"]
+[White "stockfish_16-SL4_acherm_handicapped_20ms"]
+[Black "stockfish_16-SL4_UNhandicapped_40_4min"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "rn1qkb1r/4pp1p/p1p2np1/3pPb2/1pPP4/1PN2N2/P1Q2PPP/R1B1KB1R w KQkq - 0 1"]
+[Termination "time forfeit"]
+[PlyCount "0"]
+[GameDuration "00:00:00"]
+[GameEndTime "2023-10-19T07:17:30.797 CEST"]
+[GameStartTime "2023-10-19T07:17:30.711 CEST"]
+[BlackTimeControl "40/240"]
+[WhiteTimeControl "1/0.02+0.02"]
+
+{ White loses on time }
+
+0-1
+
+[Event "Stockfish Elo baseline testing: various time controls"]
+[Site "ch3cksout@skiff.com: localhost"]
+[Date "2023.10.19"]
+[Round "7"]
+[White "stockfish_16-SL4_acherm_handicapped_20ms"]
+[Black "Threads10_stockfish_15.1_Elo1785_40_60,000+600ms"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "r1bqk1nr/pp2pp1p/3p2p1/3pb3/2P1P3/2NB4/PP3PPP/R1BQK2R w KQkq - 0 1"]
+[Termination "time forfeit"]
+[PlyCount "0"]
+[GameDuration "00:00:00"]
+[GameEndTime "2023-10-19T08:33:50.206 CEST"]
+[GameStartTime "2023-10-19T08:33:50.126 CEST"]
+[BlackTimeControl "40/60+0.6"]
+[WhiteTimeControl "1/0.02+0.02"]
+
+{ White loses on time }
+
+0-1
+
+[Event "Stockfish Elo baseline testing: various time controls"]
+[Site "ch3cksout@skiff.com: localhost"]
+[Date "2023.10.19"]
+[Round "8"]
+[White "stockfish_16-SL4_acherm_handicapped_20ms"]
+[Black "stockfish_16-SL4_UNhandicapped_40_4min"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "1r1qk1nr/pp1nppbp/2pp2p1/8/3PP3/1QP1BB2/PP3PPP/RN2K2R w KQk - 0 1"]
+[Termination "time forfeit"]
+[PlyCount "0"]
+[GameDuration "00:00:00"]
+[GameEndTime "2023-10-19T08:54:33.545 CEST"]
+[GameStartTime "2023-10-19T08:54:33.439 CEST"]
+[BlackTimeControl "40/240"]
+[WhiteTimeControl "1/0.02+0.02"]
+
+{ White loses on time }
+
+0-1
+
+[Event "Stockfish Elo baseline testing: various time controls"]
+[Site "ch3cksout@skiff.com: localhost"]
+[Date "2023.10.19"]
+[Round "12"]
+[White "stockfish_16-SL4_acherm_handicapped_20ms"]
+[Black "Threads10_stockfish_15.1_Elo1785_40_60,000+600ms"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "r1b1k2r/ppqnppbp/2p3p1/3n4/3P4/5NP1/PPP1BP1P/RNBQ1RK1 w kq - 0 1"]
+[Termination "time forfeit"]
+[PlyCount "0"]
+[GameDuration "00:00:00"]
+[GameEndTime "2023-10-19T09:46:46.590 CEST"]
+[GameStartTime "2023-10-19T09:46:46.497 CEST"]
+[BlackTimeControl "40/60+0.6"]
+[WhiteTimeControl "1/0.02+0.02"]
+
+{ White loses on time }
+
+0-1
+
+[Event "Stockfish Elo baseline testing: various time controls"]
+[Site "ch3cksout@skiff.com: localhost"]
+[Date "2023.10.19"]
+[Round "17"]
+[White "stockfish_16-SL4_acherm_handicapped_20ms"]
+[Black "Threads10_stockfish_15.1_Elo1785_40_60,000+600ms"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "r2q1rk1/1pp2ppp/p1n2n2/2bpp1B1/B3P1b1/2NP1N2/PPP2PPP/R2Q1RK1 w - - 0 1"]
+[Termination "time forfeit"]
+[PlyCount "0"]
+[GameDuration "00:00:00"]
+[GameEndTime "2023-10-19T11:27:20.185 CEST"]
+[GameStartTime "2023-10-19T11:27:20.107 CEST"]
+[BlackTimeControl "40/60+0.6"]
+[WhiteTimeControl "1/0.02+0.02"]
+
+{ White loses on time }
+
+0-1
+
+[Event "Stockfish Elo baseline testing: various time controls"]
+[Site "ch3cksout@skiff.com: localhost"]
+[Date "2023.10.19"]
+[Round "22"]
+[White "stockfish_16-SL4_acherm_handicapped_20ms"]
+[Black "Threads10_stockfish_15.1_Elo1785_40_60,000+600ms"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "r2qkb1r/2p2ppp/p1n1pn2/3p4/Pp1P1Bb1/1QP1PN2/1P1N1PPP/R3KB1R w KQkq - 0 1"]
+[Termination "time forfeit"]
+[PlyCount "0"]
+[GameDuration "00:00:00"]
+[GameEndTime "2023-10-19T12:50:29.562 CEST"]
+[GameStartTime "2023-10-19T12:50:29.465 CEST"]
+[BlackTimeControl "40/60+0.6"]
+[WhiteTimeControl "1/0.02+0.02"]
+
+{ White loses on time }
+
+0-1
+
+[Event "Stockfish Elo baseline testing: various time controls"]
+[Site "ch3cksout@skiff.com: localhost"]
+[Date "2023.10.19"]
+[Round "23"]
+[White "stockfish_16-SL4_acherm_handicapped_20ms"]
+[Black "stockfish_16-SL4_UNhandicapped_40_4min"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "rnbqk2r/pp2b1pp/1n1pp3/5p2/2PP1P2/2N2N2/PP4PP/R1BQKB1R w KQkq - 0 1"]
+[Termination "time forfeit"]
+[PlyCount "0"]
+[GameDuration "00:00:00"]
+[GameEndTime "2023-10-19T12:59:43.529 CEST"]
+[GameStartTime "2023-10-19T12:59:43.433 CEST"]
+[BlackTimeControl "40/240"]
+[WhiteTimeControl "1/0.02+0.02"]
+
+{ White loses on time }
+
+0-1
+
+[Event "Stockfish Elo baseline testing: various time controls"]
+[Site "ch3cksout@skiff.com: localhost"]
+[Date "2023.10.19"]
+[Round "27"]
+[White "stockfish_16-SL4_acherm_handicapped_20ms"]
+[Black "Threads10_stockfish_15.1_Elo1785_40_60,000+600ms"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "r2qkbnr/ppp2ppp/2n5/4p3/4P3/2PQ3P/PP3PP1/RNB1KB1R w KQkq - 0 1"]
+[Termination "time forfeit"]
+[PlyCount "0"]
+[GameDuration "00:00:00"]
+[GameEndTime "2023-10-19T14:10:52.404 CEST"]
+[GameStartTime "2023-10-19T14:10:52.326 CEST"]
+[BlackTimeControl "40/60+0.6"]
+[WhiteTimeControl "1/0.02+0.02"]
+
+{ White loses on time }
+
+0-1
+
+[Event "Stockfish Elo baseline testing: various time controls"]
+[Site "ch3cksout@skiff.com: localhost"]
+[Date "2023.10.19"]
+[Round "32"]
+[White "stockfish_16-SL4_acherm_handicapped_20ms"]
+[Black "Threads10_stockfish_15.1_Elo1785_40_60,000+600ms"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "r2qk1nr/2pbbppp/p1pp4/8/B3P3/2N5/PPP2PPP/R1BQK2R w KQkq - 0 1"]
+[Termination "time forfeit"]
+[PlyCount "0"]
+[GameDuration "00:00:00"]
+[GameEndTime "2023-10-19T15:34:36.297 CEST"]
+[GameStartTime "2023-10-19T15:34:36.198 CEST"]
+[BlackTimeControl "40/60+0.6"]
+[WhiteTimeControl "1/0.02+0.02"]
+
+{ White loses on time }
+
+0-1
+
+[Event "Stockfish Elo baseline testing: various time controls"]
+[Site "ch3cksout@skiff.com: localhost"]
+[Date "2023.10.19"]
+[Round "2"]
+[White "stockfish_16-SL4_acherm_handicapped_20ms"]
+[Black "Threads10_stockfish_15.1_Elo1785_40_60,000+600ms"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "rn1qk2r/pp3ppp/2p1pn2/8/1bBP1B2/4PN2/PP2KPPP/RQ5R w kq - 0 1"]
+[Termination "time forfeit"]
+[PlyCount "0"]
+[GameDuration "00:00:00"]
+[GameEndTime "2023-10-19T18:41:45.742 CEST"]
+[GameStartTime "2023-10-19T18:41:45.632 CEST"]
+[BlackTimeControl "40/60+0.6"]
+[WhiteTimeControl "1/0.02+0.02"]
+
+{ White loses on time }
+
+0-1
+
+[Event "Stockfish Elo baseline testing: various time controls"]
+[Site "ch3cksout@skiff.com: localhost"]
+[Date "2023.10.19"]
+[Round "3"]
+[White "stockfish_16-SL4_acherm_handicapped_20ms"]
+[Black "stockfish_16-SL4_UNhandicapped_4min+1sec"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "r1bqkb1r/2pn1ppp/p3pn2/8/p2P4/4PN2/1P2BPPP/RNBQ1RK1 w kq - 0 1"]
+[Termination "time forfeit"]
+[PlyCount "0"]
+[GameDuration "00:00:00"]
+[GameEndTime "2023-10-19T18:59:58.916 CEST"]
+[GameStartTime "2023-10-19T18:59:58.825 CEST"]
+[BlackTimeControl "120+1"]
+[WhiteTimeControl "1/0.02+0.02"]
+
+{ White loses on time }
+
+0-1
+
+[Event "Stockfish Elo baseline testing: various time controls"]
+[Site "ch3cksout@skiff.com: localhost"]
+[Date "2023.10.19"]
+[Round "12"]
+[White "stockfish_16-SL4_acherm_handicapped_20ms"]
+[Black "Threads10_stockfish_15.1_Elo1785_40_60,000+600ms"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "rnbqkbnr/5ppp/p7/3p4/1ppP4/6P1/PPP1NPBP/R1BQK1NR w KQkq - 0 1"]
+[Termination "time forfeit"]
+[PlyCount "0"]
+[GameDuration "00:00:00"]
+[GameEndTime "2023-10-19T21:05:29.468 CEST"]
+[GameStartTime "2023-10-19T21:05:29.374 CEST"]
+[BlackTimeControl "40/60+0.6"]
+[WhiteTimeControl "1/0.02+0.02"]
+
+{ White loses on time }
+
+0-1
+
+[Event "Stockfish Elo baseline testing: various time controls"]
+[Site "ch3cksout@skiff.com: localhost"]
+[Date "2023.10.19"]
+[Round "13"]
+[White "stockfish_16-SL4_acherm_handicapped_20ms"]
+[Black "stockfish_16-SL4_UNhandicapped_4min+1sec"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "rnbq1rk1/ppp2ppp/8/2npP3/8/8/PPP1BPPP/RNBQ1RK1 w - - 0 1"]
+[Termination "time forfeit"]
+[PlyCount "0"]
+[GameDuration "00:00:00"]
+[GameEndTime "2023-10-19T21:30:09.916 CEST"]
+[GameStartTime "2023-10-19T21:30:09.837 CEST"]
+[BlackTimeControl "120+1"]
+[WhiteTimeControl "1/0.02+0.02"]
+
+{ White loses on time }
+
+0-1
+
+[Event "Stockfish Elo baseline testing: various time controls"]
+[Site "ch3cksout@skiff.com: localhost"]
+[Date "2023.10.19"]
+[Round "18"]
+[White "stockfish_16-SL4_acherm_handicapped_20ms"]
+[Black "stockfish_16-SL4_UNhandicapped_4min+1sec"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "r1bqk2r/pp1nnpbp/4p1p1/2ppP3/2PP1P2/2NB1N2/PP4PP/R1BQK2R w KQkq - 0 1"]
+[Termination "time forfeit"]
+[PlyCount "0"]
+[GameDuration "00:00:00"]
+[GameEndTime "2023-10-19T22:36:22.288 CEST"]
+[GameStartTime "2023-10-19T22:36:22.201 CEST"]
+[BlackTimeControl "120+1"]
+[WhiteTimeControl "1/0.02+0.02"]
+
+{ White loses on time }
+
+0-1
+
+[Event "Stockfish Elo baseline testing: various time controls"]
+[Site "ch3cksout@skiff.com: localhost"]
+[Date "2023.10.19"]
+[Round "22"]
+[White "stockfish_16-SL4_acherm_handicapped_20ms"]
+[Black "Threads10_stockfish_15.1_Elo1785_40_60,000+600ms"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "rnbq1rk1/p1ppb1pp/1p2p3/8/4P1n1/1P1B1N2/PBPN1PPP/R2QK2R w KQ - 0 1"]
+[Termination "time forfeit"]
+[PlyCount "0"]
+[GameDuration "00:00:00"]
+[GameEndTime "2023-10-19T23:40:02.592 CEST"]
+[GameStartTime "2023-10-19T23:40:02.512 CEST"]
+[BlackTimeControl "40/60+0.6"]
+[WhiteTimeControl "1/0.02+0.02"]
+
+{ White loses on time }
+
+0-1
+
+[Event "Stockfish Elo baseline testing: various time controls"]
+[Site "ch3cksout@skiff.com: localhost"]
+[Date "2023.10.19"]
+[Round "23"]
+[White "stockfish_16-SL4_acherm_handicapped_20ms"]
+[Black "stockfish_16-SL4_UNhandicapped_4min+1sec"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "r1bqk2r/pp3ppp/1n1bpn2/3p4/2pP1P2/2P1PN2/PPB3PP/RNBQ1RK1 w kq - 0 1"]
+[Termination "time forfeit"]
+[PlyCount "0"]
+[GameDuration "00:00:00"]
+[GameEndTime "2023-10-19T23:52:37.727 CEST"]
+[GameStartTime "2023-10-19T23:52:37.638 CEST"]
+[BlackTimeControl "120+1"]
+[WhiteTimeControl "1/0.02+0.02"]
+
+{ White loses on time }
+
+0-1
+
+[Event "Stockfish Elo baseline testing: various time controls"]
+[Site "ch3cksout@skiff.com: localhost"]
+[Date "2023.10.20"]
+[Round "28"]
+[White "stockfish_16-SL4_acherm_handicapped_20ms"]
+[Black "stockfish_16-SL4_UNhandicapped_4min+1sec"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "rnbq1rk1/pppp2bp/5pp1/5p2/2PP4/4PN2/PP3PPP/RN1QKB1R w KQ - 0 1"]
+[Termination "time forfeit"]
+[PlyCount "0"]
+[GameDuration "00:00:00"]
+[GameEndTime "2023-10-20T01:09:09.952 CEST"]
+[GameStartTime "2023-10-20T01:09:09.863 CEST"]
+[BlackTimeControl "120+1"]
+[WhiteTimeControl "1/0.02+0.02"]
+
+{ White loses on time }
+
+0-1
+
+[Event "Stockfish Elo baseline testing: various time controls"]
+[Site "ch3cksout@skiff.com: localhost"]
+[Date "2023.10.20"]
+[Round "33"]
+[White "stockfish_16-SL4_acherm_handicapped_20ms"]
+[Black "stockfish_16-SL4_UNhandicapped_4min+1sec"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "r1b1kb1r/1pq2ppp/p2p1n2/n1p1p3/3PP3/1PP2N2/PB2BPPP/RN1QK2R w KQkq - 0 1"]
+[Termination "time forfeit"]
+[PlyCount "0"]
+[GameDuration "00:00:00"]
+[GameEndTime "2023-10-20T02:18:36.294 CEST"]
+[GameStartTime "2023-10-20T02:18:36.203 CEST"]
+[BlackTimeControl "120+1"]
+[WhiteTimeControl "1/0.02+0.02"]
+
+{ White loses on time }
+
+0-1
+
+[Event "Stockfish Elo baseline testing: various time controls"]
+[Site "ch3cksout@skiff.com: localhost"]
+[Date "2023.10.20"]
+[Round "37"]
+[White "stockfish_16-SL4_acherm_handicapped_20ms"]
+[Black "Threads10_stockfish_15.1_Elo1785_40_60,000+600ms"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "rnb1nrk1/ppq1ppbp/2pp2p1/4P3/3P4/2N2N2/PPP1BPPP/R1BQR1K1 w - - 0 1"]
+[Termination "time forfeit"]
+[PlyCount "0"]
+[GameDuration "00:00:00"]
+[GameEndTime "2023-10-20T03:12:35.517 CEST"]
+[GameStartTime "2023-10-20T03:12:35.428 CEST"]
+[BlackTimeControl "40/60+0.6"]
+[WhiteTimeControl "1/0.02+0.02"]
+
+{ White loses on time }
+
+0-1
+
+[Event "Stockfish Elo baseline testing: various time controls"]
+[Site "ch3cksout@skiff.com: localhost"]
+[Date "2023.10.20"]
+[Round "38"]
+[White "stockfish_16-SL4_acherm_handicapped_20ms"]
+[Black "stockfish_16-SL4_UNhandicapped_4min+1sec"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "rnbq1rk1/pp3ppp/2p1pb2/8/2PP4/5N2/PPQ2PPP/R1B1KB1R w KQ - 0 1"]
+[Termination "time forfeit"]
+[PlyCount "0"]
+[GameDuration "00:00:00"]
+[GameEndTime "2023-10-20T03:28:18.175 CEST"]
+[GameStartTime "2023-10-20T03:28:18.097 CEST"]
+[BlackTimeControl "120+1"]
+[WhiteTimeControl "1/0.02+0.02"]
+
+{ White loses on time }
+
+0-1
+

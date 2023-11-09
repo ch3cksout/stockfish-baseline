@@ -1,0 +1,128 @@
+pgn-extract v19-04 (May  7 2019): a Portable Game Notation (PGN) manipulator.
+Copyright (C) 1994-2019 David J. Barnes (d.j.barnes@kent.ac.uk)
+https://www.cs.kent.ac.uk/people/staff/djb/pgn-extract/
+
+Usage: pgn-extract [arguments] [file.pgn ...]
+-7 -- output only the seven tag roster for each game. Other tags (apart
+      from FEN and possibly ECO) are discarded (See -e).
+-#num[,num] -- output num games per file, to files named 1.pgn, 2.pgn, etc.
+
+-aoutputfile -- append extracted games to outputfile. (See -o).
+-Aargsfile -- read the program's arguments from argsfile.
+-b[elu]num -- restricted bounds on the number of moves in a game.
+       lnum set a lower bound of 'num' moves,
+       unum set an upper bound of 'num' moves,
+       otherwise num (or enum) means equal-to 'num' moves.
+-cfile[.pgn] -- Use file.pgn as a check-file for duplicates or
+      contents of file (no pgn suffix) as a list of check-file names.
+-C -- don't include comments in the output. Ordinarily these are retained.
+-dduplicates -- write duplicate games to the file duplicates.
+-D -- don't output duplicate games.
+-eECO_file -- perform ECO classification of games. The optional
+      ECO_file should contain a PGN format list of ECO lines
+      Default is to use eco.pgn from the current directory.
+-E[123 etc.] -- split output into separate files according to ECO.
+      E1 : Produce files from ECO letter, A.pgn, B.pgn, ...
+      E2 : Produce files from ECO letter and first digit, A0.pgn, ...
+      E3 : Produce files from full ECO code, A00.pgn, A01.pgn, ...
+      Further digits may be used to produce non-standard further
+      refined division of games.
+      All files are opened in append mode.
+-F[text] -- output a FEN string comment after the final (or other selected) move.
+-ffile_list  -- file_list contains the list of PGN source files, one per line.
+-Hhash -- match games in which the given Zobrist polyglot hash value occurs
+-h -- print details of the arguments.
+-llogfile  -- Save the diagnostics in logfile rather than using stderr.
+-Llogfile  -- Append all diagnostics to logfile, rather than overwriting.
+-M -- Match only games which end in checkmate.
+-noutputfile -- Write all valid games not otherwise output to outputfile.
+-N -- don't include NAGs in the output. Ordinarily these are retained.
+-ooutputfile -- write extracted games to outputfile (existing contents lost).
+-p[elu]num -- restricted bounds on the number of ply in a game.
+       lnum set a lower bound of 'num' ply,
+       unum set an upper bound of 'num' ply,
+       otherwise num (or enum) means equal-to 'num' ply.
+-P -- don't match permutations of the textual variations (-v).
+-Rtagorder -- Use the tag ordering specified in the file tagorder.
+-r -- report any errors but don't extract.
+-S -- Use a simple soundex algorithm for some tag matches. If used
+      this option must precede the -t or -T options.
+-s -- silent mode: don't report each game as it is extracted.
+-ttagfile -- file of player, date, result or FEN extraction criteria.
+-Tcriterion -- player, date, eco code, hashcode, FEN position, annotator or result, extraction criteria.
+-U -- don't output games that only occur once. (See -d).
+-vvariations -- the file variations contains the textual lines of interest.
+-V -- don't include variations in the output. Ordinarily these are retained.
+-wwidth -- set width as an approximate line width for output.
+-W[cm|epd|halg|lalg|elalg|xlalg|xolalg|san] -- specify the output format to use.
+      Default is SAN.
+      -W means use the input format.
+      -Wcm is (a possibly obsolete) ChessMaster format.
+      -Wepd is EPD format.
+      -Wsan[PNBRQK] for language specific output.
+      -Whalg is hyphenated long algebraic.
+      -Wlalg is long algebraic.
+      -Welalg is enhanced long algebraic.
+      -Wxlalg is enhanced long algebraic with x for captures and - for non capture moves.
+      -Wxolalg is -Wxlalg but with O-O and O-O-O for castling.
+      -Wuci is output compatible with the UCI protocol.
+-xvariations -- the file variations contains the lines resulting in
+                positions of interest.
+-zendings -- the file endings contains the end positions of interest.
+-Z -- use the file virtual.tmp as an external hash table for duplicates.
+      Use when MallocOrDie messages occur with big datasets.
+
+--addhashcode - output a HashCode tag
+--addlabeltag - output a MatchLabel tag with FENPattern
+--addmatchtag - output a MaterialMatch tag with -z
+--allownullmoves - allow NULL moves in the main line
+--append - see -a
+--checkfile - see -c
+--checkmate - see -M
+--commentlines - output each comment on a separate line
+--dropbefore - drop opening ply before a matching comment string
+--dropply - drop the given number of ply from the beginning of the game
+--duplicates - see -d
+--evaluation - include a position evaluation after each move
+--fencomments - include a FEN string after each move
+--fifty - only output games that include fifty moves with no capture or pawn move.
+--fixresulttags - correct Result tags that conflict with the game outcome or terminating result.
+--fuzzydepth plies - positional duplicates match
+--hashcomments - include a hashcode string after each move
+--help - see -h
+--json - output the game in JSON format
+--keepbroken - retain games with errors
+--linelength - see -w
+--matchplylimit - maximum ply depth to search for positional matches
+--markmatches - mark positional and material matches with a comment; see -t, -v, and -z
+--nestedcomments - allow nested comments
+--nobadresults - reject games with inconsistent result indications.
+--nochecks - don't output + and # after moves.
+--nocomments - see -C
+--noduplicates - see -D
+--nofauxep - don't output ep squares in FEN when the capture is not possible
+--nomovenumbers - don't output move numbers.
+--nonags - see -N
+--noresults - don't output results.
+--nosetuptags - don't match games with a SetUp tag.
+--notags - don't output any tags.
+--nounique - see -U
+--novars - see -V
+--onlysetuptags - only match games with a SetUp tag.
+--output - see -o
+--plycount - include a PlyCount tag.
+--plylimit - limit the number of plies output.
+--quiescent N - position quiescence length (default 0)
+--quiet - No status processing output (see, also, -s).
+--repetition - only output games that include 3-fold repetition.
+--selectonly range[,range ...] - only output the selected matched game(s)
+--seven - see -7
+--skipmatching range[,range ...] - don't output the selected matched game(s)
+--splitvariants [depth] - output each variation (to the given depth) as a separate game.
+--stalemate - only output games that end in stalemate.
+--stopafter N - stop after matching N games (N > 0)
+--tagsubstr - match in any part of a tag (see -T and -t).
+--totalplycount - include a tag with the total number of plies in a game.
+--underpromotion - match only games that contain an underpromotion.
+--version - print the current version number and exit.
+--xroster - don't output tags not included with the -R option (see -R).

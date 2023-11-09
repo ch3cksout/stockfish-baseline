@@ -1,0 +1,1721 @@
+Indexing opening suite...
+Started game 1 of 192 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Started game 2 of 192 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min)
+Finished game 1 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min     inf     nan       1  100.0%    0.0% 
+   2 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min    -inf     nan       1    0.0%    0.0% 
+   3 Stockfish_Ver16_Skill=4_st=0.100sec     nan     nan       0    nan%    nan% 
+   4 Stockfish_Ver16_Skill=5_st=0.100sec     nan     nan       0    nan%    nan% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 3 of 192 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 3 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_Skill=4_st=0.100sec): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_Skill=5_st=0.100sec     inf     nan       1  100.0%    0.0% 
+   2 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min     inf     nan       1  100.0%    0.0% 
+   3 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min    -inf     nan       1    0.0%    0.0% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -inf     nan       1    0.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 4 of 192 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_Skill=5_st=0.100sec)
+Finished game 4 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_Skill=5_st=0.100sec): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_Skill=5_st=0.100sec     inf     nan       2  100.0%    0.0% 
+   2 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min     inf     nan       1  100.0%    0.0% 
+   3 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min    -inf     nan       1    0.0%    0.0% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -inf     nan       2    0.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 5 of 192 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 2 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_Skill=5_st=0.100sec     inf     nan       2  100.0%    0.0% 
+   2 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min       0     nan       2   50.0%    0.0% 
+   3 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min       0     nan       2   50.0%    0.0% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -inf     nan       2    0.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 6 of 192 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min)
+Finished game 5 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_Skill=5_st=0.100sec     inf     nan       2  100.0%    0.0% 
+   2 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min     120     nan       3   66.7%    0.0% 
+   3 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min       0     nan       2   50.0%    0.0% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -inf     nan       3    0.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 7 of 192 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=5_st=0.100sec)
+Finished game 7 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=5_st=0.100sec): 1-0 {Black loses on time}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     120     nan       3   66.7%    0.0% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec     120     nan       3   66.7%    0.0% 
+   3 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min     120     nan       3   66.7%    0.0% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -inf     nan       3    0.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 8 of 192 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 6 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min     191     nan       4   75.0%    0.0% 
+   2 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     120     nan       3   66.7%    0.0% 
+   3 Stockfish_Ver16_Skill=5_st=0.100sec     120     nan       3   66.7%    0.0% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -inf     nan       4    0.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 9 of 192 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_Skill=5_st=0.100sec)
+Finished game 8 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     191     nan       4   75.0%    0.0% 
+   2 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min     191     nan       4   75.0%    0.0% 
+   3 Stockfish_Ver16_Skill=5_st=0.100sec       0     786       4   50.0%    0.0% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -inf     nan       4    0.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 10 of 192 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min)
+Finished game 9 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_Skill=5_st=0.100sec): 1/2-1/2 {Draw by 3-fold repetition}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     191     nan       4   75.0%    0.0% 
+   2 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min     147     nan       5   70.0%   20.0% 
+   3 Stockfish_Ver16_Skill=5_st=0.100sec       0     366       5   50.0%   20.0% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -inf     nan       4    0.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 11 of 192 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 10 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     191     nan       4   75.0%    0.0% 
+   2 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min     191     nan       6   75.0%   16.7% 
+   3 Stockfish_Ver16_Skill=5_st=0.100sec     -58     350       6   41.7%   16.7% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -inf     nan       4    0.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 12 of 192 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 11 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     241     nan       5   80.0%    0.0% 
+   2 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min     191     nan       6   75.0%   16.7% 
+   3 Stockfish_Ver16_Skill=5_st=0.100sec     -58     350       6   41.7%   16.7% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -inf     nan       5    0.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 13 of 192 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 12 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     280     nan       6   83.3%    0.0% 
+   2 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min     191     nan       6   75.0%   16.7% 
+   3 Stockfish_Ver16_Skill=5_st=0.100sec     -58     350       6   41.7%   16.7% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -inf     nan       6    0.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 14 of 192 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min)
+Finished game 13 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min     226     nan       7   78.6%   14.3% 
+   2 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     159     nan       7   71.4%    0.0% 
+   3 Stockfish_Ver16_Skill=5_st=0.100sec     -58     350       6   41.7%   16.7% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -inf     nan       6    0.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 15 of 192 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 15 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_Skill=4_st=0.100sec): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min     226     nan       7   78.6%   14.3% 
+   2 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     159     nan       7   71.4%    0.0% 
+   3 Stockfish_Ver16_Skill=5_st=0.100sec       0     291       7   50.0%   14.3% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -inf     nan       7    0.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 16 of 192 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_Skill=5_st=0.100sec)
+Finished game 16 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_Skill=5_st=0.100sec): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min     226     nan       7   78.6%   14.3% 
+   2 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     159     nan       7   71.4%    0.0% 
+   3 Stockfish_Ver16_Skill=5_st=0.100sec      44     275       8   56.3%   12.5% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -inf     nan       8    0.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 17 of 192 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 17 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     159     nan       7   71.4%    0.0% 
+   2 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min     137     396       8   68.8%   12.5% 
+   3 Stockfish_Ver16_Skill=5_st=0.100sec      44     275       8   56.3%   12.5% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -361     nan       9   11.1%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 18 of 192 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min)
+Finished game 18 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     159     nan       7   71.4%    0.0% 
+   2 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      79     270       9   61.1%   11.1% 
+   3 Stockfish_Ver16_Skill=5_st=0.100sec      44     275       8   56.3%   12.5% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -241     nan      10   20.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 19 of 192 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=5_st=0.100sec)
+Finished game 14 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     191     nan       8   75.0%    0.0% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      44     275       8   56.3%   12.5% 
+   3 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      35     237      10   55.0%   10.0% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -241     nan      10   20.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 20 of 192 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 19 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=5_st=0.100sec): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     218     nan       9   77.8%    0.0% 
+   2 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      35     237      10   55.0%   10.0% 
+   3 Stockfish_Ver16_Skill=5_st=0.100sec       0     249       9   50.0%   11.1% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -241     nan      10   20.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 21 of 192 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_Skill=5_st=0.100sec)
+Finished game 21 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_Skill=5_st=0.100sec): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     218     nan       9   77.8%    0.0% 
+   2 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      64     230      11   59.1%    9.1% 
+   3 Stockfish_Ver16_Skill=5_st=0.100sec     -35     237      10   45.0%   10.0% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -241     nan      10   20.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 22 of 192 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min)
+Finished game 20 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 0-1 {White loses on time}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     241     nan      10   80.0%    0.0% 
+   2 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      64     230      11   59.1%    9.1% 
+   3 Stockfish_Ver16_Skill=5_st=0.100sec     -64     230      11   40.9%    9.1% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -241     nan      10   20.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 23 of 192 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 22 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     241     nan      10   80.0%    0.0% 
+   2 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      29     212      12   54.2%    8.3% 
+   3 Stockfish_Ver16_Skill=5_st=0.100sec     -29     212      12   45.8%    8.3% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -241     nan      10   20.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 24 of 192 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 23 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     261     nan      11   81.8%    0.0% 
+   2 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      29     212      12   54.2%    8.3% 
+   3 Stockfish_Ver16_Skill=5_st=0.100sec     -29     212      12   45.8%    8.3% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -261     nan      11   18.2%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 25 of 192 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 24 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     280     nan      12   83.3%    0.0% 
+   2 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      29     212      12   54.2%    8.3% 
+   3 Stockfish_Ver16_Skill=5_st=0.100sec     -29     212      12   45.8%    8.3% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -280     nan      12   16.7%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 26 of 192 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min)
+Finished game 26 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     296     nan      13   84.6%    0.0% 
+   2 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min       0     201      13   50.0%    7.7% 
+   3 Stockfish_Ver16_Skill=5_st=0.100sec     -29     212      12   45.8%    8.3% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -280     nan      12   16.7%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 27 of 192 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 27 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_Skill=4_st=0.100sec): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     296     nan      13   84.6%    0.0% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec       0     201      13   50.0%    7.7% 
+   3 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min       0     201      13   50.0%    7.7% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -296     nan      13   15.4%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 28 of 192 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_Skill=5_st=0.100sec)
+Finished game 28 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_Skill=5_st=0.100sec): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     296     nan      13   84.6%    0.0% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      25     194      14   53.6%    7.1% 
+   3 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min       0     201      13   50.0%    7.7% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -311     nan      14   14.3%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 29 of 192 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 25 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     311     nan      14   85.7%    0.0% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      25     194      14   53.6%    7.1% 
+   3 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min     -25     194      14   46.4%    7.1% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -311     nan      14   14.3%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 30 of 192 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min)
+Finished game 29 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec): 1-0 {Black loses on time}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     311     nan      14   85.7%    0.0% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      25     194      14   53.6%    7.1% 
+   3 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min       0     185      15   50.0%    6.7% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -325     nan      15   13.3%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 31 of 192 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=5_st=0.100sec)
+Finished game 30 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     311     nan      14   85.7%    0.0% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      25     194      14   53.6%    7.1% 
+   3 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      22     180      16   53.1%    6.3% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -338     nan      16   12.5%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 32 of 192 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 31 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=5_st=0.100sec): 1-0 {Black loses on time}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     325     nan      15   86.7%    0.0% 
+   2 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      22     180      16   53.1%    6.3% 
+   3 Stockfish_Ver16_Skill=5_st=0.100sec       0     185      15   50.0%    6.7% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -338     nan      16   12.5%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 33 of 192 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_Skill=5_st=0.100sec)
+Finished game 32 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 0-1 {White loses on time}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     338     nan      16   87.5%    0.0% 
+   2 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      22     180      16   53.1%    6.3% 
+   3 Stockfish_Ver16_Skill=5_st=0.100sec     -22     180      16   46.9%    6.3% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -338     nan      16   12.5%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 34 of 192 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min)
+Finished game 33 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_Skill=5_st=0.100sec): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     338     nan      16   87.5%    0.0% 
+   2 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      41     175      17   55.9%    5.9% 
+   3 Stockfish_Ver16_Skill=5_st=0.100sec     -41     175      17   44.1%    5.9% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -338     nan      16   12.5%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 35 of 192 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 34 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     338     nan      16   87.5%    0.0% 
+   2 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      19     168      18   52.8%    5.6% 
+   3 Stockfish_Ver16_Skill=5_st=0.100sec     -19     168      18   47.2%    5.6% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -338     nan      16   12.5%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 36 of 192 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 36 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     350     nan      17   88.2%    0.0% 
+   2 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      19     168      18   52.8%    5.6% 
+   3 Stockfish_Ver16_Skill=5_st=0.100sec     -19     168      18   47.2%    5.6% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -350     nan      17   11.8%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 37 of 192 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 35 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 0-1 {White loses on time}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     361     nan      18   88.9%    0.0% 
+   2 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      19     168      18   52.8%    5.6% 
+   3 Stockfish_Ver16_Skill=5_st=0.100sec     -19     168      18   47.2%    5.6% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -361     nan      18   11.1%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 38 of 192 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min)
+Finished game 37 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     372     nan      19   89.5%    0.0% 
+   2 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min       0     163      19   50.0%    5.3% 
+   3 Stockfish_Ver16_Skill=5_st=0.100sec     -19     168      18   47.2%    5.6% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -361     nan      18   11.1%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 39 of 192 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 39 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_Skill=4_st=0.100sec): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     372     nan      19   89.5%    0.0% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec       0     163      19   50.0%    5.3% 
+   3 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min       0     163      19   50.0%    5.3% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -372     nan      19   10.5%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 40 of 192 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_Skill=5_st=0.100sec)
+Finished game 40 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_Skill=5_st=0.100sec): 1-0 {White mates}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     372     nan      19   89.5%    0.0% 
+   2 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min       0     163      19   50.0%    5.3% 
+   3 Stockfish_Ver16_Skill=5_st=0.100sec     -17     159      20   47.5%    5.0% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -301     nan      20   15.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 41 of 192 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 38 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     382     nan      20   90.0%    0.0% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec     -17     159      20   47.5%    5.0% 
+   3 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min     -17     159      20   47.5%    5.0% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -301     nan      20   15.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 42 of 192 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min)
+Finished game 41 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     382     nan      20   90.0%    0.0% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec     -17     159      20   47.5%    5.0% 
+   3 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min     -33     155      21   45.2%    4.8% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -251     276      21   19.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 43 of 192 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=5_st=0.100sec)
+Finished game 42 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     382     nan      20   90.0%    0.0% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec     -17     159      20   47.5%    5.0% 
+   3 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min     -48     153      22   43.2%    4.5% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -213     217      22   22.7%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 44 of 192 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 43 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=5_st=0.100sec): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     311     nan      21   85.7%    0.0% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec       0     154      21   50.0%    4.8% 
+   3 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min     -48     153      22   43.2%    4.5% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -213     217      22   22.7%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 45 of 192 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_Skill=5_st=0.100sec)
+Finished game 44 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     261     278      22   81.8%    0.0% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      16     151      22   52.3%    4.5% 
+   3 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min     -48     153      22   43.2%    4.5% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -213     217      22   22.7%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 46 of 192 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min)
+Finished game 45 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_Skill=5_st=0.100sec): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     261     278      22   81.8%    0.0% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec       0     147      23   50.0%    4.3% 
+   3 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min     -30     148      23   45.7%    4.3% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -213     217      22   22.7%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 47 of 192 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 46 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     261     278      22   81.8%    0.0% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      14     144      24   52.1%    4.2% 
+   3 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min     -44     145      24   43.8%    4.2% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -213     217      22   22.7%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 48 of 192 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 47 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     223     217      23   78.3%    0.0% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      14     144      24   52.1%    4.2% 
+   3 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min     -44     145      24   43.8%    4.2% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -181     189      23   26.1%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 49 of 192 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 48 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     191     189      24   75.0%    0.0% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      14     144      24   52.1%    4.2% 
+   3 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min     -44     145      24   43.8%    4.2% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -154     172      24   29.2%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 50 of 192 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min)
+Finished game 49 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     164     171      25   72.0%    0.0% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      14     144      24   52.1%    4.2% 
+   3 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min     -28     141      25   46.0%    4.0% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -154     172      24   29.2%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 51 of 192 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 51 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_Skill=4_st=0.100sec): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     164     171      25   72.0%    0.0% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      28     141      25   54.0%    4.0% 
+   3 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min     -28     141      25   46.0%    4.0% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -164     171      25   28.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 52 of 192 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_Skill=5_st=0.100sec)
+Finished game 52 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_Skill=5_st=0.100sec): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     164     171      25   72.0%    0.0% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      40     139      26   55.8%    3.8% 
+   3 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min     -28     141      25   46.0%    4.0% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -173     171      26   26.9%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 53 of 192 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 53 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     164     171      25   72.0%    0.0% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      40     139      26   55.8%    3.8% 
+   3 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min     -13     138      26   48.1%    3.8% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -182     170      27   25.9%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 54 of 192 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min)
+Finished game 50 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     173     171      26   73.1%    0.0% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      40     139      26   55.8%    3.8% 
+   3 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min     -26     135      27   46.3%    3.7% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -182     170      27   25.9%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 55 of 192 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=5_st=0.100sec)
+Finished game 55 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=5_st=0.100sec): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     150     159      27   70.4%    0.0% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      52     137      27   57.4%    3.7% 
+   3 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min     -26     135      27   46.3%    3.7% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -182     170      27   25.9%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 56 of 192 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 54 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     150     159      27   70.4%    0.0% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      52     137      27   57.4%    3.7% 
+   3 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min     -12     132      28   48.2%    3.6% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -191     170      28   25.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 57 of 192 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_Skill=5_st=0.100sec)
+Finished game 56 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     130     150      28   67.9%    0.0% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      63     135      28   58.9%    3.6% 
+   3 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min     -12     132      28   48.2%    3.6% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -191     170      28   25.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 58 of 192 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min)
+Finished game 57 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_Skill=5_st=0.100sec): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     130     150      28   67.9%    0.0% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      73     134      29   60.3%    3.4% 
+   3 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min     -24     130      29   46.6%    3.4% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -191     170      28   25.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 59 of 192 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 58 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     130     150      28   67.9%    0.0% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      83     133      30   61.7%    3.3% 
+   3 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min     -35     128      30   45.0%    3.3% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -191     170      28   25.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 60 of 192 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 59 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     139     149      29   69.0%    0.0% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      83     133      30   61.7%    3.3% 
+   3 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min     -35     128      30   45.0%    3.3% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -199     169      29   24.1%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 61 of 192 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 60 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     120     142      30   66.7%    0.0% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      83     133      30   61.7%    3.3% 
+   3 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min     -35     128      30   45.0%    3.3% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -176     156      30   26.7%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 62 of 192 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min)
+Finished game 61 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     104     136      31   64.5%    0.0% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      83     133      30   61.7%    3.3% 
+   3 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min     -22     126      31   46.8%    3.2% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -176     156      30   26.7%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 63 of 192 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 63 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_Skill=4_st=0.100sec): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     104     136      31   64.5%    0.0% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      68     129      31   59.7%    3.2% 
+   3 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min     -22     126      31   46.8%    3.2% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -155     147      31   29.0%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 64 of 192 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_Skill=5_st=0.100sec)
+Finished game 64 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_Skill=5_st=0.100sec): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     104     136      31   64.5%    0.0% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      77     127      32   60.9%    3.1% 
+   3 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min     -22     126      31   46.8%    3.2% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -163     146      32   28.1%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 65 of 192 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 65 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     104     136      31   64.5%    0.0% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      77     127      32   60.9%    3.1% 
+   3 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min     -11     123      32   48.4%    3.1% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -170     146      33   27.3%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 66 of 192 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min)
+Finished game 62 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     112     135      32   65.6%    0.0% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      77     127      32   60.9%    3.1% 
+   3 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min     -21     122      33   47.0%    3.0% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -170     146      33   27.3%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 67 of 192 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=5_st=0.100sec)
+Finished game 66 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     112     135      32   65.6%    0.0% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      77     127      32   60.9%    3.1% 
+   3 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min     -31     120      34   45.6%    2.9% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -152     138      34   29.4%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 68 of 192 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 67 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=5_st=0.100sec): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     120     134      33   66.7%    0.0% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      64     124      33   59.1%    3.0% 
+   3 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min     -31     120      34   45.6%    2.9% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -152     138      34   29.4%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 69 of 192 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_Skill=5_st=0.100sec)
+Finished game 68 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     128     133      34   67.6%    0.0% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      51     121      34   57.4%    2.9% 
+   3 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min     -31     120      34   45.6%    2.9% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -152     138      34   29.4%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 70 of 192 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min)
+Finished game 69 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_Skill=5_st=0.100sec): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     128     133      34   67.6%    0.0% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      40     119      35   55.7%    2.9% 
+   3 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min     -20     118      35   47.1%    2.9% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -152     138      34   29.4%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 71 of 192 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 70 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     128     133      34   67.6%    0.0% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      49     117      36   56.9%    2.8% 
+   3 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min     -29     116      36   45.8%    2.8% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -152     138      34   29.4%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 72 of 192 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 71 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     136     132      35   68.6%    0.0% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      49     117      36   56.9%    2.8% 
+   3 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min     -29     116      36   45.8%    2.8% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -159     138      35   28.6%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 73 of 192 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 72 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     143     132      36   69.4%    0.0% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      49     117      36   56.9%    2.8% 
+   3 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min     -29     116      36   45.8%    2.8% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -166     137      36   27.8%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 74 of 192 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min)
+Finished game 74 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     128     127      37   67.6%    0.0% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      49     117      36   56.9%    2.8% 
+   3 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min     -19     114      37   47.3%    2.7% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -166     137      36   27.8%    0.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 75 of 192 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 75 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_Skill=4_st=0.100sec): 1/2-1/2 {Draw by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     128     127      37   67.6%    0.0% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      47     114      37   56.8%    5.4% 
+   3 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min     -19     114      37   47.3%    2.7% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -161     131      37   28.4%    2.7% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 76 of 192 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_Skill=5_st=0.100sec)
+Finished game 76 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_Skill=5_st=0.100sec): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     128     127      37   67.6%    0.0% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      37     112      38   55.3%    5.3% 
+   3 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min     -19     114      37   47.3%    2.7% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -145     126      38   30.3%    2.6% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 77 of 192 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 73 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     114     123      38   65.8%    0.0% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      37     112      38   55.3%    5.3% 
+   3 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      -9     113      38   48.7%    2.6% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -145     126      38   30.3%    2.6% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 78 of 192 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min)
+Finished game 77 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     114     123      38   65.8%    0.0% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      37     112      38   55.3%    5.3% 
+   3 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min       0     111      39   50.0%    2.6% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -151     125      39   29.5%    2.6% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 79 of 192 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=5_st=0.100sec)
+Finished game 78 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     114     123      38   65.8%    0.0% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      37     112      38   55.3%    5.3% 
+   3 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min       9     110      40   51.2%    2.5% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -158     125      40   28.7%    2.5% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 80 of 192 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 80 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     101     119      39   64.1%    0.0% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      45     111      39   56.4%    5.1% 
+   3 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min       9     110      40   51.2%    2.5% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -158     125      40   28.7%    2.5% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 81 of 192 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_Skill=5_st=0.100sec)
+Finished game 79 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=5_st=0.100sec): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      89     116      40   62.5%    0.0% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      53     110      40   57.5%    5.0% 
+   3 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min       9     110      40   51.2%    2.5% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -158     125      40   28.7%    2.5% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 82 of 192 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min)
+Finished game 81 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_Skill=5_st=0.100sec): 1-0 {White mates}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      89     116      40   62.5%    0.0% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      43     108      41   56.1%    4.9% 
+   3 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      17     108      41   52.4%    2.4% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -158     125      40   28.7%    2.5% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 83 of 192 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 82 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      89     116      40   62.5%    0.0% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      50     107      42   57.1%    4.8% 
+   3 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min       8     107      42   51.2%    2.4% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -158     125      40   28.7%    2.5% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 84 of 192 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 83 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      96     115      41   63.4%    0.0% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      50     107      42   57.1%    4.8% 
+   3 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min       8     107      42   51.2%    2.4% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -164     124      41   28.0%    2.4% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 85 of 192 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 84 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     102     114      42   64.3%    0.0% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      50     107      42   57.1%    4.8% 
+   3 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min       8     107      42   51.2%    2.4% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -169     124      42   27.4%    2.4% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 86 of 192 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min)
+Finished game 85 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      91     112      43   62.8%    0.0% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      50     107      42   57.1%    4.8% 
+   3 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      16     106      43   52.3%    2.3% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -169     124      42   27.4%    2.4% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 87 of 192 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 87 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_Skill=4_st=0.100sec): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      91     112      43   62.8%    0.0% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      57     106      43   58.1%    4.7% 
+   3 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      16     106      43   52.3%    2.3% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -175     124      43   26.7%    2.3% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 88 of 192 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_Skill=5_st=0.100sec)
+Finished game 88 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_Skill=5_st=0.100sec): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      91     112      43   62.8%    0.0% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      48     104      44   56.8%    4.5% 
+   3 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      16     106      43   52.3%    2.3% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -161     119      44   28.4%    2.3% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 89 of 192 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 89 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      91     112      43   62.8%    0.0% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      48     104      44   56.8%    4.5% 
+   3 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      24     105      44   53.4%    2.3% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -166     119      45   27.8%    2.2% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 90 of 192 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min)
+Finished game 86 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      97     111      44   63.6%    0.0% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      48     104      44   56.8%    4.5% 
+   3 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      15     103      45   52.2%    2.2% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -166     119      45   27.8%    2.2% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 91 of 192 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=5_st=0.100sec)
+Finished game 90 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      97     111      44   63.6%    0.0% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      48     104      44   56.8%    4.5% 
+   3 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      23     102      46   53.3%    2.2% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -171     118      46   27.2%    2.2% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 92 of 192 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 91 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=5_st=0.100sec): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     103     110      45   64.4%    0.0% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      39     103      45   55.6%    4.4% 
+   3 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      23     102      46   53.3%    2.2% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -171     118      46   27.2%    2.2% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 93 of 192 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_Skill=5_st=0.100sec)
+Finished game 92 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     109     110      46   65.2%    0.0% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      30     101      46   54.3%    4.3% 
+   3 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      23     102      46   53.3%    2.2% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -171     118      46   27.2%    2.2% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 94 of 192 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min)
+Finished game 93 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_Skill=5_st=0.100sec): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     109     110      46   65.2%    0.0% 
+   2 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      30     101      47   54.3%    2.1% 
+   3 Stockfish_Ver16_Skill=5_st=0.100sec      22     100      47   53.2%    4.3% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -171     118      46   27.2%    2.2% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 95 of 192 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 95 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      99     107      47   63.8%    0.0% 
+   2 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      30     101      47   54.3%    2.1% 
+   3 Stockfish_Ver16_Skill=5_st=0.100sec      22     100      47   53.2%    4.3% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -158     114      47   28.7%    2.1% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 96 of 192 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 94 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      99     107      47   63.8%    0.0% 
+   2 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      36     100      48   55.2%    2.1% 
+   3 Stockfish_Ver16_Skill=5_st=0.100sec      14      99      48   52.1%    4.2% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -158     114      47   28.7%    2.1% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 97 of 192 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 96 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      89     105      48   62.5%    0.0% 
+   2 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      36     100      48   55.2%    2.1% 
+   3 Stockfish_Ver16_Skill=5_st=0.100sec      14      99      48   52.1%    4.2% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -145     111      48   30.2%    2.1% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 98 of 192 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min)
+Finished game 98 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      94     104      49   63.3%    0.0% 
+   2 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      28      99      49   54.1%    2.0% 
+   3 Stockfish_Ver16_Skill=5_st=0.100sec      14      99      48   52.1%    4.2% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -145     111      48   30.2%    2.1% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 99 of 192 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 99 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_Skill=4_st=0.100sec): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      94     104      49   63.3%    0.0% 
+   2 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      28      99      49   54.1%    2.0% 
+   3 Stockfish_Ver16_Skill=5_st=0.100sec       7      98      49   51.0%    4.1% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -134     108      49   31.6%    2.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 100 of 192 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_Skill=5_st=0.100sec)
+Finished game 100 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_Skill=5_st=0.100sec): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      94     104      49   63.3%    0.0% 
+   2 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      28      99      49   54.1%    2.0% 
+   3 Stockfish_Ver16_Skill=5_st=0.100sec      14      97      50   52.0%    4.0% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -139     107      50   31.0%    2.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 101 of 192 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 101 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      94     104      49   63.3%    0.0% 
+   2 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      35      98      50   55.0%    2.0% 
+   3 Stockfish_Ver16_Skill=5_st=0.100sec      14      97      50   52.0%    4.0% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -144     107      51   30.4%    2.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 102 of 192 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min)
+Finished game 102 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      94     104      49   63.3%    0.0% 
+   2 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      27      97      51   53.9%    2.0% 
+   3 Stockfish_Ver16_Skill=5_st=0.100sec      14      97      50   52.0%    4.0% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -133     104      52   31.7%    1.9% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 103 of 192 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=5_st=0.100sec)
+Finished game 97 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      85     102      50   62.0%    0.0% 
+   2 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      34      96      52   54.8%    1.9% 
+   3 Stockfish_Ver16_Skill=5_st=0.100sec      14      97      50   52.0%    4.0% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -133     104      52   31.7%    1.9% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 104 of 192 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 103 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=5_st=0.100sec): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      76     101      51   60.8%    0.0% 
+   2 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      34      96      52   54.8%    1.9% 
+   3 Stockfish_Ver16_Skill=5_st=0.100sec      20      96      51   52.9%    3.9% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -133     104      52   31.7%    1.9% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 105 of 192 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_Skill=5_st=0.100sec)
+Finished game 104 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      82     100      52   61.5%    0.0% 
+   2 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      34      96      52   54.8%    1.9% 
+   3 Stockfish_Ver16_Skill=5_st=0.100sec      13      95      52   51.9%    3.8% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -133     104      52   31.7%    1.9% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 106 of 192 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min)
+Finished game 105 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_Skill=5_st=0.100sec): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      82     100      52   61.5%    0.0% 
+   2 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      40      96      53   55.7%    1.9% 
+   3 Stockfish_Ver16_Skill=5_st=0.100sec       7      94      53   50.9%    3.8% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -133     104      52   31.7%    1.9% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 107 of 192 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 107 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      73      98      53   60.4%    0.0% 
+   2 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      40      96      53   55.7%    1.9% 
+   3 Stockfish_Ver16_Skill=5_st=0.100sec       7      94      53   50.9%    3.8% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -123     102      53   33.0%    1.9% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 108 of 192 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 106 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min): 1/2-1/2 {Draw by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      73      98      53   60.4%    0.0% 
+   2 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      39      94      54   55.6%    3.7% 
+   3 Stockfish_Ver16_Skill=5_st=0.100sec       6      92      54   50.9%    5.6% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -123     102      53   33.0%    1.9% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 109 of 192 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 108 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      65      97      54   59.3%    0.0% 
+   2 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      39      94      54   55.6%    3.7% 
+   3 Stockfish_Ver16_Skill=5_st=0.100sec       6      92      54   50.9%    5.6% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -113     100      54   34.3%    1.9% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 110 of 192 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min)
+Finished game 110 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      57      95      55   58.2%    0.0% 
+   2 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      44      93      55   56.4%    3.6% 
+   3 Stockfish_Ver16_Skill=5_st=0.100sec       6      92      54   50.9%    5.6% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -113     100      54   34.3%    1.9% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 111 of 192 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 111 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_Skill=4_st=0.100sec): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      57      95      55   58.2%    0.0% 
+   2 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      44      93      55   56.4%    3.6% 
+   3 Stockfish_Ver16_Skill=5_st=0.100sec      13      91      55   51.8%    5.5% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -118     100      55   33.6%    1.8% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 112 of 192 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_Skill=5_st=0.100sec)
+Finished game 112 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_Skill=5_st=0.100sec): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      57      95      55   58.2%    0.0% 
+   2 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      44      93      55   56.4%    3.6% 
+   3 Stockfish_Ver16_Skill=5_st=0.100sec      19      91      56   52.7%    5.4% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -123      99      56   33.0%    1.8% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 113 of 192 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 113 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      57      95      55   58.2%    0.0% 
+   2 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      37      92      56   55.4%    3.6% 
+   3 Stockfish_Ver16_Skill=5_st=0.100sec      19      91      56   52.7%    5.4% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -114      97      57   34.2%    1.8% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 114 of 192 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min)
+Finished game 109 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      50      94      56   57.1%    0.0% 
+   2 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      43      91      57   56.1%    3.5% 
+   3 Stockfish_Ver16_Skill=5_st=0.100sec      19      91      56   52.7%    5.4% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -114      97      57   34.2%    1.8% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 115 of 192 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=5_st=0.100sec)
+Finished game 114 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min): 0-1 {White loses on time}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      50      94      56   57.1%    0.0% 
+   2 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      48      91      58   56.9%    3.4% 
+   3 Stockfish_Ver16_Skill=5_st=0.100sec      19      91      56   52.7%    5.4% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -118      97      58   33.6%    1.7% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 116 of 192 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 115 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=5_st=0.100sec): 1-0 {Black loses on time}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      55      94      57   57.9%    0.0% 
+   2 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      48      91      58   56.9%    3.4% 
+   3 Stockfish_Ver16_Skill=5_st=0.100sec      12      90      57   51.8%    5.3% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -118      97      58   33.6%    1.7% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 117 of 192 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_Skill=5_st=0.100sec)
+Finished game 116 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      48      92      58   56.9%    0.0% 
+   2 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      48      91      58   56.9%    3.4% 
+   3 Stockfish_Ver16_Skill=5_st=0.100sec      18      89      58   52.6%    5.2% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -118      97      58   33.6%    1.7% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 118 of 192 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min)
+Finished game 117 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_Skill=5_st=0.100sec): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      53      90      59   57.6%    3.4% 
+   2 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      48      92      58   56.9%    0.0% 
+   3 Stockfish_Ver16_Skill=5_st=0.100sec      12      88      59   51.7%    5.1% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -118      97      58   33.6%    1.7% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 119 of 192 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 118 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      48      92      58   56.9%    0.0% 
+   2 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      47      89      60   56.7%    3.3% 
+   3 Stockfish_Ver16_Skill=5_st=0.100sec      17      87      60   52.5%    5.0% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -118      97      58   33.6%    1.7% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 120 of 192 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 119 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      47      89      60   56.7%    3.3% 
+   2 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      41      91      59   55.9%    0.0% 
+   3 Stockfish_Ver16_Skill=5_st=0.100sec      17      87      60   52.5%    5.0% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -109      95      59   34.7%    1.7% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 121 of 192 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 120 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      47      89      60   56.7%    3.3% 
+   2 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      35      90      60   55.0%    0.0% 
+   3 Stockfish_Ver16_Skill=5_st=0.100sec      17      87      60   52.5%    5.0% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -101      93      60   35.8%    1.7% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 122 of 192 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min)
+Finished game 121 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      40      90      61   55.7%    0.0% 
+   2 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      40      88      61   55.7%    3.3% 
+   3 Stockfish_Ver16_Skill=5_st=0.100sec      17      87      60   52.5%    5.0% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -101      93      60   35.8%    1.7% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 123 of 192 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 123 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_Skill=4_st=0.100sec): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      40      90      61   55.7%    0.0% 
+   2 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      40      88      61   55.7%    3.3% 
+   3 Stockfish_Ver16_Skill=5_st=0.100sec      23      87      61   53.3%    4.9% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -106      93      61   35.2%    1.6% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 124 of 192 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_Skill=5_st=0.100sec)
+Finished game 124 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_Skill=5_st=0.100sec): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      40      90      61   55.7%    0.0% 
+   2 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      40      88      61   55.7%    3.3% 
+   3 Stockfish_Ver16_Skill=5_st=0.100sec      28      86      62   54.0%    4.8% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -110      93      62   34.7%    1.6% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 125 of 192 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 122 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      45      88      62   56.5%    3.2% 
+   2 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      34      89      62   54.8%    0.0% 
+   3 Stockfish_Ver16_Skill=5_st=0.100sec      28      86      62   54.0%    4.8% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -110      93      62   34.7%    1.6% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 126 of 192 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min)
+Finished game 126 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      50      87      63   57.1%    3.2% 
+   2 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      34      89      62   54.8%    0.0% 
+   3 Stockfish_Ver16_Skill=5_st=0.100sec      28      86      62   54.0%    4.8% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -114      92      63   34.1%    1.6% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 127 of 192 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=5_st=0.100sec)
+Finished game 125 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      44      86      64   56.3%    3.1% 
+   2 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      34      89      62   54.8%    0.0% 
+   3 Stockfish_Ver16_Skill=5_st=0.100sec      28      86      62   54.0%    4.8% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -106      91      64   35.2%    1.6% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 128 of 192 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 127 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=5_st=0.100sec): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      44      86      64   56.3%    3.1% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      33      86      63   54.8%    4.8% 
+   3 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      28      88      63   54.0%    0.0% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -106      91      64   35.2%    1.6% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 129 of 192 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_Skill=5_st=0.100sec)
+Finished game 128 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      44      86      64   56.3%    3.1% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      38      85      64   55.5%    4.7% 
+   3 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      22      87      64   53.1%    0.0% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -106      91      64   35.2%    1.6% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 130 of 192 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min)
+Finished game 130 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      48      86      65   56.9%    3.1% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      32      84      65   54.6%    4.6% 
+   3 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      22      87      64   53.1%    0.0% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -106      91      64   35.2%    1.6% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 131 of 192 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 129 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_Skill=5_st=0.100sec): 1-0 {Black loses on time}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      53      85      66   57.6%    3.0% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      26      84      66   53.8%    4.5% 
+   3 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      22      87      64   53.1%    0.0% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -106      91      64   35.2%    1.6% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 132 of 192 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 131 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      53      85      66   57.6%    3.0% 
+   2 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      27      86      65   53.8%    0.0% 
+   3 Stockfish_Ver16_Skill=5_st=0.100sec      26      84      66   53.8%    4.5% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -110      90      65   34.6%    1.5% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 133 of 192 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 132 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec): 1/2-1/2 {Draw by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      53      85      66   57.6%    3.0% 
+   2 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      26      85      66   53.8%    1.5% 
+   3 Stockfish_Ver16_Skill=5_st=0.100sec      26      84      66   53.8%    4.5% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -109      89      66   34.8%    3.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 134 of 192 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min)
+Finished game 134 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      47      84      67   56.7%    3.0% 
+   2 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      31      84      67   54.5%    1.5% 
+   3 Stockfish_Ver16_Skill=5_st=0.100sec      26      84      66   53.8%    4.5% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -109      89      66   34.8%    3.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 135 of 192 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 135 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_Skill=4_st=0.100sec): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      47      84      67   56.7%    3.0% 
+   2 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      31      84      67   54.5%    1.5% 
+   3 Stockfish_Ver16_Skill=5_st=0.100sec      31      83      67   54.5%    4.5% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -113      88      67   34.3%    3.0% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 136 of 192 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_Skill=5_st=0.100sec)
+Finished game 136 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_Skill=5_st=0.100sec): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      47      84      67   56.7%    3.0% 
+   2 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      31      84      67   54.5%    1.5% 
+   3 Stockfish_Ver16_Skill=5_st=0.100sec      26      82      68   53.7%    4.4% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -105      87      68   35.3%    2.9% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 137 of 192 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 133 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      41      83      68   55.9%    2.9% 
+   2 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      36      84      68   55.1%    1.5% 
+   3 Stockfish_Ver16_Skill=5_st=0.100sec      26      82      68   53.7%    4.4% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -105      87      68   35.3%    2.9% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 138 of 192 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min)
+Finished game 137 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      46      83      69   56.5%    2.9% 
+   2 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      36      84      68   55.1%    1.5% 
+   3 Stockfish_Ver16_Skill=5_st=0.100sec      26      82      68   53.7%    4.4% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -109      87      69   34.8%    2.9% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 139 of 192 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=5_st=0.100sec)
+Finished game 138 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      40      82      70   55.7%    2.9% 
+   2 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      36      84      68   55.1%    1.5% 
+   3 Stockfish_Ver16_Skill=5_st=0.100sec      26      82      68   53.7%    4.4% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -102      86      70   35.7%    2.9% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 140 of 192 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 140 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      40      82      70   55.7%    2.9% 
+   2 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      30      83      69   54.3%    1.4% 
+   3 Stockfish_Ver16_Skill=5_st=0.100sec      30      82      69   54.3%    4.3% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -102      86      70   35.7%    2.9% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 141 of 192 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_Skill=5_st=0.100sec)
+Finished game 141 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_Skill=5_st=0.100sec): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      44      82      71   56.3%    2.8% 
+   2 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      30      83      69   54.3%    1.4% 
+   3 Stockfish_Ver16_Skill=5_st=0.100sec      25      81      70   53.6%    4.3% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -102      86      70   35.7%    2.9% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 142 of 192 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min)
+Finished game 139 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=5_st=0.100sec): 1/2-1/2 {Draw by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      44      82      71   56.3%    2.8% 
+   2 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      30      82      70   54.3%    2.9% 
+   3 Stockfish_Ver16_Skill=5_st=0.100sec      25      80      71   53.5%    5.6% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -102      86      70   35.7%    2.9% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 143 of 192 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 142 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      39      81      72   55.6%    2.8% 
+   2 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      30      82      70   54.3%    2.9% 
+   3 Stockfish_Ver16_Skill=5_st=0.100sec      29      80      72   54.2%    5.6% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -102      86      70   35.7%    2.9% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 144 of 192 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 143 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      39      81      72   55.6%    2.8% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      29      80      72   54.2%    5.6% 
+   3 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      25      81      71   53.5%    2.8% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec     -95      84      71   36.6%    2.8% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 145 of 192 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 144 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      39      81      72   55.6%    2.8% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      29      80      72   54.2%    5.6% 
+   3 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      19      81      72   52.8%    2.8% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec     -89      83      72   37.5%    2.8% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 146 of 192 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min)
+Finished game 145 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      43      81      73   56.2%    2.7% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      29      80      72   54.2%    5.6% 
+   3 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      14      80      73   52.1%    2.7% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec     -89      83      72   37.5%    2.8% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 147 of 192 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 147 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_Skill=4_st=0.100sec): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      43      81      73   56.2%    2.7% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      33      79      73   54.8%    5.5% 
+   3 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      14      80      73   52.1%    2.7% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec     -93      83      73   37.0%    2.7% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 148 of 192 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_Skill=5_st=0.100sec)
+Finished game 148 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_Skill=5_st=0.100sec): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      43      81      73   56.2%    2.7% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      38      79      74   55.4%    5.4% 
+   3 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      14      80      73   52.1%    2.7% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec     -96      83      74   36.5%    2.7% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 149 of 192 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 149 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      47      80      74   56.8%    2.7% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      38      79      74   55.4%    5.4% 
+   3 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      14      80      73   52.1%    2.7% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -100      82      75   36.0%    2.7% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 150 of 192 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min)
+Finished game 150 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      51      80      75   57.3%    2.7% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      38      79      74   55.4%    5.4% 
+   3 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      14      80      73   52.1%    2.7% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -104      82      76   35.5%    2.6% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 151 of 192 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=5_st=0.100sec)
+Finished game 146 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      55      79      76   57.9%    2.6% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      38      79      74   55.4%    5.4% 
+   3 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min       9      79      74   51.4%    2.7% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -104      82      76   35.5%    2.6% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 152 of 192 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 151 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=5_st=0.100sec): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      55      79      76   57.9%    2.6% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      33      78      75   54.7%    5.3% 
+   3 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      14      79      75   52.0%    2.7% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -104      82      76   35.5%    2.6% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 153 of 192 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_Skill=5_st=0.100sec)
+Finished game 152 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      55      79      76   57.9%    2.6% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      37      78      76   55.3%    5.3% 
+   3 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min       9      78      76   51.3%    2.6% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -104      82      76   35.5%    2.6% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 154 of 192 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min)
+Finished game 154 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      50      79      77   57.1%    2.6% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      41      77      77   55.8%    5.2% 
+   3 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min       9      78      76   51.3%    2.6% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -104      82      76   35.5%    2.6% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 155 of 192 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 153 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_Skill=5_st=0.100sec): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      54      78      78   57.7%    2.6% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      36      77      78   55.1%    5.1% 
+   3 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min       9      78      76   51.3%    2.6% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -104      82      76   35.5%    2.6% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 156 of 192 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 156 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      54      78      78   57.7%    2.6% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      36      77      78   55.1%    5.1% 
+   3 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      14      78      77   51.9%    2.6% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -107      82      77   35.1%    2.6% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 157 of 192 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 155 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      54      78      78   57.7%    2.6% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      36      77      78   55.1%    5.1% 
+   3 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min       9      77      78   51.3%    2.6% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -101      81      78   35.9%    2.6% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 158 of 192 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min)
+Finished game 158 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      58      78      79   58.2%    2.5% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      36      77      78   55.1%    5.1% 
+   3 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min       4      77      79   50.6%    2.5% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -101      81      78   35.9%    2.6% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 159 of 192 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 159 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_Skill=4_st=0.100sec): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      58      78      79   58.2%    2.5% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      40      76      79   55.7%    5.1% 
+   3 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min       4      77      79   50.6%    2.5% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -104      81      79   35.4%    2.5% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 160 of 192 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_Skill=5_st=0.100sec)
+Finished game 160 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_Skill=5_st=0.100sec): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      58      78      79   58.2%    2.5% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      44      76      80   56.3%    5.0% 
+   3 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min       4      77      79   50.6%    2.5% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -108      80      80   35.0%    2.5% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 161 of 192 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 157 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      53      77      80   57.5%    2.5% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      44      76      80   56.3%    5.0% 
+   3 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min       9      76      80   51.2%    2.5% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -108      80      80   35.0%    2.5% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 162 of 192 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min)
+Finished game 161 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      56      77      81   58.0%    2.5% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      44      76      80   56.3%    5.0% 
+   3 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min       9      76      80   51.2%    2.5% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -111      80      81   34.6%    2.5% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 163 of 192 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=5_st=0.100sec)
+Finished game 162 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      51      76      82   57.3%    2.4% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      44      76      80   56.3%    5.0% 
+   3 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min       9      76      80   51.2%    2.5% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -105      79      82   35.4%    2.4% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 164 of 192 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 163 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=5_st=0.100sec): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      51      76      82   57.3%    2.4% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      39      75      81   55.6%    4.9% 
+   3 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      13      76      81   51.9%    2.5% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -105      79      82   35.4%    2.4% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 165 of 192 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_Skill=5_st=0.100sec)
+Finished game 165 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_Skill=5_st=0.100sec): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      55      76      83   57.8%    2.4% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      34      75      82   54.9%    4.9% 
+   3 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      13      76      81   51.9%    2.5% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -105      79      82   35.4%    2.4% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 166 of 192 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min)
+Finished game 164 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      55      76      83   57.8%    2.4% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      29      74      83   54.2%    4.8% 
+   3 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      17      75      82   52.4%    2.4% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -105      79      82   35.4%    2.4% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 167 of 192 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 166 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min): 1/2-1/2 {Draw by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      54      75      84   57.7%    3.6% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      29      73      84   54.2%    6.0% 
+   3 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      17      75      82   52.4%    2.4% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -105      79      82   35.4%    2.4% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 168 of 192 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 167 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 0-1 {Black mates}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      54      75      84   57.7%    3.6% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      29      73      84   54.2%    6.0% 
+   3 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      21      75      83   53.0%    2.4% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -108      79      83   34.9%    2.4% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 169 of 192 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 168 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec): 1/2-1/2 {Draw by 3-fold repetition}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      54      75      84   57.7%    3.6% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      29      73      84   54.2%    6.0% 
+   3 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      21      74      84   53.0%    3.6% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -107      78      84   35.1%    3.6% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 170 of 192 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min)
+Finished game 169 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      58      75      85   58.2%    3.5% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      29      73      84   54.2%    6.0% 
+   3 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      16      74      85   52.4%    3.5% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -107      78      84   35.1%    3.6% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 171 of 192 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 171 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_Skill=4_st=0.100sec): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      58      75      85   58.2%    3.5% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      33      73      85   54.7%    5.9% 
+   3 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      16      74      85   52.4%    3.5% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -110      78      85   34.7%    3.5% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 172 of 192 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_Skill=5_st=0.100sec)
+Finished game 172 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_Skill=5_st=0.100sec): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      58      75      85   58.2%    3.5% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      36      73      86   55.2%    5.8% 
+   3 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      16      74      85   52.4%    3.5% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -113      77      86   34.3%    3.5% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 173 of 192 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 170 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      53      74      86   57.6%    3.5% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      36      73      86   55.2%    5.8% 
+   3 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      20      73      86   52.9%    3.5% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -113      77      86   34.3%    3.5% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 174 of 192 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min)
+Finished game 173 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec): 1-0 {Black loses on time}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      56      74      87   58.0%    3.4% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      36      73      86   55.2%    5.8% 
+   3 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      20      73      86   52.9%    3.5% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -116      77      87   33.9%    3.4% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 175 of 192 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=5_st=0.100sec)
+Finished game 174 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      60      73      88   58.5%    3.4% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      36      73      86   55.2%    5.8% 
+   3 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      20      73      86   52.9%    3.5% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -119      77      88   33.5%    3.4% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 176 of 192 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 175 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=5_st=0.100sec): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      60      73      88   58.5%    3.4% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      32      72      87   54.6%    5.7% 
+   3 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      24      73      87   53.4%    3.4% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -119      77      88   33.5%    3.4% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 177 of 192 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_Skill=5_st=0.100sec)
+Finished game 176 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      60      73      88   58.5%    3.4% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      36      72      88   55.1%    5.7% 
+   3 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      20      72      88   52.8%    3.4% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -119      77      88   33.5%    3.4% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 178 of 192 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min)
+Finished game 177 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_Skill=5_st=0.100sec): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      55      73      89   57.9%    3.4% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      39      71      89   55.6%    5.6% 
+   3 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      20      72      88   52.8%    3.4% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -119      77      88   33.5%    3.4% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 179 of 192 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 178 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      51      72      90   57.2%    3.3% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      43      71      90   56.1%    5.6% 
+   3 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      20      72      88   52.8%    3.4% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -119      77      88   33.5%    3.4% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 180 of 192 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 179 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      51      72      90   57.2%    3.3% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      43      71      90   56.1%    5.6% 
+   3 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      16      72      89   52.2%    3.4% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -113      76      89   34.3%    3.4% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 181 of 192 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 180 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      51      72      90   57.2%    3.3% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      43      71      90   56.1%    5.6% 
+   3 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      19      72      90   52.8%    3.3% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -116      76      90   33.9%    3.3% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 182 of 192 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min)
+Finished game 181 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      54      72      91   57.7%    3.3% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      43      71      90   56.1%    5.6% 
+   3 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      15      71      91   52.2%    3.3% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -116      76      90   33.9%    3.3% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 183 of 192 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 183 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_Skill=4_st=0.100sec): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      54      72      91   57.7%    3.3% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      46      71      91   56.6%    5.5% 
+   3 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      15      71      91   52.2%    3.3% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -119      76      91   33.5%    3.3% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 184 of 192 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_Skill=5_st=0.100sec)
+Finished game 184 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_Skill=5_st=0.100sec): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      54      72      91   57.7%    3.3% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      49      71      92   57.1%    5.4% 
+   3 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      15      71      91   52.2%    3.3% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -122      75      92   33.2%    3.3% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 185 of 192 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 185 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_Skill=5_st=0.100sec      49      71      92   57.1%    5.4% 
+   2 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      49      71      92   57.1%    3.3% 
+   3 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      15      71      91   52.2%    3.3% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -116      75      93   33.9%    3.2% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 186 of 192 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min)
+Finished game 182 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_Skill=5_st=0.100sec      49      71      92   57.1%    5.4% 
+   2 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      45      71      93   56.5%    3.2% 
+   3 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      19      71      92   52.7%    3.3% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -116      75      93   33.9%    3.2% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 187 of 192 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=5_st=0.100sec)
+Finished game 186 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min): 1/2-1/2 {Draw by 3-fold repetition}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_Skill=5_st=0.100sec      49      71      92   57.1%    5.4% 
+   2 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      45      70      94   56.4%    4.3% 
+   3 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      19      71      92   52.7%    3.3% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -115      74      94   34.0%    4.3% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 188 of 192 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 187 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=5_st=0.100sec): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_Skill=5_st=0.100sec      53      70      93   57.5%    5.4% 
+   2 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      45      70      94   56.4%    4.3% 
+   3 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      15      70      93   52.2%    3.2% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -115      74      94   34.0%    4.3% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 189 of 192 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_Skill=5_st=0.100sec)
+Finished game 188 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_Skill=5_st=0.100sec      56      70      94   58.0%    5.3% 
+   2 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      45      70      94   56.4%    4.3% 
+   3 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      11      70      94   51.6%    3.2% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -115      74      94   34.0%    4.3% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 190 of 192 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min)
+Finished game 189 (Stockfish_Ver16_UCI_Elo=1900_tc=40/15min vs Stockfish_Ver16_Skill=5_st=0.100sec): 1-0 {White wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_Skill=5_st=0.100sec      52      70      95   57.4%    5.3% 
+   2 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      48      70      95   56.8%    4.2% 
+   3 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      11      70      94   51.6%    3.2% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -115      74      94   34.0%    4.3% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 191 of 192 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 190 (Stockfish_Ver16_Skill=5_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1900_tc=40/15min): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      51      70      96   57.3%    4.2% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      47      69      96   56.8%    5.2% 
+   3 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      11      70      94   51.6%    3.2% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -115      74      94   34.0%    4.3% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 192 of 192 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 191 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 0-1 {Black wins by adjudication}
+Rank Name                          Elo     +/-   Games   Score    Draw 
+   1 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      51      70      96   57.3%    4.2% 
+   2 Stockfish_Ver16_Skill=5_st=0.100sec      47      69      96   56.8%    5.2% 
+   3 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      15      70      95   52.1%    3.2% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec    -118      73      95   33.7%    4.2% 
+
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf

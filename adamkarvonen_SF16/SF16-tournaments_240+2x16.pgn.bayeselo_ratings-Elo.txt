@@ -1,0 +1,7 @@
+Rank Name                                       Elo    +    - games score oppo. draws 
+	1	Stockfish_Ver16_Skill=7_st=0.100sec	2112	80	80	80	76%	-37	6%
+	2	Stockfish_Ver16_Skill=6_st=0.100sec	2048	64	64	112	67%	-25	2%
+	3	Stockfish_Ver16_Skill=5_st=0.100sec	1977	73	73	80	57%	-10	6%
+	4	Stockfish_Ver16_UCI_Elo=1900_tc=40/15min	1900	63	63	112	42%	39	4%
+	5	Stockfish_Ver16_UCI_Elo=1700_tc=40/15min	1757	79	79	80	27%	34	4%
+	6	Stockfish_Ver16_Skill=4_st=0.100sec	1756	80	80	80	28%	34	3%

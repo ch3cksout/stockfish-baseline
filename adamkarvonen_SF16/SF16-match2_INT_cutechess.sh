@@ -9,7 +9,7 @@
 # <https://github.com/adamkarvonen/chess_gpt_eval>
 # ch3cksout@skiff.com: localhost, running Stockfish ver.16: stockfish-ubuntu-x86-64-avx2 
 
-echo test run: $0
+echo run: $0, for Skill6-vs-Elo1900
 
 # scaling times for real rated strength
 # Stockfish internal ELo ratings are described at <https://github.com/vondele/Stockfish/commit/a08b8d4e9711c2>
@@ -38,39 +38,30 @@ nps_M1Mac10CPU=6792626
 #"60+0.6","43.56864654333008763360+.43568646543330087633"
 #"120+1","87.13729308666017526720+.72614410905550146056"
 CCRL_localhost=0.72614410905550146056
-strTC40_15="40/$(echo 15*60*$CCRL_localhost|bc -l)" # calculate scaled time, for comparative CCRL medium time control 
+#strTC40_15="40/$(echo 15*60*$CCRL_localhost|bc -l)" # calculate scaled time, for comparative CCRL medium time control 
+
+# make strTC40_15 integer (to avoid possible problem with feeding a float to cutechess)
+# note that $Rescaled_100ms remains a float, necessarily
+strTC40_15=$(echo 15*60*$CCRL_localhost|bc -l)
+strTC40_15=$(echo "scale=0; $strTC40_15/1"|bc -l)
+strTC40_15="40/$strTC40_15"
 echo strTC40_15="$strTC40_15"
 
 #"loop-bench-10core_HEREDOC.sh_Loop_count=10_nCPU=10.bench.stderr","median Nodes/second from 10 benchmark runs",  9887948, "10-core!" 
 nps_localhost10CPU=9887948
-Rescaled_100ms=$(echo "0.1 * $nps_M1Mac10CPU / $nps_localhost10CPU" |bc -l)
-echo 0.1sec rescaled by nps_M1Mac10CPU/nps_localhost10CPU = $Rescaled_100ms
+# add leading zero to 'bc' output:
+Rescaled_100ms=$(echo "scale=6; 0.1 * ${nps_M1Mac10CPU} / ${nps_localhost10CPU}" | bc -l | awk '{printf "%.6f\n", $0}')
+echo 0.1sec rescaled by nps_M1Mac10CPU/nps_localhost10CPU = ${Rescaled_100ms}
 
 # comment out next block of code: <<'COMMENT'
 # ? round-robin or gauntlet
 cutechess-cli -repeat -rounds 8 -games 2 -tournament round-robin \
                 -event "Stockfish Elo baseline testing: various time skill levels vs. set Elo" -site "ch3cksout@skiff.com: localhost" \
                 -resign movecount=3 score=600 -draw movenumber=34 movecount=8 score=20 \
-                -concurrency 4 -openings file=/var/chess/UHO_XXL_+0.90_+1.19.epd format=epd order=random plies=16 \
-                -engine st="$Rescaled_100ms" name="Stockfish_Ver16_Skill=4_st=0.100sec" cmd=/opt/stockfish/16/avx2/stockfish-ubuntu-x86-64-avx2 option."Skill Level=4" \
-                	option.Threads=1 \
-                	option.Hash=16 \
-                	option.EvalFile=/var/chess/nn-5af11540bbfe.nnue option."Use NNUE=true" \
-                -engine st="$Rescaled_100ms" name="Stockfish_Ver16_Skill=5_st=0.100sec" cmd=/opt/stockfish/16/avx2/stockfish-ubuntu-x86-64-avx2 option."Skill Level=5" \
-                	option.Threads=1 \
-                	option.Hash=16 \
-                	option.EvalFile=/var/chess/nn-5af11540bbfe.nnue option."Use NNUE=true" \
+                -concurrency 1 -openings file=/var/chess/UHO_XXL_+0.90_+1.19.epd format=epd order=random plies=16 \
                 -engine st="$Rescaled_100ms" name="Stockfish_Ver16_Skill=6_st=0.100sec" cmd=/opt/stockfish/16/avx2/stockfish-ubuntu-x86-64-avx2 option."Skill Level=6" \
                 	option.Threads=1 \
                 	option.Hash=16 \
-                	option.EvalFile=/var/chess/nn-5af11540bbfe.nnue option."Use NNUE=true" \
-                -engine st="$Rescaled_100ms" name="Stockfish_Ver16_Skill=7_st=0.100sec" cmd=/opt/stockfish/16/avx2/stockfish-ubuntu-x86-64-avx2 option."Skill Level=7" \
-                	option.Threads=1 \
-                	option.Hash=16 \
-                	option.EvalFile=/var/chess/nn-5af11540bbfe.nnue option."Use NNUE=true" \
-                -engine tc="$strTC40_15" name="Stockfish_Ver16_UCI_Elo=1700_tc=40/15min" cmd=/opt/stockfish/16/avx2/stockfish-ubuntu-x86-64-avx2 option.UCI_LimitStrength=true option.UCI_Elo=1700 \
-                	option.Threads=1 \
-                	option.Hash=256 \
                 	option.EvalFile=/var/chess/nn-5af11540bbfe.nnue option."Use NNUE=true" \
                 -engine tc="$strTC40_15" name="Stockfish_Ver16_UCI_Elo=1900_tc=40/15min" cmd=/opt/stockfish/16/avx2/stockfish-ubuntu-x86-64-avx2 option.UCI_LimitStrength=true option.UCI_Elo=1900 \
                 	option.Threads=1 \

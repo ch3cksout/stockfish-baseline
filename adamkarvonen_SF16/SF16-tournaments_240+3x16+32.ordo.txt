@@ -1,0 +1,12 @@
+
+   # PLAYER                                      :  RATING  POINTS  PLAYED   (%)
+   1 Stockfish_Ver16_Skill=7_st=0.100sec         :  2119.7    60.5      80    76
+   2 Stockfish_Ver16_Skill=6_st=0.100sec         :  2047.2    75.0     112    67
+   3 Stockfish_Ver16_Skill=5_st=0.100sec         :  1969.2    53.5      96    56
+   4 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min    :  1900.0    72.5     160    45
+   5 Stockfish_Ver16_UCI_Elo=1700_tc=40/15min    :  1801.2    36.5     112    33
+   6 Stockfish_Ver16_Skill=4_st=0.100sec         :  1775.5    22.0      80    28
+
+White advantage = 77.68
+Draw rate (equal opponents) = 3.92 %
+

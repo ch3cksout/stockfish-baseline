@@ -1,0 +1,12 @@
+
+   # PLAYER                                          :  RATING  POINTS  PLAYED   (%)
+   1 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min        :  1824.1   149.5     256    58
+   2 stockfish_16-SL4_acherm_handicapped_st=100ms    :  1790.7   135.0     256    53
+   3 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min        :  1785.0   132.5     256    52
+   4 Stockfish_Ver16_Skill=4_st=0.100sec             :  1779.6    64.5     128    50
+   5 Stockfish_Ver16_Skill=5_st=0.100sec             :  1753.9    60.0     128    47
+   6 stockfish_16-SL4_acherm_handicapped_st=20ms     :  1706.7    98.5     256    38
+
+White advantage = 60.37
+Draw rate (equal opponents) = 5.48 %
+

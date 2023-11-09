@@ -1,0 +1,19 @@
+Group connectivity: **FAILED**
+
+Group 1
+ | Threads10_stockfish_15.1_Elo1785_40_60,000+600ms
+ | stockfish_16-SL4_UNhandicapped_40_4min
+ | stockfish_16-SL4_UNhandicapped_4min+1sec
+ | stockfish_16-SL4_acherm_handicapped_100ms
+ | stockfish_16-SL4_acherm_handicapped_20ms
+ | stockfish_16-SL4_acherm_handicapped_6000ms
+ \---> this group is isolated from the rest
+
+Group 2
+ | stockfish_16_acherm_handicapped
+ \---> this group has incomplete links with the rest (only wins or losses)
+
+Group 3
+ | stockfish_16_acherm_handicapped2
+ \---> this group has incomplete links with the rest (only wins or losses)
+

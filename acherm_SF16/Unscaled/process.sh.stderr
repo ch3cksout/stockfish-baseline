@@ -1,0 +1,20 @@
+390 game(s) loaded, 0 game(s) with unknown result ignored.
+
+
+********************[ WARNING ]**********************
+*     Database is not well connected by games       *
+* Run switch -g to find what groups need more games *
+*****************************************************
+ ====> Groups detected: 3
+
+
+
+
+*************************[ WARNING ]*************************
+*       Database is not well connected by games...          *
+* ...even after purging players with all-wins/all-losses    *
+*                                                           *
+*    Run switch -g to find what groups need more games      *
+*   Run switch -G to ignore warnings and force calculation  *
+*   (Attempting it may be very slow and may not converge)   *
+*************************************************************

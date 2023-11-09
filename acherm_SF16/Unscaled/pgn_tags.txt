@@ -1,0 +1,2 @@
+% filter forfeits
+Termination "time forfeit"

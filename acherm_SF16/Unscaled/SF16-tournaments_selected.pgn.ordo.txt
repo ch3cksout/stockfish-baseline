@@ -1,0 +1,12 @@
+
+   # PLAYER                                              :  RATING  POINTS  PLAYED   (%)
+   1 stockfish_16-SL4_UNhandicapped_40_4min              :  1826.8    44.0      70    63
+   2 stockfish_16-SL4_UNhandicapped_4min+1sec            :  1810.2    34.5      57    61
+   3 stockfish_16-SL4_acherm_handicapped_6000ms          :  1786.6    81.5     144    57
+   4 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms    :  1785.0    71.0     126    56
+   5 stockfish_16-SL4_acherm_handicapped_100ms           :  1695.0    59.0     142    42
+   6 stockfish_16-SL4_acherm_handicapped_20ms            :  1645.7    39.0     119    33
+
+White advantage = 74.14
+Draw rate (equal opponents) = 6.50 %
+
