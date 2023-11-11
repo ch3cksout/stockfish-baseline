@@ -7,3 +7,818 @@ Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=
 Elo difference: inf +/- nan, LOS: 84.1 %, DrawRatio: 0.0 %
 SPRT: llr 0 (0.0%), lbound -inf, ubound inf
 Started game 2 of 100 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 2 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec): 0-1 {Black wins by adjudication}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 2 - 0 - 0  [1.000] 2
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 1 - 0 - 0  [1.000] 1
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 1 - 0 - 0  [1.000] 1
+...      White vs Black: 1 - 1 - 0  [0.500] 2
+Elo difference: inf +/- nan, LOS: 92.1 %, DrawRatio: 0.0 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 3 of 100 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 3 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 0-1 {Black wins by adjudication}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 2 - 1 - 0  [0.667] 3
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 1 - 1 - 0  [0.500] 2
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 1 - 0 - 0  [1.000] 1
+...      White vs Black: 1 - 2 - 0  [0.333] 3
+Elo difference: 120.4 +/- nan, LOS: 71.8 %, DrawRatio: 0.0 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 4 of 100 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 4 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec): 1-0 {White wins by adjudication}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 2 - 2 - 0  [0.500] 4
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 1 - 1 - 0  [0.500] 2
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 1 - 1 - 0  [0.500] 2
+...      White vs Black: 2 - 2 - 0  [0.500] 4
+Elo difference: 0.0 +/- 786.2, LOS: 50.0 %, DrawRatio: 0.0 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 5 of 100 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 5 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 1-0 {White wins by adjudication}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 3 - 2 - 0  [0.600] 5
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 2 - 1 - 0  [0.667] 3
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 1 - 1 - 0  [0.500] 2
+...      White vs Black: 3 - 2 - 0  [0.600] 5
+Elo difference: 70.4 +/- nan, LOS: 67.3 %, DrawRatio: 0.0 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 6 of 100 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 6 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec): 0-1 {Black wins by adjudication}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 4 - 2 - 0  [0.667] 6
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 2 - 1 - 0  [0.667] 3
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 2 - 1 - 0  [0.667] 3
+...      White vs Black: 3 - 3 - 0  [0.500] 6
+Elo difference: 120.4 +/- nan, LOS: 79.3 %, DrawRatio: 0.0 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 7 of 100 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 7 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 1-0 {White wins by adjudication}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 5 - 2 - 0  [0.714] 7
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 3 - 1 - 0  [0.750] 4
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 2 - 1 - 0  [0.667] 3
+...      White vs Black: 4 - 3 - 0  [0.571] 7
+Elo difference: 159.2 +/- nan, LOS: 87.2 %, DrawRatio: 0.0 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 8 of 100 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 8 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec): 0-1 {Black wins by adjudication}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 6 - 2 - 0  [0.750] 8
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 3 - 1 - 0  [0.750] 4
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 3 - 1 - 0  [0.750] 4
+...      White vs Black: 4 - 4 - 0  [0.500] 8
+Elo difference: 190.8 +/- nan, LOS: 92.1 %, DrawRatio: 0.0 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 9 of 100 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 9 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 1-0 {White wins by adjudication}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 7 - 2 - 0  [0.778] 9
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 4 - 1 - 0  [0.800] 5
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 3 - 1 - 0  [0.750] 4
+...      White vs Black: 5 - 4 - 0  [0.556] 9
+Elo difference: 217.6 +/- nan, LOS: 95.2 %, DrawRatio: 0.0 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 10 of 100 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 10 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec): 1-0 {White wins by adjudication}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 7 - 3 - 0  [0.700] 10
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 4 - 1 - 0  [0.800] 5
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 3 - 2 - 0  [0.600] 5
+...      White vs Black: 6 - 4 - 0  [0.600] 10
+Elo difference: 147.2 +/- 385.0, LOS: 89.7 %, DrawRatio: 0.0 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 11 of 100 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 11 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 0-1 {Black wins by adjudication}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 7 - 4 - 0  [0.636] 11
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 4 - 2 - 0  [0.667] 6
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 3 - 2 - 0  [0.600] 5
+...      White vs Black: 6 - 5 - 0  [0.545] 11
+Elo difference: 97.2 +/- 265.2, LOS: 81.7 %, DrawRatio: 0.0 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 12 of 100 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 12 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec): 1-0 {White wins by adjudication}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 7 - 5 - 0  [0.583] 12
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 4 - 2 - 0  [0.667] 6
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 3 - 3 - 0  [0.500] 6
+...      White vs Black: 7 - 5 - 0  [0.583] 12
+Elo difference: 58.5 +/- 230.7, LOS: 71.8 %, DrawRatio: 0.0 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 13 of 100 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 13 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 0-1 {Black wins by adjudication}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 7 - 6 - 0  [0.538] 13
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 4 - 3 - 0  [0.571] 7
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 3 - 3 - 0  [0.500] 6
+...      White vs Black: 7 - 6 - 0  [0.538] 13
+Elo difference: 26.8 +/- 212.8, LOS: 60.9 %, DrawRatio: 0.0 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 14 of 100 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 14 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec): 1/2-1/2 {Draw by 3-fold repetition}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 7 - 6 - 1  [0.536] 14
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 4 - 3 - 0  [0.571] 7
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 3 - 3 - 1  [0.500] 7
+...      White vs Black: 7 - 6 - 1  [0.536] 14
+Elo difference: 24.9 +/- 193.7, LOS: 60.9 %, DrawRatio: 7.1 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 15 of 100 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 15 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 0-1 {Black wins by adjudication}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 7 - 7 - 1  [0.500] 15
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 4 - 4 - 0  [0.500] 8
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 3 - 3 - 1  [0.500] 7
+...      White vs Black: 7 - 7 - 1  [0.500] 15
+Elo difference: 0.0 +/- 185.4, LOS: 50.0 %, DrawRatio: 6.7 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 16 of 100 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 16 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec): 1-0 {White wins by adjudication}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 7 - 8 - 1  [0.469] 16
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 4 - 4 - 0  [0.500] 8
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 3 - 4 - 1  [0.438] 8
+...      White vs Black: 8 - 7 - 1  [0.531] 16
+Elo difference: -21.7 +/- 179.5, LOS: 39.8 %, DrawRatio: 6.3 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 17 of 100 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 17 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 1-0 {White wins by adjudication}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 8 - 8 - 1  [0.500] 17
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 5 - 4 - 0  [0.556] 9
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 3 - 4 - 1  [0.438] 8
+...      White vs Black: 9 - 7 - 1  [0.559] 17
+Elo difference: 0.0 +/- 173.0, LOS: 50.0 %, DrawRatio: 5.9 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 18 of 100 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 18 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec): 1-0 {White wins by adjudication}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 8 - 9 - 1  [0.472] 18
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 5 - 4 - 0  [0.556] 9
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 3 - 5 - 1  [0.389] 9
+...      White vs Black: 10 - 7 - 1  [0.583] 18
+Elo difference: -19.3 +/- 168.1, LOS: 40.4 %, DrawRatio: 5.6 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 19 of 100 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 19 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 0-1 {Black wins by adjudication}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 8 - 10 - 1  [0.447] 19
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 5 - 5 - 0  [0.500] 10
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 3 - 5 - 1  [0.389] 9
+...      White vs Black: 10 - 8 - 1  [0.553] 19
+Elo difference: -36.7 +/- 164.3, LOS: 31.9 %, DrawRatio: 5.3 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 20 of 100 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 20 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec): 1-0 {White wins by adjudication}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 8 - 11 - 1  [0.425] 20
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 5 - 5 - 0  [0.500] 10
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 3 - 6 - 1  [0.350] 10
+...      White vs Black: 11 - 8 - 1  [0.575] 20
+Elo difference: -52.5 +/- 161.2, LOS: 24.6 %, DrawRatio: 5.0 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 21 of 100 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 21 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 1-0 {White wins by adjudication}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 9 - 11 - 1  [0.452] 21
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 6 - 5 - 0  [0.545] 11
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 3 - 6 - 1  [0.350] 10
+...      White vs Black: 12 - 8 - 1  [0.595] 21
+Elo difference: -33.2 +/- 155.3, LOS: 32.7 %, DrawRatio: 4.8 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 22 of 100 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 22 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec): 0-1 {Black wins by adjudication}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 10 - 11 - 1  [0.477] 22
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 6 - 5 - 0  [0.545] 11
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 4 - 6 - 1  [0.409] 11
+...      White vs Black: 12 - 9 - 1  [0.568] 22
+Elo difference: -15.8 +/- 150.6, LOS: 41.4 %, DrawRatio: 4.5 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 23 of 100 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 23 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 0-1 {Black wins by adjudication}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 10 - 12 - 1  [0.457] 23
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 6 - 6 - 0  [0.500] 12
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 4 - 6 - 1  [0.409] 11
+...      White vs Black: 12 - 10 - 1  [0.543] 23
+Elo difference: -30.3 +/- 147.7, LOS: 33.5 %, DrawRatio: 4.3 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 24 of 100 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 24 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec): 1-0 {White wins by adjudication}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 10 - 13 - 1  [0.438] 24
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 6 - 6 - 0  [0.500] 12
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 4 - 7 - 1  [0.375] 12
+...      White vs Black: 13 - 10 - 1  [0.563] 24
+Elo difference: -43.7 +/- 145.2, LOS: 26.6 %, DrawRatio: 4.2 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 25 of 100 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 25 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 1-0 {White wins by adjudication}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 11 - 13 - 1  [0.460] 25
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 7 - 6 - 0  [0.538] 13
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 4 - 7 - 1  [0.375] 12
+...      White vs Black: 14 - 10 - 1  [0.580] 25
+Elo difference: -27.9 +/- 141.1, LOS: 34.2 %, DrawRatio: 4.0 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 26 of 100 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 26 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec): 1-0 {White wins by adjudication}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 11 - 14 - 1  [0.442] 26
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 7 - 6 - 0  [0.538] 13
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 4 - 8 - 1  [0.346] 13
+...      White vs Black: 15 - 10 - 1  [0.596] 26
+Elo difference: -40.3 +/- 138.9, LOS: 27.4 %, DrawRatio: 3.8 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 27 of 100 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 27 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 0-1 {Black wins by adjudication}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 11 - 15 - 1  [0.426] 27
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 7 - 7 - 0  [0.500] 14
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 4 - 8 - 1  [0.346] 13
+...      White vs Black: 15 - 11 - 1  [0.574] 27
+Elo difference: -51.9 +/- 136.9, LOS: 21.6 %, DrawRatio: 3.7 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 28 of 100 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 28 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec): 1/2-1/2 {Draw by adjudication}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 11 - 15 - 2  [0.429] 28
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 7 - 7 - 0  [0.500] 14
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 4 - 8 - 2  [0.357] 14
+...      White vs Black: 15 - 11 - 2  [0.571] 28
+Elo difference: -50.0 +/- 131.3, LOS: 21.6 %, DrawRatio: 7.1 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 29 of 100 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 29 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 1/2-1/2 {Draw by insufficient mating material}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 11 - 15 - 3  [0.431] 29
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 7 - 7 - 1  [0.500] 15
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 4 - 8 - 2  [0.357] 14
+...      White vs Black: 15 - 11 - 3  [0.569] 29
+Elo difference: -48.2 +/- 126.2, LOS: 21.6 %, DrawRatio: 10.3 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 30 of 100 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 30 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec): 1-0 {White wins by adjudication}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 11 - 16 - 3  [0.417] 30
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 7 - 7 - 1  [0.500] 15
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 4 - 9 - 2  [0.333] 15
+...      White vs Black: 16 - 11 - 3  [0.583] 30
+Elo difference: -58.5 +/- 124.8, LOS: 16.8 %, DrawRatio: 10.0 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 31 of 100 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 31 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 1-0 {White wins by adjudication}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 12 - 16 - 3  [0.435] 31
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 8 - 7 - 1  [0.531] 16
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 4 - 9 - 2  [0.333] 15
+...      White vs Black: 17 - 11 - 3  [0.597] 31
+Elo difference: -45.1 +/- 122.0, LOS: 22.5 %, DrawRatio: 9.7 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 32 of 100 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 32 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec): 1-0 {White wins by adjudication}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 12 - 17 - 3  [0.422] 32
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 8 - 7 - 1  [0.531] 16
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 4 - 10 - 2  [0.313] 16
+...      White vs Black: 18 - 11 - 3  [0.609] 32
+Elo difference: -54.7 +/- 120.7, LOS: 17.7 %, DrawRatio: 9.4 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 33 of 100 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 33 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 1-0 {White wins by adjudication}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 13 - 17 - 3  [0.439] 33
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 9 - 7 - 1  [0.559] 17
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 4 - 10 - 2  [0.313] 16
+...      White vs Black: 19 - 11 - 3  [0.621] 33
+Elo difference: -42.3 +/- 118.2, LOS: 23.3 %, DrawRatio: 9.1 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 34 of 100 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 34 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec): 1-0 {White wins by adjudication}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 13 - 18 - 3  [0.426] 34
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 9 - 7 - 1  [0.559] 17
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 4 - 11 - 2  [0.294] 17
+...      White vs Black: 20 - 11 - 3  [0.632] 34
+Elo difference: -51.5 +/- 117.0, LOS: 18.5 %, DrawRatio: 8.8 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 35 of 100 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 35 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 0-1 {Black wins by adjudication}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 13 - 19 - 3  [0.414] 35
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 9 - 8 - 1  [0.528] 18
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 4 - 11 - 2  [0.294] 17
+...      White vs Black: 20 - 12 - 3  [0.614] 35
+Elo difference: -60.2 +/- 115.9, LOS: 14.4 %, DrawRatio: 8.6 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 36 of 100 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 36 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec): 1-0 {White wins by adjudication}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 13 - 20 - 3  [0.403] 36
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 9 - 8 - 1  [0.528] 18
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 4 - 12 - 2  [0.278] 18
+...      White vs Black: 21 - 12 - 3  [0.625] 36
+Elo difference: -68.4 +/- 114.9, LOS: 11.2 %, DrawRatio: 8.3 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 37 of 100 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 37 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 0-1 {Black wins by adjudication}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 13 - 21 - 3  [0.392] 37
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 9 - 9 - 1  [0.500] 19
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 4 - 12 - 2  [0.278] 18
+...      White vs Black: 21 - 13 - 3  [0.608] 37
+Elo difference: -76.3 +/- 114.0, LOS: 8.5 %, DrawRatio: 8.1 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 38 of 100 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 38 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec): 0-1 {Black wins by adjudication}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 14 - 21 - 3  [0.408] 38
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 9 - 9 - 1  [0.500] 19
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 5 - 12 - 2  [0.316] 19
+...      White vs Black: 21 - 14 - 3  [0.592] 38
+Elo difference: -64.7 +/- 111.6, LOS: 11.8 %, DrawRatio: 7.9 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 39 of 100 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 39 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 0-1 {Black wins by adjudication}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 14 - 22 - 3  [0.397] 39
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 9 - 10 - 1  [0.475] 20
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 5 - 12 - 2  [0.316] 19
+...      White vs Black: 21 - 15 - 3  [0.577] 39
+Elo difference: -72.3 +/- 110.8, LOS: 9.1 %, DrawRatio: 7.7 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 40 of 100 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 40 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec): 1/2-1/2 {Draw by adjudication}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 14 - 22 - 4  [0.400] 40
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 9 - 10 - 1  [0.475] 20
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 5 - 12 - 3  [0.325] 20
+...      White vs Black: 21 - 15 - 4  [0.575] 40
+Elo difference: -70.4 +/- 107.6, LOS: 9.1 %, DrawRatio: 10.0 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 41 of 100 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 41 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 1-0 {White wins by adjudication}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 15 - 22 - 4  [0.415] 41
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 10 - 10 - 1  [0.500] 21
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 5 - 12 - 3  [0.325] 20
+...      White vs Black: 22 - 15 - 4  [0.585] 41
+Elo difference: -59.9 +/- 105.6, LOS: 12.5 %, DrawRatio: 9.8 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 42 of 100 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 42 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec): 1-0 {White wins by adjudication}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 15 - 23 - 4  [0.405] 42
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 10 - 10 - 1  [0.500] 21
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 5 - 13 - 3  [0.310] 21
+...      White vs Black: 23 - 15 - 4  [0.595] 42
+Elo difference: -67.0 +/- 104.9, LOS: 9.7 %, DrawRatio: 9.5 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 43 of 100 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 43 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 0-1 {Black mates}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 15 - 24 - 4  [0.395] 43
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 10 - 11 - 1  [0.477] 22
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 5 - 13 - 3  [0.310] 21
+...      White vs Black: 23 - 16 - 4  [0.581] 43
+Elo difference: -73.8 +/- 104.2, LOS: 7.5 %, DrawRatio: 9.3 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 44 of 100 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 44 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec): 1-0 {White wins by adjudication}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 15 - 25 - 4  [0.386] 44
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 10 - 11 - 1  [0.477] 22
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 5 - 14 - 3  [0.295] 22
+...      White vs Black: 24 - 16 - 4  [0.591] 44
+Elo difference: -80.4 +/- 103.5, LOS: 5.7 %, DrawRatio: 9.1 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 45 of 100 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 45 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 1-0 {White wins by adjudication}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 16 - 25 - 4  [0.400] 45
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 11 - 11 - 1  [0.500] 23
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 5 - 14 - 3  [0.295] 22
+...      White vs Black: 25 - 16 - 4  [0.600] 45
+Elo difference: -70.4 +/- 101.7, LOS: 8.0 %, DrawRatio: 8.9 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 46 of 100 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 46 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec): 1-0 {Black loses on time}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 16 - 26 - 4  [0.391] 46
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 11 - 11 - 1  [0.500] 23
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 5 - 15 - 3  [0.283] 23
+...      White vs Black: 26 - 16 - 4  [0.609] 46
+Elo difference: -76.8 +/- 101.1, LOS: 6.1 %, DrawRatio: 8.7 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 47 of 100 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 47 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 0-1 {White loses on time}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 16 - 27 - 4  [0.383] 47
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 11 - 12 - 1  [0.479] 24
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 5 - 15 - 3  [0.283] 23
+...      White vs Black: 26 - 17 - 4  [0.596] 47
+Elo difference: -82.9 +/- 100.5, LOS: 4.7 %, DrawRatio: 8.5 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 48 of 100 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 48 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec): 1-0 {Black loses on time}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 16 - 28 - 4  [0.375] 48
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 11 - 12 - 1  [0.479] 24
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 5 - 16 - 3  [0.271] 24
+...      White vs Black: 27 - 17 - 4  [0.604] 48
+Elo difference: -88.7 +/- 99.9, LOS: 3.5 %, DrawRatio: 8.3 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 49 of 100 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 49 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 0-1 {White loses on time}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 16 - 29 - 4  [0.367] 49
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 11 - 13 - 1  [0.460] 25
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 5 - 16 - 3  [0.271] 24
+...      White vs Black: 27 - 18 - 4  [0.592] 49
+Elo difference: -94.4 +/- 99.4, LOS: 2.6 %, DrawRatio: 8.2 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 50 of 100 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 50 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec): 1-0 {Black loses on time}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 16 - 30 - 4  [0.360] 50
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 11 - 13 - 1  [0.460] 25
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 5 - 17 - 3  [0.260] 25
+...      White vs Black: 28 - 18 - 4  [0.600] 50
+Elo difference: -100.0 +/- 98.9, LOS: 1.9 %, DrawRatio: 8.0 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 51 of 100 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 51 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 0-1 {White loses on time}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 16 - 31 - 4  [0.353] 51
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 11 - 14 - 1  [0.442] 26
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 5 - 17 - 3  [0.260] 25
+...      White vs Black: 28 - 19 - 4  [0.588] 51
+Elo difference: -105.3 +/- 98.5, LOS: 1.4 %, DrawRatio: 7.8 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 52 of 100 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 52 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec): 1-0 {Black loses on time}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 16 - 32 - 4  [0.346] 52
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 11 - 14 - 1  [0.442] 26
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 5 - 18 - 3  [0.250] 26
+...      White vs Black: 29 - 19 - 4  [0.596] 52
+Elo difference: -110.5 +/- 98.1, LOS: 1.0 %, DrawRatio: 7.7 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 53 of 100 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 53 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 0-1 {White loses on time}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 16 - 33 - 4  [0.340] 53
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 11 - 15 - 1  [0.426] 27
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 5 - 18 - 3  [0.250] 26
+...      White vs Black: 29 - 20 - 4  [0.585] 53
+Elo difference: -115.5 +/- 97.6, LOS: 0.8 %, DrawRatio: 7.5 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 54 of 100 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 54 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec): 1-0 {Black loses on time}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 16 - 34 - 4  [0.333] 54
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 11 - 15 - 1  [0.426] 27
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 5 - 19 - 3  [0.241] 27
+...      White vs Black: 30 - 20 - 4  [0.593] 54
+Elo difference: -120.4 +/- 97.3, LOS: 0.5 %, DrawRatio: 7.4 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 55 of 100 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 55 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 0-1 {White loses on time}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 16 - 35 - 4  [0.327] 55
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 11 - 16 - 1  [0.411] 28
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 5 - 19 - 3  [0.241] 27
+...      White vs Black: 30 - 21 - 4  [0.582] 55
+Elo difference: -125.2 +/- 96.9, LOS: 0.4 %, DrawRatio: 7.3 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 56 of 100 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 56 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec): 1-0 {Black loses on time}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 16 - 36 - 4  [0.321] 56
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 11 - 16 - 1  [0.411] 28
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 5 - 20 - 3  [0.232] 28
+...      White vs Black: 31 - 21 - 4  [0.589] 56
+Elo difference: -129.8 +/- 96.6, LOS: 0.3 %, DrawRatio: 7.1 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 57 of 100 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 57 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 0-1 {White loses on time}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 16 - 37 - 4  [0.316] 57
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 11 - 17 - 1  [0.397] 29
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 5 - 20 - 3  [0.232] 28
+...      White vs Black: 31 - 22 - 4  [0.579] 57
+Elo difference: -134.3 +/- 96.2, LOS: 0.2 %, DrawRatio: 7.0 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 58 of 100 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 58 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec): 1-0 {Black loses on time}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 16 - 38 - 4  [0.310] 58
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 11 - 17 - 1  [0.397] 29
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 5 - 21 - 3  [0.224] 29
+...      White vs Black: 32 - 22 - 4  [0.586] 58
+Elo difference: -138.7 +/- 95.9, LOS: 0.1 %, DrawRatio: 6.9 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 59 of 100 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 59 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 0-1 {White loses on time}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 16 - 39 - 4  [0.305] 59
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 11 - 18 - 1  [0.383] 30
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 5 - 21 - 3  [0.224] 29
+...      White vs Black: 32 - 23 - 4  [0.576] 59
+Elo difference: -143.0 +/- 95.6, LOS: 0.1 %, DrawRatio: 6.8 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 60 of 100 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 60 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec): 1-0 {Black loses on time}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 16 - 40 - 4  [0.300] 60
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 11 - 18 - 1  [0.383] 30
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 5 - 22 - 3  [0.217] 30
+...      White vs Black: 33 - 23 - 4  [0.583] 60
+Elo difference: -147.2 +/- 95.3, LOS: 0.1 %, DrawRatio: 6.7 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 61 of 100 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 61 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 0-1 {White loses on time}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 16 - 41 - 4  [0.295] 61
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 11 - 19 - 1  [0.371] 31
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 5 - 22 - 3  [0.217] 30
+...      White vs Black: 33 - 24 - 4  [0.574] 61
+Elo difference: -151.3 +/- 95.1, LOS: 0.0 %, DrawRatio: 6.6 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 62 of 100 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 62 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec): 1-0 {Black loses on time}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 16 - 42 - 4  [0.290] 62
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 11 - 19 - 1  [0.371] 31
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 5 - 23 - 3  [0.210] 31
+...      White vs Black: 34 - 24 - 4  [0.581] 62
+Elo difference: -155.3 +/- 94.8, LOS: 0.0 %, DrawRatio: 6.5 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 63 of 100 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 63 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 0-1 {White loses on time}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 16 - 43 - 4  [0.286] 63
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 11 - 20 - 1  [0.359] 32
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 5 - 23 - 3  [0.210] 31
+...      White vs Black: 34 - 25 - 4  [0.571] 63
+Elo difference: -159.2 +/- 94.6, LOS: 0.0 %, DrawRatio: 6.3 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 64 of 100 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 64 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec): 1-0 {Black loses on time}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 16 - 44 - 4  [0.281] 64
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 11 - 20 - 1  [0.359] 32
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 5 - 24 - 3  [0.203] 32
+...      White vs Black: 35 - 25 - 4  [0.578] 64
+Elo difference: -163.0 +/- 94.3, LOS: 0.0 %, DrawRatio: 6.3 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 65 of 100 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 65 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 0-1 {White loses on time}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 16 - 45 - 4  [0.277] 65
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 11 - 21 - 1  [0.348] 33
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 5 - 24 - 3  [0.203] 32
+...      White vs Black: 35 - 26 - 4  [0.569] 65
+Elo difference: -166.7 +/- 94.1, LOS: 0.0 %, DrawRatio: 6.2 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 66 of 100 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 66 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec): 1-0 {Black loses on time}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 16 - 46 - 4  [0.273] 66
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 11 - 21 - 1  [0.348] 33
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 5 - 25 - 3  [0.197] 33
+...      White vs Black: 36 - 26 - 4  [0.576] 66
+Elo difference: -170.4 +/- 93.9, LOS: 0.0 %, DrawRatio: 6.1 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 67 of 100 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 67 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 0-1 {White loses on time}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 16 - 47 - 4  [0.269] 67
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 11 - 22 - 1  [0.338] 34
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 5 - 25 - 3  [0.197] 33
+...      White vs Black: 36 - 27 - 4  [0.567] 67
+Elo difference: -174.0 +/- 93.7, LOS: 0.0 %, DrawRatio: 6.0 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 68 of 100 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 68 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec): 1-0 {Black loses on time}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 16 - 48 - 4  [0.265] 68
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 11 - 22 - 1  [0.338] 34
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 5 - 26 - 3  [0.191] 34
+...      White vs Black: 37 - 27 - 4  [0.574] 68
+Elo difference: -177.5 +/- 93.5, LOS: 0.0 %, DrawRatio: 5.9 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 69 of 100 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 69 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 0-1 {White loses on time}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 16 - 49 - 4  [0.261] 69
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 11 - 23 - 1  [0.329] 35
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 5 - 26 - 3  [0.191] 34
+...      White vs Black: 37 - 28 - 4  [0.565] 69
+Elo difference: -180.9 +/- 93.3, LOS: 0.0 %, DrawRatio: 5.8 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 70 of 100 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 70 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec): 1-0 {Black loses on time}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 16 - 50 - 4  [0.257] 70
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 11 - 23 - 1  [0.329] 35
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 5 - 27 - 3  [0.186] 35
+...      White vs Black: 38 - 28 - 4  [0.571] 70
+Elo difference: -184.3 +/- 93.1, LOS: 0.0 %, DrawRatio: 5.7 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 71 of 100 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 71 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 0-1 {White loses on time}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 16 - 51 - 4  [0.254] 71
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 11 - 24 - 1  [0.319] 36
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 5 - 27 - 3  [0.186] 35
+...      White vs Black: 38 - 29 - 4  [0.563] 71
+Elo difference: -187.6 +/- 93.0, LOS: 0.0 %, DrawRatio: 5.6 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 72 of 100 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 72 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec): 1-0 {Black loses on time}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 16 - 52 - 4  [0.250] 72
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 11 - 24 - 1  [0.319] 36
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 5 - 28 - 3  [0.181] 36
+...      White vs Black: 39 - 29 - 4  [0.569] 72
+Elo difference: -190.8 +/- 92.8, LOS: 0.0 %, DrawRatio: 5.6 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 73 of 100 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 73 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 0-1 {White loses on time}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 16 - 53 - 4  [0.247] 73
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 11 - 25 - 1  [0.311] 37
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 5 - 28 - 3  [0.181] 36
+...      White vs Black: 39 - 30 - 4  [0.562] 73
+Elo difference: -194.0 +/- 92.6, LOS: 0.0 %, DrawRatio: 5.5 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 74 of 100 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 74 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec): 1-0 {Black loses on time}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 16 - 54 - 4  [0.243] 74
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 11 - 25 - 1  [0.311] 37
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 5 - 29 - 3  [0.176] 37
+...      White vs Black: 40 - 30 - 4  [0.568] 74
+Elo difference: -197.2 +/- 92.5, LOS: 0.0 %, DrawRatio: 5.4 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 75 of 100 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 75 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 0-1 {White loses on time}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 16 - 55 - 4  [0.240] 75
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 11 - 26 - 1  [0.303] 38
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 5 - 29 - 3  [0.176] 37
+...      White vs Black: 40 - 31 - 4  [0.560] 75
+Elo difference: -200.2 +/- 92.3, LOS: 0.0 %, DrawRatio: 5.3 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 76 of 100 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 76 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec): 1-0 {Black loses on time}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 16 - 56 - 4  [0.237] 76
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 11 - 26 - 1  [0.303] 38
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 5 - 30 - 3  [0.171] 38
+...      White vs Black: 41 - 31 - 4  [0.566] 76
+Elo difference: -203.3 +/- 92.2, LOS: 0.0 %, DrawRatio: 5.3 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 77 of 100 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 77 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 0-1 {White loses on time}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 16 - 57 - 4  [0.234] 77
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 11 - 27 - 1  [0.295] 39
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 5 - 30 - 3  [0.171] 38
+...      White vs Black: 41 - 32 - 4  [0.558] 77
+Elo difference: -206.2 +/- 92.0, LOS: 0.0 %, DrawRatio: 5.2 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 78 of 100 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 78 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec): 1-0 {Black loses on time}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 16 - 58 - 4  [0.231] 78
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 11 - 27 - 1  [0.295] 39
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 5 - 31 - 3  [0.167] 39
+...      White vs Black: 42 - 32 - 4  [0.564] 78
+Elo difference: -209.2 +/- 91.9, LOS: 0.0 %, DrawRatio: 5.1 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 79 of 100 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 79 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 0-1 {White loses on time}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 16 - 59 - 4  [0.228] 79
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 11 - 28 - 1  [0.287] 40
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 5 - 31 - 3  [0.167] 39
+...      White vs Black: 42 - 33 - 4  [0.557] 79
+Elo difference: -212.0 +/- 91.7, LOS: 0.0 %, DrawRatio: 5.1 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 80 of 100 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 80 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec): 1-0 {Black loses on time}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 16 - 60 - 4  [0.225] 80
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 11 - 28 - 1  [0.287] 40
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 5 - 32 - 3  [0.163] 40
+...      White vs Black: 43 - 33 - 4  [0.563] 80
+Elo difference: -214.8 +/- 91.6, LOS: 0.0 %, DrawRatio: 5.0 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 81 of 100 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 81 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 0-1 {White loses on time}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 16 - 61 - 4  [0.222] 81
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 11 - 29 - 1  [0.280] 41
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 5 - 32 - 3  [0.163] 40
+...      White vs Black: 43 - 34 - 4  [0.556] 81
+Elo difference: -217.6 +/- 91.5, LOS: 0.0 %, DrawRatio: 4.9 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 82 of 100 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 82 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec): 1-0 {Black loses on time}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 16 - 62 - 4  [0.220] 82
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 11 - 29 - 1  [0.280] 41
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 5 - 33 - 3  [0.159] 41
+...      White vs Black: 44 - 34 - 4  [0.561] 82
+Elo difference: -220.4 +/- 91.4, LOS: 0.0 %, DrawRatio: 4.9 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 83 of 100 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 83 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 0-1 {White loses on time}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 16 - 63 - 4  [0.217] 83
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 11 - 30 - 1  [0.274] 42
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 5 - 33 - 3  [0.159] 41
+...      White vs Black: 44 - 35 - 4  [0.554] 83
+Elo difference: -223.1 +/- 91.3, LOS: 0.0 %, DrawRatio: 4.8 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 84 of 100 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 84 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec): 1-0 {Black loses on time}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 16 - 64 - 4  [0.214] 84
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 11 - 30 - 1  [0.274] 42
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 5 - 34 - 3  [0.155] 42
+...      White vs Black: 45 - 35 - 4  [0.560] 84
+Elo difference: -225.7 +/- 91.1, LOS: 0.0 %, DrawRatio: 4.8 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 85 of 100 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 85 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 0-1 {White loses on time}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 16 - 65 - 4  [0.212] 85
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 11 - 31 - 1  [0.267] 43
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 5 - 34 - 3  [0.155] 42
+...      White vs Black: 45 - 36 - 4  [0.553] 85
+Elo difference: -228.3 +/- 91.0, LOS: 0.0 %, DrawRatio: 4.7 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 86 of 100 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 86 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec): 1-0 {Black loses on time}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 16 - 66 - 4  [0.209] 86
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 11 - 31 - 1  [0.267] 43
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 5 - 35 - 3  [0.151] 43
+...      White vs Black: 46 - 36 - 4  [0.558] 86
+Elo difference: -230.9 +/- 90.9, LOS: 0.0 %, DrawRatio: 4.7 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 87 of 100 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 87 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 0-1 {White loses on time}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 16 - 67 - 4  [0.207] 87
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 11 - 32 - 1  [0.261] 44
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 5 - 35 - 3  [0.151] 43
+...      White vs Black: 46 - 37 - 4  [0.552] 87
+Elo difference: -233.4 +/- 90.8, LOS: 0.0 %, DrawRatio: 4.6 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 88 of 100 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 88 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec): 1-0 {Black loses on time}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 16 - 68 - 4  [0.205] 88
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 11 - 32 - 1  [0.261] 44
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 5 - 36 - 3  [0.148] 44
+...      White vs Black: 47 - 37 - 4  [0.557] 88
+Elo difference: -235.9 +/- 90.7, LOS: 0.0 %, DrawRatio: 4.5 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 89 of 100 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 89 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 0-1 {White loses on time}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 16 - 69 - 4  [0.202] 89
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 11 - 33 - 1  [0.256] 45
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 5 - 36 - 3  [0.148] 44
+...      White vs Black: 47 - 38 - 4  [0.551] 89
+Elo difference: -238.4 +/- 90.6, LOS: 0.0 %, DrawRatio: 4.5 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 90 of 100 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 90 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec): 1-0 {Black loses on time}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 16 - 70 - 4  [0.200] 90
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 11 - 33 - 1  [0.256] 45
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 5 - 37 - 3  [0.144] 45
+...      White vs Black: 48 - 38 - 4  [0.556] 90
+Elo difference: -240.8 +/- 90.5, LOS: 0.0 %, DrawRatio: 4.4 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 91 of 100 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 91 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 0-1 {White loses on time}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 16 - 71 - 4  [0.198] 91
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 11 - 34 - 1  [0.250] 46
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 5 - 37 - 3  [0.144] 45
+...      White vs Black: 48 - 39 - 4  [0.549] 91
+Elo difference: -243.2 +/- 90.4, LOS: 0.0 %, DrawRatio: 4.4 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 92 of 100 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 92 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec): 1-0 {Black loses on time}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 16 - 72 - 4  [0.196] 92
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 11 - 34 - 1  [0.250] 46
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 5 - 38 - 3  [0.141] 46
+...      White vs Black: 49 - 39 - 4  [0.554] 92
+Elo difference: -245.6 +/- 90.3, LOS: 0.0 %, DrawRatio: 4.3 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 93 of 100 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 93 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 0-1 {White loses on time}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 16 - 73 - 4  [0.194] 93
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 11 - 35 - 1  [0.245] 47
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 5 - 38 - 3  [0.141] 46
+...      White vs Black: 49 - 40 - 4  [0.548] 93
+Elo difference: -247.9 +/- 90.3, LOS: 0.0 %, DrawRatio: 4.3 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 94 of 100 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 94 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec): 1-0 {Black loses on time}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 16 - 74 - 4  [0.191] 94
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 11 - 35 - 1  [0.245] 47
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 5 - 39 - 3  [0.138] 47
+...      White vs Black: 50 - 40 - 4  [0.553] 94
+Elo difference: -250.2 +/- 90.2, LOS: 0.0 %, DrawRatio: 4.3 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 95 of 100 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 95 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 0-1 {White loses on time}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 16 - 75 - 4  [0.189] 95
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 11 - 36 - 1  [0.240] 48
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 5 - 39 - 3  [0.138] 47
+...      White vs Black: 50 - 41 - 4  [0.547] 95
+Elo difference: -252.5 +/- 90.1, LOS: 0.0 %, DrawRatio: 4.2 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 96 of 100 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 96 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec): 1-0 {Black loses on time}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 16 - 76 - 4  [0.188] 96
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 11 - 36 - 1  [0.240] 48
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 5 - 40 - 3  [0.135] 48
+...      White vs Black: 51 - 41 - 4  [0.552] 96
+Elo difference: -254.7 +/- 90.0, LOS: 0.0 %, DrawRatio: 4.2 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 97 of 100 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 97 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 0-1 {White loses on time}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 16 - 77 - 4  [0.186] 97
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 11 - 37 - 1  [0.235] 49
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 5 - 40 - 3  [0.135] 48
+...      White vs Black: 51 - 42 - 4  [0.546] 97
+Elo difference: -256.9 +/- 89.9, LOS: 0.0 %, DrawRatio: 4.1 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 98 of 100 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 98 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec): 1-0 {Black loses on time}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 16 - 78 - 4  [0.184] 98
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 11 - 37 - 1  [0.235] 49
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 5 - 41 - 3  [0.133] 49
+...      White vs Black: 52 - 42 - 4  [0.551] 98
+Elo difference: -259.1 +/- 89.9, LOS: 0.0 %, DrawRatio: 4.1 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 99 of 100 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min)
+Finished game 99 (Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min): 0-1 {White loses on time}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 16 - 79 - 4  [0.182] 99
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 11 - 38 - 1  [0.230] 50
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 5 - 41 - 3  [0.133] 49
+...      White vs Black: 52 - 43 - 4  [0.545] 99
+Elo difference: -261.3 +/- 89.8, LOS: 0.0 %, DrawRatio: 4.0 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+Started game 100 of 100 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec)
+Finished game 100 (Stockfish_Ver16_UCI_Elo=1785_tc=40/15min vs Stockfish_Ver16_Skill=4_st=0.100sec): 1-0 {Black loses on time}
+Score of Stockfish_Ver16_Skill=4_st=0.100sec vs Stockfish_Ver16_UCI_Elo=1785_tc=40/15min: 16 - 80 - 4  [0.180] 100
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing White: 11 - 38 - 1  [0.230] 50
+...      Stockfish_Ver16_Skill=4_st=0.100sec playing Black: 5 - 42 - 3  [0.130] 50
+...      White vs Black: 53 - 43 - 4  [0.550] 100
+Elo difference: -263.4 +/- 89.7, LOS: 0.0 %, DrawRatio: 4.0 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+
+Player: Stockfish_Ver16_Skill=4_st=0.100sec
+   "Draw by 3-fold repetition": 1
+   "Draw by adjudication": 2
+   "Draw by insufficient mating material": 1
+   "Loss: Black loses on time": 28
+   "Loss: Black mates": 1
+   "Loss: Black wins by adjudication": 10
+   "Loss: White loses on time": 27
+   "Loss: White wins by adjudication": 14
+   "Win: Black wins by adjudication": 5
+   "Win: White wins by adjudication": 11
+Player: Stockfish_Ver16_UCI_Elo=1785_tc=40/15min
+   "Draw by 3-fold repetition": 1
+   "Draw by adjudication": 2
+   "Draw by insufficient mating material": 1
+   "Loss: Black wins by adjudication": 5
+   "Loss: White wins by adjudication": 11
+   "Win: Black loses on time": 28
+   "Win: Black mates": 1
+   "Win: Black wins by adjudication": 10
+   "Win: White loses on time": 27
+   "Win: White wins by adjudication": 14
+Finished match

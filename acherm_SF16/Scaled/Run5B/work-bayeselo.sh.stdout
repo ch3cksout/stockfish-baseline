@@ -1,0 +1,187 @@
+version 0057, Copyright (C) 1997-2010 Remi Coulom.
+compiled Oct 21 2023 19:25:39.
+This program comes with ABSOLUTELY NO WARRANTY.
+This is free software, and you are welcome to redistribute it
+under the terms and conditions of the GNU General Public License.
+See http://www.gnu.org/copyleft/gpl.html for details.
+ResultSet>ResultSet>ResultSet-EloRating>00:00:00,00
+ResultSet-EloRating>ResultSet-EloRating>ResultSet>Unknown command: prediction
+type '?' for help
+ResultSet>
+Syntax for command lines
+~~~~~~~~~~~~~~~~~~~~~~~~
+_command_ _parameters_ [< _input_] [>[>] _output_] [;_comment_]
+
+Universal commands
+~~~~~~~~~~~~~~~~~~
+x ............... close this console interface
+p ............... go to the parent interface
+children ........ list children interfaces
+child <n> ....... select a child interface
+
+echo <params> ... repeat <params> to the output stream
+! [<command>] ... make a system call
+prompt [on|off] . show|hide the command prompt
+myself <n> ...... call recursively this interface <n> times
+
+ResultSet commands
+~~~~~~~~~~~~~~~~~~
+players ......... list players
+names ........... alphabetical list of player names
+results ......... list game results
+pgn ............. write results in PGN format
+
+reset ........... reset results and players
+addplayer <pn> .. add one player with name <pn>
+addresult w b r . add result (w = white, b = black, r = result)
+                   r = 0 (b wins), 1 (draw), or 2 (w wins)
+removeresult n .. remove result number
+removeplayer n .. remove games of player n
+removerare n .... remove games of players with less than n games
+pack ............ pack players (remove players with 0 games)
+readpgn <file>... read PGN file
+connect [p] [fr]  remove players not connected to p [fr=forbidden result]
+
+elo ............. open Elo-estimation interface
+
+ResultSet>  Game White Name of White                            Black Name of Black                            Result
+     0     0 Stockfish_Ver16_Skill=4_st=0.100sec          1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min    1-0
+     1     1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     0 Stockfish_Ver16_Skill=4_st=0.100sec         0-1
+     2     0 Stockfish_Ver16_Skill=4_st=0.100sec          1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min    0-1
+     3     1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     0 Stockfish_Ver16_Skill=4_st=0.100sec         1-0
+     4     0 Stockfish_Ver16_Skill=4_st=0.100sec          1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min    1-0
+     5     1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     0 Stockfish_Ver16_Skill=4_st=0.100sec         0-1
+     6     0 Stockfish_Ver16_Skill=4_st=0.100sec          1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min    1-0
+     7     1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     0 Stockfish_Ver16_Skill=4_st=0.100sec         0-1
+     8     0 Stockfish_Ver16_Skill=4_st=0.100sec          1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min    1-0
+     9     1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     0 Stockfish_Ver16_Skill=4_st=0.100sec         1-0
+    10     0 Stockfish_Ver16_Skill=4_st=0.100sec          1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min    0-1
+    11     1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     0 Stockfish_Ver16_Skill=4_st=0.100sec         1-0
+    12     0 Stockfish_Ver16_Skill=4_st=0.100sec          1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min    0-1
+    13     1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     0 Stockfish_Ver16_Skill=4_st=0.100sec         1/2
+    14     0 Stockfish_Ver16_Skill=4_st=0.100sec          1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min    0-1
+    15     1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     0 Stockfish_Ver16_Skill=4_st=0.100sec         1-0
+    16     0 Stockfish_Ver16_Skill=4_st=0.100sec          1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min    1-0
+    17     1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     0 Stockfish_Ver16_Skill=4_st=0.100sec         1-0
+    18     0 Stockfish_Ver16_Skill=4_st=0.100sec          1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min    0-1
+    19     1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     0 Stockfish_Ver16_Skill=4_st=0.100sec         1-0
+    20     0 Stockfish_Ver16_Skill=4_st=0.100sec          1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min    1-0
+    21     1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     0 Stockfish_Ver16_Skill=4_st=0.100sec         0-1
+    22     0 Stockfish_Ver16_Skill=4_st=0.100sec          1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min    0-1
+    23     1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     0 Stockfish_Ver16_Skill=4_st=0.100sec         1-0
+    24     0 Stockfish_Ver16_Skill=4_st=0.100sec          1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min    1-0
+    25     1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     0 Stockfish_Ver16_Skill=4_st=0.100sec         1-0
+    26     0 Stockfish_Ver16_Skill=4_st=0.100sec          1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min    0-1
+    27     1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     0 Stockfish_Ver16_Skill=4_st=0.100sec         1/2
+    28     0 Stockfish_Ver16_Skill=4_st=0.100sec          1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min    1/2
+    29     1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     0 Stockfish_Ver16_Skill=4_st=0.100sec         1-0
+    30     0 Stockfish_Ver16_Skill=4_st=0.100sec          1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min    1-0
+    31     1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     0 Stockfish_Ver16_Skill=4_st=0.100sec         1-0
+    32     0 Stockfish_Ver16_Skill=4_st=0.100sec          1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min    1-0
+    33     1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     0 Stockfish_Ver16_Skill=4_st=0.100sec         1-0
+    34     0 Stockfish_Ver16_Skill=4_st=0.100sec          1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min    0-1
+    35     1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     0 Stockfish_Ver16_Skill=4_st=0.100sec         1-0
+    36     0 Stockfish_Ver16_Skill=4_st=0.100sec          1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min    0-1
+    37     1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     0 Stockfish_Ver16_Skill=4_st=0.100sec         0-1
+    38     0 Stockfish_Ver16_Skill=4_st=0.100sec          1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min    0-1
+    39     1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     0 Stockfish_Ver16_Skill=4_st=0.100sec         1/2
+    40     0 Stockfish_Ver16_Skill=4_st=0.100sec          1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min    1-0
+    41     1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     0 Stockfish_Ver16_Skill=4_st=0.100sec         1-0
+    42     0 Stockfish_Ver16_Skill=4_st=0.100sec          1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min    0-1
+    43     1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     0 Stockfish_Ver16_Skill=4_st=0.100sec         1-0
+    44     0 Stockfish_Ver16_Skill=4_st=0.100sec          1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min    1-0
+    45     1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     0 Stockfish_Ver16_Skill=4_st=0.100sec         1-0
+    46     0 Stockfish_Ver16_Skill=4_st=0.100sec          1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min    0-1
+    47     1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     0 Stockfish_Ver16_Skill=4_st=0.100sec         1-0
+    48     0 Stockfish_Ver16_Skill=4_st=0.100sec          1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min    0-1
+    49     1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     0 Stockfish_Ver16_Skill=4_st=0.100sec         1-0
+    50     0 Stockfish_Ver16_Skill=4_st=0.100sec          1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min    0-1
+    51     1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     0 Stockfish_Ver16_Skill=4_st=0.100sec         1-0
+    52     0 Stockfish_Ver16_Skill=4_st=0.100sec          1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min    0-1
+    53     1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     0 Stockfish_Ver16_Skill=4_st=0.100sec         1-0
+    54     0 Stockfish_Ver16_Skill=4_st=0.100sec          1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min    0-1
+    55     1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     0 Stockfish_Ver16_Skill=4_st=0.100sec         1-0
+    56     0 Stockfish_Ver16_Skill=4_st=0.100sec          1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min    0-1
+    57     1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     0 Stockfish_Ver16_Skill=4_st=0.100sec         1-0
+    58     0 Stockfish_Ver16_Skill=4_st=0.100sec          1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min    0-1
+    59     1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     0 Stockfish_Ver16_Skill=4_st=0.100sec         1-0
+    60     0 Stockfish_Ver16_Skill=4_st=0.100sec          1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min    0-1
+    61     1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     0 Stockfish_Ver16_Skill=4_st=0.100sec         1-0
+    62     0 Stockfish_Ver16_Skill=4_st=0.100sec          1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min    0-1
+    63     1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     0 Stockfish_Ver16_Skill=4_st=0.100sec         1-0
+    64     0 Stockfish_Ver16_Skill=4_st=0.100sec          1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min    0-1
+    65     1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     0 Stockfish_Ver16_Skill=4_st=0.100sec         1-0
+    66     0 Stockfish_Ver16_Skill=4_st=0.100sec          1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min    0-1
+    67     1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     0 Stockfish_Ver16_Skill=4_st=0.100sec         1-0
+    68     0 Stockfish_Ver16_Skill=4_st=0.100sec          1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min    0-1
+    69     1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     0 Stockfish_Ver16_Skill=4_st=0.100sec         1-0
+    70     0 Stockfish_Ver16_Skill=4_st=0.100sec          1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min    0-1
+    71     1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     0 Stockfish_Ver16_Skill=4_st=0.100sec         1-0
+    72     0 Stockfish_Ver16_Skill=4_st=0.100sec          1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min    0-1
+    73     1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     0 Stockfish_Ver16_Skill=4_st=0.100sec         1-0
+    74     0 Stockfish_Ver16_Skill=4_st=0.100sec          1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min    0-1
+    75     1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     0 Stockfish_Ver16_Skill=4_st=0.100sec         1-0
+    76     0 Stockfish_Ver16_Skill=4_st=0.100sec          1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min    0-1
+    77     1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     0 Stockfish_Ver16_Skill=4_st=0.100sec         1-0
+    78     0 Stockfish_Ver16_Skill=4_st=0.100sec          1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min    0-1
+    79     1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     0 Stockfish_Ver16_Skill=4_st=0.100sec         1-0
+    80     0 Stockfish_Ver16_Skill=4_st=0.100sec          1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min    0-1
+    81     1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     0 Stockfish_Ver16_Skill=4_st=0.100sec         1-0
+    82     0 Stockfish_Ver16_Skill=4_st=0.100sec          1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min    0-1
+    83     1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     0 Stockfish_Ver16_Skill=4_st=0.100sec         1-0
+    84     0 Stockfish_Ver16_Skill=4_st=0.100sec          1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min    0-1
+    85     1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     0 Stockfish_Ver16_Skill=4_st=0.100sec         1-0
+    86     0 Stockfish_Ver16_Skill=4_st=0.100sec          1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min    0-1
+    87     1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     0 Stockfish_Ver16_Skill=4_st=0.100sec         1-0
+    88     0 Stockfish_Ver16_Skill=4_st=0.100sec          1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min    0-1
+    89     1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     0 Stockfish_Ver16_Skill=4_st=0.100sec         1-0
+    90     0 Stockfish_Ver16_Skill=4_st=0.100sec          1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min    0-1
+    91     1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     0 Stockfish_Ver16_Skill=4_st=0.100sec         1-0
+    92     0 Stockfish_Ver16_Skill=4_st=0.100sec          1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min    0-1
+    93     1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     0 Stockfish_Ver16_Skill=4_st=0.100sec         1-0
+    94     0 Stockfish_Ver16_Skill=4_st=0.100sec          1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min    0-1
+    95     1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     0 Stockfish_Ver16_Skill=4_st=0.100sec         1-0
+    96     0 Stockfish_Ver16_Skill=4_st=0.100sec          1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min    0-1
+    97     1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     0 Stockfish_Ver16_Skill=4_st=0.100sec         1-0
+    98     0 Stockfish_Ver16_Skill=4_st=0.100sec          1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min    0-1
+    99     1 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min     0 Stockfish_Ver16_Skill=4_st=0.100sec         1-0
+ResultSet>
+Syntax for command lines
+~~~~~~~~~~~~~~~~~~~~~~~~
+_command_ _parameters_ [< _input_] [>[>] _output_] [;_comment_]
+
+Universal commands
+~~~~~~~~~~~~~~~~~~
+x ............... close this console interface
+p ............... go to the parent interface
+children ........ list children interfaces
+child <n> ....... select a child interface
+
+echo <params> ... repeat <params> to the output stream
+! [<command>] ... make a system call
+prompt [on|off] . show|hide the command prompt
+myself <n> ...... call recursively this interface <n> times
+
+ResultSet commands
+~~~~~~~~~~~~~~~~~~
+players ......... list players
+names ........... alphabetical list of player names
+results ......... list game results
+pgn ............. write results in PGN format
+
+reset ........... reset results and players
+addplayer <pn> .. add one player with name <pn>
+addresult w b r . add result (w = white, b = black, r = result)
+                   r = 0 (b wins), 1 (draw), or 2 (w wins)
+removeresult n .. remove result number
+removeplayer n .. remove games of player n
+removerare n .... remove games of players with less than n games
+pack ............ pack players (remove players with 0 games)
+readpgn <file>... read PGN file
+connect [p] [fr]  remove players not connected to p [fr=forbidden result]
+
+elo ............. open Elo-estimation interface
+
+ResultSet>ResultSet>ResultSet>Unknown command: simulate
+type '?' for help
+ResultSet>

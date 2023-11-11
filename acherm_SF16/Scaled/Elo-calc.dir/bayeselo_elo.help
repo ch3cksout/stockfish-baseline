@@ -1,0 +1,62 @@
+
+Syntax for command lines
+~~~~~~~~~~~~~~~~~~~~~~~~
+_command_ _parameters_ [< _input_] [>[>] _output_] [;_comment_]
+
+Universal commands
+~~~~~~~~~~~~~~~~~~
+x ............... close this console interface
+p ............... go to the parent interface
+children ........ list children interfaces
+child <n> ....... select a child interface
+
+echo <params> ... repeat <params> to the output stream
+! [<command>] ... make a system call
+prompt [on|off] . show|hide the command prompt
+myself <n> ...... call recursively this interface <n> times
+
+EloRating commands
+~~~~~~~~~~~~~~~~~~
+advantage [x] ... get[set] advantage of playing first
+drawelo [x] ..... get[set] draw Elo
+prior [x] ....... get[set] prior (= number of virtual draws)
+elo [p] [elo] ... get[set] Elo of player number p
+mm [a] [d] ...... compute maximum-likelihood Elos:
+                   a: flag to compute advantage (default = 0)
+                   d: flag to compute elodraw (default = 0)
+elostat ......... compute ratings with ELOstat algorithm
+
+ratings [min [f [F]]] list players and their ratings:
+                   min: minimum number of games
+                   f: file name that contains the list of names
+                   F: Full-rank flag (0 or 1, default 0)
+details ......... detailed list
+offset [elo [pl]] get[set] Elo offset, or player (pl) elo
+scale ........... get[set] Elo scale
+
+p <w> <b> <r> ... probability of result <r> with Elos <w> and <b>
+likelihood ...... log-likelihood of the current Elo list
+prediction ...... open prediction interface
+
+plotres [i] [M] . plot result likelihoods as a function of rating diff:
+                   i: number of intervals (default = 21)
+                   M: maximum rating difference (default = 500)
+plotdraw [n] [d]  plot draw frequency as a function of average rating
+                   n: number of games per group (default = 100)
+                   d: maximum rating difference (default = 100)
+
+confidence ...... get[set] level of confidence intervals
+variance ........ compute intervals with the diagonal of the Hessian
+covariance ...... compute intervals with the full Hessian
+los [f] [p] [w] . likelihood of superiority (f=first,p=players,w=width)
+
+minelo [x] ...... get[set] minimum Elo
+maxelo [x] ...... get[set] maximum Elo
+resolution [n] .. get[set] resolution
+jointdist [p] ... compute intervals from joint distribution
+exactdist [p] ... compute intervals assuming exact opponent Elos
+advdist ......... likelihood distribution of advantage
+drawdist ........ likelihood distribution of drawelo
+
+pairstats i j ... get stats between players i and j
+

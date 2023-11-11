@@ -1,2 +1,0 @@
-Group connectivity: **PASSED**
-All players are connected into only one group.

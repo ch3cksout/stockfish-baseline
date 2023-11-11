@@ -1,0 +1,44 @@
+version 0057, Copyright (C) 1997-2010 Remi Coulom.
+compiled Oct 21 2023 19:25:39.
+This program comes with ABSOLUTELY NO WARRANTY.
+This is free software, and you are welcome to redistribute it
+under the terms and conditions of the GNU General Public License.
+See http://www.gnu.org/copyleft/gpl.html for details.
+ResultSet>
+Syntax for command lines
+~~~~~~~~~~~~~~~~~~~~~~~~
+_command_ _parameters_ [< _input_] [>[>] _output_] [;_comment_]
+
+Universal commands
+~~~~~~~~~~~~~~~~~~
+x ............... close this console interface
+p ............... go to the parent interface
+children ........ list children interfaces
+child <n> ....... select a child interface
+
+echo <params> ... repeat <params> to the output stream
+! [<command>] ... make a system call
+prompt [on|off] . show|hide the command prompt
+myself <n> ...... call recursively this interface <n> times
+
+ResultSet commands
+~~~~~~~~~~~~~~~~~~
+players ......... list players
+names ........... alphabetical list of player names
+results ......... list game results
+pgn ............. write results in PGN format
+
+reset ........... reset results and players
+addplayer <pn> .. add one player with name <pn>
+addresult w b r . add result (w = white, b = black, r = result)
+                   r = 0 (b wins), 1 (draw), or 2 (w wins)
+removeresult n .. remove result number
+removeplayer n .. remove games of player n
+removerare n .... remove games of players with less than n games
+pack ............ pack players (remove players with 0 games)
+readpgn <file>... read PGN file
+connect [p] [fr]  remove players not connected to p [fr=forbidden result]
+
+elo ............. open Elo-estimation interface
+
+ResultSet>

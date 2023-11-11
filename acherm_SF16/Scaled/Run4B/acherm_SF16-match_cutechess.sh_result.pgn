@@ -7177,3 +7177,30 @@ Nxb5 {+35.27/15 0.17s} 39. Kc2 {-38.12/18 0.069s} Nxa3+ {+M17/28 0.57s}
 40. Kd2 {-M30/21 0.070s} Rxb6 {+M15/21 0.096s}
 41. Kc3 {-M16/22 0.068s, Black wins by adjudication} 0-1
 
+[Event "Stockfish Elo baseline testing: various time controls"]
+[Site "ch3cksout@skiff.com: localhost"]
+[Date "2023.11.09"]
+[Round "48"]
+[White "Stockfish_Ver16_UCI_Elo=1785_tc=40/15min"]
+[Black "Stockfish_Ver16_Skill=4_st=0.100sec"]
+[Result "0-1"]
+[BlackTimeControl "0.068/move"]
+[FEN "r1bq1rk1/1ppp1ppp/p1n2n2/8/1bPP4/2N3P1/PP2NPBP/R1BQK2R w KQ - 0 1"]
+[GameDuration "00:05:14"]
+[GameEndTime "2023-11-09T05:30:14.726 CET"]
+[GameStartTime "2023-11-09T05:25:00.472 CET"]
+[PlyCount "25"]
+[SetUp "1"]
+[Termination "adjudication"]
+[WhiteTimeControl "40/653"]
+
+1. c5 {+0.72/29 53s} d6 {+0.25/11 0.068s} 2. cxd6 {-0.19/25 13s}
+Qxd6 {+0.21/10 0.070s} 3. h3 {+0.21/24 16s} Be6 {+0.44/11 0.068s}
+4. a3 {-0.16/25 14s} Bxc3+ {+1.17/12 0.069s} 5. Nxc3 {-1.13/27 21s}
+Bc4 {+2.25/11 0.068s} 6. Bf1 {-2.36/27 23s} Rfe8+ {+3.15/12 0.068s}
+7. Be3 {-5.39/27 21s} Rxe3+ {+3.41/12 0.068s} 8. fxe3 {-5.47/28 28s}
+Qxg3+ {+3.82/11 0.070s} 9. Kd2 {-5.49/22 0.65s} Na5 {+4.25/12 0.068s}
+10. a4 {-5.40/33 58s} Nb3+ {+5.21/13 0.068s} 11. Qxb3 {-6.13/28 15s}
+Qf2+ {+6.51/13 0.068s} 12. Ne2 {-6.22/26 32s} Bxb3 {+7.18/12 0.068s}
+13. Rh2 {-M30/48 19s, Black wins by adjudication} 0-1
+
