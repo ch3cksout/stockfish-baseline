@@ -1,0 +1,2 @@
+BEWARE default hash table size for Stockfish is 16 MB, very small!
+

@@ -1,0 +1,1440 @@
+1. Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+<__main__.GPTPlayer object at 0x7f1d53895190> provided illegal moves for 5 attempts.
+Game over: 5 consecutive illegal moves from <__main__.GPTPlayer object at 0x7f1d53895190>
+
+Game over. Total time: 0.0005669593811035156 seconds
+Result: *
+r n b q k b n r
+p p p p p p p p
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+P P P P P P P P
+R N B Q K B N R
+
+1. Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+<__main__.GPTPlayer object at 0x7f1d53895190> provided illegal moves for 5 attempts.
+Game over: 5 consecutive illegal moves from <__main__.GPTPlayer object at 0x7f1d53895190>
+
+Game over. Total time: 0.0010232925415039062 seconds
+Result: *
+r n b q k b n r
+p p p p p p p p
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+P P P P P P P P
+R N B Q K B N R
+
+1. Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+<__main__.GPTPlayer object at 0x7f1d53895190> provided illegal moves for 5 attempts.
+Game over: 5 consecutive illegal moves from <__main__.GPTPlayer object at 0x7f1d53895190>
+
+Game over. Total time: 0.0010480880737304688 seconds
+Result: *
+r n b q k b n r
+p p p p p p p p
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+P P P P P P P P
+R N B Q K B N R
+
+1. Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+<__main__.GPTPlayer object at 0x7f1d53895190> provided illegal moves for 5 attempts.
+Game over: 5 consecutive illegal moves from <__main__.GPTPlayer object at 0x7f1d53895190>
+
+Game over. Total time: 0.0009765625 seconds
+Result: *
+r n b q k b n r
+p p p p p p p p
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+P P P P P P P P
+R N B Q K B N R
+
+1. Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+<__main__.GPTPlayer object at 0x7f1d53895190> provided illegal moves for 5 attempts.
+Game over: 5 consecutive illegal moves from <__main__.GPTPlayer object at 0x7f1d53895190>
+
+Game over. Total time: 0.0009114742279052734 seconds
+Result: *
+r n b q k b n r
+p p p p p p p p
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+P P P P P P P P
+R N B Q K B N R
+
+1. Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+<__main__.GPTPlayer object at 0x7f1d53895190> provided illegal moves for 5 attempts.
+Game over: 5 consecutive illegal moves from <__main__.GPTPlayer object at 0x7f1d53895190>
+
+Game over. Total time: 0.0009238719940185547 seconds
+Result: *
+r n b q k b n r
+p p p p p p p p
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+P P P P P P P P
+R N B Q K B N R
+
+1. Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+<__main__.GPTPlayer object at 0x7f1d53895190> provided illegal moves for 5 attempts.
+Game over: 5 consecutive illegal moves from <__main__.GPTPlayer object at 0x7f1d53895190>
+
+Game over. Total time: 0.0009598731994628906 seconds
+Result: *
+r n b q k b n r
+p p p p p p p p
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+P P P P P P P P
+R N B Q K B N R
+
+1. Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+<__main__.GPTPlayer object at 0x7f1d53895190> provided illegal moves for 5 attempts.
+Game over: 5 consecutive illegal moves from <__main__.GPTPlayer object at 0x7f1d53895190>
+
+Game over. Total time: 0.0009264945983886719 seconds
+Result: *
+r n b q k b n r
+p p p p p p p p
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+P P P P P P P P
+R N B Q K B N R
+
+1. Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+<__main__.GPTPlayer object at 0x7f1d53895190> provided illegal moves for 5 attempts.
+Game over: 5 consecutive illegal moves from <__main__.GPTPlayer object at 0x7f1d53895190>
+
+Game over. Total time: 0.0009508132934570312 seconds
+Result: *
+r n b q k b n r
+p p p p p p p p
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+P P P P P P P P
+R N B Q K B N R
+
+1. Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+<__main__.GPTPlayer object at 0x7f1d53895190> provided illegal moves for 5 attempts.
+Game over: 5 consecutive illegal moves from <__main__.GPTPlayer object at 0x7f1d53895190>
+
+Game over. Total time: 0.0009543895721435547 seconds
+Result: *
+r n b q k b n r
+p p p p p p p p
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+P P P P P P P P
+R N B Q K B N R
+
+1. Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+<__main__.GPTPlayer object at 0x7f1d53895190> provided illegal moves for 5 attempts.
+Game over: 5 consecutive illegal moves from <__main__.GPTPlayer object at 0x7f1d53895190>
+
+Game over. Total time: 0.0009481906890869141 seconds
+Result: *
+r n b q k b n r
+p p p p p p p p
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+P P P P P P P P
+R N B Q K B N R
+
+1. Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+<__main__.GPTPlayer object at 0x7f1d53895190> provided illegal moves for 5 attempts.
+Game over: 5 consecutive illegal moves from <__main__.GPTPlayer object at 0x7f1d53895190>
+
+Game over. Total time: 0.000965118408203125 seconds
+Result: *
+r n b q k b n r
+p p p p p p p p
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+P P P P P P P P
+R N B Q K B N R
+
+1. Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+<__main__.GPTPlayer object at 0x7f1d53895190> provided illegal moves for 5 attempts.
+Game over: 5 consecutive illegal moves from <__main__.GPTPlayer object at 0x7f1d53895190>
+
+Game over. Total time: 0.0009286403656005859 seconds
+Result: *
+r n b q k b n r
+p p p p p p p p
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+P P P P P P P P
+R N B Q K B N R
+
+1. Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+<__main__.GPTPlayer object at 0x7f1d53895190> provided illegal moves for 5 attempts.
+Game over: 5 consecutive illegal moves from <__main__.GPTPlayer object at 0x7f1d53895190>
+
+Game over. Total time: 0.0009958744049072266 seconds
+Result: *
+r n b q k b n r
+p p p p p p p p
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+P P P P P P P P
+R N B Q K B N R
+
+1. Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+<__main__.GPTPlayer object at 0x7f1d53895190> provided illegal moves for 5 attempts.
+Game over: 5 consecutive illegal moves from <__main__.GPTPlayer object at 0x7f1d53895190>
+
+Game over. Total time: 0.0009260177612304688 seconds
+Result: *
+r n b q k b n r
+p p p p p p p p
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+P P P P P P P P
+R N B Q K B N R
+
+1. c4 Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+<__main__.GPTPlayer object at 0x7f1d53983f90> provided illegal moves for 5 attempts.
+Game over: 5 consecutive illegal moves from <__main__.GPTPlayer object at 0x7f1d53983f90>
+
+Game over. Total time: 16.574756383895874 seconds
+Result: *
+r n b q k b n r
+p p p p p p p p
+. . . . . . . .
+. . . . . . . .
+. . P . . . . .
+. . . . . . . .
+P P . P P P P P
+R N B Q K B N R
+
+1. Nf3 Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+<__main__.GPTPlayer object at 0x7f1d53983f90> provided illegal moves for 5 attempts.
+Game over: 5 consecutive illegal moves from <__main__.GPTPlayer object at 0x7f1d53983f90>
+
+Game over. Total time: 16.329301595687866 seconds
+Result: *
+r n b q k b n r
+p p p p p p p p
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . N . .
+P P P P P P P P
+R N B Q K B . R
+
+1. Nf3 Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+<__main__.GPTPlayer object at 0x7f1d53983f90> provided illegal moves for 5 attempts.
+Game over: 5 consecutive illegal moves from <__main__.GPTPlayer object at 0x7f1d53983f90>
+
+Game over. Total time: 16.327998161315918 seconds
+Result: *
+r n b q k b n r
+p p p p p p p p
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . N . .
+P P P P P P P P
+R N B Q K B . R
+
+1. Nf3 Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+<__main__.GPTPlayer object at 0x7f1d53983f90> provided illegal moves for 5 attempts.
+Game over: 5 consecutive illegal moves from <__main__.GPTPlayer object at 0x7f1d53983f90>
+
+Game over. Total time: 16.329231023788452 seconds
+Result: *
+r n b q k b n r
+p p p p p p p p
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . N . .
+P P P P P P P P
+R N B Q K B . R
+
+1. d4 Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+<__main__.GPTPlayer object at 0x7f1d53983f90> provided illegal moves for 5 attempts.
+Game over: 5 consecutive illegal moves from <__main__.GPTPlayer object at 0x7f1d53983f90>
+
+Game over. Total time: 16.329680919647217 seconds
+Result: *
+r n b q k b n r
+p p p p p p p p
+. . . . . . . .
+. . . . . . . .
+. . . P . . . .
+. . . . . . . .
+P P P . P P P P
+R N B Q K B N R
+
+1. Nf3 Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+<__main__.GPTPlayer object at 0x7f1d53983f90> provided illegal moves for 5 attempts.
+Game over: 5 consecutive illegal moves from <__main__.GPTPlayer object at 0x7f1d53983f90>
+
+Game over. Total time: 16.330265522003174 seconds
+Result: *
+r n b q k b n r
+p p p p p p p p
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . N . .
+P P P P P P P P
+R N B Q K B . R
+
+1. d4 Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+<__main__.GPTPlayer object at 0x7f1d53983f90> provided illegal moves for 5 attempts.
+Game over: 5 consecutive illegal moves from <__main__.GPTPlayer object at 0x7f1d53983f90>
+
+Game over. Total time: 16.330005407333374 seconds
+Result: *
+r n b q k b n r
+p p p p p p p p
+. . . . . . . .
+. . . . . . . .
+. . . P . . . .
+. . . . . . . .
+P P P . P P P P
+R N B Q K B N R
+
+1. c4 Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+<__main__.GPTPlayer object at 0x7f1d53983f90> provided illegal moves for 5 attempts.
+Game over: 5 consecutive illegal moves from <__main__.GPTPlayer object at 0x7f1d53983f90>
+
+Game over. Total time: 16.33301067352295 seconds
+Result: *
+r n b q k b n r
+p p p p p p p p
+. . . . . . . .
+. . . . . . . .
+. . P . . . . .
+. . . . . . . .
+P P . P P P P P
+R N B Q K B N R
+
+1. e4 Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+<__main__.GPTPlayer object at 0x7f1d53983f90> provided illegal moves for 5 attempts.
+Game over: 5 consecutive illegal moves from <__main__.GPTPlayer object at 0x7f1d53983f90>
+
+Game over. Total time: 16.328498363494873 seconds
+Result: *
+r n b q k b n r
+p p p p p p p p
+. . . . . . . .
+. . . . . . . .
+. . . . P . . .
+. . . . . . . .
+P P P P . P P P
+R N B Q K B N R
+
+1. d4 Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+<__main__.GPTPlayer object at 0x7f1d53983f90> provided illegal moves for 5 attempts.
+Game over: 5 consecutive illegal moves from <__main__.GPTPlayer object at 0x7f1d53983f90>
+
+Game over. Total time: 16.330462217330933 seconds
+Result: *
+r n b q k b n r
+p p p p p p p p
+. . . . . . . .
+. . . . . . . .
+. . . P . . . .
+. . . . . . . .
+P P P . P P P P
+R N B Q K B N R
+
+1. e4 Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+<__main__.GPTPlayer object at 0x7f1d53983f90> provided illegal moves for 5 attempts.
+Game over: 5 consecutive illegal moves from <__main__.GPTPlayer object at 0x7f1d53983f90>
+
+Game over. Total time: 16.328669786453247 seconds
+Result: *
+r n b q k b n r
+p p p p p p p p
+. . . . . . . .
+. . . . . . . .
+. . . . P . . .
+. . . . . . . .
+P P P P . P P P
+R N B Q K B N R
+
+1. Nf3 Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+<__main__.GPTPlayer object at 0x7f1d53983f90> provided illegal moves for 5 attempts.
+Game over: 5 consecutive illegal moves from <__main__.GPTPlayer object at 0x7f1d53983f90>
+
+Game over. Total time: 16.32881808280945 seconds
+Result: *
+r n b q k b n r
+p p p p p p p p
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . N . .
+P P P P P P P P
+R N B Q K B . R
+
+1. d4 Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+<__main__.GPTPlayer object at 0x7f1d53983f90> provided illegal moves for 5 attempts.
+Game over: 5 consecutive illegal moves from <__main__.GPTPlayer object at 0x7f1d53983f90>
+
+Game over. Total time: 16.32870864868164 seconds
+Result: *
+r n b q k b n r
+p p p p p p p p
+. . . . . . . .
+. . . . . . . .
+. . . P . . . .
+. . . . . . . .
+P P P . P P P P
+R N B Q K B N R
+
+1. e4 Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+<__main__.GPTPlayer object at 0x7f1d53983f90> provided illegal moves for 5 attempts.
+Game over: 5 consecutive illegal moves from <__main__.GPTPlayer object at 0x7f1d53983f90>
+
+Game over. Total time: 16.34253716468811 seconds
+Result: *
+r n b q k b n r
+p p p p p p p p
+. . . . . . . .
+. . . . . . . .
+. . . . P . . .
+. . . . . . . .
+P P P P . P P P
+R N B Q K B N R
+
+1. d4 Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+<__main__.GPTPlayer object at 0x7f1d53983f90> provided illegal moves for 5 attempts.
+Game over: 5 consecutive illegal moves from <__main__.GPTPlayer object at 0x7f1d53983f90>
+
+Game over. Total time: 16.329805850982666 seconds
+Result: *
+r n b q k b n r
+p p p p p p p p
+. . . . . . . .
+. . . . . . . .
+. . . P . . . .
+. . . . . . . .
+P P P . P P P P
+R N B Q K B N R
+
+1. Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+<__main__.GPTPlayer object at 0x7f1d726dbf90> provided illegal moves for 5 attempts.
+Game over: 5 consecutive illegal moves from <__main__.GPTPlayer object at 0x7f1d726dbf90>
+
+Game over. Total time: 0.0004417896270751953 seconds
+Result: *
+r n b q k b n r
+p p p p p p p p
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+P P P P P P P P
+R N B Q K B N R
+
+1. Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+<__main__.GPTPlayer object at 0x7f1d726dbf90> provided illegal moves for 5 attempts.
+Game over: 5 consecutive illegal moves from <__main__.GPTPlayer object at 0x7f1d726dbf90>
+
+Game over. Total time: 0.001310586929321289 seconds
+Result: *
+r n b q k b n r
+p p p p p p p p
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+P P P P P P P P
+R N B Q K B N R
+
+1. Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+<__main__.GPTPlayer object at 0x7f1d726dbf90> provided illegal moves for 5 attempts.
+Game over: 5 consecutive illegal moves from <__main__.GPTPlayer object at 0x7f1d726dbf90>
+
+Game over. Total time: 0.0008337497711181641 seconds
+Result: *
+r n b q k b n r
+p p p p p p p p
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+P P P P P P P P
+R N B Q K B N R
+
+1. Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+<__main__.GPTPlayer object at 0x7f1d726dbf90> provided illegal moves for 5 attempts.
+Game over: 5 consecutive illegal moves from <__main__.GPTPlayer object at 0x7f1d726dbf90>
+
+Game over. Total time: 0.00069427490234375 seconds
+Result: *
+r n b q k b n r
+p p p p p p p p
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+P P P P P P P P
+R N B Q K B N R
+
+1. Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+<__main__.GPTPlayer object at 0x7f1d726dbf90> provided illegal moves for 5 attempts.
+Game over: 5 consecutive illegal moves from <__main__.GPTPlayer object at 0x7f1d726dbf90>
+
+Game over. Total time: 0.0006780624389648438 seconds
+Result: *
+r n b q k b n r
+p p p p p p p p
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+P P P P P P P P
+R N B Q K B N R
+
+1. Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+<__main__.GPTPlayer object at 0x7f1d726dbf90> provided illegal moves for 5 attempts.
+Game over: 5 consecutive illegal moves from <__main__.GPTPlayer object at 0x7f1d726dbf90>
+
+Game over. Total time: 0.0007104873657226562 seconds
+Result: *
+r n b q k b n r
+p p p p p p p p
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+P P P P P P P P
+R N B Q K B N R
+
+1. Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+<__main__.GPTPlayer object at 0x7f1d726dbf90> provided illegal moves for 5 attempts.
+Game over: 5 consecutive illegal moves from <__main__.GPTPlayer object at 0x7f1d726dbf90>
+
+Game over. Total time: 0.0006952285766601562 seconds
+Result: *
+r n b q k b n r
+p p p p p p p p
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+P P P P P P P P
+R N B Q K B N R
+
+1. Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+<__main__.GPTPlayer object at 0x7f1d726dbf90> provided illegal moves for 5 attempts.
+Game over: 5 consecutive illegal moves from <__main__.GPTPlayer object at 0x7f1d726dbf90>
+
+Game over. Total time: 0.0006618499755859375 seconds
+Result: *
+r n b q k b n r
+p p p p p p p p
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+P P P P P P P P
+R N B Q K B N R
+
+1. Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+<__main__.GPTPlayer object at 0x7f1d726dbf90> provided illegal moves for 5 attempts.
+Game over: 5 consecutive illegal moves from <__main__.GPTPlayer object at 0x7f1d726dbf90>
+
+Game over. Total time: 0.0006961822509765625 seconds
+Result: *
+r n b q k b n r
+p p p p p p p p
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+P P P P P P P P
+R N B Q K B N R
+
+1. Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+<__main__.GPTPlayer object at 0x7f1d726dbf90> provided illegal moves for 5 attempts.
+Game over: 5 consecutive illegal moves from <__main__.GPTPlayer object at 0x7f1d726dbf90>
+
+Game over. Total time: 0.0006480216979980469 seconds
+Result: *
+r n b q k b n r
+p p p p p p p p
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+P P P P P P P P
+R N B Q K B N R
+
+1. Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+<__main__.GPTPlayer object at 0x7f1d726dbf90> provided illegal moves for 5 attempts.
+Game over: 5 consecutive illegal moves from <__main__.GPTPlayer object at 0x7f1d726dbf90>
+
+Game over. Total time: 0.0007166862487792969 seconds
+Result: *
+r n b q k b n r
+p p p p p p p p
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+P P P P P P P P
+R N B Q K B N R
+
+1. Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+<__main__.GPTPlayer object at 0x7f1d726dbf90> provided illegal moves for 5 attempts.
+Game over: 5 consecutive illegal moves from <__main__.GPTPlayer object at 0x7f1d726dbf90>
+
+Game over. Total time: 0.0006635189056396484 seconds
+Result: *
+r n b q k b n r
+p p p p p p p p
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+P P P P P P P P
+R N B Q K B N R
+
+1. Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+<__main__.GPTPlayer object at 0x7f1d726dbf90> provided illegal moves for 5 attempts.
+Game over: 5 consecutive illegal moves from <__main__.GPTPlayer object at 0x7f1d726dbf90>
+
+Game over. Total time: 0.0006797313690185547 seconds
+Result: *
+r n b q k b n r
+p p p p p p p p
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+P P P P P P P P
+R N B Q K B N R
+
+1. Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+<__main__.GPTPlayer object at 0x7f1d726dbf90> provided illegal moves for 5 attempts.
+Game over: 5 consecutive illegal moves from <__main__.GPTPlayer object at 0x7f1d726dbf90>
+
+Game over. Total time: 0.0006616115570068359 seconds
+Result: *
+r n b q k b n r
+p p p p p p p p
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+P P P P P P P P
+R N B Q K B N R
+
+1. Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+<__main__.GPTPlayer object at 0x7f1d726dbf90> provided illegal moves for 5 attempts.
+Game over: 5 consecutive illegal moves from <__main__.GPTPlayer object at 0x7f1d726dbf90>
+
+Game over. Total time: 0.0007114410400390625 seconds
+Result: *
+r n b q k b n r
+p p p p p p p p
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+P P P P P P P P
+R N B Q K B N R
+
+1. c4 Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+<__main__.GPTPlayer object at 0x7f1d72733910> provided illegal moves for 5 attempts.
+Game over: 5 consecutive illegal moves from <__main__.GPTPlayer object at 0x7f1d72733910>
+
+Game over. Total time: 16.624860763549805 seconds
+Result: *
+r n b q k b n r
+p p p p p p p p
+. . . . . . . .
+. . . . . . . .
+. . P . . . . .
+. . . . . . . .
+P P . P P P P P
+R N B Q K B N R
+
+1. e4 Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+<__main__.GPTPlayer object at 0x7f1d72733910> provided illegal moves for 5 attempts.
+Game over: 5 consecutive illegal moves from <__main__.GPTPlayer object at 0x7f1d72733910>
+
+Game over. Total time: 16.328225135803223 seconds
+Result: *
+r n b q k b n r
+p p p p p p p p
+. . . . . . . .
+. . . . . . . .
+. . . . P . . .
+. . . . . . . .
+P P P P . P P P
+R N B Q K B N R
+
+1. d4 Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+<__main__.GPTPlayer object at 0x7f1d72733910> provided illegal moves for 5 attempts.
+Game over: 5 consecutive illegal moves from <__main__.GPTPlayer object at 0x7f1d72733910>
+
+Game over. Total time: 16.32715654373169 seconds
+Result: *
+r n b q k b n r
+p p p p p p p p
+. . . . . . . .
+. . . . . . . .
+. . . P . . . .
+. . . . . . . .
+P P P . P P P P
+R N B Q K B N R
+
+1. e4 Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+<__main__.GPTPlayer object at 0x7f1d72733910> provided illegal moves for 5 attempts.
+Game over: 5 consecutive illegal moves from <__main__.GPTPlayer object at 0x7f1d72733910>
+
+Game over. Total time: 16.3275887966156 seconds
+Result: *
+r n b q k b n r
+p p p p p p p p
+. . . . . . . .
+. . . . . . . .
+. . . . P . . .
+. . . . . . . .
+P P P P . P P P
+R N B Q K B N R
+
+1. c4 Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+<__main__.GPTPlayer object at 0x7f1d72733910> provided illegal moves for 5 attempts.
+Game over: 5 consecutive illegal moves from <__main__.GPTPlayer object at 0x7f1d72733910>
+
+Game over. Total time: 16.33031177520752 seconds
+Result: *
+r n b q k b n r
+p p p p p p p p
+. . . . . . . .
+. . . . . . . .
+. . P . . . . .
+. . . . . . . .
+P P . P P P P P
+R N B Q K B N R
+
+1. d4 Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+<__main__.GPTPlayer object at 0x7f1d72733910> provided illegal moves for 5 attempts.
+Game over: 5 consecutive illegal moves from <__main__.GPTPlayer object at 0x7f1d72733910>
+
+Game over. Total time: 16.32846426963806 seconds
+Result: *
+r n b q k b n r
+p p p p p p p p
+. . . . . . . .
+. . . . . . . .
+. . . P . . . .
+. . . . . . . .
+P P P . P P P P
+R N B Q K B N R
+
+1. e4 Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+<__main__.GPTPlayer object at 0x7f1d72733910> provided illegal moves for 5 attempts.
+Game over: 5 consecutive illegal moves from <__main__.GPTPlayer object at 0x7f1d72733910>
+
+Game over. Total time: 16.327499628067017 seconds
+Result: *
+r n b q k b n r
+p p p p p p p p
+. . . . . . . .
+. . . . . . . .
+. . . . P . . .
+. . . . . . . .
+P P P P . P P P
+R N B Q K B N R
+
+1. e4 Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+<__main__.GPTPlayer object at 0x7f1d72733910> provided illegal moves for 5 attempts.
+Game over: 5 consecutive illegal moves from <__main__.GPTPlayer object at 0x7f1d72733910>
+
+Game over. Total time: 16.329716444015503 seconds
+Result: *
+r n b q k b n r
+p p p p p p p p
+. . . . . . . .
+. . . . . . . .
+. . . . P . . .
+. . . . . . . .
+P P P P . P P P
+R N B Q K B N R
+
+1. e4 Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+<__main__.GPTPlayer object at 0x7f1d72733910> provided illegal moves for 5 attempts.
+Game over: 5 consecutive illegal moves from <__main__.GPTPlayer object at 0x7f1d72733910>
+
+Game over. Total time: 16.327934503555298 seconds
+Result: *
+r n b q k b n r
+p p p p p p p p
+. . . . . . . .
+. . . . . . . .
+. . . . P . . .
+. . . . . . . .
+P P P P . P P P
+R N B Q K B N R
+
+1. d4 Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+<__main__.GPTPlayer object at 0x7f1d72733910> provided illegal moves for 5 attempts.
+Game over: 5 consecutive illegal moves from <__main__.GPTPlayer object at 0x7f1d72733910>
+
+Game over. Total time: 16.328402996063232 seconds
+Result: *
+r n b q k b n r
+p p p p p p p p
+. . . . . . . .
+. . . . . . . .
+. . . P . . . .
+. . . . . . . .
+P P P . P P P P
+R N B Q K B N R
+
+1. d4 Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+<__main__.GPTPlayer object at 0x7f1d72733910> provided illegal moves for 5 attempts.
+Game over: 5 consecutive illegal moves from <__main__.GPTPlayer object at 0x7f1d72733910>
+
+Game over. Total time: 16.328319311141968 seconds
+Result: *
+r n b q k b n r
+p p p p p p p p
+. . . . . . . .
+. . . . . . . .
+. . . P . . . .
+. . . . . . . .
+P P P . P P P P
+R N B Q K B N R
+
+1. Nf3 Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+<__main__.GPTPlayer object at 0x7f1d72733910> provided illegal moves for 5 attempts.
+Game over: 5 consecutive illegal moves from <__main__.GPTPlayer object at 0x7f1d72733910>
+
+Game over. Total time: 16.425434589385986 seconds
+Result: *
+r n b q k b n r
+p p p p p p p p
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . N . .
+P P P P P P P P
+R N B Q K B . R
+
+1. d4 Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+<__main__.GPTPlayer object at 0x7f1d72733910> provided illegal moves for 5 attempts.
+Game over: 5 consecutive illegal moves from <__main__.GPTPlayer object at 0x7f1d72733910>
+
+Game over. Total time: 16.329509258270264 seconds
+Result: *
+r n b q k b n r
+p p p p p p p p
+. . . . . . . .
+. . . . . . . .
+. . . P . . . .
+. . . . . . . .
+P P P . P P P P
+R N B Q K B N R
+
+1. d4 Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+<__main__.GPTPlayer object at 0x7f1d72733910> provided illegal moves for 5 attempts.
+Game over: 5 consecutive illegal moves from <__main__.GPTPlayer object at 0x7f1d72733910>
+
+Game over. Total time: 16.328094482421875 seconds
+Result: *
+r n b q k b n r
+p p p p p p p p
+. . . . . . . .
+. . . . . . . .
+. . . P . . . .
+. . . . . . . .
+P P P . P P P P
+R N B Q K B N R
+
+1. Nf3 Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: [Errno 2] No such file or directory: 'gpt_outputs/transcript.txt'
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+<__main__.GPTPlayer object at 0x7f1d72733910> provided illegal moves for 5 attempts.
+Game over: 5 consecutive illegal moves from <__main__.GPTPlayer object at 0x7f1d72733910>
+
+Game over. Total time: 16.32823634147644 seconds
+Result: *
+r n b q k b n r
+p p p p p p p p
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . N . .
+P P P P P P P P
+R N B Q K B . R
+

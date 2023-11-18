@@ -1,0 +1,7 @@
+Rank Name                                           Elo    +    - games score oppo. draws 
+   1 Stockfish_Ver16_UCI_Elo=1900_tc=40/15min      1843   40   40   256   58%  1772    4% 
+   2 stockfish_16-SL4_acherm_handicapped_st=100ms  1804   39   39   256   53%  1782    7% 
+   3 Stockfish_Ver16_UCI_Elo=1785_tc=40/15min      1798   40   40   256   52%  1783    4% 
+   4 Stockfish_Ver16_Skill=4_st=0.100sec           1792   56   56   128   50%  1788    4% 
+   5 Stockfish_Ver16_Skill=5_st=0.100sec           1764   56   56   128   47%  1788    8% 
+   6 stockfish_16-SL4_acherm_handicapped_st=20ms   1709   41   41   256   38%  1806    5% 

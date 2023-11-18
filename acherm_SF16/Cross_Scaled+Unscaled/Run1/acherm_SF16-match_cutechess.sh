@@ -8,7 +8,8 @@
 # ch3cksout@skiff.com: localhost, running Stockfish ver.16: stockfish-ubuntu-x86-64-avx2 
 
 # cross-validating with runs per Adam Karvonen's chess_gpt_eval code
-echo "run: $0, (3*2/2)x500x2 games, cross-validating runs"
+echo "run: $0, combining Unscaled+Scaled TCs, (4*3/2)x100x2 games, cross-validating runs"
+echo NOTE setting for Unscaled was 'tc=1/0.100+0.100', mis-specification it is rather the same as 'tc=1/0.100'
 
 # scaling times for real rated strength
 # Stockfish internal ELo ratings are described at <https://github.com/vondele/Stockfish/commit/a08b8d4e9711c2>
@@ -62,19 +63,23 @@ echo 0.1sec rescaled by nps_M1Mac10CPU/nps_localhost10CPU = ${Rescaled_100ms}
 #		NOTE 'tc=1/0.020+0.020' does not do as intended, due to mis-specification it is rather the same as 'tc=1/0.020'!
 #name="stockfish_16-SL4_acherm_handicapped_st=100ms": unscaled time, substring 'Ver' dropped, 'st=0.100', combined w/'timemargin=10'
 #	for (approximate) comparison b/w acherm_SF16 & ../adamkarvonen_SF16, 20 & 100 ms resp.
-cutechess-cli -repeat -rounds 500 -games 2 -tournament round-robin \
+cutechess-cli -repeat -rounds 100 -games 2 -tournament round-robin \
                 -event "Stockfish Elo baseline testing: various time controls" -site "ch3cksout@skiff.com: localhost" \
                 -resign movecount=3 score=600 -draw movenumber=34 movecount=8 score=20 \
-                -concurrency 3 -openings file=/var/chess/UHO_XXL_+0.90_+1.19.epd format=epd order=random plies=16 \
+                -concurrency 2 -openings file=/var/chess/UHO_XXL_+0.90_+1.19.epd format=epd order=random plies=16 \
+                -engine tc=1/0.100+0.100 name=stockfish_16-SL5_acherm_handicapped_100ms cmd=/opt/stockfish/16/avx2/stockfish-ubuntu-x86-64-avx2 option."Skill Level=5" \
+                	option.Threads=1 \
+                	option.Hash=16 \
+                	option.EvalFile=/var/chess/nn-5af11540bbfe.nnue option."Use NNUE=true" \
+                -engine tc=1/0.100+0.100 name=stockfish_16-SL4_acherm_handicapped_100ms cmd=/opt/stockfish/16/avx2/stockfish-ubuntu-x86-64-avx2 option."Skill Level=4" \
+                	option.Threads=1 \
+                	option.Hash=16 \
+                	option.EvalFile=/var/chess/nn-5af11540bbfe.nnue option."Use NNUE=true" \
                 -engine st="$Rescaled_100ms" name="Stockfish_Ver16_Skill=5_st=0.100sec" cmd=/opt/stockfish/16/avx2/stockfish-ubuntu-x86-64-avx2 option."Skill Level=5" \
                 	option.Threads=1 \
                 	option.Hash=16 \
                 	option.EvalFile=/var/chess/nn-5af11540bbfe.nnue option."Use NNUE=true" \
                 -engine st="$Rescaled_100ms" name="Stockfish_Ver16_Skill=4_st=0.100sec" cmd=/opt/stockfish/16/avx2/stockfish-ubuntu-x86-64-avx2 option."Skill Level=4" \
-                	option.Threads=1 \
-                	option.Hash=16 \
-                	option.EvalFile=/var/chess/nn-5af11540bbfe.nnue option."Use NNUE=true" \
-                -engine st="$Rescaled_100ms" name="Stockfish_Ver16_Skill=3_st=0.100sec" cmd=/opt/stockfish/16/avx2/stockfish-ubuntu-x86-64-avx2 option."Skill Level=3" \
                 	option.Threads=1 \
                 	option.Hash=16 \
                 	option.EvalFile=/var/chess/nn-5af11540bbfe.nnue option."Use NNUE=true" \

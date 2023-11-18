@@ -1,0 +1,6 @@
+gpt-3.5-turbo-instruct
+
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4 e5 2.Be2 Nf6 3.Nc3 Bc5 4.h3

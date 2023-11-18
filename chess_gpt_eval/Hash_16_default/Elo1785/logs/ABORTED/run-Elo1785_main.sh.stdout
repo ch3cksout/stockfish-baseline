@@ -1,0 +1,314 @@
+1. e4  Nf6 
+2. Error while getting GPT response: Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f11816b20d0>: Failed to resolve 'api.openai.com' ([Errno -2] Name or service not known)"))
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f1180914890>: Failed to resolve 'api.openai.com' ([Errno -2] Name or service not known)"))
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f11809175d0>: Failed to resolve 'api.openai.com' ([Errno -2] Name or service not known)"))
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f11816b1310>: Failed to resolve 'api.openai.com' ([Errno -2] Name or service not known)"))
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f1180917b50>: Failed to resolve 'api.openai.com' ([Errno -2] Name or service not known)"))
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+<__main__.GPTPlayer object at 0x7f11816948d0> provided illegal moves for 5 attempts.
+Game over: 5 consecutive illegal moves from <__main__.GPTPlayer object at 0x7f11816948d0>
+
+Game over. Total time: 6850.376058578491 seconds
+Result: *
+r n b q k b . r
+p p p p p p p p
+. . . . . n . .
+. . . . . . . .
+. . . . P . . .
+. . . . . . . .
+P P P P . P P P
+R N B Q K B N R
+
+1. Error while getting GPT response: Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f11809220d0>: Failed to resolve 'api.openai.com' ([Errno -2] Name or service not known)"))
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f118092cd10>: Failed to resolve 'api.openai.com' ([Errno -2] Name or service not known)"))
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f1180920e10>: Failed to resolve 'api.openai.com' ([Errno -2] Name or service not known)"))
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f11816a5550>: Failed to resolve 'api.openai.com' ([Errno -2] Name or service not known)"))
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f11816b3c50>: Failed to resolve 'api.openai.com' ([Errno -2] Name or service not known)"))
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+<__main__.GPTPlayer object at 0x7f11816948d0> provided illegal moves for 5 attempts.
+Game over: 5 consecutive illegal moves from <__main__.GPTPlayer object at 0x7f11816948d0>
+
+Game over. Total time: 0.010648965835571289 seconds
+Result: *
+r n b q k b n r
+p p p p p p p p
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+P P P P P P P P
+R N B Q K B N R
+
+1. Error while getting GPT response: Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f118092c910>: Failed to resolve 'api.openai.com' ([Errno -2] Name or service not known)"))
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f118092fb10>: Failed to resolve 'api.openai.com' ([Errno -2] Name or service not known)"))
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f11816b0a50>: Failed to resolve 'api.openai.com' ([Errno -2] Name or service not known)"))
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f11816b2450>: Failed to resolve 'api.openai.com' ([Errno -2] Name or service not known)"))
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f1180922950>: Failed to resolve 'api.openai.com' ([Errno -2] Name or service not known)"))
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+<__main__.GPTPlayer object at 0x7f11816948d0> provided illegal moves for 5 attempts.
+Game over: 5 consecutive illegal moves from <__main__.GPTPlayer object at 0x7f11816948d0>
+
+Game over. Total time: 0.008697986602783203 seconds
+Result: *
+r n b q k b n r
+p p p p p p p p
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+P P P P P P P P
+R N B Q K B N R
+
+1. Error while getting GPT response: Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f118092c710>: Failed to resolve 'api.openai.com' ([Errno -2] Name or service not known)"))
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f118092d590>: Failed to resolve 'api.openai.com' ([Errno -2] Name or service not known)"))
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f1180921350>: Failed to resolve 'api.openai.com' ([Errno -2] Name or service not known)"))
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f11816b2b50>: Failed to resolve 'api.openai.com' ([Errno -2] Name or service not known)"))
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f119d5605d0>: Failed to resolve 'api.openai.com' ([Errno -2] Name or service not known)"))
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+<__main__.GPTPlayer object at 0x7f11816948d0> provided illegal moves for 5 attempts.
+Game over: 5 consecutive illegal moves from <__main__.GPTPlayer object at 0x7f11816948d0>
+
+Game over. Total time: 0.012076616287231445 seconds
+Result: *
+r n b q k b n r
+p p p p p p p p
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+P P P P P P P P
+R N B Q K B N R
+
+1. Error while getting GPT response: Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f1180942650>: Failed to resolve 'api.openai.com' ([Errno -2] Name or service not known)"))
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f1180914b10>: Failed to resolve 'api.openai.com' ([Errno -2] Name or service not known)"))
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f11816b28d0>: Failed to resolve 'api.openai.com' ([Errno -2] Name or service not known)"))
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f1180920410>: Failed to resolve 'api.openai.com' ([Errno -2] Name or service not known)"))
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f1180942890>: Failed to resolve 'api.openai.com' ([Errno -2] Name or service not known)"))
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+<__main__.GPTPlayer object at 0x7f11816948d0> provided illegal moves for 5 attempts.
+Game over: 5 consecutive illegal moves from <__main__.GPTPlayer object at 0x7f11816948d0>
+
+Game over. Total time: 0.012099742889404297 seconds
+Result: *
+r n b q k b n r
+p p p p p p p p
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+P P P P P P P P
+R N B Q K B N R
+
+1. Error while getting GPT response: Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f1180948c10>: Failed to resolve 'api.openai.com' ([Errno -2] Name or service not known)"))
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f1180923d50>: Failed to resolve 'api.openai.com' ([Errno -2] Name or service not known)"))
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f1181695e90>: Failed to resolve 'api.openai.com' ([Errno -2] Name or service not known)"))
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f11816b2d10>: Failed to resolve 'api.openai.com' ([Errno -2] Name or service not known)"))
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f1180917b50>: Failed to resolve 'api.openai.com' ([Errno -2] Name or service not known)"))
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+<__main__.GPTPlayer object at 0x7f11816948d0> provided illegal moves for 5 attempts.
+Game over: 5 consecutive illegal moves from <__main__.GPTPlayer object at 0x7f11816948d0>
+
+Game over. Total time: 0.012755393981933594 seconds
+Result: *
+r n b q k b n r
+p p p p p p p p
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+P P P P P P P P
+R N B Q K B N R
+
+1. Error while getting GPT response: Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f118094a650>: Failed to resolve 'api.openai.com' ([Errno -2] Name or service not known)"))
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f11816b2750>: Failed to resolve 'api.openai.com' ([Errno -2] Name or service not known)"))
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f1180943dd0>: Failed to resolve 'api.openai.com' ([Errno -2] Name or service not known)"))
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f1180920910>: Failed to resolve 'api.openai.com' ([Errno -2] Name or service not known)"))
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f118092d0d0>: Failed to resolve 'api.openai.com' ([Errno -2] Name or service not known)"))
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+<__main__.GPTPlayer object at 0x7f11816948d0> provided illegal moves for 5 attempts.
+Game over: 5 consecutive illegal moves from <__main__.GPTPlayer object at 0x7f11816948d0>
+
+Game over. Total time: 0.009128570556640625 seconds
+Result: *
+r n b q k b n r
+p p p p p p p p
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+P P P P P P P P
+R N B Q K B N R
+
+1. Error while getting GPT response: Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f1180923bd0>: Failed to resolve 'api.openai.com' ([Errno -2] Name or service not known)"))
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f11817483d0>: Failed to resolve 'api.openai.com' ([Errno -2] Name or service not known)"))
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f118092c810>: Failed to resolve 'api.openai.com' ([Errno -2] Name or service not known)"))
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f11816b2bd0>: Failed to resolve 'api.openai.com' ([Errno -2] Name or service not known)"))
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f118094d250>: Failed to resolve 'api.openai.com' ([Errno -2] Name or service not known)"))
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+<__main__.GPTPlayer object at 0x7f11816948d0> provided illegal moves for 5 attempts.
+Game over: 5 consecutive illegal moves from <__main__.GPTPlayer object at 0x7f11816948d0>
+
+Game over. Total time: 0.009135723114013672 seconds
+Result: *
+r n b q k b n r
+p p p p p p p p
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+P P P P P P P P
+R N B Q K B N R
+
+1. Error while getting GPT response: Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f1180914b10>: Failed to resolve 'api.openai.com' ([Errno -2] Name or service not known)"))
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f118092c490>: Failed to resolve 'api.openai.com' ([Errno -2] Name or service not known)"))
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f11a055c210>: Failed to resolve 'api.openai.com' ([Errno -2] Name or service not known)"))
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f1180923dd0>: Failed to resolve 'api.openai.com' ([Errno -2] Name or service not known)"))
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f118094f710>: Failed to resolve 'api.openai.com' ([Errno -2] Name or service not known)"))
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+<__main__.GPTPlayer object at 0x7f11816948d0> provided illegal moves for 5 attempts.
+Game over: 5 consecutive illegal moves from <__main__.GPTPlayer object at 0x7f11816948d0>
+
+Game over. Total time: 0.008191823959350586 seconds
+Result: *
+r n b q k b n r
+p p p p p p p p
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+P P P P P P P P
+R N B Q K B N R
+
+1. Error while getting GPT response: Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f118094d410>: Failed to resolve 'api.openai.com' ([Errno -2] Name or service not known)"))
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f1180948f50>: Failed to resolve 'api.openai.com' ([Errno -2] Name or service not known)"))
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f1180949e10>: Failed to resolve 'api.openai.com' ([Errno -2] Name or service not known)"))
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f1180942410>: Failed to resolve 'api.openai.com' ([Errno -2] Name or service not known)"))
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f1180941150>: Failed to resolve 'api.openai.com' ([Errno -2] Name or service not known)"))
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+<__main__.GPTPlayer object at 0x7f11816948d0> provided illegal moves for 5 attempts.
+Game over: 5 consecutive illegal moves from <__main__.GPTPlayer object at 0x7f11816948d0>
+
+Game over. Total time: 0.011097192764282227 seconds
+Result: *
+r n b q k b n r
+p p p p p p p p
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+P P P P P P P P
+R N B Q K B N R
+
+1. Error while getting GPT response: Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f1180942f50>: Failed to resolve 'api.openai.com' ([Errno -2] Name or service not known)"))
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f1180948d50>: Failed to resolve 'api.openai.com' ([Errno -2] Name or service not known)"))
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f11817483d0>: Failed to resolve 'api.openai.com' ([Errno -2] Name or service not known)"))
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f1180948c50>: Failed to resolve 'api.openai.com' ([Errno -2] Name or service not known)"))
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f1180942d10>: Failed to resolve 'api.openai.com' ([Errno -2] Name or service not known)"))
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+<__main__.GPTPlayer object at 0x7f11816948d0> provided illegal moves for 5 attempts.
+Game over: 5 consecutive illegal moves from <__main__.GPTPlayer object at 0x7f11816948d0>
+
+Game over. Total time: 0.03413033485412598 seconds
+Result: *
+r n b q k b n r
+p p p p p p p p
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+P P P P P P P P
+R N B Q K B N R
+
+1. Error while getting GPT response: Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f118094e610>: Failed to resolve 'api.openai.com' ([Errno -2] Name or service not known)"))
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f118094f910>: Failed to resolve 'api.openai.com' ([Errno -2] Name or service not known)"))
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f1180940290>: Failed to resolve 'api.openai.com' ([Errno -2] Name or service not known)"))
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f1180943a90>: Failed to resolve 'api.openai.com' ([Errno -2] Name or service not known)"))
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f118094c510>: Failed to resolve 'api.openai.com' ([Errno -2] Name or service not known)"))
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+<__main__.GPTPlayer object at 0x7f11816948d0> provided illegal moves for 5 attempts.
+Game over: 5 consecutive illegal moves from <__main__.GPTPlayer object at 0x7f11816948d0>
+
+Game over. Total time: 0.01348423957824707 seconds
+Result: *
+r n b q k b n r
+p p p p p p p p
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+P P P P P P P P
+R N B Q K B N R
+
+1. Error while getting GPT response: Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f118094a450>: Failed to resolve 'api.openai.com' ([Errno -2] Name or service not known)"))
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f118092d190>: Failed to resolve 'api.openai.com' ([Errno -2] Name or service not known)"))
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f1180949d10>: Failed to resolve 'api.openai.com' ([Errno -2] Name or service not known)"))
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f118094d190>: Failed to resolve 'api.openai.com' ([Errno -2] Name or service not known)"))
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+Error while getting GPT response: Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f118094ea50>: Failed to resolve 'api.openai.com' ([Errno -2] Name or service not known)"))
+Error parsing move None: expected string or bytes-like object, got 'NoneType'
+<__main__.GPTPlayer object at 0x7f11816948d0> provided illegal moves for 5 attempts.
+Game over: 5 consecutive illegal moves from <__main__.GPTPlayer object at 0x7f11816948d0>
+
+Game over. Total time: 0.009455442428588867 seconds
+Result: *
+r n b q k b n r
+p p p p p p p p
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+P P P P P P P P
+R N B Q K B N R
+
+1. Error while getting GPT response: Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f11809437d0>: Failed to resolve 'api.openai.com' ([Errno -2] Name or service not known)"))

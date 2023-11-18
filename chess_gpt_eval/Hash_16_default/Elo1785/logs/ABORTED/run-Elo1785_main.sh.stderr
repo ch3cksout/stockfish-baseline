@@ -1,0 +1,23 @@
+Traceback (most recent call last):
+  File "/home/zoli/repos/stockfish-baseline/chess_gpt_eval/Elo1785/Elo1785_main.py", line 374, in <module>
+    play_game(player_one, player_two, num_games)
+  File "/home/zoli/repos/stockfish-baseline/chess_gpt_eval/Elo1785/Elo1785_main.py", line 304, in play_game
+    ) = play_turn(player_one, board, game_state, player_one=True)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zoli/repos/stockfish-baseline/chess_gpt_eval/Elo1785/Elo1785_main.py", line 255, in play_turn
+    result = get_legal_move(player, board, game_state, player_one)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zoli/repos/stockfish-baseline/chess_gpt_eval/Elo1785/Elo1785_main.py", line 208, in get_legal_move
+    move_san = player.get_move(
+               ^^^^^^^^^^^^^^^^
+  File "/home/zoli/repos/stockfish-baseline/chess_gpt_eval/Elo1785/Elo1785_main.py", line 66, in get_move
+    result = self._engine.play(board, chess.engine.Limit(time=self._play_time))
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zoli/.local/gptchess/lib/python3.11/site-packages/chess/engine.py", line 2770, in play
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/concurrent/futures/_base.py", line 451, in result
+    self._condition.wait(timeout)
+  File "/usr/lib/python3.11/threading.py", line 320, in wait
+    waiter.acquire()
+KeyboardInterrupt

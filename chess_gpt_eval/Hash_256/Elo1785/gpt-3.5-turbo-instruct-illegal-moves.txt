@@ -1,0 +1,1500 @@
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.c4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.c4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.c4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.c4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.c4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.Nf3
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.Nf3
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.Nf3
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.Nf3
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.Nf3
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.Nf3
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.Nf3
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.Nf3
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.Nf3
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.Nf3
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.Nf3
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.Nf3
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.Nf3
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.Nf3
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.Nf3
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.Nf3
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.Nf3
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.Nf3
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.Nf3
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.Nf3
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.c4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.c4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.c4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.c4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.c4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.Nf3
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.Nf3
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.Nf3
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.Nf3
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.Nf3
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.c4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.c4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.c4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.c4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.c4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.c4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.c4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.c4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.c4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.c4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.Nf3
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.Nf3
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.Nf3
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.Nf3
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.Nf3
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.Nf3
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.Nf3
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.Nf3
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.Nf3
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.Nf3
+None
