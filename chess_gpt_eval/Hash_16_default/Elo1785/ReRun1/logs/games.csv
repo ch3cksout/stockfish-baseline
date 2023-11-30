@@ -1,0 +1,241 @@
+game_id,transcript,result,player_one,player_two,player_one_score,player_two_score,player_one_illegal_moves,player_two_illegal_moves,player_one_resignation,player_two_resignation,player_one_failed_to_find_legal_move,player_two_failed_to_find_legal_move,game_title,number_of_moves,time_taken
+1700427694-5804,"[White ""Magnus Carlsen""]
+[Black ""Stockfish""]
+
+1.e4 Nf6 2.e5 Ne4 3.Ke2 g6 4.Ke3 d5 5.Ke2 d4 6.Ke1 Bg7 7.Ke2 Nc5 8.Ke1 Nc6 9.Ke2 Qd5 10.Ke1 Qxe5+ 11.Qe2 Qxe2+ 12.Kxe2 d3+ 13.Ke1 dxc2 14.Ke2 Bg4+ 15.Ke1 cxb1=R 16.",0-1,gpt-3.5-turbo-instruct,Stockfish-UCI_Elo 1785,0,1,5,0,False,False,True,False,gpt-3.5-turbo-instruct vs. Stockfish-UCI_Elo 1785,16,254.16404724121094
+1700428266-6669,"[White ""Magnus Carlsen""]
+[Black ""Stockfish""]
+
+1.e4 d5 2.exd5 Bf5 3.Nc3 c6 4.dxc6 Nxc6 5.Nf3 Rc8 6.d4 Nf6 7.Bb5 a6 8.Bxc6+ Rxc6 9.0-0 Nd5 10.Ne5 Nxc3 11.bxc3 Rxc3 12.Bd2 Rxc2 13.Be3 Qd5 14.Rc1 Rxc1 15.Qxc1 f6 16.Nf3 Kd8 17.Qb2 Qb5 18.Qc3 Be4 19.Nd2 Bc6 20.Rc1 Qd5 21.f3 Ke8 22.Nb3 Qd6 23.Na5 e6 24.Nxc6 Qxc6 25.Qxc6+ bxc6 26.Rxc6 Kd7 27.Rxa6 Bd6 28.Ra7+ Kc6 29.Rxg7 f5 30.Ra7 Rc8 31.Ra6+ Kd5 32.Kf1 Bxh2 33.Ke2 Rc2+ 34.Ke1 Rb2 35.",0-1,gpt-3.5-turbo-instruct,Stockfish-UCI_Elo 1785,0,1,5,0,False,False,True,False,gpt-3.5-turbo-instruct vs. Stockfish-UCI_Elo 1785,35,572.0845336914062
+1700454326-9776,"[White ""Magnus Carlsen""]
+[Black ""Stockfish""]
+
+1.e4 d5 2.exd5 Nf6 3.d4 Qxd5 4.Nc3 Qa5 5.Nf3 Bg4 6.h3 Bd7 7.Ne5 Be6 8.Bc4 Bxc4 9.Nxc4 Qa6 10.Qe2 Qc6 11.0-0 Nd5 12.Nxd5 Qxd5 13.Bf4 e6 14.Ne3 Qe4 15.Bxc7 Be7 16.Qb5+ Nd7 17.d5 a6 18.Qxb7 O-O 19.d6 Qxb7 20.dxe7 Rfc8 21.Bd6 h6 22.c4 Nb8 23.c5 Nc6 24.Nc4 Ra7 25.Nb6 Rca8 26.Nxa8 Qxa8 27.Rfd1 Rd7 28.Rac1 a5 29.Rc3 f6 30.Re3 Nxe7 31.Rxe6 Ng6 32.Rd4 Qb7 33.b3 Rd8 34.Rde4 Qd5 35.Re2 Ne5 36.Re7 Ng6 37.R7e4 Rc8 38.Kh2 Ra8 39.Kg1 Rc8 40.Kh2 Kh7 41.Kg1 Qc6 42.Kh2 Qd5 43.Kg1 f5 44.Re6 a4 45.bxa4 Qd1+ 46.Kh2 Qd4 47.a5 Qc4 48.a6 Qa4 49.a7 Qxa7 50.c6 Rxc6 51.Bg3 Rxe6 52.Rxe6 f4 53.Bxf4 Qxa2 54.Re4 Qd5 55.f3 Qxe4 56.fxe4 Nxf4 57.Kg3 Ne6 58.Kf3 Kg6 59.Ke3 Nc5 60.Ke2 Kf6 61.Ke3 Ke5 62.Ke2 Nd7 63.Ke3 Nb6 64.Ke2 Nd7 65.Ke3 Nf6 66.Ke2 Nxe4 67.Ke3 Kf5 68.Ke2 h5 69.Ke3 Ke5 70.Ke2 h4 71.Ke3 Ng5 72.Ke2 Kf4 73.Kf2 Nh7 74.Ke2 Kg3 75.Ke3 Ng5 76.Ke2 Nf7 77.Ke3 Ng5 78.Ke2 Kxg2 79.Ke3 Nxh3 80.Ke4 Nf4 81.Ke5 Kg3 82.Ke4 h3 83.Ke5 g6 84.Ke4 g5 85.Ke5 h2 86.Ke4 h1=Q+ 87.Ke5 Qd5+ 88.Kf6 Qe6+ 89.Kg7 Qe7+ 90.Kh6 Qf7 91.Kxg5 Ne6+ 92.Kh6 Qg7+ 93.Kh5 Nf4#",0-1,gpt-3.5-turbo-instruct,Stockfish-UCI_Elo 1785,0,1,4,0,False,False,False,False,gpt-3.5-turbo-instruct vs. Stockfish-UCI_Elo 1785,94,26059.956231594086
+1700455247-8848,"[White ""Magnus Carlsen""]
+[Black ""Stockfish""]
+
+1.e4 e5 2.Nf3 d5 3.Nxe5 Be6 4.exd5 Qxd5 5.d4 Nd7 6.Nc3 Bb4 7.Nxd7 Bxd7 8.Be2 Qxg2 9.Bf3 Bxc3+ 10.bxc3 Qg6 11.Bxb7 Rb8 12.Qe2+ Kd8 13.Be4 Bf5 14.Bxf5 Qxf5 15.0-0 Ne7 16.Ba3 Ng6 17.Rae1 Rb6 18.Qe4 Rb5 19.Qxf5 Rxf5 20.Re3 Re8 21.Rfe1 Rxe3 22.Rxe3 Ra5 23.Bb4 Rxa2 24.Re2 Ra1+ 25.Kg2 Nf4+ 26.Kf3 Nxe2 27.Ke3 Nxd4 28.Ke4 Ne6 29.Ke5 Kc8 30.Ke4 Ng5+ 31.Ke3 Re1+ 32.Kd2 Re4 33.Kd3 Rh4 34.Ke3 Ne6 35.Ke2 Kb8 36.Ke3 g6 37.Ke2 Ng7 38.Ke3 Ka8 39.Ke2 a6 40.Ke3 g5 41.Ke2 Kb8 42.Ke3 h6 43.Ke2 Rh3 44.Ke1 Rxh2 45.Ke2 h5 46.Ke3 Ka8 47.Ke2 Kb8 48.Ke3 h4 49.Ke2 Ne6 50.Ke3 h3 51.Ke2 Rg2 52.Ke3 h2 53.Ke2 h1=Q 54.Ke3 Rg1 55.Ke2 Qe4+ 56.Kd2 Qf3 57.",0-1,gpt-3.5-turbo-instruct,Stockfish-UCI_Elo 1785,0,1,4,0,True,False,False,False,gpt-3.5-turbo-instruct vs. Stockfish-UCI_Elo 1785,57,920.3336496353149
+1700455991-4028,"[White ""Magnus Carlsen""]
+[Black ""Stockfish""]
+
+1.e4 e5 2.Nf3 d6 3.d4 Nf6 4.Nc3 Nc6 5.Bb5 Bd7 6.0-0 Be7 7.Re1 O-O 8.Bxc6 Bxc6 9.dxe5 Nd7 10.exd6 Bf6 11.Nd5 cxd6 12.Nxf6+ Nxf6 13.Bg5 h6 14.Bxf6 Qxf6 15.Qd4 Rfe8 16.Qxf6 gxf6 17.Nd2 Rad8 18.c4 a5 19.f3 a4 20.Kf2 Bd7 21.Ke3 f5 22.Kd4 Re5 23.exf5 Bxf5 24.Rxe5 dxe5+ 25.Ke3 a3 26.b3 Rd3+ 27.Ke2 f6 28.Ne4 Rd4 29.Ke3 Kg7 30.Ke2 Bxe4 31.Ke3 Bg6 32.Ke2 Bd3+ 33.Ke3 Bg6 34.Ke2 f5 35.Ke3 h5 36.Ke2 f4 37.Ke1 Kf6 38.Ke2 h4 39.Ke1 e4 40.Ke2 Bh5 41.Ke1 e3 42.Ke2 Rd2+ 43.Ke1 h3 44.gxh3 Bxf3 45.Kf1 Rxh2 46.Ke1 b5 47.",0-1,gpt-3.5-turbo-instruct,Stockfish-UCI_Elo 1785,0,1,0,0,True,False,False,False,gpt-3.5-turbo-instruct vs. Stockfish-UCI_Elo 1785,47,744.5293264389038
+1700457055-5572,"[White ""Magnus Carlsen""]
+[Black ""Stockfish""]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 dxe4 5.Nxe4 c5 6.Nxc5 Be7 7.Nf3 O-O 8.Nb3 h6 9.Bh4 Nd5 10.Bxe7 Qxe7 11.Bd3 b6 12.O-O Qc7 13.Re1 Rd8 14.c3 Nd7 15.Qe2 Bb7 16.g3 Rac8 17.Rad1 Kh8 18.Bb1 Rb8 19.Nbd2 Rbc8 20.Ne4 N5f6 21.Ned2 Ba8 22.Ne5 Rf8 23.Ndf3 Qb7 24.Qd3 Rcd8 25.Qe3 Nxe5 26.dxe5 Rxd1 27.Rxd1 Qxf3 28.Qxf3 Bxf3 29.Rd3 Be4 30.exf6 Bxd3 31.fxg7+ Kxg7 32.Bxd3 Rd8 33.Bc4 Rd2 34.b4 Rc2 35.Bb3 Rxc3 36.Kg2 Rc1 37.Kf3 Rh1 38.Ke3 a6 39.Ke2 Kf8 40.Ke3 Ke7 41.Ke2 a5 42.Ke3 Rf1 43.Ke2 Ra1 44.Ke3 Rb1 45.Ke2 Rg1 46.Ke3 Rh1 47.Ke2 Rxh2 48.Ke3 Rh1 49.Ke2 f5 50.Ke3 axb4 51.Ke2 Rc1 52.Ke3 Rh1 53.Ke2 Rb1 54.Ke3 h5 55.Ke2 Ra1 56.Ke3 Rc1 57.Ke2 Rb1 58.Ke3 h4 59.Ke2 h3 60.Ke3 h2 61.Ke2 h1=Q 62.Ke3 Rc1 63.Ke2 Qe4+ 64.Kd2 Qe1+ 65.Kd3 Qe4+ 66.Kd2 Qe1+ 67.Kd3 e5 68.Bd5 Qc3+ 69.Ke2 Re1#",0-1,gpt-3.5-turbo-instruct,Stockfish-UCI_Elo 1785,0,1,1,0,False,False,False,False,gpt-3.5-turbo-instruct vs. Stockfish-UCI_Elo 1785,70,1063.4088063240051
+1700457693-4329,"[White ""Magnus Carlsen""]
+[Black ""Stockfish""]
+
+1.e4 e6 2.d4 d5 3.Nc3 c6 4.Nf3 Bb4 5.e5 Ne7 6.a3 Ba5 7.Bd3 h6 8.0-0 Bxc3 9.bxc3 b6 10.a4 Ba6 11.Ba3 Qc7 12.Bd6 Qd7 13.a5 Qb7 14.axb6 Bxd3 15.Qxd3 Nc8 16.Bc5 axb6 17.Rxa8 Qxa8 18.Bb4 Nd7 19.c4 dxc4 20.Qxc4 Qb7 21.Ra1 c5 22.dxc5 bxc5 23.Bxc5 Qc6 24.Ra5 f6 25.exf6 Rg8 26.Nd4 Qe4 27.Qxe6+ Qxe6 28.Nxe6 Nxc5 29.Nxc5 Kf7 30.fxg7 Re8 31.Kf1 Nd6 32.Ra7+ Kg8 33.Nd7 Ne4 34.Ke2 Kxg7 35.Ke3 Re7 36.Ke2 Nf6+ 37.Kd3 Nxd7 38.c4 Nc5+ 39.",0-1,gpt-3.5-turbo-instruct,Stockfish-UCI_Elo 1785,0,1,5,0,False,False,True,False,gpt-3.5-turbo-instruct vs. Stockfish-UCI_Elo 1785,39,638.0702261924744
+1700458441-6083,"[White ""Magnus Carlsen""]
+[Black ""Stockfish""]
+
+1.e4 e6 2.d4 a6 3.Nf3 d5 4.Nc3 dxe4 5.Nxe4 Nd7 6.Bd3 Ngf6 7.0-0 Nxe4 8.Bxe4 Bd6 9.c4 Nf6 10.Bc2 Be7 11.Qd3 c5 12.Bg5 cxd4 13.Rad1 b5 14.cxb5 axb5 15.Nxd4 Rxa2 16.Qxb5+ Nd7 17.Nc6 Qb6 18.Qxb6 Nxb6 19.Bxe7 Bd7 20.Ba3 Bxc6 21.Bb3 Bd5 22.Bxa2 Bxa2 23.Rd6 Nd5 24.Ra1 O-O 25.Rxa2 Ra8 26.Ra1 h5 27.Rd1 Ra4 28.R6xd5 f5 29.Rd8+ Kf7 30.R1d7+ Kf6 31.Rf8+ Ke5 32.Bd6+ Kd5 33.Bf4+ Kc5 34.Rc8+ Kb5 35.Rb7+ Ka6 36.Ra8+ Kxb7 37.Rxa4 Kc8 38.Ra7 g5 39.Bxg5 h4 40.Bxh4 f4 41.Re7 Kb8 42.Rxe6 Kb7 43.Re4 Kc8 44.Rxf4 Kb8 45.Rf7 Ka8 46.",0-1,gpt-3.5-turbo-instruct,Stockfish-UCI_Elo 1785,0,1,3,0,True,False,False,False,gpt-3.5-turbo-instruct vs. Stockfish-UCI_Elo 1785,46,748.8523550033569
+1700459351-8151,"[White ""Magnus Carlsen""]
+[Black ""Stockfish""]
+
+1.e4 c5 2.Nf3 d6 3.d4 Nd7 4.Nc3 a6 5.a4 g6 6.Be2 cxd4 7.Nxd4 b6 8.0-0 Ngf6 9.f4 Bg7 10.Bf3 e5 11.Nc6 Qc7 12.Nb4 Qc5+ 13.Kh1 Qxb4 14.Nd5 Nxd5 15.Qxd5 Rb8 16.Bd2 Qd4 17.Qxd4 exd4 18.Bb4 Nc5 19.e5 O-O 20.exd6 a5 21.Ba3 Bf5 22.Rac1 h5 23.Rfd1 h4 24.h3 Rbc8 25.Bxc5 Rxc5 26.c3 Rd8 27.cxd4 Rc2 28.Rxc2 Bxc2 29.Rd2 Bf5 30.Bc6 Bh6 31.Rf2 Bf8 32.Re2 Bxd6 33.Re8+ Rxe8 34.Bxe8 Bxf4 35.d5 Be4 36.Bc6 Bc2 37.Kg1 Kf8 38.Kf2 g5 39.Ke2 Bf5 40.Ke1 Bd3 41.Kd1 f5 42.Ke1 Ke7 43.Kf2 Kd6 44.Ke1 Be4 45.Ke2 Ke7 46.Ke1 Bb1 47.Ke2 Kd6 48.Ke1 Bc2 49.Ke2 Be4 50.Ke1 Be5 51.Ke2 Bxg2 52.Ke1 Bxh3 53.Ke2 Bg4+ 54.Ke1 Bxb2 55.",0-1,gpt-3.5-turbo-instruct,Stockfish-UCI_Elo 1785,0,1,5,0,False,False,True,False,gpt-3.5-turbo-instruct vs. Stockfish-UCI_Elo 1785,55,909.2322781085968
+1700497395-7201,"[White ""Magnus Carlsen""]
+[Black ""Stockfish""]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 Nxe4 4.d4 d5 5.Bd3 Nd7 6.Nxd7 Qxd7 7.0-0 Bd6 8.c4 O-O 9.cxd5 Re8 10.Nc3 Nf6 11.Bg5 Qd8 12.Qf3 a5 13.Rfe1 Bg4 14.Bxf6 Rxe1+ 15.Rxe1 Bxh2+ 16.Kh1 Qxf6 17.Qxf6 gxf6 18.Kxh2 a4 19.",0-1,gpt-3.5-turbo-instruct,Stockfish-UCI_Elo 1785,0,1,5,0,False,False,True,False,gpt-3.5-turbo-instruct vs. Stockfish-UCI_Elo 1785,19,38043.8875079155
+1700497395-6478,"[White ""Magnus Carlsen""]
+[Black ""Stockfish""]
+
+1.",0-1,gpt-3.5-turbo-instruct,Stockfish-UCI_Elo 1785,0,1,5,0,False,False,True,False,gpt-3.5-turbo-instruct vs. Stockfish-UCI_Elo 1785,1,0.013824701309204102
+1700497395-9262,"[White ""Magnus Carlsen""]
+[Black ""Stockfish""]
+
+1.",0-1,gpt-3.5-turbo-instruct,Stockfish-UCI_Elo 1785,0,1,5,0,False,False,True,False,gpt-3.5-turbo-instruct vs. Stockfish-UCI_Elo 1785,1,0.018826723098754883
+1700497395-7297,"[White ""Magnus Carlsen""]
+[Black ""Stockfish""]
+
+1.",0-1,gpt-3.5-turbo-instruct,Stockfish-UCI_Elo 1785,0,1,5,0,False,False,True,False,gpt-3.5-turbo-instruct vs. Stockfish-UCI_Elo 1785,1,0.010951995849609375
+1700497395-9629,"[White ""Magnus Carlsen""]
+[Black ""Stockfish""]
+
+1.",0-1,gpt-3.5-turbo-instruct,Stockfish-UCI_Elo 1785,0,1,5,0,False,False,True,False,gpt-3.5-turbo-instruct vs. Stockfish-UCI_Elo 1785,1,0.03579974174499512
+1700497395-2772,"[White ""Magnus Carlsen""]
+[Black ""Stockfish""]
+
+1.",0-1,gpt-3.5-turbo-instruct,Stockfish-UCI_Elo 1785,0,1,5,0,False,False,True,False,gpt-3.5-turbo-instruct vs. Stockfish-UCI_Elo 1785,1,0.028092384338378906
+1700497976-7825,"[White ""Magnus Carlsen""]
+[Black ""Stockfish""]
+
+1.g3 e5 2.d3 d5 3.Nf3 Nc6 4.a3 Nf6 5.Nc3 d4 6.Na2 Be7 7.e3 O-O 8.exd4 exd4 9.Bg2 Be6 10.O-O Qd7 11.b4 a6 12.Bb2 Rad8 13.Qe2 Rfe8 14.Qd2 Bh3 15.Rfe1 Bxg2 16.Kxg2 Qd5 17.Qd1 Bd6 18.Rxe8+ Rxe8 19.Nc1 g5 20.Kg1 g4 21.Ne1 Ne5 22.c4 dxc3 23.Bxc3 Ne4 24.Bxe5 Bxe5 25.Qxg4+ Bg7 26.Nf3 Nf6 27.Qf4 Nh5 28.Qg4 Nf6 29.Qf4 Nh5 30.Qg4 Nf6 31.Qf4 Nh5 32.Qg4 Nf6 33.Qf4 Nh5 34.Qg4 Nf6",1/2-1/2,Stockfish-UCI_Elo 1785,gpt-3.5-turbo-instruct,1/2,1/2,0,0,False,False,False,False,Stockfish-UCI_Elo 1785 vs. gpt-3.5-turbo-instruct,35,574.4836030006409
+1700498799-2537,"[White ""Magnus Carlsen""]
+[Black ""Stockfish""]
+
+1.c4 e5 2.g3 Nf6 3.Nf3 Nc6 4.Nc3 Bb4 5.Qc2 O-O 6.a3 Bxc3 7.Qxc3 Re8 8.d4 exd4 9.Qb3 d5 10.c5 Ne4 11.Qd1 Qf6 12.Bg2 d3 13.Qxd3 Nxc5 14.Qc2 Qe7 15.O-O Bg4 16.Be3 Ne4 17.Rfd1 Rad8 18.b4 a6 19.Qb3 Qf6 20.Nd4 Nxd4 21.Bxd4 Qg6 22.f3 c5 23.bxc5 Nxc5 24.Qa2 Ne6 25.fxg4 Qxg4 26.e3 Ng5 27.Qb2 f6 28.Kh1 b5 29.Rab1 Ne4 30.Qa2 Kh8 31.Kg1 h5 32.Rbc1 h4 33.gxh4 Qxh4 34.Bf3 Ng5 35.Qg2 Nxf3+ 36.Qxf3 Re4 37.h3 Rde8 38.Kh1 Qh6 39.Kh2 Rh4 40.Rc5 Ree4 41.Rc8+ Kh7 42.Qf5+ Qg6 43.Rh8+ Kxh8 44.Qxg6 Rh6 45.Qf7 Reh4 46.Rg1 Rxh3+ 47.Kg2 Rh2+ 48.Kf1 Rh7 49.Qe8#",1-0,Stockfish-UCI_Elo 1785,gpt-3.5-turbo-instruct,1,0,0,0,False,False,False,False,Stockfish-UCI_Elo 1785 vs. gpt-3.5-turbo-instruct,49,822.3216695785522
+1700499312-6837,"[White ""Magnus Carlsen""]
+[Black ""Stockfish""]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Qxd4 Nc6 5.Qd1 Nf6 6.Bd3 g6 7.Nc3 Bg7 8.h3 O-O 9.Be3 d5 10.Nxd5 Nxd5 11.exd5 Qxd5 12.O-O Bxb2 13.Bh6 Rd8 14.Rb1 Bf6 15.Re1 Qxa2 16.Nd2 Ne5 17.Ne4 Nxd3 18.Nxf6+ exf6 19.Qxd3 Bf5 20.Qf3 Qd5 21.Re8+ Rxe8 22.Qxd5 Bxc2 23.Qd4 Re6 24.Rf1 b6 25.h4 Rae8 26.f3 a5 27.Rc1 Bb3 28.Qd7 a4 29.Kh2 R6e7 30.Rc8",1-0,Stockfish-UCI_Elo 1785,gpt-3.5-turbo-instruct,1,0,0,0,False,True,False,False,Stockfish-UCI_Elo 1785 vs. gpt-3.5-turbo-instruct,30,512.346905708313
+1700499815-1731,"[White ""Magnus Carlsen""]
+[Black ""Stockfish""]
+
+1.d4 Nf6 2.a3 e6 3.Bg5 c5 4.Nc3 cxd4 5.Bxf6 Qxf6 6.Na2 Nc6 7.g3 d5 8.Bg2 Bc5 9.Nb4 Nxb4 10.axb4 Bxb4+ 11.c3 dxc3 12.Qa4+ Bd7 13.Qxb4 cxb2 14.Rb1 Rc8 15.Nh3 Rc1+ 16.Kd2 Rc4 17.Qxb2",1-0,Stockfish-UCI_Elo 1785,gpt-3.5-turbo-instruct,1,0,0,5,False,False,False,True,Stockfish-UCI_Elo 1785 vs. gpt-3.5-turbo-instruct,17,503.6524543762207
+1700499832-2547,"[White ""Magnus Carlsen""]
+[Black ""Stockfish""]
+
+1.Nf3",1-0,Stockfish-UCI_Elo 1785,gpt-3.5-turbo-instruct,1,0,0,5,False,False,False,True,Stockfish-UCI_Elo 1785 vs. gpt-3.5-turbo-instruct,1,16.349567890167236
+1700499848-4929,"[White ""Magnus Carlsen""]
+[Black ""Stockfish""]
+
+1.d4",1-0,Stockfish-UCI_Elo 1785,gpt-3.5-turbo-instruct,1,0,0,5,False,False,False,True,Stockfish-UCI_Elo 1785 vs. gpt-3.5-turbo-instruct,1,16.424662590026855
+1700499865-6088,"[White ""Magnus Carlsen""]
+[Black ""Stockfish""]
+
+1.c4",1-0,Stockfish-UCI_Elo 1785,gpt-3.5-turbo-instruct,1,0,0,5,False,False,False,True,Stockfish-UCI_Elo 1785 vs. gpt-3.5-turbo-instruct,1,16.350591897964478
+1700499881-9420,"[White ""Magnus Carlsen""]
+[Black ""Stockfish""]
+
+1.e4",1-0,Stockfish-UCI_Elo 1785,gpt-3.5-turbo-instruct,1,0,0,5,False,False,False,True,Stockfish-UCI_Elo 1785 vs. gpt-3.5-turbo-instruct,1,16.352898359298706
+1700499897-9370,"[White ""Magnus Carlsen""]
+[Black ""Stockfish""]
+
+1.c4",1-0,Stockfish-UCI_Elo 1785,gpt-3.5-turbo-instruct,1,0,0,5,False,False,False,True,Stockfish-UCI_Elo 1785 vs. gpt-3.5-turbo-instruct,1,16.351298332214355
+1700499914-4902,"[White ""Magnus Carlsen""]
+[Black ""Stockfish""]
+
+1.e4",1-0,Stockfish-UCI_Elo 1785,gpt-3.5-turbo-instruct,1,0,0,5,False,False,False,True,Stockfish-UCI_Elo 1785 vs. gpt-3.5-turbo-instruct,1,16.428624629974365
+1700499930-2772,"[White ""Magnus Carlsen""]
+[Black ""Stockfish""]
+
+1.Nf3",1-0,Stockfish-UCI_Elo 1785,gpt-3.5-turbo-instruct,1,0,0,5,False,False,False,True,Stockfish-UCI_Elo 1785 vs. gpt-3.5-turbo-instruct,1,16.44997000694275
+1700499946-2772,"[White ""Magnus Carlsen""]
+[Black ""Stockfish""]
+
+1.Nf3",1-0,Stockfish-UCI_Elo 1785,gpt-3.5-turbo-instruct,1,0,0,5,False,False,False,True,Stockfish-UCI_Elo 1785 vs. gpt-3.5-turbo-instruct,1,16.35439395904541
+1700499963-3997,"[White ""Magnus Carlsen""]
+[Black ""Stockfish""]
+
+1.e4",1-0,Stockfish-UCI_Elo 1785,gpt-3.5-turbo-instruct,1,0,0,5,False,False,False,True,Stockfish-UCI_Elo 1785 vs. gpt-3.5-turbo-instruct,1,16.3454372882843
+1700499979-5830,"[White ""Magnus Carlsen""]
+[Black ""Stockfish""]
+
+1.c4",1-0,Stockfish-UCI_Elo 1785,gpt-3.5-turbo-instruct,1,0,0,5,False,False,False,True,Stockfish-UCI_Elo 1785 vs. gpt-3.5-turbo-instruct,1,16.342780590057373
+1700499996-4191,"[White ""Magnus Carlsen""]
+[Black ""Stockfish""]
+
+1.e4",1-0,Stockfish-UCI_Elo 1785,gpt-3.5-turbo-instruct,1,0,0,5,False,False,False,True,Stockfish-UCI_Elo 1785 vs. gpt-3.5-turbo-instruct,1,16.342915296554565
+1700499996-5064,"[White ""Magnus Carlsen""]
+[Black ""Stockfish""]
+
+1.",0-1,gpt-3.5-turbo-instruct,Stockfish-UCI_Elo 1785,0,1,5,0,False,False,True,False,gpt-3.5-turbo-instruct vs. Stockfish-UCI_Elo 1785,1,0.019751787185668945
+1700499996-6398,"[White ""Magnus Carlsen""]
+[Black ""Stockfish""]
+
+1.",0-1,gpt-3.5-turbo-instruct,Stockfish-UCI_Elo 1785,0,1,5,0,False,False,True,False,gpt-3.5-turbo-instruct vs. Stockfish-UCI_Elo 1785,1,0.018931865692138672
+1700499996-6789,"[White ""Magnus Carlsen""]
+[Black ""Stockfish""]
+
+1.",0-1,gpt-3.5-turbo-instruct,Stockfish-UCI_Elo 1785,0,1,5,0,False,False,True,False,gpt-3.5-turbo-instruct vs. Stockfish-UCI_Elo 1785,1,0.018604278564453125
+1700499996-2500,"[White ""Magnus Carlsen""]
+[Black ""Stockfish""]
+
+1.",0-1,gpt-3.5-turbo-instruct,Stockfish-UCI_Elo 1785,0,1,5,0,False,False,True,False,gpt-3.5-turbo-instruct vs. Stockfish-UCI_Elo 1785,1,0.018789291381835938
+1700499996-6199,"[White ""Magnus Carlsen""]
+[Black ""Stockfish""]
+
+1.",0-1,gpt-3.5-turbo-instruct,Stockfish-UCI_Elo 1785,0,1,5,0,False,False,True,False,gpt-3.5-turbo-instruct vs. Stockfish-UCI_Elo 1785,1,0.017553091049194336
+1700499996-9257,"[White ""Magnus Carlsen""]
+[Black ""Stockfish""]
+
+1.",0-1,gpt-3.5-turbo-instruct,Stockfish-UCI_Elo 1785,0,1,5,0,False,False,True,False,gpt-3.5-turbo-instruct vs. Stockfish-UCI_Elo 1785,1,0.018207550048828125
+1700499996-9983,"[White ""Magnus Carlsen""]
+[Black ""Stockfish""]
+
+1.",0-1,gpt-3.5-turbo-instruct,Stockfish-UCI_Elo 1785,0,1,5,0,False,False,True,False,gpt-3.5-turbo-instruct vs. Stockfish-UCI_Elo 1785,1,0.018344640731811523
+1700499996-9826,"[White ""Magnus Carlsen""]
+[Black ""Stockfish""]
+
+1.",0-1,gpt-3.5-turbo-instruct,Stockfish-UCI_Elo 1785,0,1,5,0,False,False,True,False,gpt-3.5-turbo-instruct vs. Stockfish-UCI_Elo 1785,1,0.018250465393066406
+1700499996-5549,"[White ""Magnus Carlsen""]
+[Black ""Stockfish""]
+
+1.",0-1,gpt-3.5-turbo-instruct,Stockfish-UCI_Elo 1785,0,1,5,0,False,False,True,False,gpt-3.5-turbo-instruct vs. Stockfish-UCI_Elo 1785,1,0.01802802085876465
+1700499996-5748,"[White ""Magnus Carlsen""]
+[Black ""Stockfish""]
+
+1.",0-1,gpt-3.5-turbo-instruct,Stockfish-UCI_Elo 1785,0,1,5,0,False,False,True,False,gpt-3.5-turbo-instruct vs. Stockfish-UCI_Elo 1785,1,0.01759624481201172
+1700499996-9813,"[White ""Magnus Carlsen""]
+[Black ""Stockfish""]
+
+1.",0-1,gpt-3.5-turbo-instruct,Stockfish-UCI_Elo 1785,0,1,5,0,False,False,True,False,gpt-3.5-turbo-instruct vs. Stockfish-UCI_Elo 1785,1,0.017800331115722656
+1700499996-4672,"[White ""Magnus Carlsen""]
+[Black ""Stockfish""]
+
+1.",0-1,gpt-3.5-turbo-instruct,Stockfish-UCI_Elo 1785,0,1,5,0,False,False,True,False,gpt-3.5-turbo-instruct vs. Stockfish-UCI_Elo 1785,1,0.015466690063476562
+1700499996-6667,"[White ""Magnus Carlsen""]
+[Black ""Stockfish""]
+
+1.",0-1,gpt-3.5-turbo-instruct,Stockfish-UCI_Elo 1785,0,1,5,0,False,False,True,False,gpt-3.5-turbo-instruct vs. Stockfish-UCI_Elo 1785,1,0.012582063674926758
+1700499996-9826,"[White ""Magnus Carlsen""]
+[Black ""Stockfish""]
+
+1.",0-1,gpt-3.5-turbo-instruct,Stockfish-UCI_Elo 1785,0,1,5,0,False,False,True,False,gpt-3.5-turbo-instruct vs. Stockfish-UCI_Elo 1785,1,0.012501955032348633
+1700499996-4996,"[White ""Magnus Carlsen""]
+[Black ""Stockfish""]
+
+1.",0-1,gpt-3.5-turbo-instruct,Stockfish-UCI_Elo 1785,0,1,5,0,False,False,True,False,gpt-3.5-turbo-instruct vs. Stockfish-UCI_Elo 1785,1,0.013754606246948242
+1700500013-6536,"[White ""Magnus Carlsen""]
+[Black ""Stockfish""]
+
+1.c4",1-0,Stockfish-UCI_Elo 1785,gpt-3.5-turbo-instruct,1,0,0,5,False,False,False,True,Stockfish-UCI_Elo 1785 vs. gpt-3.5-turbo-instruct,1,16.349750518798828
+1700500029-5724,"[White ""Magnus Carlsen""]
+[Black ""Stockfish""]
+
+1.d4",1-0,Stockfish-UCI_Elo 1785,gpt-3.5-turbo-instruct,1,0,0,5,False,False,False,True,Stockfish-UCI_Elo 1785 vs. gpt-3.5-turbo-instruct,1,16.351038932800293
+1700506365-3419,"[White ""Magnus Carlsen""]
+[Black ""Stockfish""]
+
+1.c4 e5 2.Nf3 Nc6 3.d4 exd4 4.g3 Bc5 5.Nbd2 d6 6.Nb3 Qf6 7.a3 Nge7 8.Bg2 O-O 9.Bg5 Qg6 10.O-O Re8 11.Bxe7 Rxe7 12.Nbxd4 Nxd4 13.Nxd4 a5 14.e3 c6 15.b4 Bxd4 16.Qxd4 Bf5 17.Rfd1 Rd7 18.b5 c5 19.Qf4 Re8 20.Rd2 Be4 21.f3 Bc2 22.Rc1 Bb3 23.e4 Qe6 24.Bf1 a4 25.h4 Qe5 26.Bh3 Rdd8 27.Kf2 Qxf4 28.gxf4 Kf8 29.Bg4 Ke7 30.h5 g6 31.Bh3 Kf6 32.Rc3 gxh5 33.b6 Ke7 34.Bf1 Rg8 35.Rdd3 h4 36.Rd5 Rg6 37.Rf5 Rdg8 38.Rh5 Rg1 39.Rxh4 R8g7 40.Rh6 R1g6 41.Rh2 Rg8 42.Rc1 R6g7 43.Rh6 Rd8 44.Re1 Kf8 45.f5 Kg8 46.f4 Rg4 47.Be2 Rxf4+ 48.Ke3 Kg7 49.Rhh1 Rxe4+ 50.Kxe4 Re8+ 51.Kd5 Re5+ 52.Kxd6",1-0,Stockfish-UCI_Elo 1785,gpt-3.5-turbo-instruct,1,0,0,5,False,False,False,True,Stockfish-UCI_Elo 1785 vs. gpt-3.5-turbo-instruct,52,6336.096670389175
+1700506382-2427,"[White ""Magnus Carlsen""]
+[Black ""Stockfish""]
+
+1.d4",1-0,Stockfish-UCI_Elo 1785,gpt-3.5-turbo-instruct,1,0,0,5,False,False,False,True,Stockfish-UCI_Elo 1785 vs. gpt-3.5-turbo-instruct,1,16.419284105300903
+1700506398-5301,"[White ""Magnus Carlsen""]
+[Black ""Stockfish""]
+
+1.e4",1-0,Stockfish-UCI_Elo 1785,gpt-3.5-turbo-instruct,1,0,0,5,False,False,False,True,Stockfish-UCI_Elo 1785 vs. gpt-3.5-turbo-instruct,1,16.344465970993042
+1700506414-4171,"[White ""Magnus Carlsen""]
+[Black ""Stockfish""]
+
+1.e4",1-0,Stockfish-UCI_Elo 1785,gpt-3.5-turbo-instruct,1,0,0,5,False,False,False,True,Stockfish-UCI_Elo 1785 vs. gpt-3.5-turbo-instruct,1,16.34309673309326
+1700506431-6105,"[White ""Magnus Carlsen""]
+[Black ""Stockfish""]
+
+1.c4",1-0,Stockfish-UCI_Elo 1785,gpt-3.5-turbo-instruct,1,0,0,5,False,False,False,True,Stockfish-UCI_Elo 1785 vs. gpt-3.5-turbo-instruct,1,16.33964991569519
+1700506447-4097,"[White ""Magnus Carlsen""]
+[Black ""Stockfish""]
+
+1.Nf3",1-0,Stockfish-UCI_Elo 1785,gpt-3.5-turbo-instruct,1,0,0,5,False,False,False,True,Stockfish-UCI_Elo 1785 vs. gpt-3.5-turbo-instruct,1,16.438932180404663
+1700506918-1551,"[White ""Magnus Carlsen""]
+[Black ""Stockfish""]
+
+1.c4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Bb4+ 5.Bd2 Bxd2+ 6.Qxd2 Nf6 7.Nc3 O-O 8.O-O-O Re8 9.g3 Ne5 10.e4 d6 11.Be2 Bh3 12.Rhe1 a6 13.f4 Ned7 14.Qe3 Nc5 15.e5 Ng4 16.Qf3 dxe5 17.Nc6 Qf6 18.Ne7+ Qxe7 19.b4 e4 20.Bf1 Bxf1 21.Qxg4 Nd3+ 22.Kd2 Nxe1 23.Nd5 Qd6 24.Qe2 Nf3+ 25.Ke3 Bxe2 26.c5 Qh6 27.Nxc7 Bxd1 28.h4 Qf6 29.Kf2 Qb2+ 30.Kf1 Qe2#",0-1,Stockfish-UCI_Elo 1785,gpt-3.5-turbo-instruct,0,1,0,0,False,False,False,False,Stockfish-UCI_Elo 1785 vs. gpt-3.5-turbo-instruct,31,470.8454134464264
+1700508086-9772,"[White ""Magnus Carlsen""]
+[Black ""Stockfish""]
+
+1.d4 Nf6 2.h3 d5 3.Bf4 c5 4.c3 Nc6 5.Nf3 Qb6 6.Qc2 cxd4 7.Nbd2 dxc3 8.Qxc3 Bf5 9.e3 e6 10.Qb3 Bb4 11.a3 Bxd2+ 12.Nxd2 Qxb3 13.Nxb3 e5 14.Bh2 O-O 15.Nc5 b6 16.Nb3 Rac8 17.Bb5 Bc2 18.Nc1 Nd4 19.exd4 exd4 20.O-O Ne4 21.Be5 Nd2 22.Bxd4 Nxf1 23.Bxf1 Rfe8 24.Ne2 Bd3 25.Ng3 Bxf1 26.Nxf1 Rc4 27.Rd1 Re2 28.Ne3 Rc8 29.g4 f6 30.Kf1 Rxe3 31.fxe3 Kf7 32.Kg2 Ke6 33.Kg3 Rc2 34.Rf1 h6 35.Rb1 g5 36.Ra1 f5 37.Rf1 fxg4 38.hxg4 Re2 39.Rf6+ Kd7 40.Rxh6 Re1 41.a4 Rg1+ 42.Kf3 Rf1+ 43.Kg2 Ra1 44.Rh7+ Kc6 45.Rxa7 b5 46.Rg7 bxa4 47.Kf3 Rf1+ 48.Ke2 Rg1 49.Kf3 Rf1+ 50.Kg2 Rd1 51.Rg6+ Kb5 52.Rxg5 Kc4 53.Kf2 Rd2+ 54.Kf3 Rd1 55.Ke2 Rg1 56.Kf2 Rd1 57.Rg8 Rd2+ 58.Kf3 Rd1 59.Kf2 Rd2+ 60.Kf3 Rd1 61.g5 Rg1 62.Ke2 Rg2+ 63.Kf3 Rg1 64.g6 Kb3 65.Kf2 Rg5 66.g7 Rg6 67.Rb8+ Kc2 68.g8=Q Rxg8 69.Rxg8",1-0,Stockfish-UCI_Elo 1785,gpt-3.5-turbo-instruct,1,0,0,5,False,False,False,True,Stockfish-UCI_Elo 1785 vs. gpt-3.5-turbo-instruct,69,1168.2017614841461
+1700508810-6238,"[White ""Magnus Carlsen""]
+[Black ""Stockfish""]
+
+1.d4 Nf6 2.Bf4 g6 3.Nf3 Bg7 4.h3 O-O 5.c3 d6 6.Nbd2 Nbd7 7.Bh2 b6 8.Qc2 Bb7 9.e3 c5 10.Bd3 Rc8 11.O-O Rc7 12.Rfe1 Qa8 13.Qb1 Rfc8 14.a4 a6 15.Qc2 cxd4 16.exd4 Nd5 17.Qb3 N7f6 18.c4 Nb4 19.Qxb4 Bxf3 20.Nxf3 Qb7 21.Bf1 Ne4 22.Qb3 f5 23.Qd1 Kh8 24.Bf4 h6 25.b3 g5 26.Bc1 e5 27.Be3 f4 28.Bd2 Nxd2 29.Nxd2 exd4 30.Bd3 d5 31.Re6 dxc4 32.Nxc4 Rc6 33.Qe1 Rxe6 34.Qxe6 b5 35.Nd6 Qc6 36.Nf7+ Kg8 37.Nd6+ Kh8 38.Qf5 Kg8 39.Kh2 Rc7 40.Qe6+ Kh8 41.Nf7+ Kg8 42.Nxh6+ Kh8 43.Qg8#",1-0,Stockfish-UCI_Elo 1785,gpt-3.5-turbo-instruct,1,0,0,0,False,False,False,False,Stockfish-UCI_Elo 1785 vs. gpt-3.5-turbo-instruct,43,723.8033375740051
+1700509403-3142,"[White ""Magnus Carlsen""]
+[Black ""Stockfish""]
+
+1.g3 e5 2.Nf3 Nc6 3.d4 e4 4.Ng5 d5 5.f3 h6 6.Nh3 Nf6 7.Nf2 Bf5 8.Nc3 Bb4 9.g4 Bg6 10.Bg2 Qe7 11.O-O O-O-O 12.Bf4 Rhe8 13.e3 Bxc3 14.bxc3 Na5 15.a4 Nc4 16.a5 exf3 17.Qxf3 Nd2 18.Qd1 Nxf1 19.Kxf1 Ne4 20.a6 b6 21.Nxe4 Bxe4 22.Kg1 Bxg2 23.Kxg2 Qe4+ 24.Kh3 f5 25.Be5 Qxe3+ 26.Kh4 g5+ 27.Kh5 Qh3+ 28.Kg6 Re6+ 29.Kf7 Rde8 30.Qe1 R8e7+ 31.Kg8 Qxg4 32.Bg7 Rxe1 33.Rxe1 Rxe1 34.Be5 Rxe5 35.Kf8 Re6 36.h4 gxh4 37.Kf7 Qg6+ 38.Kf8 Re8#",0-1,Stockfish-UCI_Elo 1785,gpt-3.5-turbo-instruct,0,1,0,0,False,False,False,False,Stockfish-UCI_Elo 1785 vs. gpt-3.5-turbo-instruct,39,592.5315887928009
+1700509960-5398,"[White ""Magnus Carlsen""]
+[Black ""Stockfish""]
+
+1.d4 Nf6 2.Nf3 e6 3.g3 d5 4.c4 dxc4 5.Nc3 a6 6.Ne5 c5 7.dxc5 Qxd1+ 8.Nxd1 Bxc5 9.Nxc4 b5 10.Na5 Bb4+ 11.Bd2 Bxd2+ 12.Kxd2 Ra7 13.Bg2 Rd7+ 14.Ke1 Ke7 15.f4 Rhd8 16.Nf2 Rc7 17.Bf3 Rc2 18.g4 Rxb2 19.g5 Nd5 20.Bxd5 Rxd5 21.Nb3 Nc6 22.Ne4 Nd4 23.Nxd4 Rxd4 24.f5 Rxe4 25.f6+ gxf6 26.Kf1 fxg5 27.h3 Rexe2 28.h4 g4 29.Rg1 h5 30.Rc1 Rec2 31.Rxc2 Rxc2 32.Rxg4 hxg4 33.a3 g3 34.Kg1 Bb7 35.h5 Rc1#",0-1,Stockfish-UCI_Elo 1785,gpt-3.5-turbo-instruct,0,1,0,0,False,False,False,False,Stockfish-UCI_Elo 1785 vs. gpt-3.5-turbo-instruct,36,557.3561835289001
+1700510401-2570,"[White ""Magnus Carlsen""]
+[Black ""Stockfish""]
+
+1.c4 Nf6 2.Nf3 e6 3.g3 d5 4.d4 Be7 5.Nc3 O-O 6.b3 c5 7.Bg2 cxd4 8.Nxd4 e5 9.cxd5 exd4 10.Qxd4 Nc6 11.Qc4 Ne5 12.Qd4 Nc6 13.Qe3 Nb4 14.Qd2 Bf5 15.O-O Rc8 16.Rd1 Bc5 17.Ba3 Ng4 18.Bxb4 Bxb4 19.Qf4 Bxc3 20.Qxf5 Bxa1 21.Qxc8 Qxc8 22.e3 Qc2 23.Rxa1 Qxf2+ 24.Kh1 Nxe3 25.Be4 Re8 26.g4 Rxe4 27.d6 Qg2#",0-1,Stockfish-UCI_Elo 1785,gpt-3.5-turbo-instruct,0,1,0,0,False,False,False,False,Stockfish-UCI_Elo 1785 vs. gpt-3.5-turbo-instruct,28,440.9347496032715
+1700511024-5115,"[White ""Magnus Carlsen""]
+[Black ""Stockfish""]
+
+1.d4 Nf6 2.g3 g6 3.c4 Bg7 4.Nc3 O-O 5.e3 d6 6.Nge2 e5 7.b3 exd4 8.exd4 Re8 9.h3 c5 10.dxc5 Ne4 11.Nxe4 Rxe4 12.Be3 Bxa1 13.Qxa1 dxc5 14.Bh6 f6 15.Qb2 Nc6 16.Bg2 Re8 17.O-O Be6 18.g4 Qe7 19.Ng3 Nd4 20.Ne4 Rad8 21.Re1 b6 22.Re3 Qf7 23.Bf4 Qg7 24.Nd6 Re7 25.b4 f5 26.Qd2 fxg4 27.bxc5 bxc5 28.Be5 Qf8 29.Rg3 Bf5 30.Bd5+ Ne6 31.hxg4 Bb1 32.Rf3 Bf5 33.Rxf5 gxf5 34.Qg5+ Rg7 35.Bxe6+ Kh8 36.Bxg7+ Qxg7 37.Qxd8+",1-0,Stockfish-UCI_Elo 1785,gpt-3.5-turbo-instruct,1,0,0,0,False,True,False,False,Stockfish-UCI_Elo 1785 vs. gpt-3.5-turbo-instruct,37,622.9979684352875

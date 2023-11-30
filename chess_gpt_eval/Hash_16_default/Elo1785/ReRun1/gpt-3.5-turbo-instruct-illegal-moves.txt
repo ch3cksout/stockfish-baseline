@@ -1,0 +1,2205 @@
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4 Na6 2.e4 e6 3.Nf3 Be7 4.Bd3 c5 5.O-O Nb4 6.Be2 d6 7.c3 Na6 8.d5 Nf6 9.Bg5 Nc7 10.Bxf6 Bxf6 11.dxe6 Bxe6 12.Nbd2 Qe7 13.Re1 O-O-O 14.Qa4 a6 15.Nc4 Rhe8 16.Nb6+ Kb8 17.Rad1 g6 18.Bf1 Bg7 19.e5 dxe5 20.Nxe5 Bxe5 21.Rxe5 Ka7 22.Rxd8 Rxd8 23.Nc4 f6 24.Re1 b5 25.Qa5 bxc4 26.Bxc4 Qd6 27.Bxe6 Qe7 28.h3 Nxe6 29.Rxe6 Rd1+ 30.Kh2 Qxe6 31.Qxc5+ Kb8 32.Qf8+ Kc7 33.Qc5+ Kb7 34.Qb4+ Kc8 35.Qf8+ Kc7 36.Qc5+ Kb7 37.Qb4+ Kc8 38.Qf8+ Rd8 39.Qc5+ Kb7 40.Qb4+ Kc6 41.Qa4+ Kc7 42.Qa5+ Qb6 43.Qa3 f5 44.b4 Qb5 45.Qc1 Qe2 46.Qf4+ Kb7 47.a4 Qe7 48.b5 Qd6 49.Qxd6 Rxd6 50.c4 Rd4 51.c5 a5 52.c6+ Kb8 53.b6 Rxa4 54.
+Ke3
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4 Na6 2.e4 e6 3.Nf3 Be7 4.Bd3 c5 5.O-O Nb4 6.Be2 d6 7.c3 Na6 8.d5 Nf6 9.Bg5 Nc7 10.Bxf6 Bxf6 11.dxe6 Bxe6 12.Nbd2 Qe7 13.Re1 O-O-O 14.Qa4 a6 15.Nc4 Rhe8 16.Nb6+ Kb8 17.Rad1 g6 18.Bf1 Bg7 19.e5 dxe5 20.Nxe5 Bxe5 21.Rxe5 Ka7 22.Rxd8 Rxd8 23.Nc4 f6 24.Re1 b5 25.Qa5 bxc4 26.Bxc4 Qd6 27.Bxe6 Qe7 28.h3 Nxe6 29.Rxe6 Rd1+ 30.Kh2 Qxe6 31.Qxc5+ Kb8 32.Qf8+ Kc7 33.Qc5+ Kb7 34.Qb4+ Kc8 35.Qf8+ Kc7 36.Qc5+ Kb7 37.Qb4+ Kc8 38.Qf8+ Rd8 39.Qc5+ Kb7 40.Qb4+ Kc6 41.Qa4+ Kc7 42.Qa5+ Qb6 43.Qa3 f5 44.b4 Qb5 45.Qc1 Qe2 46.Qf4+ Kb7 47.a4 Qe7 48.b5 Qd6 49.Qxd6 Rxd6 50.c4 Rd4 51.c5 a5 52.c6+ Kb8 53.b6 Rxa4 54.
+Ke3
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4 Na6 2.e4 e6 3.Nf3 Be7 4.Bd3 c5 5.O-O Nb4 6.Be2 d6 7.c3 Na6 8.d5 Nf6 9.Bg5 Nc7 10.Bxf6 Bxf6 11.dxe6 Bxe6 12.Nbd2 Qe7 13.Re1 O-O-O 14.Qa4 a6 15.Nc4 Rhe8 16.Nb6+ Kb8 17.Rad1 g6 18.Bf1 Bg7 19.e5 dxe5 20.Nxe5 Bxe5 21.Rxe5 Ka7 22.Rxd8 Rxd8 23.Nc4 f6 24.Re1 b5 25.Qa5 bxc4 26.Bxc4 Qd6 27.Bxe6 Qe7 28.h3 Nxe6 29.Rxe6 Rd1+ 30.Kh2 Qxe6 31.Qxc5+ Kb8 32.Qf8+ Kc7 33.Qc5+ Kb7 34.Qb4+ Kc8 35.Qf8+ Kc7 36.Qc5+ Kb7 37.Qb4+ Kc8 38.Qf8+ Rd8 39.Qc5+ Kb7 40.Qb4+ Kc6 41.Qa4+ Kc7 42.Qa5+ Qb6 43.Qa3 f5 44.b4 Qb5 45.Qc1 Qe2 46.Qf4+ Kb7 47.a4 Qe7 48.b5 Qd6 49.Qxd6 Rxd6 50.c4 Rd4 51.c5 a5 52.c6+ Kb8 53.b6 Rxa4 54.
+Ke3
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4 Na6 2.e4 e6 3.Nf3 Be7 4.Bd3 c5 5.O-O Nb4 6.Be2 d6 7.c3 Na6 8.d5 Nf6 9.Bg5 Nc7 10.Bxf6 Bxf6 11.dxe6 Bxe6 12.Nbd2 Qe7 13.Re1 O-O-O 14.Qa4 a6 15.Nc4 Rhe8 16.Nb6+ Kb8 17.Rad1 g6 18.Bf1 Bg7 19.e5 dxe5 20.Nxe5 Bxe5 21.Rxe5 Ka7 22.Rxd8 Rxd8 23.Nc4 f6 24.Re1 b5 25.Qa5 bxc4 26.Bxc4 Qd6 27.Bxe6 Qe7 28.h3 Nxe6 29.Rxe6 Rd1+ 30.Kh2 Qxe6 31.Qxc5+ Kb8 32.Qf8+ Kc7 33.Qc5+ Kb7 34.Qb4+ Kc8 35.Qf8+ Kc7 36.Qc5+ Kb7 37.Qb4+ Kc8 38.Qf8+ Rd8 39.Qc5+ Kb7 40.Qb4+ Kc6 41.Qa4+ Kc7 42.Qa5+ Qb6 43.Qa3 f5 44.b4 Qb5 45.Qc1 Qe2 46.Qf4+ Kb7 47.a4 Qe7 48.b5 Qd6 49.Qxd6 Rxd6 50.c4 Rd4 51.c5 a5 52.c6+ Kb8 53.b6 Rxa4 54.c7+ Kc8 55.
+Ke3
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4 Na6 2.e4 e6 3.Nf3 Be7 4.Bd3 c5 5.O-O Nb4 6.Be2 d6 7.c3 Na6 8.d5 Nf6 9.Bg5 Nc7 10.Bxf6 Bxf6 11.dxe6 Bxe6 12.Nbd2 Qe7 13.Re1 O-O-O 14.Qa4 a6 15.Nc4 Rhe8 16.Nb6+ Kb8 17.Rad1 g6 18.Bf1 Bg7 19.e5 dxe5 20.Nxe5 Bxe5 21.Rxe5 Ka7 22.Rxd8 Rxd8 23.Nc4 f6 24.Re1 b5 25.Qa5 bxc4 26.Bxc4 Qd6 27.Bxe6 Qe7 28.h3 Nxe6 29.Rxe6 Rd1+ 30.Kh2 Qxe6 31.Qxc5+ Kb8 32.Qf8+ Kc7 33.Qc5+ Kb7 34.Qb4+ Kc8 35.Qf8+ Kc7 36.Qc5+ Kb7 37.Qb4+ Kc8 38.Qf8+ Rd8 39.Qc5+ Kb7 40.Qb4+ Kc6 41.Qa4+ Kc7 42.Qa5+ Qb6 43.Qa3 f5 44.b4 Qb5 45.Qc1 Qe2 46.Qf4+ Kb7 47.a4 Qe7 48.b5 Qd6 49.Qxd6 Rxd6 50.c4 Rd4 51.c5 a5 52.c6+ Kb8 53.b6 Rxa4 54.c7+ Kc8 55.
+Ke3
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4 Na6 2.e4 e6 3.Nf3 Be7 4.Bd3 c5 5.O-O Nb4 6.Be2 d6 7.c3 Na6 8.d5 Nf6 9.Bg5 Nc7 10.Bxf6 Bxf6 11.dxe6 Bxe6 12.Nbd2 Qe7 13.Re1 O-O-O 14.Qa4 a6 15.Nc4 Rhe8 16.Nb6+ Kb8 17.Rad1 g6 18.Bf1 Bg7 19.e5 dxe5 20.Nxe5 Bxe5 21.Rxe5 Ka7 22.Rxd8 Rxd8 23.Nc4 f6 24.Re1 b5 25.Qa5 bxc4 26.Bxc4 Qd6 27.Bxe6 Qe7 28.h3 Nxe6 29.Rxe6 Rd1+ 30.Kh2 Qxe6 31.Qxc5+ Kb8 32.Qf8+ Kc7 33.Qc5+ Kb7 34.Qb4+ Kc8 35.Qf8+ Kc7 36.Qc5+ Kb7 37.Qb4+ Kc8 38.Qf8+ Rd8 39.Qc5+ Kb7 40.Qb4+ Kc6 41.Qa4+ Kc7 42.Qa5+ Qb6 43.Qa3 f5 44.b4 Qb5 45.Qc1 Qe2 46.Qf4+ Kb7 47.a4 Qe7 48.b5 Qd6 49.Qxd6 Rxd6 50.c4 Rd4 51.c5 a5 52.c6+ Kb8 53.b6 Rxa4 54.c7+ Kc8 55.
+Ke3
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4 Na6 2.e4 e6 3.Nf3 Be7 4.Bd3 c5 5.O-O Nb4 6.Be2 d6 7.c3 Na6 8.d5 Nf6 9.Bg5 Nc7 10.Bxf6 Bxf6 11.dxe6 Bxe6 12.Nbd2 Qe7 13.Re1 O-O-O 14.Qa4 a6 15.Nc4 Rhe8 16.Nb6+ Kb8 17.Rad1 g6 18.Bf1 Bg7 19.e5 dxe5 20.Nxe5 Bxe5 21.Rxe5 Ka7 22.Rxd8 Rxd8 23.Nc4 f6 24.Re1 b5 25.Qa5 bxc4 26.Bxc4 Qd6 27.Bxe6 Qe7 28.h3 Nxe6 29.Rxe6 Rd1+ 30.Kh2 Qxe6 31.Qxc5+ Kb8 32.Qf8+ Kc7 33.Qc5+ Kb7 34.Qb4+ Kc8 35.Qf8+ Kc7 36.Qc5+ Kb7 37.Qb4+ Kc8 38.Qf8+ Rd8 39.Qc5+ Kb7 40.Qb4+ Kc6 41.Qa4+ Kc7 42.Qa5+ Qb6 43.Qa3 f5 44.b4 Qb5 45.Qc1 Qe2 46.Qf4+ Kb7 47.a4 Qe7 48.b5 Qd6 49.Qxd6 Rxd6 50.c4 Rd4 51.c5 a5 52.c6+ Kb8 53.b6 Rxa4 54.c7+ Kc8 55.f4 Rb4 56.
+Ke3
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4 Na6 2.e4 e6 3.Nf3 Be7 4.Bd3 c5 5.O-O Nb4 6.Be2 d6 7.c3 Na6 8.d5 Nf6 9.Bg5 Nc7 10.Bxf6 Bxf6 11.dxe6 Bxe6 12.Nbd2 Qe7 13.Re1 O-O-O 14.Qa4 a6 15.Nc4 Rhe8 16.Nb6+ Kb8 17.Rad1 g6 18.Bf1 Bg7 19.e5 dxe5 20.Nxe5 Bxe5 21.Rxe5 Ka7 22.Rxd8 Rxd8 23.Nc4 f6 24.Re1 b5 25.Qa5 bxc4 26.Bxc4 Qd6 27.Bxe6 Qe7 28.h3 Nxe6 29.Rxe6 Rd1+ 30.Kh2 Qxe6 31.Qxc5+ Kb8 32.Qf8+ Kc7 33.Qc5+ Kb7 34.Qb4+ Kc8 35.Qf8+ Kc7 36.Qc5+ Kb7 37.Qb4+ Kc8 38.Qf8+ Rd8 39.Qc5+ Kb7 40.Qb4+ Kc6 41.Qa4+ Kc7 42.Qa5+ Qb6 43.Qa3 f5 44.b4 Qb5 45.Qc1 Qe2 46.Qf4+ Kb7 47.a4 Qe7 48.b5 Qd6 49.Qxd6 Rxd6 50.c4 Rd4 51.c5 a5 52.c6+ Kb8 53.b6 Rxa4 54.c7+ Kc8 55.f4 Rb4 56.
+Ke3
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4 Na6 2.e4 e6 3.Nf3 Be7 4.Bd3 c5 5.O-O Nb4 6.Be2 d6 7.c3 Na6 8.d5 Nf6 9.Bg5 Nc7 10.Bxf6 Bxf6 11.dxe6 Bxe6 12.Nbd2 Qe7 13.Re1 O-O-O 14.Qa4 a6 15.Nc4 Rhe8 16.Nb6+ Kb8 17.Rad1 g6 18.Bf1 Bg7 19.e5 dxe5 20.Nxe5 Bxe5 21.Rxe5 Ka7 22.Rxd8 Rxd8 23.Nc4 f6 24.Re1 b5 25.Qa5 bxc4 26.Bxc4 Qd6 27.Bxe6 Qe7 28.h3 Nxe6 29.Rxe6 Rd1+ 30.Kh2 Qxe6 31.Qxc5+ Kb8 32.Qf8+ Kc7 33.Qc5+ Kb7 34.Qb4+ Kc8 35.Qf8+ Kc7 36.Qc5+ Kb7 37.Qb4+ Kc8 38.Qf8+ Rd8 39.Qc5+ Kb7 40.Qb4+ Kc6 41.Qa4+ Kc7 42.Qa5+ Qb6 43.Qa3 f5 44.b4 Qb5 45.Qc1 Qe2 46.Qf4+ Kb7 47.a4 Qe7 48.b5 Qd6 49.Qxd6 Rxd6 50.c4 Rd4 51.c5 a5 52.c6+ Kb8 53.b6 Rxa4 54.c7+ Kc8 55.f4 Rb4 56.
+Ke3
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4 Na6 2.e4 e6 3.Nf3 Be7 4.Bd3 c5 5.O-O Nb4 6.Be2 d6 7.c3 Na6 8.d5 Nf6 9.Bg5 Nc7 10.Bxf6 Bxf6 11.dxe6 Bxe6 12.Nbd2 Qe7 13.Re1 O-O-O 14.Qa4 a6 15.Nc4 Rhe8 16.Nb6+ Kb8 17.Rad1 g6 18.Bf1 Bg7 19.e5 dxe5 20.Nxe5 Bxe5 21.Rxe5 Ka7 22.Rxd8 Rxd8 23.Nc4 f6 24.Re1 b5 25.Qa5 bxc4 26.Bxc4 Qd6 27.Bxe6 Qe7 28.h3 Nxe6 29.Rxe6 Rd1+ 30.Kh2 Qxe6 31.Qxc5+ Kb8 32.Qf8+ Kc7 33.Qc5+ Kb7 34.Qb4+ Kc8 35.Qf8+ Kc7 36.Qc5+ Kb7 37.Qb4+ Kc8 38.Qf8+ Rd8 39.Qc5+ Kb7 40.Qb4+ Kc6 41.Qa4+ Kc7 42.Qa5+ Qb6 43.Qa3 f5 44.b4 Qb5 45.Qc1 Qe2 46.Qf4+ Kb7 47.a4 Qe7 48.b5 Qd6 49.Qxd6 Rxd6 50.c4 Rd4 51.c5 a5 52.c6+ Kb8 53.b6 Rxa4 54.c7+ Kc8 55.f4 Rb4 56.
+Ke3
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4 Na6 2.e4 e6 3.Nf3 Be7 4.Bd3 c5 5.O-O Nb4 6.Be2 d6 7.c3 Na6 8.d5 Nf6 9.Bg5 Nc7 10.Bxf6 Bxf6 11.dxe6 Bxe6 12.Nbd2 Qe7 13.Re1 O-O-O 14.Qa4 a6 15.Nc4 Rhe8 16.Nb6+ Kb8 17.Rad1 g6 18.Bf1 Bg7 19.e5 dxe5 20.Nxe5 Bxe5 21.Rxe5 Ka7 22.Rxd8 Rxd8 23.Nc4 f6 24.Re1 b5 25.Qa5 bxc4 26.Bxc4 Qd6 27.Bxe6 Qe7 28.h3 Nxe6 29.Rxe6 Rd1+ 30.Kh2 Qxe6 31.Qxc5+ Kb8 32.Qf8+ Kc7 33.Qc5+ Kb7 34.Qb4+ Kc8 35.Qf8+ Kc7 36.Qc5+ Kb7 37.Qb4+ Kc8 38.Qf8+ Rd8 39.Qc5+ Kb7 40.Qb4+ Kc6 41.Qa4+ Kc7 42.Qa5+ Qb6 43.Qa3 f5 44.b4 Qb5 45.Qc1 Qe2 46.Qf4+ Kb7 47.a4 Qe7 48.b5 Qd6 49.Qxd6 Rxd6 50.c4 Rd4 51.c5 a5 52.c6+ Kb8 53.b6 Rxa4 54.c7+ Kc8 55.f4 Rb4 56.b7+ Kxc7 57.
+Ke3
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4 Na6 2.e4 e6 3.Nf3 Be7 4.Bd3 c5 5.O-O Nb4 6.Be2 d6 7.c3 Na6 8.d5 Nf6 9.Bg5 Nc7 10.Bxf6 Bxf6 11.dxe6 Bxe6 12.Nbd2 Qe7 13.Re1 O-O-O 14.Qa4 a6 15.Nc4 Rhe8 16.Nb6+ Kb8 17.Rad1 g6 18.Bf1 Bg7 19.e5 dxe5 20.Nxe5 Bxe5 21.Rxe5 Ka7 22.Rxd8 Rxd8 23.Nc4 f6 24.Re1 b5 25.Qa5 bxc4 26.Bxc4 Qd6 27.Bxe6 Qe7 28.h3 Nxe6 29.Rxe6 Rd1+ 30.Kh2 Qxe6 31.Qxc5+ Kb8 32.Qf8+ Kc7 33.Qc5+ Kb7 34.Qb4+ Kc8 35.Qf8+ Kc7 36.Qc5+ Kb7 37.Qb4+ Kc8 38.Qf8+ Rd8 39.Qc5+ Kb7 40.Qb4+ Kc6 41.Qa4+ Kc7 42.Qa5+ Qb6 43.Qa3 f5 44.b4 Qb5 45.Qc1 Qe2 46.Qf4+ Kb7 47.a4 Qe7 48.b5 Qd6 49.Qxd6 Rxd6 50.c4 Rd4 51.c5 a5 52.c6+ Kb8 53.b6 Rxa4 54.c7+ Kc8 55.f4 Rb4 56.b7+ Kxc7 57.g4 a4 58.gxf5 gxf5 59.
+Ke3
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4 Na6 2.e4 e6 3.Nf3 Be7 4.Bd3 c5 5.O-O Nb4 6.Be2 d6 7.c3 Na6 8.d5 Nf6 9.Bg5 Nc7 10.Bxf6 Bxf6 11.dxe6 Bxe6 12.Nbd2 Qe7 13.Re1 O-O-O 14.Qa4 a6 15.Nc4 Rhe8 16.Nb6+ Kb8 17.Rad1 g6 18.Bf1 Bg7 19.e5 dxe5 20.Nxe5 Bxe5 21.Rxe5 Ka7 22.Rxd8 Rxd8 23.Nc4 f6 24.Re1 b5 25.Qa5 bxc4 26.Bxc4 Qd6 27.Bxe6 Qe7 28.h3 Nxe6 29.Rxe6 Rd1+ 30.Kh2 Qxe6 31.Qxc5+ Kb8 32.Qf8+ Kc7 33.Qc5+ Kb7 34.Qb4+ Kc8 35.Qf8+ Kc7 36.Qc5+ Kb7 37.Qb4+ Kc8 38.Qf8+ Rd8 39.Qc5+ Kb7 40.Qb4+ Kc6 41.Qa4+ Kc7 42.Qa5+ Qb6 43.Qa3 f5 44.b4 Qb5 45.Qc1 Qe2 46.Qf4+ Kb7 47.a4 Qe7 48.b5 Qd6 49.Qxd6 Rxd6 50.c4 Rd4 51.c5 a5 52.c6+ Kb8 53.b6 Rxa4 54.c7+ Kc8 55.f4 Rb4 56.b7+ Kxc7 57.g4 a4 58.gxf5 gxf5 59.
+Ke3
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4 Nf6 2.e5 Nd5 3.d4 Nb6 4.Nf3 a5 5.c4 c6 6.Nc3 d5 7.cxd5 Bg4 8.dxc6 Bxf3 9.Qxf3 bxc6 10.Be3 g6 11.h4 e6 12.h5 gxh5 13.Rxh5 Nd5 14.Ne4 Nd7 15.0-0-0 a4 16.Bc4 Qa5 17.Bd2 Qa7 18.Bg5 Qb6 19.
+Ke2
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4 Nf6 2.e5 Nd5 3.d4 Nb6 4.Nf3 a5 5.c4 c6 6.Nc3 d5 7.cxd5 Bg4 8.dxc6 Bxf3 9.Qxf3 bxc6 10.Be3 g6 11.h4 e6 12.h5 gxh5 13.Rxh5 Nd5 14.Ne4 Nd7 15.0-0-0 a4 16.Bc4 Qa5 17.Bd2 Qa7 18.Bg5 Qb6 19.
+Ke2
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4 Nf6 2.e5 Nd5 3.d4 Nb6 4.Nf3 a5 5.c4 c6 6.Nc3 d5 7.cxd5 Bg4 8.dxc6 Bxf3 9.Qxf3 bxc6 10.Be3 g6 11.h4 e6 12.h5 gxh5 13.Rxh5 Nd5 14.Ne4 Nd7 15.0-0-0 a4 16.Bc4 Qa5 17.Bd2 Qa7 18.Bg5 Qb6 19.
+Ke2
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4 Nf6 2.e5 Nd5 3.d4 Nb6 4.Nf3 a5 5.c4 c6 6.Nc3 d5 7.cxd5 Bg4 8.dxc6 Bxf3 9.Qxf3 bxc6 10.Be3 g6 11.h4 e6 12.h5 gxh5 13.Rxh5 Nd5 14.Ne4 Nd7 15.0-0-0 a4 16.Bc4 Qa5 17.Bd2 Qa7 18.Bg5 Qb6 19.Qh3 Rb8 20.Rd2 Bb4 21.Rc2 h6 22.Rxh6 Rxh6 23.Qxh6 Qa5 24.
+Ke2
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4 Nf6 2.e5 Nd5 3.d4 Nb6 4.Nf3 a5 5.c4 c6 6.Nc3 d5 7.cxd5 Bg4 8.dxc6 Bxf3 9.Qxf3 bxc6 10.Be3 g6 11.h4 e6 12.h5 gxh5 13.Rxh5 Nd5 14.Ne4 Nd7 15.0-0-0 a4 16.Bc4 Qa5 17.Bd2 Qa7 18.Bg5 Qb6 19.Qh3 Rb8 20.Rd2 Bb4 21.Rc2 h6 22.Rxh6 Rxh6 23.Qxh6 Qa5 24.
+Ke2
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4 Nf6 2.e5 Nd5 3.d4 Nb6 4.Nf3 a5 5.c4 c6 6.Nc3 d5 7.cxd5 Bg4 8.dxc6 Bxf3 9.Qxf3 bxc6 10.Be3 g6 11.h4 e6 12.h5 gxh5 13.Rxh5 Nd5 14.Ne4 Nd7 15.0-0-0 a4 16.Bc4 Qa5 17.Bd2 Qa7 18.Bg5 Qb6 19.Qh3 Rb8 20.Rd2 Bb4 21.Rc2 h6 22.Rxh6 Rxh6 23.Qxh6 Qa5 24.
+Ke2
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4 d6 2.d4 c6 3.Nc3 Nf6 4.Nf3 Qa5 5.Bd3 e6 6.0-0 Be7 7.e5 Nd5 8.Ne4 dxe5 9.dxe5 O-O 10.c4 f5 11.Neg5 Nc7 12.Bd2 Qb6 13.Qc2 Nca6 14.Be3 Nb4 15.Qb3 c5 16.Be2 N4c6 17.Qxb6 axb6 18.h4 f4 19.Bd2 Bd7 20.Rfd1 Nd4 21.Nxd4 cxd4 22.Bg4 h6 23.Nxe6 Bxh4 24.
+.Bxf4
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4 d6 2.d4 c6 3.Nc3 Nf6 4.Nf3 Qa5 5.Bd3 e6 6.0-0 Be7 7.e5 Nd5 8.Ne4 dxe5 9.dxe5 O-O 10.c4 f5 11.Neg5 Nc7 12.Bd2 Qb6 13.Qc2 Nca6 14.Be3 Nb4 15.Qb3 c5 16.Be2 N4c6 17.Qxb6 axb6 18.h4 f4 19.Bd2 Bd7 20.Rfd1 Nd4 21.Nxd4 cxd4 22.Bg4 h6 23.Nxe6 Bxh4 24.
+.Bxf4
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4 d6 2.d4 c6 3.Nc3 Nf6 4.Nf3 Qa5 5.Bd3 e6 6.0-0 Be7 7.e5 Nd5 8.Ne4 dxe5 9.dxe5 O-O 10.c4 f5 11.Neg5 Nc7 12.Bd2 Qb6 13.Qc2 Nca6 14.Be3 Nb4 15.Qb3 c5 16.Be2 N4c6 17.Qxb6 axb6 18.h4 f4 19.Bd2 Bd7 20.Rfd1 Nd4 21.Nxd4 cxd4 22.Bg4 h6 23.Nxe6 Bxh4 24.
+.Bxf4
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4 d6 2.d4 c6 3.Nc3 Nf6 4.Nf3 Qa5 5.Bd3 e6 6.0-0 Be7 7.e5 Nd5 8.Ne4 dxe5 9.dxe5 O-O 10.c4 f5 11.Neg5 Nc7 12.Bd2 Qb6 13.Qc2 Nca6 14.Be3 Nb4 15.Qb3 c5 16.Be2 N4c6 17.Qxb6 axb6 18.h4 f4 19.Bd2 Bd7 20.Rfd1 Nd4 21.Nxd4 cxd4 22.Bg4 h6 23.Nxe6 Bxh4 24.
+.Nxf8
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4 d6 2.d4 c6 3.Nc3 Nf6 4.Nf3 Qa5 5.Bd3 e6 6.0-0 Be7 7.e5 Nd5 8.Ne4 dxe5 9.dxe5 O-O 10.c4 f5 11.Neg5 Nc7 12.Bd2 Qb6 13.Qc2 Nca6 14.Be3 Nb4 15.Qb3 c5 16.Be2 N4c6 17.Qxb6 axb6 18.h4 f4 19.Bd2 Bd7 20.Rfd1 Nd4 21.Nxd4 cxd4 22.Bg4 h6 23.Nxe6 Bxh4 24.
+.Bb4
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4 d5 2.exd5 Nf6 3.Nc3 Nxd5 4.Nxd5 Qxd5 5.d4 e5 6.Nf3 Nc6 7.Be3 Nxd4 8.Nxd4 Bb4+ 9.Ke2 Bd7 10.c3 exd4 11.Ke1 dxc3 12.Ke2 Bb5+ 13.Ke1 cxb2+ 14.Bd2 Bxd2+ 15.Qxd2 bxa1=Q+ 16.
+Ke2
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4 d5 2.exd5 Nf6 3.Nc3 Nxd5 4.Nxd5 Qxd5 5.d4 e5 6.Nf3 Nc6 7.Be3 Nxd4 8.Nxd4 Bb4+ 9.Ke2 Bd7 10.c3 exd4 11.Ke1 dxc3 12.Ke2 Bb5+ 13.Ke1 cxb2+ 14.Bd2 Bxd2+ 15.Qxd2 bxa1=Q+ 16.
+Ke2
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4 d5 2.exd5 Nf6 3.Nc3 Nxd5 4.Nxd5 Qxd5 5.d4 e5 6.Nf3 Nc6 7.Be3 Nxd4 8.Nxd4 Bb4+ 9.Ke2 Bd7 10.c3 exd4 11.Ke1 dxc3 12.Ke2 Bb5+ 13.Ke1 cxb2+ 14.Bd2 Bxd2+ 15.Qxd2 bxa1=Q+ 16.
+Ke2
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4 d5 2.exd5 Nf6 3.Nc3 Nxd5 4.Nxd5 Qxd5 5.d4 e5 6.Nf3 Nc6 7.Be3 Nxd4 8.Nxd4 Bb4+ 9.Ke2 Bd7 10.c3 exd4 11.Ke1 dxc3 12.Ke2 Bb5+ 13.Ke1 cxb2+ 14.Bd2 Bxd2+ 15.Qxd2 bxa1=Q+ 16.
+Ke2
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4 d5 2.exd5 Nf6 3.Nc3 Nxd5 4.Nxd5 Qxd5 5.d4 e5 6.Nf3 Nc6 7.Be3 Nxd4 8.Nxd4 Bb4+ 9.Ke2 Bd7 10.c3 exd4 11.Ke1 dxc3 12.Ke2 Bb5+ 13.Ke1 cxb2+ 14.Bd2 Bxd2+ 15.Qxd2 bxa1=Q+ 16.Qd1 Qc3+ 17.
+Ke2
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4 d5 2.exd5 Nf6 3.Nc3 Nxd5 4.Nxd5 Qxd5 5.d4 e5 6.Nf3 Nc6 7.Be3 Nxd4 8.Nxd4 Bb4+ 9.Ke2 Bd7 10.c3 exd4 11.Ke1 dxc3 12.Ke2 Bb5+ 13.Ke1 cxb2+ 14.Bd2 Bxd2+ 15.Qxd2 bxa1=Q+ 16.Qd1 Qc3+ 17.
+Ke2
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4 d5 2.exd5 Nf6 3.Nc3 Nxd5 4.Nxd5 Qxd5 5.d4 e5 6.Nf3 Nc6 7.Be3 Nxd4 8.Nxd4 Bb4+ 9.Ke2 Bd7 10.c3 exd4 11.Ke1 dxc3 12.Ke2 Bb5+ 13.Ke1 cxb2+ 14.Bd2 Bxd2+ 15.Qxd2 bxa1=Q+ 16.Qd1 Qc3+ 17.
+Ke2
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4 d5 2.exd5 Nf6 3.Nc3 Nxd5 4.Nxd5 Qxd5 5.d4 e5 6.Nf3 Nc6 7.Be3 Nxd4 8.Nxd4 Bb4+ 9.Ke2 Bd7 10.c3 exd4 11.Ke1 dxc3 12.Ke2 Bb5+ 13.Ke1 cxb2+ 14.Bd2 Bxd2+ 15.Qxd2 bxa1=Q+ 16.Qd1 Qc3+ 17.
+Ke2
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4 d5 2.exd5 Nf6 3.Nc3 Nxd5 4.Nxd5 Qxd5 5.d4 e5 6.Nf3 Nc6 7.Be3 Nxd4 8.Nxd4 Bb4+ 9.Ke2 Bd7 10.c3 exd4 11.Ke1 dxc3 12.Ke2 Bb5+ 13.Ke1 cxb2+ 14.Bd2 Bxd2+ 15.Qxd2 bxa1=Q+ 16.Qd1 Qc3+ 17.
+Ke2
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4 b6 2.d4 Bb7 3.Nc3 d6 4.Nf3 e6 5.Bd3 Be7 6.0-0 c5 7.d5 Nd7 8.dxe6 fxe6 9.Bc4 Nf8 10.Bf4 Nf6 11.Re1 h6 12.e5 dxe5 13.Nxe5 Bd6 14.Bb5+ Ke7 15.Bc6 Bxe5 16.Bxb7 Bxf4 17.Bxa8 Qxa8 18.Qe2 Qc6 19.Rad1 Bb8 20.Qa6 Qc7 21.g3 Qc6 22.Nb5 N8d7 23.Nxa7 Bxa7 24.Qxa7 Ra8 25.Qxa8 Qxa8 26.a3 Nf8 27.Re3 Qa4 28.Rd2 Qa8 29.Rde2 c4 30.c3 N6h7 31.h4 Qc8 32.Re4 b5 33.a4 bxa4 34.Re5 a3 35.bxa3 Qd8 36.Re1 Nf6 37.Rc5 Qd3 38.Rc7+ Ke8 39.Rc8+ Kf7 40.Rc7+ Kg6 41.Re3 Qd8 42.Rxc4 Qd6 43.
+Ke2
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4 b6 2.d4 Bb7 3.Nc3 d6 4.Nf3 e6 5.Bd3 Be7 6.0-0 c5 7.d5 Nd7 8.dxe6 fxe6 9.Bc4 Nf8 10.Bf4 Nf6 11.Re1 h6 12.e5 dxe5 13.Nxe5 Bd6 14.Bb5+ Ke7 15.Bc6 Bxe5 16.Bxb7 Bxf4 17.Bxa8 Qxa8 18.Qe2 Qc6 19.Rad1 Bb8 20.Qa6 Qc7 21.g3 Qc6 22.Nb5 N8d7 23.Nxa7 Bxa7 24.Qxa7 Ra8 25.Qxa8 Qxa8 26.a3 Nf8 27.Re3 Qa4 28.Rd2 Qa8 29.Rde2 c4 30.c3 N6h7 31.h4 Qc8 32.Re4 b5 33.a4 bxa4 34.Re5 a3 35.bxa3 Qd8 36.Re1 Nf6 37.Rc5 Qd3 38.Rc7+ Ke8 39.Rc8+ Kf7 40.Rc7+ Kg6 41.Re3 Qd8 42.Rxc4 Qd6 43.
+Ke2
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4 b6 2.d4 Bb7 3.Nc3 d6 4.Nf3 e6 5.Bd3 Be7 6.0-0 c5 7.d5 Nd7 8.dxe6 fxe6 9.Bc4 Nf8 10.Bf4 Nf6 11.Re1 h6 12.e5 dxe5 13.Nxe5 Bd6 14.Bb5+ Ke7 15.Bc6 Bxe5 16.Bxb7 Bxf4 17.Bxa8 Qxa8 18.Qe2 Qc6 19.Rad1 Bb8 20.Qa6 Qc7 21.g3 Qc6 22.Nb5 N8d7 23.Nxa7 Bxa7 24.Qxa7 Ra8 25.Qxa8 Qxa8 26.a3 Nf8 27.Re3 Qa4 28.Rd2 Qa8 29.Rde2 c4 30.c3 N6h7 31.h4 Qc8 32.Re4 b5 33.a4 bxa4 34.Re5 a3 35.bxa3 Qd8 36.Re1 Nf6 37.Rc5 Qd3 38.Rc7+ Ke8 39.Rc8+ Kf7 40.Rc7+ Kg6 41.Re3 Qd8 42.Rxc4 Qd6 43.
+Ke2
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4 b6 2.d4 Bb7 3.Nc3 d6 4.Nf3 e6 5.Bd3 Be7 6.0-0 c5 7.d5 Nd7 8.dxe6 fxe6 9.Bc4 Nf8 10.Bf4 Nf6 11.Re1 h6 12.e5 dxe5 13.Nxe5 Bd6 14.Bb5+ Ke7 15.Bc6 Bxe5 16.Bxb7 Bxf4 17.Bxa8 Qxa8 18.Qe2 Qc6 19.Rad1 Bb8 20.Qa6 Qc7 21.g3 Qc6 22.Nb5 N8d7 23.Nxa7 Bxa7 24.Qxa7 Ra8 25.Qxa8 Qxa8 26.a3 Nf8 27.Re3 Qa4 28.Rd2 Qa8 29.Rde2 c4 30.c3 N6h7 31.h4 Qc8 32.Re4 b5 33.a4 bxa4 34.Re5 a3 35.bxa3 Qd8 36.Re1 Nf6 37.Rc5 Qd3 38.Rc7+ Ke8 39.Rc8+ Kf7 40.Rc7+ Kg6 41.Re3 Qd8 42.Rxc4 Qd6 43.a4 Qd1+ 44.Kg2 Kh7 45.Rd4 Qh5 46.
+Ke1
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4 b6 2.d4 Bb7 3.Nc3 d6 4.Nf3 e6 5.Bd3 Be7 6.0-0 c5 7.d5 Nd7 8.dxe6 fxe6 9.Bc4 Nf8 10.Bf4 Nf6 11.Re1 h6 12.e5 dxe5 13.Nxe5 Bd6 14.Bb5+ Ke7 15.Bc6 Bxe5 16.Bxb7 Bxf4 17.Bxa8 Qxa8 18.Qe2 Qc6 19.Rad1 Bb8 20.Qa6 Qc7 21.g3 Qc6 22.Nb5 N8d7 23.Nxa7 Bxa7 24.Qxa7 Ra8 25.Qxa8 Qxa8 26.a3 Nf8 27.Re3 Qa4 28.Rd2 Qa8 29.Rde2 c4 30.c3 N6h7 31.h4 Qc8 32.Re4 b5 33.a4 bxa4 34.Re5 a3 35.bxa3 Qd8 36.Re1 Nf6 37.Rc5 Qd3 38.Rc7+ Ke8 39.Rc8+ Kf7 40.Rc7+ Kg6 41.Re3 Qd8 42.Rxc4 Qd6 43.a4 Qd1+ 44.Kg2 Kh7 45.Rd4 Qh5 46.
+Ke1
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4 e6 2.d4 c5 3.Nf3 cxd4 4.Nxd4 Nc6 5.Nc3 a6 6.Be3 Qc7 7.Qd2 Be7 8.0-0-0 Ne5 9.f4 Nc4 10.Bxc4 Qxc4 11.g4 Bb4 12.Nde2 b5 13.
+0-0-0
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4 e6 2.d4 c5 3.Nf3 cxd4 4.Nxd4 Nc6 5.Nc3 a6 6.Be3 Qc7 7.Qd2 Be7 8.0-0-0 Ne5 9.f4 Nc4 10.Bxc4 Qxc4 11.g4 Bb4 12.Nde2 b5 13.
+0-0-0
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4 e6 2.d4 c5 3.Nf3 cxd4 4.Nxd4 Nc6 5.Nc3 a6 6.Be3 Qc7 7.Qd2 Be7 8.0-0-0 Ne5 9.f4 Nc4 10.Bxc4 Qxc4 11.g4 Bb4 12.Nde2 b5 13.
+0-0-0
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4 e6 2.d4 c5 3.Nf3 cxd4 4.Nxd4 Nc6 5.Nc3 a6 6.Be3 Qc7 7.Qd2 Be7 8.0-0-0 Ne5 9.f4 Nc4 10.Bxc4 Qxc4 11.g4 Bb4 12.Nde2 b5 13.
+0-0-0
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4 e6 2.d4 c5 3.Nf3 cxd4 4.Nxd4 Nc6 5.Nc3 a6 6.Be3 Qc7 7.Qd2 Be7 8.0-0-0 Ne5 9.f4 Nc4 10.Bxc4 Qxc4 11.g4 Bb4 12.Nde2 b5 13.Kb1 Ne7 14.
+0-0-0
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4 e6 2.d4 c5 3.Nf3 cxd4 4.Nxd4 Nc6 5.Nc3 a6 6.Be3 Qc7 7.Qd2 Be7 8.0-0-0 Ne5 9.f4 Nc4 10.Bxc4 Qxc4 11.g4 Bb4 12.Nde2 b5 13.Kb1 Ne7 14.
+0-0-0
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 Nxd4 4.Nxd4 cxd4 5.Qxd4 d6 6.Nc3 Nf6 7.Bg5 e5 8.Qd2 Be6 9.Bb5+ Bd7 10.Bxd7+ Kxd7 11.0-0-0 Qb6 12.
+0-0-0
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 Nxd4 4.Nxd4 cxd4 5.Qxd4 d6 6.Nc3 Nf6 7.Bg5 e5 8.Qd2 Be6 9.Bb5+ Bd7 10.Bxd7+ Kxd7 11.0-0-0 Qb6 12.
+0-0-0
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 Nxd4 4.Nxd4 cxd4 5.Qxd4 d6 6.Nc3 Nf6 7.Bg5 e5 8.Qd2 Be6 9.Bb5+ Bd7 10.Bxd7+ Kxd7 11.0-0-0 Qb6 12.Bxf6 Qc5 13.Nd5 Qc4 14.
+0-0-0
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 Nxd4 4.Nxd4 cxd4 5.Qxd4 d6 6.Nc3 Nf6 7.Bg5 e5 8.Qd2 Be6 9.Bb5+ Bd7 10.Bxd7+ Kxd7 11.0-0-0 Qb6 12.Bxf6 Qc5 13.Nd5 Qc4 14.
+0-0-0
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.c4 e5 2.Nc3 Nf6 3.Nf3 Nc6 4.g3 Bc5 5.Nxe5 Nxe5 6.d4 Bd6 7.dxe5 Bxe5 8.Qd3 O-O 9.Bg2 d6 10.Bg5 h6 11.Bd2 c6 12.h3 Be6 13.O-O
+-O
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.c4 e5 2.Nc3 Nf6 3.Nf3 Nc6 4.Qc2 Bc5 5.a3 a5 6.e3 O-O 7.Nxe5 Nxe5 8.d4 Bd6 9.dxe5 Bxe5 10.Be2 d5 11.Bd2 dxc4 12.O-O
+-O
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.c4 e5 2.Nc3 Nf6 3.Nf3 Nc6 4.Qc2 Bc5 5.a3 a5 6.e3 O-O 7.Nxe5 Nxe5 8.d4 Bd6 9.dxe5 Bxe5 10.Be2 d5 11.Bd2 dxc4 12.O-O
+-O
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.c4 e5 2.Nc3 Nf6 3.Nf3 Nc6 4.Qc2 Bc5 5.a3 a5 6.e3 O-O 7.Nxe5 Nxe5 8.d4 Bd6 9.dxe5 Bxe5 10.Be2 d5 11.Bd2 dxc4 12.O-O
+-O
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.c4 e5 2.Nc3 Nf6 3.Nf3 Nc6 4.Qc2 Bc5 5.a3 a5 6.e3 O-O 7.Nxe5 Nxe5 8.d4 Bd6 9.dxe5 Bxe5 10.Be2 d5 11.Bd2 dxc4 12.O-O
+-O
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.c4 e5 2.Nc3 Nf6 3.Nf3 Nc6 4.Qc2 Bc5 5.a3 a5 6.e3 O-O 7.Nxe5 Nxe5 8.d4 Bd6 9.dxe5 Bxe5 10.Be2 d5 11.Bd2 dxc4 12.O-O
+-O
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.Nf3 Nf6 2.d4 d5 3.c4 e6 4.cxd5 exd5 5.Nc3 c6 6.Bf4 Bd6 7.Bxd6 Qxd6 8.e3 O-O 9.h3 Bf5 10.Bd3 Bxd3 11.b4 Qxb4 12.Qxd3 Ne4 13.Rc1 Qa3 14.Qc2 Nxc3 15.Qxc3 Qxa2 16.Nd2
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.Nf3 Nf6 2.d4 d5 3.c4 e6 4.cxd5 exd5 5.Nc3 c6 6.Bf4 Bd6 7.Bxd6 Qxd6 8.e3 O-O 9.h3 Bf5 10.Bd3 Bxd3 11.b4 Qxb4 12.Qxd3 Ne4 13.Rc1 Qa3 14.Qc2 Nxc3 15.Qxc3 Qxa2 16.Nd2
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.Nf3 Nf6 2.d4 d5 3.c4 e6 4.cxd5 exd5 5.Nc3 c6 6.Bf4 Bd6 7.Bxd6 Qxd6 8.e3 O-O 9.h3 Bf5 10.Bd3 Bxd3 11.b4 Qxb4 12.Qxd3 Ne4 13.Rc1 Qa3 14.Qc2 Nxc3 15.Qxc3 Qxa2 16.Nd2
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.Nf3 Nf6 2.d4 d5 3.c4 e6 4.cxd5 exd5 5.Nc3 c6 6.Bf4 Bd6 7.Bxd6 Qxd6 8.e3 O-O 9.h3 Bf5 10.Bd3 Bxd3 11.b4 Qxb4 12.Qxd3 Ne4 13.Rc1 Qa3 14.Qc2 Nxc3 15.Qxc3 Qxa2 16.Nd2
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.Nf3 Nf6 2.d4 d5 3.c4 e6 4.cxd5 exd5 5.Nc3 c6 6.Bf4 Bd6 7.Bxd6 Qxd6 8.e3 O-O 9.h3 Bf5 10.Bd3 Bxd3 11.b4 Qxb4 12.Qxd3 Ne4 13.Rc1 Qa3 14.Qc2 Nxc3 15.Qxc3 Qxa2 16.Nd2
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4 c5 2.d4 cxd4 3.Nf3 Nc6 4.Nxd4 Nf6 5.Nxc6 bxc6 6.Nd2 e5 7.c4 Bc5 8.Bd3 O-O 9.Nb3 Bb6 10.O-O d5 11.Bg5 dxc4 12.Bxf6 Qxf6 13.Bxc4 Qg6 14.a4 Bh3 15.Qf3 Bg4 16.Qg3 Qxe4 17.Rfc1 Qf4 18.a5 Qxg3 19.hxg3 Bd8 20.Nc5 Bg5 21.Re1 Rfe8 22.Kh2 Rab8 23.f3 Bf5 24.b3 Bd2 25.Red1 Bb4 26.Na6 Rb7 27.Nxb4 Rxb4 28.g4 Be6 29.Rac1 Bxc4 30.bxc4 Ra4 31.Rd7 Rxa5 32.Rc7 c5 33.g5 g6 34.Rc3 e4 35.fxe4 Rxe4 36.Rb3 Re8 37.Rf3 Rf8 38.Kg3 Ra4 39.Rxc5 a5 40.Rd5 Rxc4 41.Rxa5 Rc7 42.Rfa3 Kg7 43.R5a4 h6 44.Kg4 hxg5 45.Kxg5 Rc5+ 46.Kg4 Re8 47.Rf3 Re2 48.g3 f5+ 49.Kg5 f4+ 50.Kg4 fxg3 51.Kxg3 Rg5+ 52.Kh4 Rh5+ 53.Kg3 Reh2 54.Raa3 R5h3+ 55.Kf4 Rh4+ 56.Kg3 R2h3+ 57.Kg2 Rxf3 58.Rxf3 Kh6 59.Ra3 Kh5 60.Rh3 Rxh3 61.Kxh3 Kg5 62.Kg3 Kf5 63.Kf3 g5 64.Kg3 g4 65.Kf2 Kf4 66.Kg2 g3 67.Kg1
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4 c5 2.d4 cxd4 3.Nf3 Nc6 4.Nxd4 Nf6 5.Nxc6 bxc6 6.Nd2 e5 7.c4 Bc5 8.Bd3 O-O 9.Nb3 Bb6 10.O-O d5 11.Bg5 dxc4 12.Bxf6 Qxf6 13.Bxc4 Qg6 14.a4 Bh3 15.Qf3 Bg4 16.Qg3 Qxe4 17.Rfc1 Qf4 18.a5 Qxg3 19.hxg3 Bd8 20.Nc5 Bg5 21.Re1 Rfe8 22.Kh2 Rab8 23.f3 Bf5 24.b3 Bd2 25.Red1 Bb4 26.Na6 Rb7 27.Nxb4 Rxb4 28.g4 Be6 29.Rac1 Bxc4 30.bxc4 Ra4 31.Rd7 Rxa5 32.Rc7 c5 33.g5 g6 34.Rc3 e4 35.fxe4 Rxe4 36.Rb3 Re8 37.Rf3 Rf8 38.Kg3 Ra4 39.Rxc5 a5 40.Rd5 Rxc4 41.Rxa5 Rc7 42.Rfa3 Kg7 43.R5a4 h6 44.Kg4 hxg5 45.Kxg5 Rc5+ 46.Kg4 Re8 47.Rf3 Re2 48.g3 f5+ 49.Kg5 f4+ 50.Kg4 fxg3 51.Kxg3 Rg5+ 52.Kh4 Rh5+ 53.Kg3 Reh2 54.Raa3 R5h3+ 55.Kf4 Rh4+ 56.Kg3 R2h3+ 57.Kg2 Rxf3 58.Rxf3 Kh6 59.Ra3 Kh5 60.Rh3 Rxh3 61.Kxh3 Kg5 62.Kg3 Kf5 63.Kf3 g5 64.Kg3 g4 65.Kf2 Kf4 66.Kg2 g3 67.Kg1
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4 c5 2.d4 cxd4 3.Nf3 Nc6 4.Nxd4 Nf6 5.Nxc6 bxc6 6.Nd2 e5 7.c4 Bc5 8.Bd3 O-O 9.Nb3 Bb6 10.O-O d5 11.Bg5 dxc4 12.Bxf6 Qxf6 13.Bxc4 Qg6 14.a4 Bh3 15.Qf3 Bg4 16.Qg3 Qxe4 17.Rfc1 Qf4 18.a5 Qxg3 19.hxg3 Bd8 20.Nc5 Bg5 21.Re1 Rfe8 22.Kh2 Rab8 23.f3 Bf5 24.b3 Bd2 25.Red1 Bb4 26.Na6 Rb7 27.Nxb4 Rxb4 28.g4 Be6 29.Rac1 Bxc4 30.bxc4 Ra4 31.Rd7 Rxa5 32.Rc7 c5 33.g5 g6 34.Rc3 e4 35.fxe4 Rxe4 36.Rb3 Re8 37.Rf3 Rf8 38.Kg3 Ra4 39.Rxc5 a5 40.Rd5 Rxc4 41.Rxa5 Rc7 42.Rfa3 Kg7 43.R5a4 h6 44.Kg4 hxg5 45.Kxg5 Rc5+ 46.Kg4 Re8 47.Rf3 Re2 48.g3 f5+ 49.Kg5 f4+ 50.Kg4 fxg3 51.Kxg3 Rg5+ 52.Kh4 Rh5+ 53.Kg3 Reh2 54.Raa3 R5h3+ 55.Kf4 Rh4+ 56.Kg3 R2h3+ 57.Kg2 Rxf3 58.Rxf3 Kh6 59.Ra3 Kh5 60.Rh3 Rxh3 61.Kxh3 Kg5 62.Kg3 Kf5 63.Kf3 g5 64.Kg3 g4 65.Kf2 Kf4 66.Kg2 g3 67.Kg1
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4 c5 2.d4 cxd4 3.Nf3 Nc6 4.Nxd4 Nf6 5.Nxc6 bxc6 6.Nd2 e5 7.c4 Bc5 8.Bd3 O-O 9.Nb3 Bb6 10.O-O d5 11.Bg5 dxc4 12.Bxf6 Qxf6 13.Bxc4 Qg6 14.a4 Bh3 15.Qf3 Bg4 16.Qg3 Qxe4 17.Rfc1 Qf4 18.a5 Qxg3 19.hxg3 Bd8 20.Nc5 Bg5 21.Re1 Rfe8 22.Kh2 Rab8 23.f3 Bf5 24.b3 Bd2 25.Red1 Bb4 26.Na6 Rb7 27.Nxb4 Rxb4 28.g4 Be6 29.Rac1 Bxc4 30.bxc4 Ra4 31.Rd7 Rxa5 32.Rc7 c5 33.g5 g6 34.Rc3 e4 35.fxe4 Rxe4 36.Rb3 Re8 37.Rf3 Rf8 38.Kg3 Ra4 39.Rxc5 a5 40.Rd5 Rxc4 41.Rxa5 Rc7 42.Rfa3 Kg7 43.R5a4 h6 44.Kg4 hxg5 45.Kxg5 Rc5+ 46.Kg4 Re8 47.Rf3 Re2 48.g3 f5+ 49.Kg5 f4+ 50.Kg4 fxg3 51.Kxg3 Rg5+ 52.Kh4 Rh5+ 53.Kg3 Reh2 54.Raa3 R5h3+ 55.Kf4 Rh4+ 56.Kg3 R2h3+ 57.Kg2 Rxf3 58.Rxf3 Kh6 59.Ra3 Kh5 60.Rh3 Rxh3 61.Kxh3 Kg5 62.Kg3 Kf5 63.Kf3 g5 64.Kg3 g4 65.Kf2 Kf4 66.Kg2 g3 67.Kg1
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4 c5 2.d4 cxd4 3.Nf3 Nc6 4.Nxd4 Nf6 5.Nxc6 bxc6 6.Nd2 e5 7.c4 Bc5 8.Bd3 O-O 9.Nb3 Bb6 10.O-O d5 11.Bg5 dxc4 12.Bxf6 Qxf6 13.Bxc4 Qg6 14.a4 Bh3 15.Qf3 Bg4 16.Qg3 Qxe4 17.Rfc1 Qf4 18.a5 Qxg3 19.hxg3 Bd8 20.Nc5 Bg5 21.Re1 Rfe8 22.Kh2 Rab8 23.f3 Bf5 24.b3 Bd2 25.Red1 Bb4 26.Na6 Rb7 27.Nxb4 Rxb4 28.g4 Be6 29.Rac1 Bxc4 30.bxc4 Ra4 31.Rd7 Rxa5 32.Rc7 c5 33.g5 g6 34.Rc3 e4 35.fxe4 Rxe4 36.Rb3 Re8 37.Rf3 Rf8 38.Kg3 Ra4 39.Rxc5 a5 40.Rd5 Rxc4 41.Rxa5 Rc7 42.Rfa3 Kg7 43.R5a4 h6 44.Kg4 hxg5 45.Kxg5 Rc5+ 46.Kg4 Re8 47.Rf3 Re2 48.g3 f5+ 49.Kg5 f4+ 50.Kg4 fxg3 51.Kxg3 Rg5+ 52.Kh4 Rh5+ 53.Kg3 Reh2 54.Raa3 R5h3+ 55.Kf4 Rh4+ 56.Kg3 R2h3+ 57.Kg2 Rxf3 58.Rxf3 Kh6 59.Ra3 Kh5 60.Rh3 Rxh3 61.Kxh3 Kg5 62.Kg3 Kf5 63.Kf3 g5 64.Kg3 g4 65.Kf2 Kf4 66.Kg2 g3 67.Kg1
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.Nf3
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.Nf3
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.Nf3
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.Nf3
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.Nf3
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.c4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.c4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.c4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.c4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.c4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.Nf3
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.Nf3
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.Nf3
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.Nf3
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.Nf3
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.Nf3
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.Nf3
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.Nf3
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.Nf3
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.Nf3
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.Nf3
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.Nf3
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.Nf3
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.Nf3
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.Nf3
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.c4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.c4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.c4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.c4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.c4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.Nf3
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.Nf3
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.Nf3
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.Nf3
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.Nf3
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4 Nf6 2.e5 Ne4 3.Ke2 g6 4.Ke3 d5 5.Ke2 d4 6.Ke1 Bg7 7.Ke2 Nc5 8.Ke1 Nc6 9.Ke2 Qd5 10.Ke1 Qxe5+ 11.Qe2 Qxe2+ 12.Kxe2 d3+ 13.Ke1 dxc2 14.Ke2 Bg4+ 15.Ke1 cxb1=R 16.
+Ke2
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4 Nf6 2.e5 Ne4 3.Ke2 g6 4.Ke3 d5 5.Ke2 d4 6.Ke1 Bg7 7.Ke2 Nc5 8.Ke1 Nc6 9.Ke2 Qd5 10.Ke1 Qxe5+ 11.Qe2 Qxe2+ 12.Kxe2 d3+ 13.Ke1 dxc2 14.Ke2 Bg4+ 15.Ke1 cxb1=R 16.
+Ke2
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4 Nf6 2.e5 Ne4 3.Ke2 g6 4.Ke3 d5 5.Ke2 d4 6.Ke1 Bg7 7.Ke2 Nc5 8.Ke1 Nc6 9.Ke2 Qd5 10.Ke1 Qxe5+ 11.Qe2 Qxe2+ 12.Kxe2 d3+ 13.Ke1 dxc2 14.Ke2 Bg4+ 15.Ke1 cxb1=R 16.
+Ke2
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4 Nf6 2.e5 Ne4 3.Ke2 g6 4.Ke3 d5 5.Ke2 d4 6.Ke1 Bg7 7.Ke2 Nc5 8.Ke1 Nc6 9.Ke2 Qd5 10.Ke1 Qxe5+ 11.Qe2 Qxe2+ 12.Kxe2 d3+ 13.Ke1 dxc2 14.Ke2 Bg4+ 15.Ke1 cxb1=R 16.
+Ke2
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4 Nf6 2.e5 Ne4 3.Ke2 g6 4.Ke3 d5 5.Ke2 d4 6.Ke1 Bg7 7.Ke2 Nc5 8.Ke1 Nc6 9.Ke2 Qd5 10.Ke1 Qxe5+ 11.Qe2 Qxe2+ 12.Kxe2 d3+ 13.Ke1 dxc2 14.Ke2 Bg4+ 15.Ke1 cxb1=R 16.
+Ke2
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4 d5 2.exd5 Bf5 3.Nc3 c6 4.dxc6 Nxc6 5.Nf3 Rc8 6.d4 Nf6 7.Bb5 a6 8.Bxc6+ Rxc6 9.0-0 Nd5 10.Ne5 Nxc3 11.bxc3 Rxc3 12.Bd2 Rxc2 13.Be3 Qd5 14.Rc1 Rxc1 15.Qxc1 f6 16.Nf3 Kd8 17.Qb2 Qb5 18.Qc3 Be4 19.Nd2 Bc6 20.Rc1 Qd5 21.f3 Ke8 22.Nb3 Qd6 23.Na5 e6 24.Nxc6 Qxc6 25.Qxc6+ bxc6 26.Rxc6 Kd7 27.Rxa6 Bd6 28.Ra7+ Kc6 29.Rxg7 f5 30.Ra7 Rc8 31.Ra6+ Kd5 32.Kf1 Bxh2 33.Ke2 Rc2+ 34.Ke1 Rb2 35.
+Ke2
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4 d5 2.exd5 Bf5 3.Nc3 c6 4.dxc6 Nxc6 5.Nf3 Rc8 6.d4 Nf6 7.Bb5 a6 8.Bxc6+ Rxc6 9.0-0 Nd5 10.Ne5 Nxc3 11.bxc3 Rxc3 12.Bd2 Rxc2 13.Be3 Qd5 14.Rc1 Rxc1 15.Qxc1 f6 16.Nf3 Kd8 17.Qb2 Qb5 18.Qc3 Be4 19.Nd2 Bc6 20.Rc1 Qd5 21.f3 Ke8 22.Nb3 Qd6 23.Na5 e6 24.Nxc6 Qxc6 25.Qxc6+ bxc6 26.Rxc6 Kd7 27.Rxa6 Bd6 28.Ra7+ Kc6 29.Rxg7 f5 30.Ra7 Rc8 31.Ra6+ Kd5 32.Kf1 Bxh2 33.Ke2 Rc2+ 34.Ke1 Rb2 35.
+Ke1
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4 d5 2.exd5 Bf5 3.Nc3 c6 4.dxc6 Nxc6 5.Nf3 Rc8 6.d4 Nf6 7.Bb5 a6 8.Bxc6+ Rxc6 9.0-0 Nd5 10.Ne5 Nxc3 11.bxc3 Rxc3 12.Bd2 Rxc2 13.Be3 Qd5 14.Rc1 Rxc1 15.Qxc1 f6 16.Nf3 Kd8 17.Qb2 Qb5 18.Qc3 Be4 19.Nd2 Bc6 20.Rc1 Qd5 21.f3 Ke8 22.Nb3 Qd6 23.Na5 e6 24.Nxc6 Qxc6 25.Qxc6+ bxc6 26.Rxc6 Kd7 27.Rxa6 Bd6 28.Ra7+ Kc6 29.Rxg7 f5 30.Ra7 Rc8 31.Ra6+ Kd5 32.Kf1 Bxh2 33.Ke2 Rc2+ 34.Ke1 Rb2 35.
+Ke1
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4 d5 2.exd5 Bf5 3.Nc3 c6 4.dxc6 Nxc6 5.Nf3 Rc8 6.d4 Nf6 7.Bb5 a6 8.Bxc6+ Rxc6 9.0-0 Nd5 10.Ne5 Nxc3 11.bxc3 Rxc3 12.Bd2 Rxc2 13.Be3 Qd5 14.Rc1 Rxc1 15.Qxc1 f6 16.Nf3 Kd8 17.Qb2 Qb5 18.Qc3 Be4 19.Nd2 Bc6 20.Rc1 Qd5 21.f3 Ke8 22.Nb3 Qd6 23.Na5 e6 24.Nxc6 Qxc6 25.Qxc6+ bxc6 26.Rxc6 Kd7 27.Rxa6 Bd6 28.Ra7+ Kc6 29.Rxg7 f5 30.Ra7 Rc8 31.Ra6+ Kd5 32.Kf1 Bxh2 33.Ke2 Rc2+ 34.Ke1 Rb2 35.
+Ke2
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4 d5 2.exd5 Bf5 3.Nc3 c6 4.dxc6 Nxc6 5.Nf3 Rc8 6.d4 Nf6 7.Bb5 a6 8.Bxc6+ Rxc6 9.0-0 Nd5 10.Ne5 Nxc3 11.bxc3 Rxc3 12.Bd2 Rxc2 13.Be3 Qd5 14.Rc1 Rxc1 15.Qxc1 f6 16.Nf3 Kd8 17.Qb2 Qb5 18.Qc3 Be4 19.Nd2 Bc6 20.Rc1 Qd5 21.f3 Ke8 22.Nb3 Qd6 23.Na5 e6 24.Nxc6 Qxc6 25.Qxc6+ bxc6 26.Rxc6 Kd7 27.Rxa6 Bd6 28.Ra7+ Kc6 29.Rxg7 f5 30.Ra7 Rc8 31.Ra6+ Kd5 32.Kf1 Bxh2 33.Ke2 Rc2+ 34.Ke1 Rb2 35.
+Ke1
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4 d5 2.exd5 Nf6 3.d4 Qxd5 4.Nc3 Qa5 5.Nf3 Bg4 6.h3 Bd7 7.Ne5 Be6 8.Bc4 Bxc4 9.Nxc4 Qa6 10.Qe2 Qc6 11.0-0 Nd5 12.Nxd5 Qxd5 13.Bf4 e6 14.Ne3 Qe4 15.Bxc7 Be7 16.Qb5+ Nd7 17.d5 a6 18.Qxb7 O-O 19.d6 Qxb7 20.dxe7 Rfc8 21.Bd6 h6 22.c4 Nb8 23.c5 Nc6 24.Nc4 Ra7 25.Nb6 Rca8 26.Nxa8 Qxa8 27.Rfd1 Rd7 28.Rac1 a5 29.Rc3 f6 30.Re3 Nxe7 31.Rxe6 Ng6 32.Rd4 Qb7 33.b3 Rd8 34.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4 d5 2.exd5 Nf6 3.d4 Qxd5 4.Nc3 Qa5 5.Nf3 Bg4 6.h3 Bd7 7.Ne5 Be6 8.Bc4 Bxc4 9.Nxc4 Qa6 10.Qe2 Qc6 11.0-0 Nd5 12.Nxd5 Qxd5 13.Bf4 e6 14.Ne3 Qe4 15.Bxc7 Be7 16.Qb5+ Nd7 17.d5 a6 18.Qxb7 O-O 19.d6 Qxb7 20.dxe7 Rfc8 21.Bd6 h6 22.c4 Nb8 23.c5 Nc6 24.Nc4 Ra7 25.Nb6 Rca8 26.Nxa8 Qxa8 27.Rfd1 Rd7 28.Rac1 a5 29.Rc3 f6 30.Re3 Nxe7 31.Rxe6 Ng6 32.Rd4 Qb7 33.b3 Rd8 34.
+Ke2
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4 d5 2.exd5 Nf6 3.d4 Qxd5 4.Nc3 Qa5 5.Nf3 Bg4 6.h3 Bd7 7.Ne5 Be6 8.Bc4 Bxc4 9.Nxc4 Qa6 10.Qe2 Qc6 11.0-0 Nd5 12.Nxd5 Qxd5 13.Bf4 e6 14.Ne3 Qe4 15.Bxc7 Be7 16.Qb5+ Nd7 17.d5 a6 18.Qxb7 O-O 19.d6 Qxb7 20.dxe7 Rfc8 21.Bd6 h6 22.c4 Nb8 23.c5 Nc6 24.Nc4 Ra7 25.Nb6 Rca8 26.Nxa8 Qxa8 27.Rfd1 Rd7 28.Rac1 a5 29.Rc3 f6 30.Re3 Nxe7 31.Rxe6 Ng6 32.Rd4 Qb7 33.b3 Rd8 34.Rde4 Qd5 35.Re2 Ne5 36.Re7 Ng6 37.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4 d5 2.exd5 Nf6 3.d4 Qxd5 4.Nc3 Qa5 5.Nf3 Bg4 6.h3 Bd7 7.Ne5 Be6 8.Bc4 Bxc4 9.Nxc4 Qa6 10.Qe2 Qc6 11.0-0 Nd5 12.Nxd5 Qxd5 13.Bf4 e6 14.Ne3 Qe4 15.Bxc7 Be7 16.Qb5+ Nd7 17.d5 a6 18.Qxb7 O-O 19.d6 Qxb7 20.dxe7 Rfc8 21.Bd6 h6 22.c4 Nb8 23.c5 Nc6 24.Nc4 Ra7 25.Nb6 Rca8 26.Nxa8 Qxa8 27.Rfd1 Rd7 28.Rac1 a5 29.Rc3 f6 30.Re3 Nxe7 31.Rxe6 Ng6 32.Rd4 Qb7 33.b3 Rd8 34.Rde4 Qd5 35.Re2 Ne5 36.Re7 Ng6 37.R7e4 Rc8 38.Kh2 Ra8 39.Kg1 Rc8 40.Kh2 Kh7 41.Kg1 Qc6 42.Kh2 Qd5 43.Kg1 f5 44.Re6 a4 45.bxa4 Qd1+ 46.Kh2 Qd4 47.a5 Qc4 48.a6 Qa4 49.a7 Qxa7 50.c6 Rxc6 51.Bg3 Rxe6 52.Rxe6 f4 53.Bxf4 Qxa2 54.Re4 Qd5 55.
+Ke3
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4 e5 2.Nf3 d5 3.Nxe5 Be6 4.exd5 Qxd5 5.d4 Nd7 6.Nc3 Bb4 7.Nxd7 Bxd7 8.Be2 Qxg2 9.Bf3 Bxc3+ 10.bxc3 Qg6 11.Bxb7 Rb8 12.Qe2+ Kd8 13.Be4 Bf5 14.Bxf5 Qxf5 15.0-0 Ne7 16.Ba3 Ng6 17.Rae1 Rb6 18.Qe4 Rb5 19.Qxf5 Rxf5 20.Re3 Re8 21.Rfe1 Rxe3 22.Rxe3 Ra5 23.Bb4 Rxa2 24.Re2 Ra1+ 25.Kg2 Nf4+ 26.Kf3 Nxe2 27.Ke3 Nxd4 28.Ke4 Ne6 29.Ke5 Kc8 30.Ke4 Ng5+ 31.Ke3 Re1+ 32.Kd2 Re4 33.Kd3 Rh4 34.Ke3 Ne6 35.Ke2 Kb8 36.Ke3 g6 37.Ke2 Ng7 38.Ke3 Ka8 39.Ke2 a6 40.Ke3 g5 41.Ke2 Kb8 42.Ke3 h6 43.Ke2 Rh3 44.Ke1 Rxh2 45.Ke2 h5 46.Ke3 Ka8 47.Ke2 Kb8 48.Ke3 h4 49.Ke2 Ne6 50.Ke3 h3 51.Ke2 Rg2 52.Ke3 h2 53.Ke2 h1=Q 54.Ke3 Rg1 55.Ke2 Qe4+ 56.Kd2 Qf3 57.
+Ke1
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4 e5 2.Nf3 d5 3.Nxe5 Be6 4.exd5 Qxd5 5.d4 Nd7 6.Nc3 Bb4 7.Nxd7 Bxd7 8.Be2 Qxg2 9.Bf3 Bxc3+ 10.bxc3 Qg6 11.Bxb7 Rb8 12.Qe2+ Kd8 13.Be4 Bf5 14.Bxf5 Qxf5 15.0-0 Ne7 16.Ba3 Ng6 17.Rae1 Rb6 18.Qe4 Rb5 19.Qxf5 Rxf5 20.Re3 Re8 21.Rfe1 Rxe3 22.Rxe3 Ra5 23.Bb4 Rxa2 24.Re2 Ra1+ 25.Kg2 Nf4+ 26.Kf3 Nxe2 27.Ke3 Nxd4 28.Ke4 Ne6 29.Ke5 Kc8 30.Ke4 Ng5+ 31.Ke3 Re1+ 32.Kd2 Re4 33.Kd3 Rh4 34.Ke3 Ne6 35.Ke2 Kb8 36.Ke3 g6 37.Ke2 Ng7 38.Ke3 Ka8 39.Ke2 a6 40.Ke3 g5 41.Ke2 Kb8 42.Ke3 h6 43.Ke2 Rh3 44.Ke1 Rxh2 45.Ke2 h5 46.Ke3 Ka8 47.Ke2 Kb8 48.Ke3 h4 49.Ke2 Ne6 50.Ke3 h3 51.Ke2 Rg2 52.Ke3 h2 53.Ke2 h1=Q 54.Ke3 Rg1 55.Ke2 Qe4+ 56.Kd2 Qf3 57.
+Ke1
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4 e5 2.Nf3 d5 3.Nxe5 Be6 4.exd5 Qxd5 5.d4 Nd7 6.Nc3 Bb4 7.Nxd7 Bxd7 8.Be2 Qxg2 9.Bf3 Bxc3+ 10.bxc3 Qg6 11.Bxb7 Rb8 12.Qe2+ Kd8 13.Be4 Bf5 14.Bxf5 Qxf5 15.0-0 Ne7 16.Ba3 Ng6 17.Rae1 Rb6 18.Qe4 Rb5 19.Qxf5 Rxf5 20.Re3 Re8 21.Rfe1 Rxe3 22.Rxe3 Ra5 23.Bb4 Rxa2 24.Re2 Ra1+ 25.Kg2 Nf4+ 26.Kf3 Nxe2 27.Ke3 Nxd4 28.Ke4 Ne6 29.Ke5 Kc8 30.Ke4 Ng5+ 31.Ke3 Re1+ 32.Kd2 Re4 33.Kd3 Rh4 34.Ke3 Ne6 35.Ke2 Kb8 36.Ke3 g6 37.Ke2 Ng7 38.Ke3 Ka8 39.Ke2 a6 40.Ke3 g5 41.Ke2 Kb8 42.Ke3 h6 43.Ke2 Rh3 44.Ke1 Rxh2 45.Ke2 h5 46.Ke3 Ka8 47.Ke2 Kb8 48.Ke3 h4 49.Ke2 Ne6 50.Ke3 h3 51.Ke2 Rg2 52.Ke3 h2 53.Ke2 h1=Q 54.Ke3 Rg1 55.Ke2 Qe4+ 56.Kd2 Qf3 57.
+Ke1
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4 e5 2.Nf3 d5 3.Nxe5 Be6 4.exd5 Qxd5 5.d4 Nd7 6.Nc3 Bb4 7.Nxd7 Bxd7 8.Be2 Qxg2 9.Bf3 Bxc3+ 10.bxc3 Qg6 11.Bxb7 Rb8 12.Qe2+ Kd8 13.Be4 Bf5 14.Bxf5 Qxf5 15.0-0 Ne7 16.Ba3 Ng6 17.Rae1 Rb6 18.Qe4 Rb5 19.Qxf5 Rxf5 20.Re3 Re8 21.Rfe1 Rxe3 22.Rxe3 Ra5 23.Bb4 Rxa2 24.Re2 Ra1+ 25.Kg2 Nf4+ 26.Kf3 Nxe2 27.Ke3 Nxd4 28.Ke4 Ne6 29.Ke5 Kc8 30.Ke4 Ng5+ 31.Ke3 Re1+ 32.Kd2 Re4 33.Kd3 Rh4 34.Ke3 Ne6 35.Ke2 Kb8 36.Ke3 g6 37.Ke2 Ng7 38.Ke3 Ka8 39.Ke2 a6 40.Ke3 g5 41.Ke2 Kb8 42.Ke3 h6 43.Ke2 Rh3 44.Ke1 Rxh2 45.Ke2 h5 46.Ke3 Ka8 47.Ke2 Kb8 48.Ke3 h4 49.Ke2 Ne6 50.Ke3 h3 51.Ke2 Rg2 52.Ke3 h2 53.Ke2 h1=Q 54.Ke3 Rg1 55.Ke2 Qe4+ 56.Kd2 Qf3 57.
+Ke1
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 dxe4 5.Nxe4 c5 6.Nxc5 Be7 7.Nf3 O-O 8.Nb3 h6 9.Bh4 Nd5 10.Bxe7 Qxe7 11.Bd3 b6 12.O-O Qc7 13.Re1 Rd8 14.c3 Nd7 15.Qe2 Bb7 16.g3 Rac8 17.Rad1 Kh8 18.Bb1 Rb8 19.Nbd2 Rbc8 20.Ne4 N5f6 21.Ned2 Ba8 22.Ne5 Rf8 23.Ndf3 Qb7 24.Qd3 Rcd8 25.Qe3 Nxe5 26.dxe5 Rxd1 27.Rxd1 Qxf3 28.Qxf3 Bxf3 29.Rd3 Be4 30.exf6 Bxd3 31.fxg7+ Kxg7 32.Bxd3 Rd8 33.Bc4 Rd2 34.b4 Rc2 35.Bb3 Rxc3 36.Kg2 Rc1 37.Kf3 Rh1 38.Ke3 a6 39.Ke2 Kf8 40.Ke3 Ke7 41.Ke2 a5 42.Ke3 Rf1 43.Ke2 Ra1 44.Ke3 Rb1 45.Ke2 Rg1 46.Ke3 Rh1 47.Ke2 Rxh2 48.Ke3 Rh1 49.Ke2 f5 50.Ke3 axb4 51.Ke2 Rc1 52.Ke3 Rh1 53.Ke2 Rb1 54.Ke3 h5 55.Ke2 Ra1 56.Ke3 Rc1 57.Ke2 Rb1 58.Ke3 h4 59.Ke2 h3 60.Ke3 h2 61.Ke2 h1=Q 62.Ke3 Rc1 63.Ke2 Qe4+ 64.Kd2 Qe1+ 65.Kd3 Qe4+ 66.Kd2 Qe1+ 67.Kd3 e5 68.
+Ke3
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4 e6 2.d4 d5 3.Nc3 c6 4.Nf3 Bb4 5.e5 Ne7 6.a3 Ba5 7.Bd3 h6 8.0-0 Bxc3 9.bxc3 b6 10.a4 Ba6 11.Ba3 Qc7 12.Bd6 Qd7 13.a5 Qb7 14.axb6 Bxd3 15.Qxd3 Nc8 16.Bc5 axb6 17.Rxa8 Qxa8 18.Bb4 Nd7 19.c4 dxc4 20.Qxc4 Qb7 21.Ra1 c5 22.dxc5 bxc5 23.Bxc5 Qc6 24.Ra5 f6 25.exf6 Rg8 26.Nd4 Qe4 27.Qxe6+ Qxe6 28.Nxe6 Nxc5 29.Nxc5 Kf7 30.fxg7 Re8 31.Kf1 Nd6 32.Ra7+ Kg8 33.Nd7 Ne4 34.Ke2 Kxg7 35.Ke3 Re7 36.Ke2 Nf6+ 37.Kd3 Nxd7 38.c4 Nc5+ 39.
+Ke3
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4 e6 2.d4 d5 3.Nc3 c6 4.Nf3 Bb4 5.e5 Ne7 6.a3 Ba5 7.Bd3 h6 8.0-0 Bxc3 9.bxc3 b6 10.a4 Ba6 11.Ba3 Qc7 12.Bd6 Qd7 13.a5 Qb7 14.axb6 Bxd3 15.Qxd3 Nc8 16.Bc5 axb6 17.Rxa8 Qxa8 18.Bb4 Nd7 19.c4 dxc4 20.Qxc4 Qb7 21.Ra1 c5 22.dxc5 bxc5 23.Bxc5 Qc6 24.Ra5 f6 25.exf6 Rg8 26.Nd4 Qe4 27.Qxe6+ Qxe6 28.Nxe6 Nxc5 29.Nxc5 Kf7 30.fxg7 Re8 31.Kf1 Nd6 32.Ra7+ Kg8 33.Nd7 Ne4 34.Ke2 Kxg7 35.Ke3 Re7 36.Ke2 Nf6+ 37.Kd3 Nxd7 38.c4 Nc5+ 39.
+Ke3
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4 e6 2.d4 d5 3.Nc3 c6 4.Nf3 Bb4 5.e5 Ne7 6.a3 Ba5 7.Bd3 h6 8.0-0 Bxc3 9.bxc3 b6 10.a4 Ba6 11.Ba3 Qc7 12.Bd6 Qd7 13.a5 Qb7 14.axb6 Bxd3 15.Qxd3 Nc8 16.Bc5 axb6 17.Rxa8 Qxa8 18.Bb4 Nd7 19.c4 dxc4 20.Qxc4 Qb7 21.Ra1 c5 22.dxc5 bxc5 23.Bxc5 Qc6 24.Ra5 f6 25.exf6 Rg8 26.Nd4 Qe4 27.Qxe6+ Qxe6 28.Nxe6 Nxc5 29.Nxc5 Kf7 30.fxg7 Re8 31.Kf1 Nd6 32.Ra7+ Kg8 33.Nd7 Ne4 34.Ke2 Kxg7 35.Ke3 Re7 36.Ke2 Nf6+ 37.Kd3 Nxd7 38.c4 Nc5+ 39.
+Ke3
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4 e6 2.d4 d5 3.Nc3 c6 4.Nf3 Bb4 5.e5 Ne7 6.a3 Ba5 7.Bd3 h6 8.0-0 Bxc3 9.bxc3 b6 10.a4 Ba6 11.Ba3 Qc7 12.Bd6 Qd7 13.a5 Qb7 14.axb6 Bxd3 15.Qxd3 Nc8 16.Bc5 axb6 17.Rxa8 Qxa8 18.Bb4 Nd7 19.c4 dxc4 20.Qxc4 Qb7 21.Ra1 c5 22.dxc5 bxc5 23.Bxc5 Qc6 24.Ra5 f6 25.exf6 Rg8 26.Nd4 Qe4 27.Qxe6+ Qxe6 28.Nxe6 Nxc5 29.Nxc5 Kf7 30.fxg7 Re8 31.Kf1 Nd6 32.Ra7+ Kg8 33.Nd7 Ne4 34.Ke2 Kxg7 35.Ke3 Re7 36.Ke2 Nf6+ 37.Kd3 Nxd7 38.c4 Nc5+ 39.
+Ke3
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4 e6 2.d4 d5 3.Nc3 c6 4.Nf3 Bb4 5.e5 Ne7 6.a3 Ba5 7.Bd3 h6 8.0-0 Bxc3 9.bxc3 b6 10.a4 Ba6 11.Ba3 Qc7 12.Bd6 Qd7 13.a5 Qb7 14.axb6 Bxd3 15.Qxd3 Nc8 16.Bc5 axb6 17.Rxa8 Qxa8 18.Bb4 Nd7 19.c4 dxc4 20.Qxc4 Qb7 21.Ra1 c5 22.dxc5 bxc5 23.Bxc5 Qc6 24.Ra5 f6 25.exf6 Rg8 26.Nd4 Qe4 27.Qxe6+ Qxe6 28.Nxe6 Nxc5 29.Nxc5 Kf7 30.fxg7 Re8 31.Kf1 Nd6 32.Ra7+ Kg8 33.Nd7 Ne4 34.Ke2 Kxg7 35.Ke3 Re7 36.Ke2 Nf6+ 37.Kd3 Nxd7 38.c4 Nc5+ 39.
+Ke3
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4 e6 2.d4 a6 3.Nf3 d5 4.Nc3 dxe4 5.Nxe4 Nd7 6.Bd3 Ngf6 7.0-0 Nxe4 8.Bxe4 Bd6 9.c4 Nf6 10.Bc2 Be7 11.Qd3 c5 12.Bg5 cxd4 13.Rad1 b5 14.cxb5 axb5 15.Nxd4 Rxa2 16.Qxb5+ Nd7 17.Nc6 Qb6 18.Qxb6 Nxb6 19.Bxe7 Bd7 20.Ba3 Bxc6 21.Bb3 Bd5 22.Bxa2 Bxa2 23.Rd6 Nd5 24.Ra1 O-O 25.Rxa2 Ra8 26.Ra1 h5 27.
+Ke2
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4 e6 2.d4 a6 3.Nf3 d5 4.Nc3 dxe4 5.Nxe4 Nd7 6.Bd3 Ngf6 7.0-0 Nxe4 8.Bxe4 Bd6 9.c4 Nf6 10.Bc2 Be7 11.Qd3 c5 12.Bg5 cxd4 13.Rad1 b5 14.cxb5 axb5 15.Nxd4 Rxa2 16.Qxb5+ Nd7 17.Nc6 Qb6 18.Qxb6 Nxb6 19.Bxe7 Bd7 20.Ba3 Bxc6 21.Bb3 Bd5 22.Bxa2 Bxa2 23.Rd6 Nd5 24.Ra1 O-O 25.Rxa2 Ra8 26.Ra1 h5 27.
+Ke2
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4 e6 2.d4 a6 3.Nf3 d5 4.Nc3 dxe4 5.Nxe4 Nd7 6.Bd3 Ngf6 7.0-0 Nxe4 8.Bxe4 Bd6 9.c4 Nf6 10.Bc2 Be7 11.Qd3 c5 12.Bg5 cxd4 13.Rad1 b5 14.cxb5 axb5 15.Nxd4 Rxa2 16.Qxb5+ Nd7 17.Nc6 Qb6 18.Qxb6 Nxb6 19.Bxe7 Bd7 20.Ba3 Bxc6 21.Bb3 Bd5 22.Bxa2 Bxa2 23.Rd6 Nd5 24.Ra1 O-O 25.Rxa2 Ra8 26.Ra1 h5 27.Rd1 Ra4 28.R6xd5 f5 29.Rd8+ Kf7 30.R1d7+ Kf6 31.Rf8+ Ke5 32.Bd6+ Kd5 33.Bf4+ Kc5 34.Rc8+ Kb5 35.Rb7+ Ka6 36.Ra8+ Kxb7 37.Rxa4 Kc8 38.Ra7 g5 39.Bxg5 h4 40.Bxh4 f4 41.Re7 Kb8 42.Rxe6 Kb7 43.Re4 Kc8 44.Rxf4 Kb8 45.Rf7 Ka8 46.
+Ke2
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4 c5 2.Nf3 d6 3.d4 Nd7 4.Nc3 a6 5.a4 g6 6.Be2 cxd4 7.Nxd4 b6 8.0-0 Ngf6 9.f4 Bg7 10.Bf3 e5 11.Nc6 Qc7 12.Nb4 Qc5+ 13.Kh1 Qxb4 14.Nd5 Nxd5 15.Qxd5 Rb8 16.Bd2 Qd4 17.Qxd4 exd4 18.Bb4 Nc5 19.e5 O-O 20.exd6 a5 21.Ba3 Bf5 22.Rac1 h5 23.Rfd1 h4 24.h3 Rbc8 25.Bxc5 Rxc5 26.c3 Rd8 27.cxd4 Rc2 28.Rxc2 Bxc2 29.Rd2 Bf5 30.Bc6 Bh6 31.Rf2 Bf8 32.Re2 Bxd6 33.Re8+ Rxe8 34.Bxe8 Bxf4 35.d5 Be4 36.Bc6 Bc2 37.Kg1 Kf8 38.Kf2 g5 39.Ke2 Bf5 40.Ke1 Bd3 41.Kd1 f5 42.Ke1 Ke7 43.Kf2 Kd6 44.Ke1 Be4 45.Ke2 Ke7 46.Ke1 Bb1 47.Ke2 Kd6 48.Ke1 Bc2 49.Ke2 Be4 50.Ke1 Be5 51.Ke2 Bxg2 52.Ke1 Bxh3 53.Ke2 Bg4+ 54.Ke1 Bxb2 55.
+Ke2
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4 c5 2.Nf3 d6 3.d4 Nd7 4.Nc3 a6 5.a4 g6 6.Be2 cxd4 7.Nxd4 b6 8.0-0 Ngf6 9.f4 Bg7 10.Bf3 e5 11.Nc6 Qc7 12.Nb4 Qc5+ 13.Kh1 Qxb4 14.Nd5 Nxd5 15.Qxd5 Rb8 16.Bd2 Qd4 17.Qxd4 exd4 18.Bb4 Nc5 19.e5 O-O 20.exd6 a5 21.Ba3 Bf5 22.Rac1 h5 23.Rfd1 h4 24.h3 Rbc8 25.Bxc5 Rxc5 26.c3 Rd8 27.cxd4 Rc2 28.Rxc2 Bxc2 29.Rd2 Bf5 30.Bc6 Bh6 31.Rf2 Bf8 32.Re2 Bxd6 33.Re8+ Rxe8 34.Bxe8 Bxf4 35.d5 Be4 36.Bc6 Bc2 37.Kg1 Kf8 38.Kf2 g5 39.Ke2 Bf5 40.Ke1 Bd3 41.Kd1 f5 42.Ke1 Ke7 43.Kf2 Kd6 44.Ke1 Be4 45.Ke2 Ke7 46.Ke1 Bb1 47.Ke2 Kd6 48.Ke1 Bc2 49.Ke2 Be4 50.Ke1 Be5 51.Ke2 Bxg2 52.Ke1 Bxh3 53.Ke2 Bg4+ 54.Ke1 Bxb2 55.
+Ke2
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4 c5 2.Nf3 d6 3.d4 Nd7 4.Nc3 a6 5.a4 g6 6.Be2 cxd4 7.Nxd4 b6 8.0-0 Ngf6 9.f4 Bg7 10.Bf3 e5 11.Nc6 Qc7 12.Nb4 Qc5+ 13.Kh1 Qxb4 14.Nd5 Nxd5 15.Qxd5 Rb8 16.Bd2 Qd4 17.Qxd4 exd4 18.Bb4 Nc5 19.e5 O-O 20.exd6 a5 21.Ba3 Bf5 22.Rac1 h5 23.Rfd1 h4 24.h3 Rbc8 25.Bxc5 Rxc5 26.c3 Rd8 27.cxd4 Rc2 28.Rxc2 Bxc2 29.Rd2 Bf5 30.Bc6 Bh6 31.Rf2 Bf8 32.Re2 Bxd6 33.Re8+ Rxe8 34.Bxe8 Bxf4 35.d5 Be4 36.Bc6 Bc2 37.Kg1 Kf8 38.Kf2 g5 39.Ke2 Bf5 40.Ke1 Bd3 41.Kd1 f5 42.Ke1 Ke7 43.Kf2 Kd6 44.Ke1 Be4 45.Ke2 Ke7 46.Ke1 Bb1 47.Ke2 Kd6 48.Ke1 Bc2 49.Ke2 Be4 50.Ke1 Be5 51.Ke2 Bxg2 52.Ke1 Bxh3 53.Ke2 Bg4+ 54.Ke1 Bxb2 55.
+Ke2
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4 c5 2.Nf3 d6 3.d4 Nd7 4.Nc3 a6 5.a4 g6 6.Be2 cxd4 7.Nxd4 b6 8.0-0 Ngf6 9.f4 Bg7 10.Bf3 e5 11.Nc6 Qc7 12.Nb4 Qc5+ 13.Kh1 Qxb4 14.Nd5 Nxd5 15.Qxd5 Rb8 16.Bd2 Qd4 17.Qxd4 exd4 18.Bb4 Nc5 19.e5 O-O 20.exd6 a5 21.Ba3 Bf5 22.Rac1 h5 23.Rfd1 h4 24.h3 Rbc8 25.Bxc5 Rxc5 26.c3 Rd8 27.cxd4 Rc2 28.Rxc2 Bxc2 29.Rd2 Bf5 30.Bc6 Bh6 31.Rf2 Bf8 32.Re2 Bxd6 33.Re8+ Rxe8 34.Bxe8 Bxf4 35.d5 Be4 36.Bc6 Bc2 37.Kg1 Kf8 38.Kf2 g5 39.Ke2 Bf5 40.Ke1 Bd3 41.Kd1 f5 42.Ke1 Ke7 43.Kf2 Kd6 44.Ke1 Be4 45.Ke2 Ke7 46.Ke1 Bb1 47.Ke2 Kd6 48.Ke1 Bc2 49.Ke2 Be4 50.Ke1 Be5 51.Ke2 Bxg2 52.Ke1 Bxh3 53.Ke2 Bg4+ 54.Ke1 Bxb2 55.
+Ke2
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4 c5 2.Nf3 d6 3.d4 Nd7 4.Nc3 a6 5.a4 g6 6.Be2 cxd4 7.Nxd4 b6 8.0-0 Ngf6 9.f4 Bg7 10.Bf3 e5 11.Nc6 Qc7 12.Nb4 Qc5+ 13.Kh1 Qxb4 14.Nd5 Nxd5 15.Qxd5 Rb8 16.Bd2 Qd4 17.Qxd4 exd4 18.Bb4 Nc5 19.e5 O-O 20.exd6 a5 21.Ba3 Bf5 22.Rac1 h5 23.Rfd1 h4 24.h3 Rbc8 25.Bxc5 Rxc5 26.c3 Rd8 27.cxd4 Rc2 28.Rxc2 Bxc2 29.Rd2 Bf5 30.Bc6 Bh6 31.Rf2 Bf8 32.Re2 Bxd6 33.Re8+ Rxe8 34.Bxe8 Bxf4 35.d5 Be4 36.Bc6 Bc2 37.Kg1 Kf8 38.Kf2 g5 39.Ke2 Bf5 40.Ke1 Bd3 41.Kd1 f5 42.Ke1 Ke7 43.Kf2 Kd6 44.Ke1 Be4 45.Ke2 Ke7 46.Ke1 Bb1 47.Ke2 Kd6 48.Ke1 Bc2 49.Ke2 Be4 50.Ke1 Be5 51.Ke2 Bxg2 52.Ke1 Bxh3 53.Ke2 Bg4+ 54.Ke1 Bxb2 55.
+Ke2
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 Nxe4 4.d4 d5 5.Bd3 Nd7 6.Nxd7 Qxd7 7.0-0 Bd6 8.c4 O-O 9.cxd5 Re8 10.Nc3 Nf6 11.Bg5 Qd8 12.Qf3 a5 13.Rfe1 Bg4 14.Bxf6 Rxe1+ 15.Rxe1 Bxh2+ 16.Kh1 Qxf6 17.Qxf6 gxf6 18.Kxh2 a4 19.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 Nxe4 4.d4 d5 5.Bd3 Nd7 6.Nxd7 Qxd7 7.0-0 Bd6 8.c4 O-O 9.cxd5 Re8 10.Nc3 Nf6 11.Bg5 Qd8 12.Qf3 a5 13.Rfe1 Bg4 14.Bxf6 Rxe1+ 15.Rxe1 Bxh2+ 16.Kh1 Qxf6 17.Qxf6 gxf6 18.Kxh2 a4 19.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 Nxe4 4.d4 d5 5.Bd3 Nd7 6.Nxd7 Qxd7 7.0-0 Bd6 8.c4 O-O 9.cxd5 Re8 10.Nc3 Nf6 11.Bg5 Qd8 12.Qf3 a5 13.Rfe1 Bg4 14.Bxf6 Rxe1+ 15.Rxe1 Bxh2+ 16.Kh1 Qxf6 17.Qxf6 gxf6 18.Kxh2 a4 19.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 Nxe4 4.d4 d5 5.Bd3 Nd7 6.Nxd7 Qxd7 7.0-0 Bd6 8.c4 O-O 9.cxd5 Re8 10.Nc3 Nf6 11.Bg5 Qd8 12.Qf3 a5 13.Rfe1 Bg4 14.Bxf6 Rxe1+ 15.Rxe1 Bxh2+ 16.Kh1 Qxf6 17.Qxf6 gxf6 18.Kxh2 a4 19.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 Nxe4 4.d4 d5 5.Bd3 Nd7 6.Nxd7 Qxd7 7.0-0 Bd6 8.c4 O-O 9.cxd5 Re8 10.Nc3 Nf6 11.Bg5 Qd8 12.Qf3 a5 13.Rfe1 Bg4 14.Bxf6 Rxe1+ 15.Rxe1 Bxh2+ 16.Kh1 Qxf6 17.Qxf6 gxf6 18.Kxh2 a4 19.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4 Nf6 2.a3 e6 3.Bg5 c5 4.Nc3 cxd4 5.Bxf6 Qxf6 6.Na2 Nc6 7.g3 d5 8.Bg2 Bc5 9.Nb4 Nxb4 10.axb4 Bxb4+ 11.c3 dxc3 12.Qa4+ Bd7 13.Qxb4 cxb2 14.Rb1 Rc8 15.Nh3 Rc1+ 16.Kd2 Rc4 17.Qxb2
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4 Nf6 2.a3 e6 3.Bg5 c5 4.Nc3 cxd4 5.Bxf6 Qxf6 6.Na2 Nc6 7.g3 d5 8.Bg2 Bc5 9.Nb4 Nxb4 10.axb4 Bxb4+ 11.c3 dxc3 12.Qa4+ Bd7 13.Qxb4 cxb2 14.Rb1 Rc8 15.Nh3 Rc1+ 16.Kd2 Rc4 17.Qxb2
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4 Nf6 2.a3 e6 3.Bg5 c5 4.Nc3 cxd4 5.Bxf6 Qxf6 6.Na2 Nc6 7.g3 d5 8.Bg2 Bc5 9.Nb4 Nxb4 10.axb4 Bxb4+ 11.c3 dxc3 12.Qa4+ Bd7 13.Qxb4 cxb2 14.Rb1 Rc8 15.Nh3 Rc1+ 16.Kd2 Rc4 17.Qxb2
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4 Nf6 2.a3 e6 3.Bg5 c5 4.Nc3 cxd4 5.Bxf6 Qxf6 6.Na2 Nc6 7.g3 d5 8.Bg2 Bc5 9.Nb4 Nxb4 10.axb4 Bxb4+ 11.c3 dxc3 12.Qa4+ Bd7 13.Qxb4 cxb2 14.Rb1 Rc8 15.Nh3 Rc1+ 16.Kd2 Rc4 17.Qxb2
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4 Nf6 2.a3 e6 3.Bg5 c5 4.Nc3 cxd4 5.Bxf6 Qxf6 6.Na2 Nc6 7.g3 d5 8.Bg2 Bc5 9.Nb4 Nxb4 10.axb4 Bxb4+ 11.c3 dxc3 12.Qa4+ Bd7 13.Qxb4 cxb2 14.Rb1 Rc8 15.Nh3 Rc1+ 16.Kd2 Rc4 17.Qxb2
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.Nf3
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.Nf3
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.Nf3
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.Nf3
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.Nf3
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.c4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.c4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.c4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.c4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.c4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.c4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.c4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.c4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.c4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.c4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.Nf3
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.Nf3
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.Nf3
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.Nf3
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.Nf3
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.Nf3
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.Nf3
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.Nf3
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.Nf3
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.Nf3
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.c4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.c4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.c4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.c4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.c4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.c4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.c4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.c4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.c4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.c4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.c4 e5 2.Nf3 Nc6 3.d4 exd4 4.g3 Bc5 5.Nbd2 d6 6.Nb3 Qf6 7.a3 Nge7 8.Bg2 O-O 9.Bg5 Qg6 10.O-O Re8 11.Bxe7 Rxe7 12.Nbxd4 Nxd4 13.Nxd4 a5 14.e3 c6 15.b4 Bxd4 16.Qxd4 Bf5 17.Rfd1 Rd7 18.b5 c5 19.Qf4 Re8 20.Rd2 Be4 21.f3 Bc2 22.Rc1 Bb3 23.e4 Qe6 24.Bf1 a4 25.h4 Qe5 26.Bh3 Rdd8 27.Kf2 Qxf4 28.gxf4 Kf8 29.Bg4 Ke7 30.h5 g6 31.Bh3 Kf6 32.Rc3 gxh5 33.b6 Ke7 34.Bf1 Rg8 35.Rdd3 h4 36.Rd5 Rg6 37.Rf5 Rdg8 38.Rh5 Rg1 39.Rxh4 R8g7 40.Rh6 R1g6 41.Rh2 Rg8 42.Rc1 R6g7 43.Rh6 Rd8 44.Re1 Kf8 45.f5 Kg8 46.f4 Rg4 47.Be2 Rxf4+ 48.Ke3 Kg7 49.Rhh1 Rxe4+ 50.Kxe4 Re8+ 51.Kd5 Re5+ 52.Kxd6
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.c4 e5 2.Nf3 Nc6 3.d4 exd4 4.g3 Bc5 5.Nbd2 d6 6.Nb3 Qf6 7.a3 Nge7 8.Bg2 O-O 9.Bg5 Qg6 10.O-O Re8 11.Bxe7 Rxe7 12.Nbxd4 Nxd4 13.Nxd4 a5 14.e3 c6 15.b4 Bxd4 16.Qxd4 Bf5 17.Rfd1 Rd7 18.b5 c5 19.Qf4 Re8 20.Rd2 Be4 21.f3 Bc2 22.Rc1 Bb3 23.e4 Qe6 24.Bf1 a4 25.h4 Qe5 26.Bh3 Rdd8 27.Kf2 Qxf4 28.gxf4 Kf8 29.Bg4 Ke7 30.h5 g6 31.Bh3 Kf6 32.Rc3 gxh5 33.b6 Ke7 34.Bf1 Rg8 35.Rdd3 h4 36.Rd5 Rg6 37.Rf5 Rdg8 38.Rh5 Rg1 39.Rxh4 R8g7 40.Rh6 R1g6 41.Rh2 Rg8 42.Rc1 R6g7 43.Rh6 Rd8 44.Re1 Kf8 45.f5 Kg8 46.f4 Rg4 47.Be2 Rxf4+ 48.Ke3 Kg7 49.Rhh1 Rxe4+ 50.Kxe4 Re8+ 51.Kd5 Re5+ 52.Kxd6
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.c4 e5 2.Nf3 Nc6 3.d4 exd4 4.g3 Bc5 5.Nbd2 d6 6.Nb3 Qf6 7.a3 Nge7 8.Bg2 O-O 9.Bg5 Qg6 10.O-O Re8 11.Bxe7 Rxe7 12.Nbxd4 Nxd4 13.Nxd4 a5 14.e3 c6 15.b4 Bxd4 16.Qxd4 Bf5 17.Rfd1 Rd7 18.b5 c5 19.Qf4 Re8 20.Rd2 Be4 21.f3 Bc2 22.Rc1 Bb3 23.e4 Qe6 24.Bf1 a4 25.h4 Qe5 26.Bh3 Rdd8 27.Kf2 Qxf4 28.gxf4 Kf8 29.Bg4 Ke7 30.h5 g6 31.Bh3 Kf6 32.Rc3 gxh5 33.b6 Ke7 34.Bf1 Rg8 35.Rdd3 h4 36.Rd5 Rg6 37.Rf5 Rdg8 38.Rh5 Rg1 39.Rxh4 R8g7 40.Rh6 R1g6 41.Rh2 Rg8 42.Rc1 R6g7 43.Rh6 Rd8 44.Re1 Kf8 45.f5 Kg8 46.f4 Rg4 47.Be2 Rxf4+ 48.Ke3 Kg7 49.Rhh1 Rxe4+ 50.Kxe4 Re8+ 51.Kd5 Re5+ 52.Kxd6
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.c4 e5 2.Nf3 Nc6 3.d4 exd4 4.g3 Bc5 5.Nbd2 d6 6.Nb3 Qf6 7.a3 Nge7 8.Bg2 O-O 9.Bg5 Qg6 10.O-O Re8 11.Bxe7 Rxe7 12.Nbxd4 Nxd4 13.Nxd4 a5 14.e3 c6 15.b4 Bxd4 16.Qxd4 Bf5 17.Rfd1 Rd7 18.b5 c5 19.Qf4 Re8 20.Rd2 Be4 21.f3 Bc2 22.Rc1 Bb3 23.e4 Qe6 24.Bf1 a4 25.h4 Qe5 26.Bh3 Rdd8 27.Kf2 Qxf4 28.gxf4 Kf8 29.Bg4 Ke7 30.h5 g6 31.Bh3 Kf6 32.Rc3 gxh5 33.b6 Ke7 34.Bf1 Rg8 35.Rdd3 h4 36.Rd5 Rg6 37.Rf5 Rdg8 38.Rh5 Rg1 39.Rxh4 R8g7 40.Rh6 R1g6 41.Rh2 Rg8 42.Rc1 R6g7 43.Rh6 Rd8 44.Re1 Kf8 45.f5 Kg8 46.f4 Rg4 47.Be2 Rxf4+ 48.Ke3 Kg7 49.Rhh1 Rxe4+ 50.Kxe4 Re8+ 51.Kd5 Re5+ 52.Kxd6
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.c4 e5 2.Nf3 Nc6 3.d4 exd4 4.g3 Bc5 5.Nbd2 d6 6.Nb3 Qf6 7.a3 Nge7 8.Bg2 O-O 9.Bg5 Qg6 10.O-O Re8 11.Bxe7 Rxe7 12.Nbxd4 Nxd4 13.Nxd4 a5 14.e3 c6 15.b4 Bxd4 16.Qxd4 Bf5 17.Rfd1 Rd7 18.b5 c5 19.Qf4 Re8 20.Rd2 Be4 21.f3 Bc2 22.Rc1 Bb3 23.e4 Qe6 24.Bf1 a4 25.h4 Qe5 26.Bh3 Rdd8 27.Kf2 Qxf4 28.gxf4 Kf8 29.Bg4 Ke7 30.h5 g6 31.Bh3 Kf6 32.Rc3 gxh5 33.b6 Ke7 34.Bf1 Rg8 35.Rdd3 h4 36.Rd5 Rg6 37.Rf5 Rdg8 38.Rh5 Rg1 39.Rxh4 R8g7 40.Rh6 R1g6 41.Rh2 Rg8 42.Rc1 R6g7 43.Rh6 Rd8 44.Re1 Kf8 45.f5 Kg8 46.f4 Rg4 47.Be2 Rxf4+ 48.Ke3 Kg7 49.Rhh1 Rxe4+ 50.Kxe4 Re8+ 51.Kd5 Re5+ 52.Kxd6
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.e4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.c4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.c4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.c4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.c4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.c4
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.Nf3
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.Nf3
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.Nf3
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.Nf3
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.Nf3
+None
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4 Nf6 2.h3 d5 3.Bf4 c5 4.c3 Nc6 5.Nf3 Qb6 6.Qc2 cxd4 7.Nbd2 dxc3 8.Qxc3 Bf5 9.e3 e6 10.Qb3 Bb4 11.a3 Bxd2+ 12.Nxd2 Qxb3 13.Nxb3 e5 14.Bh2 O-O 15.Nc5 b6 16.Nb3 Rac8 17.Bb5 Bc2 18.Nc1 Nd4 19.exd4 exd4 20.O-O Ne4 21.Be5 Nd2 22.Bxd4 Nxf1 23.Bxf1 Rfe8 24.Ne2 Bd3 25.Ng3 Bxf1 26.Nxf1 Rc4 27.Rd1 Re2 28.Ne3 Rc8 29.g4 f6 30.Kf1 Rxe3 31.fxe3 Kf7 32.Kg2 Ke6 33.Kg3 Rc2 34.Rf1 h6 35.Rb1 g5 36.Ra1 f5 37.Rf1 fxg4 38.hxg4 Re2 39.Rf6+ Kd7 40.Rxh6 Re1 41.a4 Rg1+ 42.Kf3 Rf1+ 43.Kg2 Ra1 44.Rh7+ Kc6 45.Rxa7 b5 46.Rg7 bxa4 47.Kf3 Rf1+ 48.Ke2 Rg1 49.Kf3 Rf1+ 50.Kg2 Rd1 51.Rg6+ Kb5 52.Rxg5 Kc4 53.Kf2 Rd2+ 54.Kf3 Rd1 55.Ke2 Rg1 56.Kf2 Rd1 57.Rg8 Rd2+ 58.Kf3 Rd1 59.Kf2 Rd2+ 60.Kf3 Rd1 61.g5 Rg1 62.Ke2 Rg2+ 63.Kf3 Rg1 64.g6 Kb3 65.Kf2 Rg5 66.g7 Rg6 67.Rb8+ Kc2 68.g8=Q Rxg8 69.Rxg8
+Kxb2
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4 Nf6 2.h3 d5 3.Bf4 c5 4.c3 Nc6 5.Nf3 Qb6 6.Qc2 cxd4 7.Nbd2 dxc3 8.Qxc3 Bf5 9.e3 e6 10.Qb3 Bb4 11.a3 Bxd2+ 12.Nxd2 Qxb3 13.Nxb3 e5 14.Bh2 O-O 15.Nc5 b6 16.Nb3 Rac8 17.Bb5 Bc2 18.Nc1 Nd4 19.exd4 exd4 20.O-O Ne4 21.Be5 Nd2 22.Bxd4 Nxf1 23.Bxf1 Rfe8 24.Ne2 Bd3 25.Ng3 Bxf1 26.Nxf1 Rc4 27.Rd1 Re2 28.Ne3 Rc8 29.g4 f6 30.Kf1 Rxe3 31.fxe3 Kf7 32.Kg2 Ke6 33.Kg3 Rc2 34.Rf1 h6 35.Rb1 g5 36.Ra1 f5 37.Rf1 fxg4 38.hxg4 Re2 39.Rf6+ Kd7 40.Rxh6 Re1 41.a4 Rg1+ 42.Kf3 Rf1+ 43.Kg2 Ra1 44.Rh7+ Kc6 45.Rxa7 b5 46.Rg7 bxa4 47.Kf3 Rf1+ 48.Ke2 Rg1 49.Kf3 Rf1+ 50.Kg2 Rd1 51.Rg6+ Kb5 52.Rxg5 Kc4 53.Kf2 Rd2+ 54.Kf3 Rd1 55.Ke2 Rg1 56.Kf2 Rd1 57.Rg8 Rd2+ 58.Kf3 Rd1 59.Kf2 Rd2+ 60.Kf3 Rd1 61.g5 Rg1 62.Ke2 Rg2+ 63.Kf3 Rg1 64.g6 Kb3 65.Kf2 Rg5 66.g7 Rg6 67.Rb8+ Kc2 68.g8=Q Rxg8 69.Rxg8
+Kxb2
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4 Nf6 2.h3 d5 3.Bf4 c5 4.c3 Nc6 5.Nf3 Qb6 6.Qc2 cxd4 7.Nbd2 dxc3 8.Qxc3 Bf5 9.e3 e6 10.Qb3 Bb4 11.a3 Bxd2+ 12.Nxd2 Qxb3 13.Nxb3 e5 14.Bh2 O-O 15.Nc5 b6 16.Nb3 Rac8 17.Bb5 Bc2 18.Nc1 Nd4 19.exd4 exd4 20.O-O Ne4 21.Be5 Nd2 22.Bxd4 Nxf1 23.Bxf1 Rfe8 24.Ne2 Bd3 25.Ng3 Bxf1 26.Nxf1 Rc4 27.Rd1 Re2 28.Ne3 Rc8 29.g4 f6 30.Kf1 Rxe3 31.fxe3 Kf7 32.Kg2 Ke6 33.Kg3 Rc2 34.Rf1 h6 35.Rb1 g5 36.Ra1 f5 37.Rf1 fxg4 38.hxg4 Re2 39.Rf6+ Kd7 40.Rxh6 Re1 41.a4 Rg1+ 42.Kf3 Rf1+ 43.Kg2 Ra1 44.Rh7+ Kc6 45.Rxa7 b5 46.Rg7 bxa4 47.Kf3 Rf1+ 48.Ke2 Rg1 49.Kf3 Rf1+ 50.Kg2 Rd1 51.Rg6+ Kb5 52.Rxg5 Kc4 53.Kf2 Rd2+ 54.Kf3 Rd1 55.Ke2 Rg1 56.Kf2 Rd1 57.Rg8 Rd2+ 58.Kf3 Rd1 59.Kf2 Rd2+ 60.Kf3 Rd1 61.g5 Rg1 62.Ke2 Rg2+ 63.Kf3 Rg1 64.g6 Kb3 65.Kf2 Rg5 66.g7 Rg6 67.Rb8+ Kc2 68.g8=Q Rxg8 69.Rxg8
+Kxb2
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4 Nf6 2.h3 d5 3.Bf4 c5 4.c3 Nc6 5.Nf3 Qb6 6.Qc2 cxd4 7.Nbd2 dxc3 8.Qxc3 Bf5 9.e3 e6 10.Qb3 Bb4 11.a3 Bxd2+ 12.Nxd2 Qxb3 13.Nxb3 e5 14.Bh2 O-O 15.Nc5 b6 16.Nb3 Rac8 17.Bb5 Bc2 18.Nc1 Nd4 19.exd4 exd4 20.O-O Ne4 21.Be5 Nd2 22.Bxd4 Nxf1 23.Bxf1 Rfe8 24.Ne2 Bd3 25.Ng3 Bxf1 26.Nxf1 Rc4 27.Rd1 Re2 28.Ne3 Rc8 29.g4 f6 30.Kf1 Rxe3 31.fxe3 Kf7 32.Kg2 Ke6 33.Kg3 Rc2 34.Rf1 h6 35.Rb1 g5 36.Ra1 f5 37.Rf1 fxg4 38.hxg4 Re2 39.Rf6+ Kd7 40.Rxh6 Re1 41.a4 Rg1+ 42.Kf3 Rf1+ 43.Kg2 Ra1 44.Rh7+ Kc6 45.Rxa7 b5 46.Rg7 bxa4 47.Kf3 Rf1+ 48.Ke2 Rg1 49.Kf3 Rf1+ 50.Kg2 Rd1 51.Rg6+ Kb5 52.Rxg5 Kc4 53.Kf2 Rd2+ 54.Kf3 Rd1 55.Ke2 Rg1 56.Kf2 Rd1 57.Rg8 Rd2+ 58.Kf3 Rd1 59.Kf2 Rd2+ 60.Kf3 Rd1 61.g5 Rg1 62.Ke2 Rg2+ 63.Kf3 Rg1 64.g6 Kb3 65.Kf2 Rg5 66.g7 Rg6 67.Rb8+ Kc2 68.g8=Q Rxg8 69.Rxg8
+Kxb2
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4 Nf6 2.h3 d5 3.Bf4 c5 4.c3 Nc6 5.Nf3 Qb6 6.Qc2 cxd4 7.Nbd2 dxc3 8.Qxc3 Bf5 9.e3 e6 10.Qb3 Bb4 11.a3 Bxd2+ 12.Nxd2 Qxb3 13.Nxb3 e5 14.Bh2 O-O 15.Nc5 b6 16.Nb3 Rac8 17.Bb5 Bc2 18.Nc1 Nd4 19.exd4 exd4 20.O-O Ne4 21.Be5 Nd2 22.Bxd4 Nxf1 23.Bxf1 Rfe8 24.Ne2 Bd3 25.Ng3 Bxf1 26.Nxf1 Rc4 27.Rd1 Re2 28.Ne3 Rc8 29.g4 f6 30.Kf1 Rxe3 31.fxe3 Kf7 32.Kg2 Ke6 33.Kg3 Rc2 34.Rf1 h6 35.Rb1 g5 36.Ra1 f5 37.Rf1 fxg4 38.hxg4 Re2 39.Rf6+ Kd7 40.Rxh6 Re1 41.a4 Rg1+ 42.Kf3 Rf1+ 43.Kg2 Ra1 44.Rh7+ Kc6 45.Rxa7 b5 46.Rg7 bxa4 47.Kf3 Rf1+ 48.Ke2 Rg1 49.Kf3 Rf1+ 50.Kg2 Rd1 51.Rg6+ Kb5 52.Rxg5 Kc4 53.Kf2 Rd2+ 54.Kf3 Rd1 55.Ke2 Rg1 56.Kf2 Rd1 57.Rg8 Rd2+ 58.Kf3 Rd1 59.Kf2 Rd2+ 60.Kf3 Rd1 61.g5 Rg1 62.Ke2 Rg2+ 63.Kf3 Rg1 64.g6 Kb3 65.Kf2 Rg5 66.g7 Rg6 67.Rb8+ Kc2 68.g8=Q Rxg8 69.Rxg8
+Kxb2

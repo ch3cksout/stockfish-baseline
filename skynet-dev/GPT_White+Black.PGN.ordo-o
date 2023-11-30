@@ -1,0 +1,8 @@
+
+   # PLAYER                                                :  RATING  POINTS  PLAYED   (%)
+   1 Stockfish Elo:1800, 2000 ms                           :  1800.0    60.0      90    67
+   2 gpt-3.5-turbo-instruct via Stochastic parrot, <https://github.com/clevcode/skynet-dev>   :  1671.7    30.0      90    33
+
+White advantage = -25.47
+Draw rate (equal opponents) = 4.74 %
+

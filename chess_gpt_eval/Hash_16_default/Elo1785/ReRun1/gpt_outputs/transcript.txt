@@ -1,0 +1,7 @@
+gpt-3.5-turbo-instruct
+
+[White "Magnus Carlsen"]
+[Black "Stockfish"]
+
+1.d4 Nf6 2.g3 g6 3.c4 Bg7 4.Nc3 O-O 5.e3 d6 6.Nge2 e5 7.b3 exd4 8.exd4 Re8 9.h3 c5 10.dxc5 Ne4 11.Nxe4 Rxe4 12.Be3 Bxa1 13.Qxa1 dxc5 14.Bh6 f6 15.Qb2 Nc6 16.Bg2 Re8 17.O-O Be6 18.g4 Qe7 19.Ng3 Nd4 20.Ne4 Rad8 21.Re1 b6 22.Re3 Qf7 23.Bf4 Qg7 24.Nd6 Re7 25.b4 f5 26.Qd2 fxg4 27.bxc5 bxc5 28.Be5 Qf8 29.Rg3 Bf5 30.Bd5+ Ne6 31.hxg4 Bb1 32.Rf3 Bf5 33.Rxf5 gxf5 34.Qg5+ Rg7 35.Bxe6+ Kh8 36.Bxg7+ Qxg7 37.Qxd8+ 1-0
+```

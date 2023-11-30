@@ -1,0 +1,44 @@
+
+File: GPT_White+Black.PGN
+Loading data (2000 games x dot): 
+
+|
+
+Total games                  90
+ - White wins                44
+ - Draws                      4
+ - Black wins                42
+ - Truncated/Discarded        0
+Unique head to head        2.22%
+Reference rating      1800.0 (set to "Stockfish Elo:1800, 2000 ms")
+
+Loose Anchors = none
+Relative Anchors = none
+
+
+players with no games = 0
+players with all wins = 0
+players w/ all losses = 0
+
+Convergence rating calculation (cycle #1)
+
+phase iteration    deviation    resolution
+  0       2     59.239431523      45.61111
+  1       1     40.566348244      41.44208
+  2       1     40.566348244      30.12833
+  3       1     40.566348244      27.38939
+  4       1     40.566348244      24.89944
+  5       3     39.767701373      22.37926
+  6       6     29.997583715      16.87289
+  7       1     23.794754051      15.28524
+  8      10     13.297035428       7.44018
+  9       1     10.246613072       6.71277
+ 10      39      0.665750921       0.37341
+ 11     102      0.000000096       0.00000
+done
+
+White Advantage = -25.5
+Draw Rate (eq.) = 4.7 %
+
+
+done!

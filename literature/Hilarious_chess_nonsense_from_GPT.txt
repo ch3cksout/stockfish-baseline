@@ -1,0 +1,146 @@
+Hilarious chess nonsense from GPT
+https://chat.openai.com/share/90da2fcc-e734-4f34-ad70-f2d1b27361ab
+https://lichess.org/study/zbqHJ4F0/kODs7WYY
+
+	Ch1
+rnbqkbnr/pppppppp/8/8/2B5/8/PPPPPPPP/RN1QK1NR w KQkq - 0 1
+https://lichess.org/editor/rnbqkbnr/pppppppp/8/8/2B5/8/PPPPPPPP/RN1QK1NR_w_KQkq_-_0_1?color=white
+
+
+	...
+	
+Prompted with:
+Describe what is on f7, above
+
+"I apologize for the confusion in my responses. In the corrected position:
+[ASCII drawing of the board as shown]
+I've corrected the position, and there is now no piece on f7. "
+
+	...
+ From folowing up on the previous response (see Chapter 5), with prompt:
+and what is on g6?
+ 
+"In the corrected position:
+[ASCII drawing of the board as shown]
+There is nothing on g6. It's an empty square."
+
+	...
+	FEN	rnbqkbnr/pppppp2/8/8/8/8/PPPPPPPP/RN1QK1NR w KQkq - 0 1
+	PGN:
+[Event "GPT: Hilarious chess nonsense: Chapter 7: whereby ChatGPT dispenses bogus expert evaluation"]
+[Site "\"https://chat.openai.com/share/90da2fcc-e734-4f34-ad70-f2d1b27361ab\""]
+[Result "*"]
+[Annotator "ChatGPT"]
+[UTCDate "2023.11.23"]
+[UTCTime "02:44:13"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[FEN "rnbqkbnr/pppppp2/8/8/8/8/PPPPPPPP/RN1QK1NR w KQkq - 0 1"]
+[SetUp "1"]
+
+ *
+ 
+Evaluate the position above
+
+ChatGPT
+The position above is relatively balanced. Here are some key observations:
+
+White's Advantages:
+
+White has a centralized queen on d4, which exerts influence over the board.
+White has the potential for kingside castling and has more space on the kingside.
+Black's Advantages:
+
+Black has successfully advanced its pawns on the queenside and has control over the c-file.
+Black has pieces developed and can consider kingside castling.
+Imbalances:
+
+The pawn structure is relatively symmetrical in the center, but there are slight differences on the queenside.
+Both sides have their knights and bishops developed.
+Potential Plans:
+
+White may consider reinforcing its central control, completing development, and preparing for kingside play.
+Black might aim to solidify its queenside pawn structure, complete development, and possibly consider kingside counterplay.
+It's important to note that chess positions are dynamic and can change based on future moves. The assessment of a position can also depend on the specific plans and tactics available to each side. If you have a specific move or plan in mind or if there's anything else you'd like to discuss about this position, please let me know!
+
+	...
+[Event "GPT: Hilarious chess nonsense: Chapter 8: miscounting material"]
+[Site "https://chat.openai.com/share/90da2fcc-e734-4f34-ad70-f2d1b27361ab"]
+[Result "*"]
+[UTCDate "2023.11.23"]
+[UTCTime "02:44:13"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[FEN "rnbqkbnr/pppppp2/8/8/8/8/PPPPPPPP/RN1QK1NR w KQkq - 0 1"]
+[SetUp "1"]
+[Annotator "ChatGPT"]
+[Prompt "how about the material for each side?"]
+
+ *
+
+User
+how about the material for each side?
+ChatGPT
+Let's count the material for each side in the current position:
+
+White's Material:
+
+1 king (K)
+1 queen (Q)
+2 rooks (R)
+2 knights (N)
+2 bishops (B)
+8 pawns (P)
+Black's Material:
+
+1 king (k)
+1 queen (q)
+2 rooks (r)
+2 knights (n)
+2 bishops (b)
+7 pawns (p)
+Now, let's evaluate the material balance:
+
+White has a full set of pieces (1 queen, 2 rooks, 2 knights, 2 bishops).
+Black is missing a pawn compared to White.
+In terms of material, White is slightly ahead. However, material is just one aspect of the position, and factors like piece activity, pawn structure, and king safety also play crucial roles in evaluating the overall position. If you have any specific questions or if there's anything else you'd like to discuss, feel free to let me know!
+
+	...
+[Event "Chapter 9: more crazy 'evaluation'"]
+[Site "https://chat.openai.com/share/90da2fcc-e734-4f34-ad70-f2d1b27361ab"]
+[Result "*"]
+[UTCDate "2023.11.23"]
+[UTCTime "02:44:13"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[FEN "rnbqkbnr/pppppp2/6N1/8/8/8/PPPPPPPP/RN1QK1NR w KQkq - 0 1"]
+[SetUp "1"]
+[Annotator "ChatGPT"]
+[Prompt "Place a white Knight on g7 in the board you drew above. Evaluate the position!"]
+
+ *
+
+Prompt: "Place a white Knight on g7 in the board you drew above. Evaluate the position!"
+
+Response: "
+ChatGPT
+Certainly! Placing a white knight on g7 in the corrected position:
+
+plaintext
+[ASCII drawing of the board as shown]
+Evaluation:
+
+White has a significant material advantage with the addition of the knight on g7, putting pressure on the black king.
+Black's pawn structure remains intact, but the position is challenging due to the impending threat of the white knight on g7.
+White has a dominating position and can consider further exploiting the weakened kingside.
+In summary, the position heavily favors White after the addition of the knight on g7. If you have any further questions or if there's anything else you'd like to explore, please let me know!
+"
+
+<iframe width="600" height="371" src="https://lichess.org/study/embed/zbqHJ4F0/qajb65Y0" frameborder=0></iframe>
+
+https://lichess1.org/export/fen.gif?fen=rnbqkbnr%2Fpppppp2%2F6N1%2F8%2F8%2F8%2FPPPPPPPP%2FRN1QK1NR+w+KQkq+-+0+1&color=white&variant=standard&theme=brown&piece=cburnett
+
+

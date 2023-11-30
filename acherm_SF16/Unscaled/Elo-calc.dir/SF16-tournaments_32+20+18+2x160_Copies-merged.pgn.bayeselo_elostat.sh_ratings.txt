@@ -1,0 +1,9 @@
+Rank Name                                               Elo    +    - games score oppo. draws 
+   1 stockfish_16_acherm_handicapped2                 18834    0    0     2  100% 18834    0% 
+   2 stockfish_16_acherm_handicapped                  18834    0    0     2    0% 18834    0% 
+   3 stockfish_16-SL4_UNhandicapped_40_4min            1782   88   76    76   66%  1667    5% 
+   4 stockfish_16-SL4_UNhandicapped_4min+1sec          1779   96   82    64   65%  1671    5% 
+   5 Threads10_stockfish_15.1_Elo1785_40_60,000+600ms  1753   49   47   204   57%  1699    4% 
+   6 stockfish_16-SL4_acherm_handicapped_6000ms        1731   57   55   144   57%  1683    6% 
+   7 stockfish_16-SL4_acherm_handicapped_100ms         1644   55   58   144   41%  1705    6% 
+   8 stockfish_16-SL4_acherm_handicapped_20ms          1557   57   67   144   27%  1727    7% 
